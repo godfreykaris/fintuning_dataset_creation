@@ -1,0 +1,2300 @@
+Deposition:
+Court Reporter: Please state your name for the record.
+Witness: Sarah Miller.
+Court Reporter: And how do you spell your last name, Ms. Miller?
+Witness: M-I-L-L-E-R.
+Mr. Brown: Ms. Miller, are you aware that today's proceedings are a legal deposition and that you are
+under oath to tell the truth, the whole truth, and nothing but the truth?
+Witness: Yes, I am aware.
+Mr. Brown: Thank you. Ms. Miller, were you present at the intersection of Main Street and Maple
+Avenue on July 15th, 2023, at approximately 3:00 pm?
+Witness: Yes, I was. I was waiting at the red light on Maple Avenue, southbound, facing east.
+Mr. Brown: Did you witness any accidents at that intersection at that time?
+Witness: Yes, I did. I saw a car traveling westbound on Main Street, which I believe was a blue sedan, run
+the red light and collide with a car traveling northbound on Maple Avenue, which I believe was a white
+SUV.
+Mr. Brown: Can you describe the collision in more detail?
+Witness: The blue sedan seemed to be traveling at a high speed and didn't slow down or attempt to stop
+at the red light. It hit the white SUV directly on the driver's side. The impact was quite forceful, and both
+cars spun around significantly.
+Mr. Lee: Ms. Miller, you mentioned the blue sedan was traveling at a high speed. How fast would you
+say it was going?
+Witness: It's difficult to say for sure, but it appeared to be going much faster than the posted speed
+limit, which is 35 miles per hour.
+Mr. Lee: Did you see the driver of either vehicle at any point?
+Witness: No, I didn't.
+Mr. Brown: Ms. Miller, did you notice anything unusual about the driver's behavior in the blue sedan
+before the accident?
+Witness: It's hard to say. Everything happened very quickly, but the car did seem to be swerving slightly
+just before the collision.
+Mr. Lee: Ms. Miller, did you call the police or offer assistance to anyone involved in the accident?
+Witness: Yes, I immediately called 911 and stayed at the scene until the police arrived.
+Mr. Brown: Did you speak to anyone else who may have witnessed the accident?
+Witness: Yes, I exchanged information with another driver who was stopped next to me on Maple
+Avenue at the time.
+Mr. Lee: Do you recall the make and model of the other vehicle that you spoke to?
+Witness: I believe it was a silver Toyota Camry, but I'm not entirely sure.
+Mr. Brown: That's all my questions at this time.
+Mr. Lee: I have no further questions
+Summary:
+The excerpt is from a legal deposition of Michael Anderson, who is under oath to tell the truth. Mr.
+Anderson confirms his employment at Acme Corporation as a graphic designer and details his job duties.
+He also confirms receiving positive performance reviews and never facing disciplinary actions. The
+excerpt ends with a question about witnessing or experiencing any discriminatory situations at Acme.
+Deposition:
+Ms. Garcia: Objection, that question calls for legal conclusions from the witness.
+Mr. Thompson: Withdrawn. Mr. Anderson, please describe any specific incidents or instances at Acme
+that involved your [protected category].
+Witness: There were several things that made me feel uncomfortable. During meetings, colleagues often
+talked over me or dismissed my ideas, particularly when compared to my younger male colleagues. I
+was also consistently passed over for promotions despite having experience and qualifications
+comparable to others who got promoted.
+Ms. Garcia: Mr. Anderson, can you be specific about which colleagues treated you this way and provide
+specific examples of situations where these incidents occurred?
+Witness: One specific example would be the marketing campaign for the new product launch in 2023. I
+put significant effort into developing design concepts, but they were ultimately disregarded without any
+explanation. My male colleague's design, which was very similar to mine, was ultimately chosen.
+Mr. Thompson: Did you ever report any of these incidents to your supervisor or anyone else at Acme?
+Witness: I once mentioned feeling undervalued to my supervisor, but they brushed it off, suggesting I
+needed to "work harder to prove myself." I wasn't comfortable bringing it up further after that.
+Mr. Thompson: Did you decide to leave Acme voluntarily, or were you terminated?
+Witness: When they announced another promotion I felt qualified for, but was once again passed over
+without explanation, I decided it was time to find a new position where I felt valued and respected.
+Ms. Garcia: Mr. Anderson, can you confirm that your decision to leave Acme was solely based on not
+receiving the promotion, and not due to other factors like job performance or personal reasons?
+Witness: To the best of my knowledge, yes. It became clear to me that further advancement
+opportunities within the company were unlikely.
+Mr. Thompson: That's all my questions at this time.
+Ms. Garcia: Mr. Anderson, during your time at Acme, did you ever receive any negative performance
+reviews or warnings related to your work performance?
+Witness: No, as mentioned before, my performance reviews were always positive.
+Ms. Garcia: Did you ever attend any diversity and inclusion training offered by Acme during your
+employment?
+Witness: I did participate in the mandatory online training modules, but there weren't any specific
+training sessions related to addressing or reporting potentially discriminatory situations within the
+company.
+Summary
+Michael Anderson details specific incidents supporting his feeling of being undervalued based on his
+protected category. He describes colleagues disregarding his ideas and being passed over for
+promotions despite comparable qualifications. He provides a specific example from the 2023 product
+launch where his design was overlooked in favor of a male colleague's similar work. He mentions
+mentioning his concerns to his supervisor but being discouraged from pursuing them. He clarifies his
+decision to leave Acme was due to the lack of advancement opportunities, not performance or personal
+reasons. Ms. Garcia then establishes that Mr. Anderson's performance was consistently good and that
+he participated in available diversity training while at Acme, though specific training for addressing
+potential discrimination was absent.
+Deposition:
+Ms. Garcia: Mr. Anderson, are you aware of Acme's anti-discrimination policy or how complaints of
+discrimination are addressed within the company?
+Witness: I reviewed the employee handbook, which did explain the existence of an anti-discrimination
+policy. However, I was unsure of the specific complaint process at the time
+Ms. Garcia: Mr. Anderson, can you elaborate on why you felt apprehensive about bringing up these
+incidents to your supervisor despite feeling uncomfortable and undervalued?
+Witness: Honestly, there were a few reasons. Firstly, as I mentioned, when I did hint at feeling
+undervalued to my supervisor, their dismissive response discouraged me from further discussions. It
+seemed like they weren't receptive to hearing about any potential issues.
+Secondly, there was a general company culture that made me hesitant to speak up. Younger male
+colleagues often dominated conversations and presentations, and there weren't many women in senior
+positions within the marketing department. It felt like my voice wouldn't be heard or even worse, that
+bringing forward complaints might lead to retaliation or hinder my career further.
+Ms. Garcia: Did you notice any specific instances of retaliation against other employees who may have
+raised complaints or concerns about work environment issues?
+Witness: While I can't say for sure, there was one colleague, Sarah Lopez, who openly challenged gender
+bias during a department meeting but was subsequently given less desirable project assignments
+compared to her male colleagues. This incident definitely reinforced my concerns about potentially
+facing a similar situation.**
+Mr. Thompson: Objection, speculation about an unrelated case is irrelevant to the present matter.
+Ms. Garcia: Withdrawn. Mr. Anderson, did you ever discuss your concerns about potential bias or lack of
+promotion opportunities with any human resources personnel at Acme?
+Witness: No, I didn't. As I mentioned before, the lack of clarity on the specific complaint process
+combined with the overall culture discouraged me from pursuing that route.
+Ms. Garcia: Mr. Anderson, since leaving Acme, have you sought employment elsewhere?
+Witness: Yes, I am currently employed at a different company and feel much more valued and respected
+in my current role. The work environment is significantly more inclusive, and I regularly receive positive
+feedback and opportunities for professional development.
+Mr. Thompson: Mr. Anderson, how has your experience at Acme impacted you personally and
+professionally?
+Witness: It was definitely a frustrating and discouraging experience. It felt like my hard work and
+qualifications weren't being recognized fairly, leading to some self-doubt and a sense of being
+undervalued. However, finding a new and positive work environment has helped me rebuild my
+confidence and refocus on my career goals.
+Ms. Garcia: I have no further questions.
+Summary
+This segment explores Mr. Anderson's reasons for not formally complaining despite feeling undervalued.
+He reiterates his supervisor's dismissive response and the perceived lack of receptiveness within the
+company culture. He describes a specific instance where a colleague who challenged gender bias faced
+negative consequences, reinforcing his fear of retaliation. He clarifies that he didn't pursue HR due to
+unclear procedures and the discouraging company culture. Finally, he highlights his positive experience
+at a new company, emphasizing feelings of value, inclusion, and professional growth in contrast to his
+experience at Acme. He concludes by acknowledging the frustration and self-doubt from Acme but also
+the positive impact of finding a supportive work environment.
+Deposition
+Mr. Thompson: I have one final question. Mr. Anderson, is there anything else you would like to add
+regarding your experience at Acme Corporation?
+Witness: Just that I hope by sharing my story, it can contribute to fostering a more diverse and inclusive
+work environment at Acme for future employees. Everyone deserves to feel valued and respected in
+their workplace, regardless of their [protected category].
+Mr. Thompson: Interesting point, Mr. Anderson. Ms. Garcia, while you have no further questions, I'd like
+to explore some aspects of Mr. Anderson's experience further before concluding the deposition.
+Ms. Garcia: No objection. Please proceed, Mr. Thompson.
+Mr. Thompson: Mr. Anderson, you mentioned feeling unsure about the specific complaint process at
+Acme. Did you take any steps to learn more about it after your meeting with your supervisor?
+Witness: No, I didn't feel comfortable approaching my supervisor again after their dismissive response.
+Additionally, I recall the employee handbook being quite lengthy, and finding specific information about
+the complaint process proved difficult at the time.
+Mr. Thompson: You mentioned a colleague, Sarah Lopez, who voiced concerns about gender bias. Did
+you ever speak to her directly about her experience and the alleged retaliation she faced?
+Witness: Briefly, yes. We expressed our mutual frustrations and the feeling of being undervalued within
+the department. However, we were both hesitant to pursue any formal complaints due to the
+aforementioned concerns about the company culture and potential retaliation.
+Mr. Thompson: Did you ever discuss the issue of lack of promotion opportunities with any other
+colleagues, particularly women in the marketing department?
+Witness: Not directly. While there were a few women colleagues in the department, none of them were
+in senior positions. The general environment discouraged open communication about potentially
+sensitive topics like discrimination.
+Ms. Garcia: Mr. Thompson, I object to leading the witness. Can you rephrase your question and allow
+Mr. Anderson to answer in his own words?
+Mr. Thompson: Apologies, Ms. Garcia. Mr. Anderson, to clarify, did you have any informal conversations
+with other colleagues about your concerns regarding promotion opportunities or potential gender bias
+within the marketing department at Acme?
+Witness: There weren't any specific discussions about promotions or bias, but the general atmosphere
+around the lack of female representation in senior positions was a frequent topic of quiet observation
+amongst some female colleagues. We felt implicit pressure to work harder and prove ourselves more
+than our male colleagues, but reaching leadership positions seemed like an increasingly distant
+prospect.
+Ms. Garcia: Mr. Anderson, can you elaborate on what kind of "pressure" you felt, and was there any
+specific instance or behavior from colleagues or superiors that made you feel this way?
+Summary
+In the concluding segment, Mr. Anderson expresses hope that his experience can contribute to a more
+inclusive work environment at Acme. Mr. Thompson then delves deeper into specific aspects of Mr.
+Anderson's experience:
+Complaint process: Mr. Anderson cites discomfort following his supervisor's reaction and difficulty
+navigating the lengthy employee handbook as reasons for not seeking further information.
+Colleague's experience: He mentions briefly discussing his frustrations and concerns with Sarah Lopez
+but clarifies their shared hesitation to pursue formal complaints due to company culture concerns.
+Promotion opportunities and gender bias: He explains the lack of open communication about these
+issues and feeling unspoken pressure due to the absence of women in senior positions, though no
+specific discussions on bias occurred.
+Ms. Garcia objects to a leading question about bias, and Mr. Thompson rephrases, allowing Mr.
+Anderson to clarify further. He explains the silent observation among female colleagues of the lack of
+female leadership and the perceived need to overachieve compared to male colleagues. Ms. Garcia
+requests further details about the pressure felt by Mr. Anderson.
+Deposition
+Witness: It wasn't any direct confrontation or statement, but more of a subtle feeling arising from
+observing the lack of female representation in leadership roles combined with certain comments about
+needing to "work harder" or "prove myself" despite my consistent positive performance reviews.
+Mr. Thompson: Thank you, Mr. Anderson. These are valuable insights. Do you have any further
+questions, Ms. Garcia?
+Ms. Garcia: (after reviewing her notes) I have a few follow-up questions for clarification. However, due
+to the time constraints, I would like to schedule a follow-up session at your earliest convenience, Mr.
+Thompson, to continue exploring specific details and potential evidence.
+Mr. Thompson: No objection. Mr. Anderson, are you available for a follow-up session within the next
+week?
+Witness: Yes, I am available. Please let me know the details when you've scheduled it
+Mr. Thompson: Mr. Anderson, since our last session, have you had any time to review Acme
+Corporation's employee handbook pertaining to the complaint process for potential discrimination?
+Witness: Yes, I have.
+Mr. Thompson: Can you briefly describe the steps outlined in the handbook for filing a complaint based
+on potential discrimination?
+Witness: The handbook mentioned employees could submit a written complaint to the Human
+Resources department or verbally report it to an HR representative or any manager. However, specific
+details about the investigation process or resolution options were quite vague.
+Ms. Garcia: Mr. Anderson, did the employee handbook specify who constitutes a "manager" authorized
+to receive such initial verbal complaints?
+Witness: No, it didn't provide any specific details about which managers were included in that definition
+or if all managers were authorized to receive such reports.
+Mr. Thompson: Mr. Anderson, you previously mentioned frustration with receiving similar design
+concepts to yours being chosen over your own work while working at Acme. Do you still have copies of
+these original design concepts and the final versions ultimately used?
+Witness: Unfortunately, I didn't retain individual copies of every design iteration. However, I did
+maintain some preliminary sketches and digital drafts from several projects, including the one discussed
+earlier related to the 2023 product launch campaign.
+Mr. Thompson: Would you be willing to provide these materials as potential evidence in this case?
+Witness: Yes, I can bring them to the next session.
+Ms. Garcia: Mr. Anderson, are you aware of other colleagues who may have retained copies of their
+rejected design projects or drafts during their employment at Acme?
+Witness: I'm not certain, but I remember several colleagues raising concerns about the inconsistent
+feedback and selection process for design concepts. It's possible some of them might have kept records
+for their own reference.
+Mr. Thompson: We will look into that possibility. Mr. Anderson, during your time at Acme, did you ever
+meet or hear about any employees who filed official complaints based on experiencing discrimination?
+Witness: Not officially. As mentioned earlier, there was an underlying lack of transparency and open
+communication around potentially sensitive topics like discrimination. Therefore, it was difficult to know
+for sure.
+Ms. Garcia: Mr. Anderson, did you receive any additional training or workshops related to diversity and
+inclusion since leaving Acme Corporation?
+Witness: Yes, my current employer offers comprehensive training programs and workshops regarding
+diversity and inclusion as part of their ongoing commitment to a fair and equitable work environment.
+Mr. Thompson: Do you find these additional training programs and the overall work environment at
+your current company to be beneficial compared to your experience at Acme?
+Witness: Absolutely. The focus on creating a safe space for open communication, valuing diverse
+perspectives, and providing equal opportunities for growth has been incredibly positive and
+empowering.
+Ms. Garcia: No further questions at this time.
+Mr. Thompson: Mr. Anderson, as mentioned previously, we would like you to bring copies of the design
+materials you retained for the next session. Additionally, I may reach out to inquire about potential
+colleagues who might have kept similar records. Is that alright?
+Witness: That's perfectly fine. Please let me know if you need anything else in the meantime.
+Mr. Thompson: Mr. Anderson, one final question before we adjourn. You mentioned feeling hesitant to
+bring up your concerns to your supervisor after their dismissive response. Did their reaction specifically
+mention any consequences of raising the potential bias issue?
+Witness: Not directly. There wasn't an explicit threat of any sort. However, their dismissive tone and the
+implication that my concerns weren't valid created an atmosphere where I felt further discussion would
+be futile and potentially disadvantageous.
+Ms. Garcia: Objection, speculation about the witness's interpretation of a supervisor's tone is not based
+on facts.
+Mr. Thompson: Reframing, Mr. Anderson. How did your supervisor's response make you feel about the
+potential consequences of reporting your concerns?
+Witness: Their response discouraged me and made me feel unheard. It conveyed the impression that my
+concerns about potential bias wouldn't be taken seriously and could potentially hinder my career
+progression within the company.
+Summary
+The concluding segment addresses further details and sets the stage for a follow-up session:
+Complaint process: Mr. Anderson reviews the handbook and describes the outlined steps for filing a
+complaint, noting the vagueness regarding investigation and resolution. Ms. Garcia highlights the lack of
+clarity on who qualifies as a "manager" authorized to receive initial verbal reports.
+Design concepts: Mr. Anderson clarifies he still possesses some preliminary sketches and drafts,
+including those from the 2023 product launch, and agrees to provide them as potential evidence. Mr.
+Thompson expresses interest in exploring the possibility of other colleagues retaining similar materials.
+Official complaints: Mr. Anderson reiterates the lack of knowledge about any official discrimination
+complaints at Acme due to the previously mentioned culture of secrecy.
+Current company: Mr. Anderson confirms receiving additional diversity and inclusion training at his
+current company. He emphasizes the positive aspects of his new work environment, highlighting open
+communication, valuing diverse perspectives, and equal opportunities, contrasting it with his experience
+at Acme.
+Follow-up: Both parties agree to a follow-up session. Mr. Thompson clarifies his intention to request the
+design materials and potentially contact other colleagues. Ms. Garcia objects to the witness's
+interpretation of his supervisor's tone, leading Mr. Thompson to rephrase the question, to which Mr.
+Anderson reiterates feeling discouraged and unheard, fearing his concerns wouldn't be taken seriously
+and could hinder his career.
+Deposition
+Ms. Garcia: Mr. Thompson, I believe we've covered the essential topics for today. However, as these are
+complex claims, I would appreciate the opportunity to review the transcript and potentially ask further
+questions at a future session, should any need arise.
+Mr. Thompson: No objection. Mr. Anderson, as Ms. Garcia mentioned, we appreciate your willingness to
+cooperate and provide additional materials. We will be in touch to schedule a follow-up session if
+needed.
+Witness: Understood.
+Summary
+The deposition concludes with Ms. Garcia expressing a desire to review the transcript and potentially
+ask further questions in a future session if needed. Mr. Thompson agrees, and both thank Mr. Anderson
+for his cooperation and willingness to provide additional materials. Mr. Anderson acknowledges their
+communication and awaits further information regarding a potential follow-up session.
+Deposition
+MILLER: A driver is obligated to pay attention to the road and yield to other drivers when required. Let
+me take you back to what happened on April 20th, 2022. The Defendant, who was an attorney for the
+IRS, was driving her usual route to work. She drove down Annapolis Road to take a left onto another
+road.
+(Could we have the next slide, please?) She was driving down this road… can everyone see this? She
+stopped at a light on a clear day. While stopped, she reached down to find her parking pass.
+DEFENSE LAWYER: May we approach?
+THE COURT: Yes.
+BENCH CONFERENCE
+(Bench Conference begins – 10:26:39m.)
+(The parties approach the bench for a discussion.)
+THE COURT: By court ruling, liability has been established. The focus of this case is only on damages. I
+understand why we’re discussing these details, but it’s about damages.
+MILLER: I’m setting the scene for the accident because her damages are part of the accident narrative.
+DEFENSE LAWYER: We’re only discussing the fact that an accident happened and a person was injured.
+The details about reaching and negligence seem to be evidence of liability.
+THE COURT: I understand. It’s your opening statement, so I’ll give you some leeway.
+MILLER: I’m just providing context. I’ll be getting into the damages soon.
+THE COURT: Alright.
+(Bench Conference concluded – 10:27:32 m.)
+(The parties return to their places.)
+MILLER: The Defendant heard a horn beep and took a left turn. She didn’t see the Plaintiff, who had the
+right of way, coming from the opposite direction. Due to the collision, the Plaintiff’s ankle was broken
+and required surgery.
+Take a look at these images. The first one shows her ankle before surgery, the second one after surgery.
+Today, she still has 15 screws and three plates in her ankle. She will never be able to run again and
+standing for extended periods of time is difficult.
+We’ve brought this case before you because of the harm caused to the Plaintiff. We needed to agree
+that the Defendant was at fault for the accident, which she has accepted. We also had to understand the
+extent and implications of the Plaintiff’s damages, not just the initial injury and surgery, but also its long-
+term impact on her life.
+To do this, we spoke to her doctors, her husband, her friends, and even her employer. One of her
+doctors is going to talk to you.
+This is the guy to see if something awful like this is going to happen to your ankle. He received an Ivy
+League education and, at one point, was the chief of foot and ankle orthopedic injuries at Johns
+Hopkins. He consults for the Baltimore Orioles. His resume, I want to say, is as long as your arm, but it’s
+actually a lot longer than that.
+We’re going to bring him to talk to you guys, in a very 2023 way. It’s going to be by videotape, so his
+testimony will be by videotape, but it holds the same force as if it was at trial, and he came here to see
+us. And, of course, my partner Laura Zois and the defense attorney had an opportunity to ask him
+questions.
+He’s going to tell you she still has 15 screws and three plates in her ankle holding everything together.
+The problem with that is that it creates a breeding ground for arthritis, and this 33-year-old woman
+already has the signs of arthritis. At some point, she’s going to need what’s called a fusion, which will
+stabilize her ankle. The bad news is, you can’t move it once it locks, so you no longer have the ability to
+bend.
+This trial is about the harms and losses that she has suffered and endured as the result of this accident.
+This is not a case about sympathy. You should not award her damages because you feel sorry for her.
+You’re going to hear about how the accident has impacted her professional and personal life.
+At the time of the crash, they were a very young family. They were an energetic family. This is an active
+family with four kids doing everything you can imagine, Six Flags, the park. They would run together.
+They played basketball together. They traveled everywhere, New York, Baltimore, Washington, DC. They
+were just a very active family.
+And she also had a vibrant social life. She was a hairstylist, and she loved that job. It was her social outlet
+beside her kids. She would do the church choir every Wednesday, and still found times to go out and see
+her family. She’s still fighting with her family, but it’s hard.
+She can’t work as a hairstylist anymore. So what did she do? She went back to school to the University
+of Maryland. She’s working, getting very close to getting her degree. She’s still fighting. She has four kids
+they’re chasing around.
+Let’s go back and talk about how it ended up. Let’s talk about the accident. She had this awful crash and
+needed emergency surgery where they put in these screws. She had a nine-month-old baby, along with
+three other kids. She and the two girls, the younger ones, went to live with her mom. Her mom took
+care of her and the girls, while her husband took care of the other kids.
+This has been a massive disruption to their lives. The accident has completely changed her life, and it’s
+reflected in every facet of her day-to-day. Her job, her family life, her hobbies, everything she used to
+take pleasure in has been impacted in one way or another. And the evidence in this case will show these
+changes are likely to persist for the rest of her life.
+We ask you to consider the totality of these changes, the persistent harm and loss she’s suffered and
+will continue to suffer, as a direct result of the accident. We ask you to consider these when coming to a
+decision in this case.
+This accident, however, led to an upheaval in their lives. About a month after the accident, she managed
+to return home with the kids. Her mother, an FDA employee, took three months off work to care for her,
+her daughter, and her grandchildren. The accident wreaked havoc on their lives.
+She endured six months of rigorous physical therapy and another operation. While it was painful and
+difficult, the effort was worthwhile as it improved her condition, especially her ankle, though we wish
+she had recovered more.
+As we delve into this case, it’s about the harm and losses experienced. We will ask you to make amends
+where possible and provide compensation for the irreparable harm. The damages can be categorized
+into three parts: her medical bills, the post-accident trauma suffered by her and her family, and the pain
+she will endure for the expected next 45 years of her life.
+She was a spontaneous person, fond of making impromptu plans like going to Virginia Beach over the
+weekend or heading to the park. Now, every activity revolves around her ability to reach there, her
+mobility, and whether she can tolerate the pain during the trip. This situation has affected her and her
+four kids, as well as her husband.
+The court wants to clarify that the evidence and testimonies from the witness stand are what will
+control your deliberations. Opening statements and closing arguments of lawyers do not constitute
+evidence.
+This case is not just about the suffering of their children or her husband. It’s about the impact of their
+suffering on her. We will ask you to consider an amount that may seem high at the beginning. But we
+believe that after hearing all the evidence, you’ll find it to be a fair compensation for her losses and
+harm. The amount we suggest is $1.1 million.
+Defense Opening Statement
+Regarding the defendant, they acknowledge the responsibility for the accident and that it was their
+fault. The case is for you to determine the appropriate damages. The injury is severe, and they ask for an
+extraordinary amount of compensation.
+She broke her ankle, which was repaired surgically with plates and screws. There was a second surgery
+due to loosening of the screws, which were then removed. She attended physical therapy, which
+improved her ability to move her ankle. Whether she will need surgery in the future is uncertain.
+The past medical expenses are around $36,505, which we don’t contest. Her lost wages due to the
+accident are around $3,400 to $3,500. These are not the focal points of this case. The main issue is the
+amount to be awarded for non-economic damages, for which we request something fair, reasonable,
+and sensible.
+Thank you for your time and attention, and we hope to conclude this case promptly.
+Testimony of Victim’s Husband
+Mr. Miller: Good morning. Can I have your address?
+SJ: Certainly.
+Mr. Miller: How long have you lived at that address?
+SJ: I bought the house in 2003, so it’s been approximately ten years.
+Mr. Miller: Who lives there with you?
+SJ: My wife, and our four children.
+Mr. Miller: Can you tell the jury how old your children are and their names?
+SJ: Yes. My children are 13, and the others are…
+The Honorable Judge: Please continue.
+SJ: …five, and three.
+Mr. Miller: I understand. And for some background, what do you do for a living?
+SJ: I’m currently the general manager at Oreck Clean Home Center.
+Mr. Miller: And where are these locations?
+SJ: We have six locations in Maryland and Virginia.
+Mr. Miller: What are your responsibilities at work?
+SJ: I oversee all six stores and manage one of them.
+Mr. Miller: Can you describe your work schedule?
+SJ: I work Monday through Saturday, from 10:00 am to 7:00 pm. Often, I work seven days a week which
+means working on Sundays from 12:00 pm to 5:00 pm.
+Mr. Miller: How do you feel about those hours?
+SJ: They are long, but I need to work to support my family.
+Mr. Miller: How long have you known your wife?
+SJ: I met her in 1993, she was my sister’s best friend.
+Mr. Miller: You mean your wife was your sister’s best friend?
+SJ: Yes, I apologize for the confusion. She was indeed my sister’s best friend.
+Mr. Miller: Let’s move to another topic. Do you remember the car accident your wife was in 2022?
+SJ: Yes, I do.
+Mr. Miller: Prior to the accident, can you describe your household?
+SJ: Our household was what I would consider the perfect life. My wife and children were happy and
+always engaged in activities. We used to take vacations and attend family reunions.
+Mr. Miller: Was your wife a spontaneous person or a planner?
+SJ: She was more spontaneous, always ready to take on new activities.
+Mr. Miller: Could you describe her for the jury?
+SJ: She is always happy, loves socializing and helping people. She attended choir rehearsal, Bible study
+every week, and also took care of our four children.
+Mr. Miller: What was her job at the time of the crash?
+SJ: She was the assistant manager of a hair salon.
+Mr. Miller: Did she enjoy her work?
+SJ: Yes, she loved her work. It was part of her identity.
+Mr. Miller: Did your wife’s demeanor change after the car accident?
+SJ: Yes, after the accident everything changed. Our family life and activity level changed significantly. She
+used to take the children to sporting events and practice basketball. Now, she can’t do these activities.
+She no longer goes on family vacations. My two older sons call her “boring” now because of her reduced
+activity level. The accident has restricted her capabilities and as a result, she can’t even do simple tasks
+like carrying laundry baskets or standing up to cook. Our family life has changed drastically since the
+accident.
+Mr. Miller: Has your wife gone back to work since the accident?
+SJ: She tried to help a friend out a couple of months ago at her hair salon, but it ended with her in a lot
+of pain due to the swelling in her ankle.
+Mr. Miller: I have here a picture you received from your wife. Is this the picture she sent you?
+Mr. Miller: Can you tell us how your wife’s personal social life has been affected since the crash?
+SJ: Her social life has indeed changed significantly. Before the accident, she would regularly go out with
+friends, engage in dancing, and other social activities. However, the constant pain and discomfort after
+the crash have made such activities impossible. Her social life is definitely not the same as before.
+Mr. Miller: You mentioned earlier about her job. Was she able to resume work post the crash?
+SJ: She attempted to return to work, but the persistent pain made it unmanageable, particularly the
+long-standing hours. Eventually, she was forced to leave her job.
+Mr. Miller: How has this situation impacted your family’s finances?
+SJ: The impact has been substantial. She held the position of an assistant manager at a hair salon,
+bringing in a significant income. Now, with my single income, managing expenses for our four children
+and her medical bills has been strenuous.
+Mr. Miller: Besides the financial struggle, can you share how your relationship with your wife has
+evolved post the accident?
+SJ: Our relationship has undeniably been affected. She isn’t the same person she was before the crash.
+Her constant pain and fatigue, coupled with frustration, have been hard on both of us.
+Mr. Miller: And your children? How have they been coping with all these changes?
+SJ: Our children have had to make significant adjustments. They miss the mother they had before the
+crash, not understanding why she can’t engage in the activities she used to do with them. My older
+sons, in particular, have had to step up, assisting more with household chores. It’s been a lot for them
+too.
+Mr. Miller: Finally, could you share your hopes for your wife’s future?
+SJ: My biggest hope is for her to find relief from her pain and regain some semblance of normalcy. She
+deserves to live her life, not just endure it. It’s challenging to see such a wonderful person go through
+this. We are taking each day as it comes, hoping for a better future.
+Defense Attorney Cross Examination of Victim’s Husband
+Q: Regarding the foot stretching exercises, you assist her with those?
+A: Yes, I do.
+Q: Looking through her medical records, I noticed there’s mention of an exercise bike at home. Do you
+have one?
+A: Indeed, we do have an exercise bike at home.
+Q: Did she frequently use the exercise bike, especially post-accident?
+A: Initially, during her therapy, they had her try riding the exercise bike.
+Q: Can you tell us what kind of exercises she did at home after the accident?
+A: She was given a chart with exercises, and I’ve been helping her to flex her foot in both directions to
+try and loosen it up.
+Q: How long did this routine last?
+A: Actually, I still assist her with the foot exercises every night.
+Q: So you assist her based on the instructions from the chart?
+A: Not directly from the chart, but I’ve learned the correct angles and try to flex her foot every night for
+her comfort and to aid her sleep.
+Q: Does she drive?
+A: Yes, she does.
+Q: Prior to the accident, she was employed full time?
+A: Yes, that’s correct.
+Q: The jury was informed initially that she was also pursuing a degree?
+A: Yes, she was attending the University of Maryland.
+Q: Did she commute to the university?
+A: At certain points she did, but due to our four children, she primarily takes her classes online now.
+Q: How close is she to obtaining her degree?
+A: She’s expected to graduate within the next year.
+Court: Any redirect?
+Mr. Miller: No further questions, Your Honor.
+Court: Thank you, sir, you may step down. Proceed with your next witness.
+(Witness excused – 11:56:56 a.m.)
+Summary
+The excerpt showcases the husband of the accident victim testifying about the impact of the accident on
+their family life. Here's a concise summary:
+Before the accident:
+The family was described as happy and engaged in activities, including vacations and family reunions.
+The wife was spontaneous, sociable, and involved in various activities like choir, bible study, and caring
+for their four children.
+She enjoyed her work as an assistant manager at a hair salon.
+After the accident:
+The family life and activity level significantly changed.
+The wife's physical limitations restrict her participation in activities like taking children to events, playing
+sports, or going on family vacations.
+Her reduced activity has even affected how their children perceive her, calling her "boring."
+She struggles with simple tasks like carrying laundry or cooking.
+Impact on the family:
+The wife attempted but couldn't return to work due to pain and difficulty managing long hours.
+The financial burden increased significantly with a single income supporting the family and medical bills.
+The strain on the wife due to pain and frustration has impacted their relationship.
+The children have had to adjust and take on more responsibilities, missing their previous active mother.
+Husband's hope for the future:
+He desires for his wife to find pain relief and regain normalcy in her life.
+Defense cross-examination:
+The husband assists with the wife's foot exercises based on instructions from a chart.
+She still drives and is pursuing a degree online while caring for their children.
+She expects to graduate within the next year.
+Deposition:
+Court Reporter: Please state your name for the record.
+Witness: Sarah Miller.
+Court Reporter: And how do you spell your last name, Ms. Miller?
+Witness: M-I-L-L-E-R.
+Mr. Brown: Ms. Miller, are you aware that today's proceedings are a legal deposition and that you are
+under oath to tell the truth, the whole truth, and nothing but the truth?
+Witness: Yes, I am aware.
+Mr. Brown: Thank you. Ms. Miller, were you present at the intersection of Main Street and Maple
+Avenue on July 15th, 2023, at approximately 3:00 pm?
+Witness: Yes, I was. I was waiting at the red light on Maple Avenue, southbound, facing east.
+Mr. Brown: Did you witness any accidents at that intersection at that time?
+Witness: Yes, I did. I saw a car traveling westbound on Main Street, which I believe was a blue sedan, run
+the red light and collide with a car traveling northbound on Maple Avenue, which I believe was a white
+SUV.
+Mr. Brown: Can you describe the collision in more detail?
+Witness: The blue sedan seemed to be traveling at a high speed and didn't slow down or attempt to stop
+at the red light. It hit the white SUV directly on the driver's side. The impact was quite forceful, and both
+cars spun around significantly.
+Mr. Lee: Ms. Miller, you mentioned the blue sedan was traveling at a high speed. How fast would you
+say it was going?
+Witness: It's difficult to say for sure, but it appeared to be going much faster than the posted speed
+limit, which is 35 miles per hour.
+Mr. Lee: Did you see the driver of either vehicle at any point?
+Witness: No, I didn't.
+Mr. Brown: Ms. Miller, did you notice anything unusual about the driver's behavior in the blue sedan
+before the accident?
+Witness: It's hard to say. Everything happened very quickly, but the car did seem to be swerving slightly
+just before the collision.
+Mr. Lee: Ms. Miller, did you call the police or offer assistance to anyone involved in the accident?
+Witness: Yes, I immediately called 911 and stayed at the scene until the police arrived.
+Mr. Brown: Did you speak to anyone else who may have witnessed the accident?
+Witness: Yes, I exchanged information with another driver who was stopped next to me on Maple
+Avenue at the time.
+Mr. Lee: Do you recall the make and model of the other vehicle that you spoke to?
+Witness: I believe it was a silver Toyota Camry, but I'm not entirely sure.
+Mr. Brown: That's all my questions at this time.
+Mr. Lee: I have no further questions
+Summary:
+The excerpt is from a legal deposition of Michael Anderson, who is under oath to tell the truth. Mr.
+Anderson confirms his employment at Acme Corporation as a graphic designer and details his job duties.
+He also confirms receiving positive performance reviews and never facing disciplinary actions. The
+excerpt ends with a question about witnessing or experiencing any discriminatory situations at Acme.
+Deposition:
+Ms. Garcia: Objection, that question calls for legal conclusions from the witness.
+Mr. Thompson: Withdrawn. Mr. Anderson, please describe any specific incidents or instances at Acme
+that involved your [protected category].
+Witness: There were several things that made me feel uncomfortable. During meetings, colleagues often
+talked over me or dismissed my ideas, particularly when compared to my younger male colleagues. I
+was also consistently passed over for promotions despite having experience and qualifications
+comparable to others who got promoted.
+Ms. Garcia: Mr. Anderson, can you be specific about which colleagues treated you this way and provide
+specific examples of situations where these incidents occurred?
+Witness: One specific example would be the marketing campaign for the new product launch in 2023. I
+put significant effort into developing design concepts, but they were ultimately disregarded without any
+explanation. My male colleague's design, which was very similar to mine, was ultimately chosen.
+Mr. Thompson: Did you ever report any of these incidents to your supervisor or anyone else at Acme?
+Witness: I once mentioned feeling undervalued to my supervisor, but they brushed it off, suggesting I
+needed to "work harder to prove myself." I wasn't comfortable bringing it up further after that.
+Mr. Thompson: Did you decide to leave Acme voluntarily, or were you terminated?
+Witness: When they announced another promotion I felt qualified for, but was once again passed over
+without explanation, I decided it was time to find a new position where I felt valued and respected.
+Ms. Garcia: Mr. Anderson, can you confirm that your decision to leave Acme was solely based on not
+receiving the promotion, and not due to other factors like job performance or personal reasons?
+Witness: To the best of my knowledge, yes. It became clear to me that further advancement
+opportunities within the company were unlikely.
+Mr. Thompson: That's all my questions at this time.
+Ms. Garcia: Mr. Anderson, during your time at Acme, did you ever receive any negative performance
+reviews or warnings related to your work performance?
+Witness: No, as mentioned before, my performance reviews were always positive.
+Ms. Garcia: Did you ever attend any diversity and inclusion training offered by Acme during your
+employment?
+Witness: I did participate in the mandatory online training modules, but there weren't any specific
+training sessions related to addressing or reporting potentially discriminatory situations within the
+company.
+Summary
+Michael Anderson details specific incidents supporting his feeling of being undervalued based on his
+protected category. He describes colleagues disregarding his ideas and being passed over for
+promotions despite comparable qualifications. He provides a specific example from the 2023 product
+launch where his design was overlooked in favor of a male colleague's similar work. He mentions
+mentioning his concerns to his supervisor but being discouraged from pursuing them. He clarifies his
+decision to leave Acme was due to the lack of advancement opportunities, not performance or personal
+reasons. Ms. Garcia then establishes that Mr. Anderson's performance was consistently good and that
+he participated in available diversity training while at Acme, though specific training for addressing
+potential discrimination was absent.
+Deposition:
+Ms. Garcia: Mr. Anderson, are you aware of Acme's anti-discrimination policy or how complaints of
+discrimination are addressed within the company?
+Witness: I reviewed the employee handbook, which did explain the existence of an anti-discrimination
+policy. However, I was unsure of the specific complaint process at the time
+Ms. Garcia: Mr. Anderson, can you elaborate on why you felt apprehensive about bringing up these
+incidents to your supervisor despite feeling uncomfortable and undervalued?
+Witness: Honestly, there were a few reasons. Firstly, as I mentioned, when I did hint at feeling
+undervalued to my supervisor, their dismissive response discouraged me from further discussions. It
+seemed like they weren't receptive to hearing about any potential issues.
+Secondly, there was a general company culture that made me hesitant to speak up. Younger male
+colleagues often dominated conversations and presentations, and there weren't many women in senior
+positions within the marketing department. It felt like my voice wouldn't be heard or even worse, that
+bringing forward complaints might lead to retaliation or hinder my career further.
+Ms. Garcia: Did you notice any specific instances of retaliation against other employees who may have
+raised complaints or concerns about work environment issues?
+Witness: While I can't say for sure, there was one colleague, Sarah Lopez, who openly challenged gender
+bias during a department meeting but was subsequently given less desirable project assignments
+compared to her male colleagues. This incident definitely reinforced my concerns about potentially
+facing a similar situation.**
+Mr. Thompson: Objection, speculation about an unrelated case is irrelevant to the present matter.
+Ms. Garcia: Withdrawn. Mr. Anderson, did you ever discuss your concerns about potential bias or lack of
+promotion opportunities with any human resources personnel at Acme?
+Witness: No, I didn't. As I mentioned before, the lack of clarity on the specific complaint process
+combined with the overall culture discouraged me from pursuing that route.
+Ms. Garcia: Mr. Anderson, since leaving Acme, have you sought employment elsewhere?
+Witness: Yes, I am currently employed at a different company and feel much more valued and respected
+in my current role. The work environment is significantly more inclusive, and I regularly receive positive
+feedback and opportunities for professional development.
+Mr. Thompson: Mr. Anderson, how has your experience at Acme impacted you personally and
+professionally?
+Witness: It was definitely a frustrating and discouraging experience. It felt like my hard work and
+qualifications weren't being recognized fairly, leading to some self-doubt and a sense of being
+undervalued. However, finding a new and positive work environment has helped me rebuild my
+confidence and refocus on my career goals.
+Ms. Garcia: I have no further questions.
+Summary
+This segment explores Mr. Anderson's reasons for not formally complaining despite feeling undervalued.
+He reiterates his supervisor's dismissive response and the perceived lack of receptiveness within the
+company culture. He describes a specific instance where a colleague who challenged gender bias faced
+negative consequences, reinforcing his fear of retaliation. He clarifies that he didn't pursue HR due to
+unclear procedures and the discouraging company culture. Finally, he highlights his positive experience
+at a new company, emphasizing feelings of value, inclusion, and professional growth in contrast to his
+experience at Acme. He concludes by acknowledging the frustration and self-doubt from Acme but also
+the positive impact of finding a supportive work environment.
+Deposition
+Mr. Thompson: I have one final question. Mr. Anderson, is there anything else you would like to add
+regarding your experience at Acme Corporation?
+Witness: Just that I hope by sharing my story, it can contribute to fostering a more diverse and inclusive
+work environment at Acme for future employees. Everyone deserves to feel valued and respected in
+their workplace, regardless of their [protected category].
+Mr. Thompson: Interesting point, Mr. Anderson. Ms. Garcia, while you have no further questions, I'd like
+to explore some aspects of Mr. Anderson's experience further before concluding the deposition.
+Ms. Garcia: No objection. Please proceed, Mr. Thompson.
+Mr. Thompson: Mr. Anderson, you mentioned feeling unsure about the specific complaint process at
+Acme. Did you take any steps to learn more about it after your meeting with your supervisor?
+Witness: No, I didn't feel comfortable approaching my supervisor again after their dismissive response.
+Additionally, I recall the employee handbook being quite lengthy, and finding specific information about
+the complaint process proved difficult at the time.
+Mr. Thompson: You mentioned a colleague, Sarah Lopez, who voiced concerns about gender bias. Did
+you ever speak to her directly about her experience and the alleged retaliation she faced?
+Witness: Briefly, yes. We expressed our mutual frustrations and the feeling of being undervalued within
+the department. However, we were both hesitant to pursue any formal complaints due to the
+aforementioned concerns about the company culture and potential retaliation.
+Mr. Thompson: Did you ever discuss the issue of lack of promotion opportunities with any other
+colleagues, particularly women in the marketing department?
+Witness: Not directly. While there were a few women colleagues in the department, none of them were
+in senior positions. The general environment discouraged open communication about potentially
+sensitive topics like discrimination.
+Ms. Garcia: Mr. Thompson, I object to leading the witness. Can you rephrase your question and allow
+Mr. Anderson to answer in his own words?
+Mr. Thompson: Apologies, Ms. Garcia. Mr. Anderson, to clarify, did you have any informal conversations
+with other colleagues about your concerns regarding promotion opportunities or potential gender bias
+within the marketing department at Acme?
+Witness: There weren't any specific discussions about promotions or bias, but the general atmosphere
+around the lack of female representation in senior positions was a frequent topic of quiet observation
+amongst some female colleagues. We felt implicit pressure to work harder and prove ourselves more
+than our male colleagues, but reaching leadership positions seemed like an increasingly distant
+prospect.
+Ms. Garcia: Mr. Anderson, can you elaborate on what kind of "pressure" you felt, and was there any
+specific instance or behavior from colleagues or superiors that made you feel this way?
+Summary
+In the concluding segment, Mr. Anderson expresses hope that his experience can contribute to a more
+inclusive work environment at Acme. Mr. Thompson then delves deeper into specific aspects of Mr.
+Anderson's experience:
+Complaint process: Mr. Anderson cites discomfort following his supervisor's reaction and difficulty
+navigating the lengthy employee handbook as reasons for not seeking further information.
+Colleague's experience: He mentions briefly discussing his frustrations and concerns with Sarah Lopez
+but clarifies their shared hesitation to pursue formal complaints due to company culture concerns.
+Promotion opportunities and gender bias: He explains the lack of open communication about these
+issues and feeling unspoken pressure due to the absence of women in senior positions, though no
+specific discussions on bias occurred.
+Ms. Garcia objects to a leading question about bias, and Mr. Thompson rephrases, allowing Mr.
+Anderson to clarify further. He explains the silent observation among female colleagues of the lack of
+female leadership and the perceived need to overachieve compared to male colleagues. Ms. Garcia
+requests further details about the pressure felt by Mr. Anderson.
+Deposition
+Witness: It wasn't any direct confrontation or statement, but more of a subtle feeling arising from
+observing the lack of female representation in leadership roles combined with certain comments about
+needing to "work harder" or "prove myself" despite my consistent positive performance reviews.
+Mr. Thompson: Thank you, Mr. Anderson. These are valuable insights. Do you have any further
+questions, Ms. Garcia?
+Ms. Garcia: (after reviewing her notes) I have a few follow-up questions for clarification. However, due
+to the time constraints, I would like to schedule a follow-up session at your earliest convenience, Mr.
+Thompson, to continue exploring specific details and potential evidence.
+Mr. Thompson: No objection. Mr. Anderson, are you available for a follow-up session within the next
+week?
+Witness: Yes, I am available. Please let me know the details when you've scheduled it
+Mr. Thompson: Mr. Anderson, since our last session, have you had any time to review Acme
+Corporation's employee handbook pertaining to the complaint process for potential discrimination?
+Witness: Yes, I have.
+Mr. Thompson: Can you briefly describe the steps outlined in the handbook for filing a complaint based
+on potential discrimination?
+Witness: The handbook mentioned employees could submit a written complaint to the Human
+Resources department or verbally report it to an HR representative or any manager. However, specific
+details about the investigation process or resolution options were quite vague.
+Ms. Garcia: Mr. Anderson, did the employee handbook specify who constitutes a "manager" authorized
+to receive such initial verbal complaints?
+Witness: No, it didn't provide any specific details about which managers were included in that definition
+or if all managers were authorized to receive such reports.
+Mr. Thompson: Mr. Anderson, you previously mentioned frustration with receiving similar design
+concepts to yours being chosen over your own work while working at Acme. Do you still have copies of
+these original design concepts and the final versions ultimately used?
+Witness: Unfortunately, I didn't retain individual copies of every design iteration. However, I did
+maintain some preliminary sketches and digital drafts from several projects, including the one discussed
+earlier related to the 2023 product launch campaign.
+Mr. Thompson: Would you be willing to provide these materials as potential evidence in this case?
+Witness: Yes, I can bring them to the next session.
+Ms. Garcia: Mr. Anderson, are you aware of other colleagues who may have retained copies of their
+rejected design projects or drafts during their employment at Acme?
+Witness: I'm not certain, but I remember several colleagues raising concerns about the inconsistent
+feedback and selection process for design concepts. It's possible some of them might have kept records
+for their own reference.
+Mr. Thompson: We will look into that possibility. Mr. Anderson, during your time at Acme, did you ever
+meet or hear about any employees who filed official complaints based on experiencing discrimination?
+Witness: Not officially. As mentioned earlier, there was an underlying lack of transparency and open
+communication around potentially sensitive topics like discrimination. Therefore, it was difficult to know
+for sure.
+Ms. Garcia: Mr. Anderson, did you receive any additional training or workshops related to diversity and
+inclusion since leaving Acme Corporation?
+Witness: Yes, my current employer offers comprehensive training programs and workshops regarding
+diversity and inclusion as part of their ongoing commitment to a fair and equitable work environment.
+Mr. Thompson: Do you find these additional training programs and the overall work environment at
+your current company to be beneficial compared to your experience at Acme?
+Witness: Absolutely. The focus on creating a safe space for open communication, valuing diverse
+perspectives, and providing equal opportunities for growth has been incredibly positive and
+empowering.
+Ms. Garcia: No further questions at this time.
+Mr. Thompson: Mr. Anderson, as mentioned previously, we would like you to bring copies of the design
+materials you retained for the next session. Additionally, I may reach out to inquire about potential
+colleagues who might have kept similar records. Is that alright?
+Witness: That's perfectly fine. Please let me know if you need anything else in the meantime.
+Mr. Thompson: Mr. Anderson, one final question before we adjourn. You mentioned feeling hesitant to
+bring up your concerns to your supervisor after their dismissive response. Did their reaction specifically
+mention any consequences of raising the potential bias issue?
+Witness: Not directly. There wasn't an explicit threat of any sort. However, their dismissive tone and the
+implication that my concerns weren't valid created an atmosphere where I felt further discussion would
+be futile and potentially disadvantageous.
+Ms. Garcia: Objection, speculation about the witness's interpretation of a supervisor's tone is not based
+on facts.
+Mr. Thompson: Reframing, Mr. Anderson. How did your supervisor's response make you feel about the
+potential consequences of reporting your concerns?
+Witness: Their response discouraged me and made me feel unheard. It conveyed the impression that my
+concerns about potential bias wouldn't be taken seriously and could potentially hinder my career
+progression within the company.
+Summary
+The concluding segment addresses further details and sets the stage for a follow-up session:
+Complaint process: Mr. Anderson reviews the handbook and describes the outlined steps for filing a
+complaint, noting the vagueness regarding investigation and resolution. Ms. Garcia highlights the lack of
+clarity on who qualifies as a "manager" authorized to receive initial verbal reports.
+Design concepts: Mr. Anderson clarifies he still possesses some preliminary sketches and drafts,
+including those from the 2023 product launch, and agrees to provide them as potential evidence. Mr.
+Thompson expresses interest in exploring the possibility of other colleagues retaining similar materials.
+Official complaints: Mr. Anderson reiterates the lack of knowledge about any official discrimination
+complaints at Acme due to the previously mentioned culture of secrecy.
+Current company: Mr. Anderson confirms receiving additional diversity and inclusion training at his
+current company. He emphasizes the positive aspects of his new work environment, highlighting open
+communication, valuing diverse perspectives, and equal opportunities, contrasting it with his experience
+at Acme.
+Follow-up: Both parties agree to a follow-up session. Mr. Thompson clarifies his intention to request the
+design materials and potentially contact other colleagues. Ms. Garcia objects to the witness's
+interpretation of his supervisor's tone, leading Mr. Thompson to rephrase the question, to which Mr.
+Anderson reiterates feeling discouraged and unheard, fearing his concerns wouldn't be taken seriously
+and could hinder his career.
+Deposition
+Ms. Garcia: Mr. Thompson, I believe we've covered the essential topics for today. However, as these are
+complex claims, I would appreciate the opportunity to review the transcript and potentially ask further
+questions at a future session, should any need arise.
+Mr. Thompson: No objection. Mr. Anderson, as Ms. Garcia mentioned, we appreciate your willingness to
+cooperate and provide additional materials. We will be in touch to schedule a follow-up session if
+needed.
+Witness: Understood.
+Summary
+The deposition concludes with Ms. Garcia expressing a desire to review the transcript and potentially
+ask further questions in a future session if needed. Mr. Thompson agrees, and both thank Mr. Anderson
+for his cooperation and willingness to provide additional materials. Mr. Anderson acknowledges their
+communication and awaits further information regarding a potential follow-up session.
+Deposition
+MILLER: A driver is obligated to pay attention to the road and yield to other drivers when required. Let
+me take you back to what happened on April 20th, 2022. The Defendant, who was an attorney for the
+IRS, was driving her usual route to work. She drove down Annapolis Road to take a left onto another
+road.
+(Could we have the next slide, please?) She was driving down this road… can everyone see this? She
+stopped at a light on a clear day. While stopped, she reached down to find her parking pass.
+DEFENSE LAWYER: May we approach?
+THE COURT: Yes.
+BENCH CONFERENCE
+(Bench Conference begins – 10:26:39m.)
+(The parties approach the bench for a discussion.)
+THE COURT: By court ruling, liability has been established. The focus of this case is only on damages. I
+understand why we’re discussing these details, but it’s about damages.
+MILLER: I’m setting the scene for the accident because her damages are part of the accident narrative.
+DEFENSE LAWYER: We’re only discussing the fact that an accident happened and a person was injured.
+The details about reaching and negligence seem to be evidence of liability.
+THE COURT: I understand. It’s your opening statement, so I’ll give you some leeway.
+MILLER: I’m just providing context. I’ll be getting into the damages soon.
+THE COURT: Alright.
+(Bench Conference concluded – 10:27:32 m.)
+(The parties return to their places.)
+MILLER: The Defendant heard a horn beep and took a left turn. She didn’t see the Plaintiff, who had the
+right of way, coming from the opposite direction. Due to the collision, the Plaintiff’s ankle was broken
+and required surgery.
+Take a look at these images. The first one shows her ankle before surgery, the second one after surgery.
+Today, she still has 15 screws and three plates in her ankle. She will never be able to run again and
+standing for extended periods of time is difficult.
+We’ve brought this case before you because of the harm caused to the Plaintiff. We needed to agree
+that the Defendant was at fault for the accident, which she has accepted. We also had to understand the
+extent and implications of the Plaintiff’s damages, not just the initial injury and surgery, but also its long-
+term impact on her life.
+To do this, we spoke to her doctors, her husband, her friends, and even her employer. One of her
+doctors is going to talk to you.
+This is the guy to see if something awful like this is going to happen to your ankle. He received an Ivy
+League education and, at one point, was the chief of foot and ankle orthopedic injuries at Johns
+Hopkins. He consults for the Baltimore Orioles. His resume, I want to say, is as long as your arm, but it’s
+actually a lot longer than that.
+We’re going to bring him to talk to you guys, in a very 2023 way. It’s going to be by videotape, so his
+testimony will be by videotape, but it holds the same force as if it was at trial, and he came here to see
+us. And, of course, my partner Laura Zois and the defense attorney had an opportunity to ask him
+questions.
+He’s going to tell you she still has 15 screws and three plates in her ankle holding everything together.
+The problem with that is that it creates a breeding ground for arthritis, and this 33-year-old woman
+already has the signs of arthritis. At some point, she’s going to need what’s called a fusion, which will
+stabilize her ankle. The bad news is, you can’t move it once it locks, so you no longer have the ability to
+bend.
+This trial is about the harms and losses that she has suffered and endured as the result of this accident.
+This is not a case about sympathy. You should not award her damages because you feel sorry for her.
+You’re going to hear about how the accident has impacted her professional and personal life.
+At the time of the crash, they were a very young family. They were an energetic family. This is an active
+family with four kids doing everything you can imagine, Six Flags, the park. They would run together.
+They played basketball together. They traveled everywhere, New York, Baltimore, Washington, DC. They
+were just a very active family.
+And she also had a vibrant social life. She was a hairstylist, and she loved that job. It was her social outlet
+beside her kids. She would do the church choir every Wednesday, and still found times to go out and see
+her family. She’s still fighting with her family, but it’s hard.
+She can’t work as a hairstylist anymore. So what did she do? She went back to school to the University
+of Maryland. She’s working, getting very close to getting her degree. She’s still fighting. She has four kids
+they’re chasing around.
+Let’s go back and talk about how it ended up. Let’s talk about the accident. She had this awful crash and
+needed emergency surgery where they put in these screws. She had a nine-month-old baby, along with
+three other kids. She and the two girls, the younger ones, went to live with her mom. Her mom took
+care of her and the girls, while her husband took care of the other kids.
+This has been a massive disruption to their lives. The accident has completely changed her life, and it’s
+reflected in every facet of her day-to-day. Her job, her family life, her hobbies, everything she used to
+take pleasure in has been impacted in one way or another. And the evidence in this case will show these
+changes are likely to persist for the rest of her life.
+We ask you to consider the totality of these changes, the persistent harm and loss she’s suffered and
+will continue to suffer, as a direct result of the accident. We ask you to consider these when coming to a
+decision in this case.
+This accident, however, led to an upheaval in their lives. About a month after the accident, she managed
+to return home with the kids. Her mother, an FDA employee, took three months off work to care for her,
+her daughter, and her grandchildren. The accident wreaked havoc on their lives.
+She endured six months of rigorous physical therapy and another operation. While it was painful and
+difficult, the effort was worthwhile as it improved her condition, especially her ankle, though we wish
+she had recovered more.
+As we delve into this case, it’s about the harm and losses experienced. We will ask you to make amends
+where possible and provide compensation for the irreparable harm. The damages can be categorized
+into three parts: her medical bills, the post-accident trauma suffered by her and her family, and the pain
+she will endure for the expected next 45 years of her life.
+She was a spontaneous person, fond of making impromptu plans like going to Virginia Beach over the
+weekend or heading to the park. Now, every activity revolves around her ability to reach there, her
+mobility, and whether she can tolerate the pain during the trip. This situation has affected her and her
+four kids, as well as her husband.
+The court wants to clarify that the evidence and testimonies from the witness stand are what will
+control your deliberations. Opening statements and closing arguments of lawyers do not constitute
+evidence.
+This case is not just about the suffering of their children or her husband. It’s about the impact of their
+suffering on her. We will ask you to consider an amount that may seem high at the beginning. But we
+believe that after hearing all the evidence, you’ll find it to be a fair compensation for her losses and
+harm. The amount we suggest is $1.1 million.
+Defense Opening Statement
+Regarding the defendant, they acknowledge the responsibility for the accident and that it was their
+fault. The case is for you to determine the appropriate damages. The injury is severe, and they ask for an
+extraordinary amount of compensation.
+She broke her ankle, which was repaired surgically with plates and screws. There was a second surgery
+due to loosening of the screws, which were then removed. She attended physical therapy, which
+improved her ability to move her ankle. Whether she will need surgery in the future is uncertain.
+The past medical expenses are around $36,505, which we don’t contest. Her lost wages due to the
+accident are around $3,400 to $3,500. These are not the focal points of this case. The main issue is the
+amount to be awarded for non-economic damages, for which we request something fair, reasonable,
+and sensible.
+Thank you for your time and attention, and we hope to conclude this case promptly.
+Testimony of Victim’s Husband
+Mr. Miller: Good morning. Can I have your address?
+SJ: Certainly.
+Mr. Miller: How long have you lived at that address?
+SJ: I bought the house in 2003, so it’s been approximately ten years.
+Mr. Miller: Who lives there with you?
+SJ: My wife, and our four children.
+Mr. Miller: Can you tell the jury how old your children are and their names?
+SJ: Yes. My children are 13, and the others are…
+The Honorable Judge: Please continue.
+SJ: …five, and three.
+Mr. Miller: I understand. And for some background, what do you do for a living?
+SJ: I’m currently the general manager at Oreck Clean Home Center.
+Mr. Miller: And where are these locations?
+SJ: We have six locations in Maryland and Virginia.
+Mr. Miller: What are your responsibilities at work?
+SJ: I oversee all six stores and manage one of them.
+Mr. Miller: Can you describe your work schedule?
+SJ: I work Monday through Saturday, from 10:00 am to 7:00 pm. Often, I work seven days a week which
+means working on Sundays from 12:00 pm to 5:00 pm.
+Mr. Miller: How do you feel about those hours?
+SJ: They are long, but I need to work to support my family.
+Mr. Miller: How long have you known your wife?
+SJ: I met her in 1993, she was my sister’s best friend.
+Mr. Miller: You mean your wife was your sister’s best friend?
+SJ: Yes, I apologize for the confusion. She was indeed my sister’s best friend.
+Mr. Miller: Let’s move to another topic. Do you remember the car accident your wife was in 2022?
+SJ: Yes, I do.
+Mr. Miller: Prior to the accident, can you describe your household?
+SJ: Our household was what I would consider the perfect life. My wife and children were happy and
+always engaged in activities. We used to take vacations and attend family reunions.
+Mr. Miller: Was your wife a spontaneous person or a planner?
+SJ: She was more spontaneous, always ready to take on new activities.
+Mr. Miller: Could you describe her for the jury?
+SJ: She is always happy, loves socializing and helping people. She attended choir rehearsal, Bible study
+every week, and also took care of our four children.
+Mr. Miller: What was her job at the time of the crash?
+SJ: She was the assistant manager of a hair salon.
+Mr. Miller: Did she enjoy her work?
+SJ: Yes, she loved her work. It was part of her identity.
+Mr. Miller: Did your wife’s demeanor change after the car accident?
+SJ: Yes, after the accident everything changed. Our family life and activity level changed significantly. She
+used to take the children to sporting events and practice basketball. Now, she can’t do these activities.
+She no longer goes on family vacations. My two older sons call her “boring” now because of her reduced
+activity level. The accident has restricted her capabilities and as a result, she can’t even do simple tasks
+like carrying laundry baskets or standing up to cook. Our family life has changed drastically since the
+accident.
+Mr. Miller: Has your wife gone back to work since the accident?
+SJ: She tried to help a friend out a couple of months ago at her hair salon, but it ended with her in a lot
+of pain due to the swelling in her ankle.
+Mr. Miller: I have here a picture you received from your wife. Is this the picture she sent you?
+Mr. Miller: Can you tell us how your wife’s personal social life has been affected since the crash?
+SJ: Her social life has indeed changed significantly. Before the accident, she would regularly go out with
+friends, engage in dancing, and other social activities. However, the constant pain and discomfort after
+the crash have made such activities impossible. Her social life is definitely not the same as before.
+Mr. Miller: You mentioned earlier about her job. Was she able to resume work post the crash?
+SJ: She attempted to return to work, but the persistent pain made it unmanageable, particularly the
+long-standing hours. Eventually, she was forced to leave her job.
+Mr. Miller: How has this situation impacted your family’s finances?
+SJ: The impact has been substantial. She held the position of an assistant manager at a hair salon,
+bringing in a significant income. Now, with my single income, managing expenses for our four children
+and her medical bills has been strenuous.
+Mr. Miller: Besides the financial struggle, can you share how your relationship with your wife has
+evolved post the accident?
+SJ: Our relationship has undeniably been affected. She isn’t the same person she was before the crash.
+Her constant pain and fatigue, coupled with frustration, have been hard on both of us.
+Mr. Miller: And your children? How have they been coping with all these changes?
+SJ: Our children have had to make significant adjustments. They miss the mother they had before the
+crash, not understanding why she can’t engage in the activities she used to do with them. My older
+sons, in particular, have had to step up, assisting more with household chores. It’s been a lot for them
+too.
+Mr. Miller: Finally, could you share your hopes for your wife’s future?
+SJ: My biggest hope is for her to find relief from her pain and regain some semblance of normalcy. She
+deserves to live her life, not just endure it. It’s challenging to see such a wonderful person go through
+this. We are taking each day as it comes, hoping for a better future.
+Defense Attorney Cross Examination of Victim’s Husband
+Q: Regarding the foot stretching exercises, you assist her with those?
+A: Yes, I do.
+Q: Looking through her medical records, I noticed there’s mention of an exercise bike at home. Do you
+have one?
+A: Indeed, we do have an exercise bike at home.
+Q: Did she frequently use the exercise bike, especially post-accident?
+A: Initially, during her therapy, they had her try riding the exercise bike.
+Q: Can you tell us what kind of exercises she did at home after the accident?
+A: She was given a chart with exercises, and I’ve been helping her to flex her foot in both directions to
+try and loosen it up.
+Q: How long did this routine last?
+A: Actually, I still assist her with the foot exercises every night.
+Q: So you assist her based on the instructions from the chart?
+A: Not directly from the chart, but I’ve learned the correct angles and try to flex her foot every night for
+her comfort and to aid her sleep.
+Q: Does she drive?
+A: Yes, she does.
+Q: Prior to the accident, she was employed full time?
+A: Yes, that’s correct.
+Q: The jury was informed initially that she was also pursuing a degree?
+A: Yes, she was attending the University of Maryland.
+Q: Did she commute to the university?
+A: At certain points she did, but due to our four children, she primarily takes her classes online now.
+Q: How close is she to obtaining her degree?
+A: She’s expected to graduate within the next year.
+Court: Any redirect?
+Mr. Miller: No further questions, Your Honor.
+Court: Thank you, sir, you may step down. Proceed with your next witness.
+(Witness excused – 11:56:56 a.m.)
+Summary
+The excerpt showcases the husband of the accident victim testifying about the impact of the accident on
+their family life. Here's a concise summary:
+Before the accident:
+The family was described as happy and engaged in activities, including vacations and family reunions.
+The wife was spontaneous, sociable, and involved in various activities like choir, bible study, and caring
+for their four children.
+She enjoyed her work as an assistant manager at a hair salon.
+After the accident:
+The family life and activity level significantly changed.
+The wife's physical limitations restrict her participation in activities like taking children to events, playing
+sports, or going on family vacations.
+Her reduced activity has even affected how their children perceive her, calling her "boring."
+She struggles with simple tasks like carrying laundry or cooking.
+Impact on the family:
+The wife attempted but couldn't return to work due to pain and difficulty managing long hours.
+The financial burden increased significantly with a single income supporting the family and medical bills.
+The strain on the wife due to pain and frustration has impacted their relationship.
+The children have had to adjust and take on more responsibilities, missing their previous active mother.
+Husband's hope for the future:
+He desires for his wife to find pain relief and regain normalcy in her life.
+Defense cross-examination:
+The husband assists with the wife's foot exercises based on instructions from a chart.
+She still drives and is pursuing a degree online while caring for their children.
+She expects to graduate within the next year.
+Deposition:
+
+Court Reporter: Please state your name for the record.
+
+Witness: Sarah Miller.
+
+Court Reporter: And how do you spell your last name, Ms. Miller?
+Witness: M-I-L-L-E-R.
+
+Mr. Brown: Ms. Miller, are you aware that today's proceedings are a legal deposition and that you are
+under oath to tell the truth, the whole truth, and nothing but the truth?
+
+Witness: Yes, | am aware.
+
+Mr. Brown: Thank you. Ms. Miller, were you present at the intersection of Main Street and Maple
+Avenue on July 15th, 2023, at approximately 3:00 pm?
+
+Witness: Yes, | was. | was waiting at the red light on Maple Avenue, southbound, facing east.
+Mr. Brown: Did you witness any accidents at that intersection at that time?
+
+Witness: Yes, | did. | saw a car traveling westbound on Main Street, which | believe was a blue sedan, run
+the red light and collide with a car traveling northbound on Maple Avenue, which | believe was a white
+SUV.
+
+Mr. Brown: Can you describe the collision in more detail?
+
+Witness: The blue sedan seemed to be traveling at a high speed and didn't slow down or attempt to stop
+at the red light. It hit the white SUV directly on the driver's side. The impact was quite forceful, and both
+cars spun around significantly.
+
+Mr. Lee: Ms. Miller, you mentioned the blue sedan was traveling at a high speed. How fast would you
+say it was going?
+
+Witness: It's difficult to say for sure, but it appeared to be going much faster than the posted speed
+limit, which is 35 miles per hour.
+
+Mr. Lee: Did you see the driver of either vehicle at any point?
+Witness: No, | didn't.
+
+Mr. Brown: Ms. Miller, did you notice anything unusual about the driver's behavior in the blue sedan
+before the accident?
+
+Witness: It's hard to say. Everything happened very quickly, but the car did seem to be swerving slightly
+just before the collision.
+
+Mr. Lee: Ms. Miller, did you call the police or offer assistance to anyone involved in the accident?
+Witness: Yes, | immediately called 911 and stayed at the scene until the police arrived.
+
+Mr. Brown: Did you speak to anyone else who may have witnessed the accident?
+Witness: Yes, | exchanged information with another driver who was stopped next to me on Maple
+Avenue at the time.
+
+Mr. Lee: Do you recall the make and model of the other vehicle that you spoke to?
+Witness: | believe it was a silver Toyota Camry, but I'm not entirely sure.
+
+Mr. Brown: That's all my questions at this time.
+
+Mr. Lee: | have no further questions
+
+Summary:
+
+The excerpt is from a legal deposition of Michael Anderson, who is under oath to tell the truth. Mr.
+Anderson confirms his employment at Acme Corporation as a graphic designer and details his job duties.
+He also confirms receiving positive performance reviews and never facing disciplinary actions. The
+excerpt ends with a question about witnessing or experiencing any discriminatory situations at Acme.
+Deposition:
+Ms. Garcia: Objection, that question calls for legal conclusions from the witness.
+
+Mr. Thompson: Withdrawn. Mr. Anderson, please describe any specific incidents or instances at Acme
+that involved your [protected category].
+
+Witness: There were several things that made me feel uncomfortable. During meetings, colleagues often
+talked over me or dismissed my ideas, particularly when compared to my younger male colleagues. |
+was also consistently passed over for promotions despite having experience and qualifications
+comparable to others who got promoted.
+
+Ms. Garcia: Mr. Anderson, can you be specific about which colleagues treated you this way and provide
+specific examples of situations where these incidents occurred?
+
+Witness: One specific example would be the marketing campaign for the new product launch in 2023. |
+put significant effort into developing design concepts, but they were ultimately disregarded without any
+explanation. My male colleague's design, which was very similar to mine, was ultimately chosen.
+
+Mr. Thompson: Did you ever report any of these incidents to your supervisor or anyone else at Acme?
+
+Witness: | once mentioned feeling undervalued to my supervisor, but they brushed it off, suggesting |
+needed to "work harder to prove myself." | wasn't comfortable bringing it up further after that.
+
+Mr. Thompson: Did you decide to leave Acme voluntarily, or were you terminated?
+
+Witness: When they announced another promotion | felt qualified for, but was once again passed over
+without explanation, | decided it was time to find a new position where | felt valued and respected.
+
+Ms. Garcia: Mr. Anderson, can you confirm that your decision to leave Acme was solely based on not
+receiving the promotion, and not due to other factors like job performance or personal reasons?
+
+Witness: To the best of my knowledge, yes. It became clear to me that further advancement
+opportunities within the company were unlikely.
+
+Mr. Thompson: That's all my questions at this time.
+
+Ms. Garcia: Mr. Anderson, during your time at Acme, did you ever receive any negative performance
+reviews or warnings related to your work performance?
+
+Witness: No, as mentioned before, my performance reviews were always positive.
+
+Ms. Garcia: Did you ever attend any diversity and inclusion training offered by Acme during your
+employment?
+
+Witness: | did participate in the mandatory online training modules, but there weren't any specific
+training sessions related to addressing or reporting potentially discriminatory situations within the
+company.
+
+Summary
+Michael Anderson details specific incidents supporting his feeling of being undervalued based on his
+protected category. He describes colleagues disregarding his ideas and being passed over for
+promotions despite comparable qualifications. He provides a specific example from the 2023 product
+launch where his design was overlooked in favor of a male colleague's similar work. He mentions
+mentioning his concerns to his supervisor but being discouraged from pursuing them. He clarifies his
+decision to leave Acme was due to the lack of advancement opportunities, not performance or personal
+reasons. Ms. Garcia then establishes that Mr. Anderson's performance was consistently good and that
+he participated in available diversity training while at Acme, though specific training for addressing
+potential discrimination was absent.
+
+Deposition:
+
+Ms. Garcia: Mr. Anderson, are you aware of Acme's anti-discrimination policy or how complaints of
+discrimination are addressed within the company?
+
+Witness: | reviewed the employee handbook, which did explain the existence of an anti-discrimination
+policy. However, | was unsure of the specific complaint process at the time
+
+Ms. Garcia: Mr. Anderson, can you elaborate on why you felt apprehensive about bringing up these
+incidents to your supervisor despite feeling uncomfortable and undervalued?
+
+Witness: Honestly, there were a few reasons. Firstly, as | mentioned, when | did hint at feeling
+undervalued to my supervisor, their dismissive response discouraged me from further discussions. It
+seemed like they weren't receptive to hearing about any potential issues.
+
+Secondly, there was a general company culture that made me hesitant to speak up. Younger male
+colleagues often dominated conversations and presentations, and there weren't many women in senior
+positions within the marketing department. It felt like my voice wouldn't be heard or even worse, that
+bringing forward complaints might lead to retaliation or hinder my career further.
+
+Ms. Garcia: Did you notice any specific instances of retaliation against other employees who may have
+raised complaints or concerns about work environment issues?
+
+Witness: While | can't say for sure, there was one colleague, Sarah Lopez, who openly challenged gender
+bias during a department meeting but was subsequently given less desirable project assignments
+compared to her male colleagues. This incident definitely reinforced my concerns about potentially
+facing a similar situation.**
+
+Mr. Thompson: Objection, speculation about an unrelated case is irrelevant to the present matter.
+
+Ms. Garcia: Withdrawn. Mr. Anderson, did you ever discuss your concerns about potential bias or lack of
+promotion opportunities with any human resources personnel at Acme?
+
+Witness: No, | didn't. As | mentioned before, the lack of clarity on the specific complaint process
+combined with the overall culture discouraged me from pursuing that route.
+
+Ms. Garcia: Mr. Anderson, since leaving Acme, have you sought employment elsewhere?
+Witness: Yes, |am currently employed at a different company and feel much more valued and respected
+in my current role. The work environment is significantly more inclusive, and | regularly receive positive
+feedback and opportunities for professional development.
+
+Mr. Thompson: Mr. Anderson, how has your experience at Acme impacted you personally and
+professionally?
+
+Witness: It was definitely a frustrating and discouraging experience. It felt like my hard work and
+qualifications weren't being recognized fairly, leading to some self-doubt and a sense of being
+undervalued. However, finding a new and positive work environment has helped me rebuild my
+confidence and refocus on my career goals.
+
+Ms. Garcia: | have no further questions.
+
+Summary
+
+This segment explores Mr. Anderson's reasons for not formally complaining despite feeling undervalued.
+He reiterates his supervisor's dismissive response and the perceived lack of receptiveness within the
+company culture. He describes a specific instance where a colleague who challenged gender bias faced
+negative consequences, reinforcing his fear of retaliation. He clarifies that he didn't pursue HR due to
+unclear procedures and the discouraging company culture. Finally, he highlights his positive experience
+at anew company, emphasizing feelings of value, inclusion, and professional growth in contrast to his
+experience at Acme. He concludes by acknowledging the frustration and self-doubt from Acme but also
+the positive impact of finding a supportive work environment.
+
+Deposition
+
+Mr. Thompson: | have one final question. Mr. Anderson, is there anything else you would like to add
+regarding your experience at Acme Corporation?
+
+Witness: Just that | hope by sharing my story, it can contribute to fostering a more diverse and inclusive
+work environment at Acme for future employees. Everyone deserves to feel valued and respected in
+their workplace, regardless of their [protected category].
+
+Mr. Thompson: Interesting point, Mr. Anderson. Ms. Garcia, while you have no further questions, I'd like
+to explore some aspects of Mr. Anderson's experience further before concluding the deposition.
+
+Ms. Garcia: No objection. Please proceed, Mr. Thompson.
+
+Mr. Thompson: Mr. Anderson, you mentioned feeling unsure about the specific complaint process at
+Acme. Did you take any steps to learn more about it after your meeting with your supervisor?
+
+Witness: No, | didn't feel comfortable approaching my supervisor again after their dismissive response.
+Additionally, | recall the employee handbook being quite lengthy, and finding specific information about
+the complaint process proved difficult at the time.
+Mr. Thompson: You mentioned a colleague, Sarah Lopez, who voiced concerns about gender bias. Did
+you ever speak to her directly about her experience and the alleged retaliation she faced?
+
+Witness: Briefly, yes. We expressed our mutual frustrations and the feeling of being undervalued within
+the department. However, we were both hesitant to pursue any formal complaints due to the
+aforementioned concerns about the company culture and potential retaliation.
+
+Mr. Thompson: Did you ever discuss the issue of lack of promotion opportunities with any other
+colleagues, particularly women in the marketing department?
+
+Witness: Not directly. While there were a few women colleagues in the department, none of them were
+in senior positions. The general environment discouraged open communication about potentially
+sensitive topics like discrimination.
+
+Ms. Garcia: Mr. Thompson, | object to leading the witness. Can you rephrase your question and allow
+Mr. Anderson to answer in his own words?
+
+Mr. Thompson: Apologies, Ms. Garcia. Mr. Anderson, to clarify, did you have any informal conversations
+with other colleagues about your concerns regarding promotion opportunities or potential gender bias
+within the marketing department at Acme?
+
+Witness: There weren't any specific discussions about promotions or bias, but the general atmosphere
+around the lack of female representation in senior positions was a frequent topic of quiet observation
+amongst some female colleagues. We felt implicit pressure to work harder and prove ourselves more
+than our male colleagues, but reaching leadership positions seemed like an increasingly distant
+prospect.
+
+Ms. Garcia: Mr. Anderson, can you elaborate on what kind of "pressure" you felt, and was there any
+specific instance or behavior from colleagues or superiors that made you feel this way?
+
+Summary
+
+In the concluding segment, Mr. Anderson expresses hope that his experience can contribute to a more
+inclusive work environment at Acme. Mr. Thompson then delves deeper into specific aspects of Mr.
+Anderson's experience:
+
+Complaint process: Mr. Anderson cites discomfort following his supervisor's reaction and difficulty
+navigating the lengthy employee handbook as reasons for not seeking further information.
+
+Colleague's experience: He mentions briefly discussing his frustrations and concerns with Sarah Lopez
+but clarifies their shared hesitation to pursue formal complaints due to company culture concerns.
+
+Promotion opportunities and gender bias: He explains the lack of open communication about these
+issues and feeling unspoken pressure due to the absence of women in senior positions, though no
+specific discussions on bias occurred.
+
+Ms. Garcia objects to a leading question about bias, and Mr. Thompson rephrases, allowing Mr.
+Anderson to clarify further. He explains the silent observation among female colleagues of the lack of
+female leadership and the perceived need to overachieve compared to male colleagues. Ms. Garcia
+requests further details about the pressure felt by Mr. Anderson.
+
+Deposition
+
+Witness: It wasn't any direct confrontation or statement, but more of a subtle feeling arising from
+observing the lack of female representation in leadership roles combined with certain comments about
+needing to "work harder" or "prove myself" despite my consistent positive performance reviews.
+
+Mr. Thompson: Thank you, Mr. Anderson. These are valuable insights. Do you have any further
+questions, Ms. Garcia?
+
+Ms. Garcia: (after reviewing her notes) | have a few follow-up questions for clarification. However, due
+to the time constraints, | would like to schedule a follow-up session at your earliest convenience, Mr.
+Thompson, to continue exploring specific details and potential evidence.
+
+Mr. Thompson: No objection. Mr. Anderson, are you available for a follow-up session within the next
+week?
+
+Witness: Yes, | am available. Please let me know the details when you've scheduled it
+
+Mr. Thompson: Mr. Anderson, since our last session, have you had any time to review Acme
+Corporation's employee handbook pertaining to the complaint process for potential discrimination?
+
+Witness: Yes, | have.
+
+Mr. Thompson: Can you briefly describe the steps outlined in the handbook for filing a complaint based
+on potential discrimination?
+
+Witness: The handbook mentioned employees could submit a written complaint to the Human
+Resources department or verbally report it to an HR representative or any manager. However, specific
+details about the investigation process or resolution options were quite vague.
+
+Ms. Garcia: Mr. Anderson, did the employee handbook specify who constitutes a "manager" authorized
+to receive such initial verbal complaints?
+
+Witness: No, it didn't provide any specific details about which managers were included in that definition
+or if all managers were authorized to receive such reports.
+
+Mr. Thompson: Mr. Anderson, you previously mentioned frustration with receiving similar design
+concepts to yours being chosen over your own work while working at Acme. Do you still have copies of
+these original design concepts and the final versions ultimately used?
+
+Witness: Unfortunately, | didn't retain individual copies of every design iteration. However, | did
+maintain some preliminary sketches and digital drafts from several projects, including the one discussed
+earlier related to the 2023 product launch campaign.
+
+Mr. Thompson: Would you be willing to provide these materials as potential evidence in this case?
+
+Witness: Yes, | can bring them to the next session.
+Ms. Garcia: Mr. Anderson, are you aware of other colleagues who may have retained copies of their
+rejected design projects or drafts during their employment at Acme?
+
+Witness: I'm not certain, but | remember several colleagues raising concerns about the inconsistent
+feedback and selection process for design concepts. It's possible some of them might have kept records
+for their own reference.
+
+Mr. Thompson: We will look into that possibility. Mr. Anderson, during your time at Acme, did you ever
+meet or hear about any employees who filed official complaints based on experiencing discrimination?
+
+Witness: Not officially. As mentioned earlier, there was an underlying lack of transparency and open
+communication around potentially sensitive topics like discrimination. Therefore, it was difficult to know
+for sure.
+
+Ms. Garcia: Mr. Anderson, did you receive any additional training or workshops related to diversity and
+inclusion since leaving Acme Corporation?
+
+Witness: Yes, my current employer offers comprehensive training programs and workshops regarding
+diversity and inclusion as part of their ongoing commitment to a fair and equitable work environment.
+
+Mr. Thompson: Do you find these additional training programs and the overall work environment at
+your current company to be beneficial compared to your experience at Acme?
+
+Witness: Absolutely. The focus on creating a safe space for open communication, valuing diverse
+perspectives, and providing equal opportunities for growth has been incredibly positive and
+empowering.
+
+Ms. Garcia: No further questions at this time.
+
+Mr. Thompson: Mr. Anderson, as mentioned previously, we would like you to bring copies of the design
+materials you retained for the next session. Additionally, | may reach out to inquire about potential
+colleagues who might have kept similar records. Is that alright?
+
+Witness: That's perfectly fine. Please let me know if you need anything else in the meantime.
+
+Mr. Thompson: Mr. Anderson, one final question before we adjourn. You mentioned feeling hesitant to
+bring up your concerns to your supervisor after their dismissive response. Did their reaction specifically
+mention any consequences of raising the potential bias issue?
+
+Witness: Not directly. There wasn't an explicit threat of any sort. However, their dismissive tone and the
+implication that my concerns weren't valid created an atmosphere where | felt further discussion would
+be futile and potentially disadvantageous.
+
+Ms. Garcia: Objection, speculation about the witness's interpretation of a supervisor's tone is not based
+on facts.
+
+Mr. Thompson: Reframing, Mr. Anderson. How did your supervisor's response make you feel about the
+potential consequences of reporting your concerns?
+Witness: Their response discouraged me and made me feel unheard. It conveyed the impression that my
+concerns about potential bias wouldn't be taken seriously and could potentially hinder my career
+progression within the company.
+
+Summary
+
+The concluding segment addresses further details and sets the stage for a follow-up session:
+
+Complaint process: Mr. Anderson reviews the handbook and describes the outlined steps for filing a
+complaint, noting the vagueness regarding investigation and resolution. Ms. Garcia highlights the lack of
+clarity on who qualifies as a "manager" authorized to receive initial verbal reports.
+
+Design concepts: Mr. Anderson clarifies he still possesses some preliminary sketches and drafts,
+including those from the 2023 product launch, and agrees to provide them as potential evidence. Mr.
+Thompson expresses interest in exploring the possibility of other colleagues retaining similar materials.
+
+Official complaints: Mr. Anderson reiterates the lack of knowledge about any official discrimination
+complaints at Acme due to the previously mentioned culture of secrecy.
+
+Current company: Mr. Anderson confirms receiving additional diversity and inclusion training at his
+current company. He emphasizes the positive aspects of his new work environment, highlighting open
+communication, valuing diverse perspectives, and equal opportunities, contrasting it with his experience
+at Acme.
+
+Follow-up: Both parties agree to a follow-up session. Mr. Thompson clarifies his intention to request the
+design materials and potentially contact other colleagues. Ms. Garcia objects to the witness's
+interpretation of his supervisor's tone, leading Mr. Thompson to rephrase the question, to which Mr.
+Anderson reiterates feeling discouraged and unheard, fearing his concerns wouldn't be taken seriously
+and could hinder his career.
+
+Deposition
+
+Ms. Garcia: Mr. Thompson, | believe we've covered the essential topics for today. However, as these are
+complex claims, | would appreciate the opportunity to review the transcript and potentially ask further
+questions at a future session, should any need arise.
+
+Mr. Thompson: No objection. Mr. Anderson, as Ms. Garcia mentioned, we appreciate your willingness to
+cooperate and provide additional materials. We will be in touch to schedule a follow-up session if
+needed.
+
+Witness: Understood.
+Summary
+
+The deposition concludes with Ms. Garcia expressing a desire to review the transcript and potentially
+ask further questions in a future session if needed. Mr. Thompson agrees, and both thank Mr. Anderson
+for his cooperation and willingness to provide additional materials. Mr. Anderson acknowledges their
+communication and awaits further information regarding a potential follow-up session.
+Deposition
+
+MILLER: A driver is obligated to pay attention to the road and yield to other drivers when required. Let
+me take you back to what happened on April 20th, 2022. The Defendant, who was an attorney for the
+IRS, was driving her usual route to work. She drove down Annapolis Road to take a left onto another
+road.
+
+(Could we have the next slide, please?) She was driving down this road... can everyone see this? She
+stopped at a light on a clear day. While stopped, she reached down to find her parking pass.
+
+DEFENSE LAWYER: May we approach?
+
+THE COURT: Yes.
+
+BENCH CONFERENCE
+
+(Bench Conference begins — 10:26:39m.)
+
+(The parties approach the bench for a discussion.)
+
+THE COURT: By court ruling, liability has been established. The focus of this case is only on damages. |
+understand why we’re discussing these details, but it’s about damages.
+
+MILLER: I’m setting the scene for the accident because her damages are part of the accident narrative.
+
+DEFENSE LAWYER: We’re only discussing the fact that an accident happened and a person was injured.
+The details about reaching and negligence seem to be evidence of liability.
+
+THE COURT: | understand. It’s your opening statement, so I'll give you some leeway.
+MILLER: I’m just providing context. I’ll be getting into the damages soon.
+
+THE COURT: Alright.
+
+(Bench Conference concluded — 10:27:32 m.)
+
+(The parties return to their places.)
+
+MILLER: The Defendant heard a horn beep and took a left turn. She didn’t see the Plaintiff, who had the
+right of way, coming from the opposite direction. Due to the collision, the Plaintiffs ankle was broken
+and required surgery.
+
+Take a look at these images. The first one shows her ankle before surgery, the second one after surgery.
+Today, she still has 15 screws and three plates in her ankle. She will never be able to run again and
+standing for extended periods of time is difficult.
+
+We’ve brought this case before you because of the harm caused to the Plaintiff. We needed to agree
+that the Defendant was at fault for the accident, which she has accepted. We also had to understand the
+extent and implications of the Plaintiff’s damages, not just the initial injury and surgery, but also its long-
+term impact on her life.
+
+To do this, we spoke to her doctors, her husband, her friends, and even her employer. One of her
+doctors is going to talk to you.
+This is the guy to see if something awful like this is going to happen to your ankle. He received an Ivy
+League education and, at one point, was the chief of foot and ankle orthopedic injuries at Johns
+Hopkins. He consults for the Baltimore Orioles. His resume, | want to say, is as long as your arm, but it’s
+actually a lot longer than that.
+
+We’re going to bring him to talk to you guys, in a very 2023 way. It’s going to be by videotape, so his
+testimony will be by videotape, but it holds the same force as if it was at trial, and he came here to see
+us. And, of course, my partner Laura Zois and the defense attorney had an opportunity to ask him
+questions.
+
+He’s going to tell you she still has 15 screws and three plates in her ankle holding everything together.
+The problem with that is that it creates a breeding ground for arthritis, and this 33-year-old woman
+already has the signs of arthritis. At some point, she’s going to need what’s called a fusion, which will
+stabilize her ankle. The bad news is, you can’t move it once it locks, so you no longer have the ability to
+bend.
+
+This trial is about the harms and losses that she has suffered and endured as the result of this accident.
+This is not a case about sympathy. You should not award her damages because you feel sorry for her.
+You’re going to hear about how the accident has impacted her professional and personal life.
+
+At the time of the crash, they were a very young family. They were an energetic family. This is an active
+family with four kids doing everything you can imagine, Six Flags, the park. They would run together.
+They played basketball together. They traveled everywhere, New York, Baltimore, Washington, DC. They
+were just a very active family.
+
+And she also had a vibrant social life. She was a hairstylist, and she loved that job. It was her social outlet
+beside her kids. She would do the church choir every Wednesday, and still found times to go out and see
+her family. She’s still fighting with her family, but it’s hard.
+
+She can’t work as a hairstylist anymore. So what did she do? She went back to school to the University
+of Maryland. She’s working, getting very close to getting her degree. She’s still fighting. She has four kids
+they’re chasing around.
+
+Let’s go back and talk about how it ended up. Let’s talk about the accident. She had this awful crash and
+needed emergency surgery where they put in these screws. She had a nine-month-old baby, along with
+three other kids. She and the two girls, the younger ones, went to live with her mom. Her mom took
+care of her and the girls, while her husband took care of the other kids.
+
+This has been a massive disruption to their lives. The accident has completely changed her life, and it’s
+reflected in every facet of her day-to-day. Her job, her family life, her hobbies, everything she used to
+take pleasure in has been impacted in one way or another. And the evidence in this case will show these
+changes are likely to persist for the rest of her life.
+
+We ask you to consider the totality of these changes, the persistent harm and loss she’s suffered and
+will continue to suffer, as a direct result of the accident. We ask you to consider these when coming to a
+decision in this case.
+This accident, however, led to an upheaval in their lives. About a month after the accident, she managed
+to return home with the kids. Her mother, an FDA employee, took three months off work to care for her,
+her daughter, and her grandchildren. The accident wreaked havoc on their lives.
+
+She endured six months of rigorous physical therapy and another operation. While it was painful and
+difficult, the effort was worthwhile as it improved her condition, especially her ankle, though we wish
+she had recovered more.
+
+As we delve into this case, it’s about the harm and losses experienced. We will ask you to make amends
+where possible and provide compensation for the irreparable harm. The damages can be categorized
+into three parts: her medical bills, the post-accident trauma suffered by her and her family, and the pain
+she will endure for the expected next 45 years of her life.
+
+She was a spontaneous person, fond of making impromptu plans like going to Virginia Beach over the
+weekend or heading to the park. Now, every activity revolves around her ability to reach there, her
+mobility, and whether she can tolerate the pain during the trip. This situation has affected her and her
+four kids, as well as her husband.
+
+The court wants to clarify that the evidence and testimonies from the witness stand are what will
+control your deliberations. Opening statements and closing arguments of lawyers do not constitute
+evidence.
+
+This case is not just about the suffering of their children or her husband. It’s about the impact of their
+suffering on her. We will ask you to consider an amount that may seem high at the beginning. But we
+believe that after hearing all the evidence, you’ll find it to be a fair compensation for her losses and
+harm. The amount we suggest is $1.1 million.
+
+Defense Opening Statement
+
+Regarding the defendant, they acknowledge the responsibility for the accident and that it was their
+fault. The case is for you to determine the appropriate damages. The injury is severe, and they ask for an
+extraordinary amount of compensation.
+
+She broke her ankle, which was repaired surgically with plates and screws. There was a second surgery
+due to loosening of the screws, which were then removed. She attended physical therapy, which
+improved her ability to move her ankle. Whether she will need surgery in the future is uncertain.
+
+The past medical expenses are around $36,505, which we don’t contest. Her lost wages due to the
+accident are around $3,400 to $3,500. These are not the focal points of this case. The main issue is the
+amount to be awarded for non-economic damages, for which we request something fair, reasonable,
+and sensible.
+
+Thank you for your time and attention, and we hope to conclude this case promptly.
+Testimony of Victim’s Husband
+
+Mr. Miller: Good morning. Can | have your address?
+
+SJ: Certainly.
+
+Mr. Miller: How long have you lived at that address?
+SJ: | bought the house in 2003, so it’s been approximately ten years.
+
+Mr. Miller: Who lives there with you?
+
+SJ: My wife, and our four children.
+
+Mr. Miller: Can you tell the jury how old your children are and their names?
+SJ: Yes. My children are 13, and the others are...
+
+The Honorable Judge: Please continue.
+
+SJ: ...five, and three.
+
+Mr. Miller: | understand. And for some background, what do you do for a living?
+SJ: I’m currently the general manager at Oreck Clean Home Center.
+
+Mr. Miller: And where are these locations?
+
+SJ: We have six locations in Maryland and Virginia.
+
+Mr. Miller: What are your responsibilities at work?
+
+SJ: | oversee all six stores and manage one of them.
+
+Mr. Miller: Can you describe your work schedule?
+
+SJ: | work Monday through Saturday, from 10:00 am to 7:00 pm. Often, | work seven days a week which
+means working on Sundays from 12:00 pm to 5:00 pm.
+
+Mr. Miller: How do you feel about those hours?
+
+SJ: They are long, but | need to work to support my family.
+
+Mr. Miller: How long have you known your wife?
+
+SJ: | met her in 1993, she was my sister’s best friend.
+
+Mr. Miller: You mean your wife was your sister’s best friend?
+
+SJ: Yes, | apologize for the confusion. She was indeed my sister’s best friend.
+
+Mr. Miller: Let’s move to another topic. Do you remember the car accident your wife was in 2022?
+SJ: Yes, | do.
+
+Mr. Miller: Prior to the accident, can you describe your household?
+
+SJ: Our household was what | would consider the perfect life. My wife and children were happy and
+always engaged in activities. We used to take vacations and attend family reunions.
+
+Mr. Miller: Was your wife a spontaneous person or a planner?
+
+SJ: She was more spontaneous, always ready to take on new activities.
+Mr. Miller: Could you describe her for the jury?
+
+SJ: She is always happy, loves socializing and helping people. She attended choir rehearsal, Bible study
+every week, and also took care of our four children.
+
+Mr. Miller: What was her job at the time of the crash?
+
+SJ: She was the assistant manager of a hair salon.
+
+Mr. Miller: Did she enjoy her work?
+
+SJ: Yes, she loved her work. It was part of her identity.
+
+Mr. Miller: Did your wife’s demeanor change after the car accident?
+
+SJ: Yes, after the accident everything changed. Our family life and activity level changed significantly. She
+used to take the children to sporting events and practice basketball. Now, she can’t do these activities.
+She no longer goes on family vacations. My two older sons call her “boring” now because of her reduced
+activity level. The accident has restricted her capabilities and as a result, she can’t even do simple tasks
+like carrying laundry baskets or standing up to cook. Our family life has changed drastically since the
+accident.
+
+Mr. Miller: Has your wife gone back to work since the accident?
+
+SJ: She tried to help a friend out a couple of months ago at her hair salon, but it ended with her in a lot
+of pain due to the swelling in her ankle.
+
+Mr. Miller: | have here a picture you received from your wife. Is this the picture she sent you?
+Mr. Miller: Can you tell us how your wife’s personal social life has been affected since the crash?
+
+SJ: Her social life has indeed changed significantly. Before the accident, she would regularly go out with
+friends, engage in dancing, and other social activities. However, the constant pain and discomfort after
+the crash have made such activities impossible. Her social life is definitely not the same as before.
+
+Mr. Miller: You mentioned earlier about her job. Was she able to resume work post the crash?
+
+SJ: She attempted to return to work, but the persistent pain made it unmanageable, particularly the
+long-standing hours. Eventually, she was forced to leave her job.
+
+Mr. Miller: How has this situation impacted your family’s finances?
+
+SJ: The impact has been substantial. She held the position of an assistant manager at a hair salon,
+bringing in a significant income. Now, with my single income, managing expenses for our four children
+and her medical bills has been strenuous.
+
+Mr. Miller: Besides the financial struggle, can you share how your relationship with your wife has
+evolved post the accident?
+
+SJ: Our relationship has undeniably been affected. She isn’t the same person she was before the crash.
+Her constant pain and fatigue, coupled with frustration, have been hard on both of us.
+
+Mr. Miller: And your children? How have they been coping with all these changes?
+SJ: Our children have had to make significant adjustments. They miss the mother they had before the
+crash, not understanding why she can’t engage in the activities she used to do with them. My older
+sons, in particular, have had to step up, assisting more with household chores. It’s been a lot for them
+too.
+
+Mr. Miller: Finally, could you share your hopes for your wife’s future?
+
+SJ: My biggest hope is for her to find relief from her pain and regain some semblance of normalcy. She
+deserves to live her life, not just endure it. It’s challenging to see such a wonderful person go through
+this. We are taking each day as it comes, hoping for a better future.
+
+Defense Attorney Cross Examination of Victim’s Husband
+Q: Regarding the foot stretching exercises, you assist her with those?
+A: Yes, | do.
+
+Q: Looking through her medical records, | noticed there’s mention of an exercise bike at home. Do you
+have one?
+
+A: Indeed, we do have an exercise bike at home.
+
+Q: Did she frequently use the exercise bike, especially post-accident?
+
+A: Initially, during her therapy, they had her try riding the exercise bike.
+
+Q: Can you tell us what kind of exercises she did at home after the accident?
+
+A: She was given a chart with exercises, and I’ve been helping her to flex her foot in both directions to
+try and loosen it up.
+
+Q: How long did this routine last?
+A: Actually, | still assist her with the foot exercises every night.
+Q: So you assist her based on the instructions from the chart?
+
+A: Not directly from the chart, but I’ve learned the correct angles and try to flex her foot every night for
+her comfort and to aid her sleep.
+
+Q: Does she drive?
+
+A: Yes, she does.
+
+Q: Prior to the accident, she was employed full time?
+
+A: Yes, that’s correct.
+
+Q: The jury was informed initially that she was also pursuing a degree?
+A: Yes, she was attending the University of Maryland.
+
+Q: Did she commute to the university?
+
+A: At certain points she did, but due to our four children, she primarily takes her classes online now.
+Q: How close is she to obtaining her degree?
+
+A: She’s expected to graduate within the next year.
+
+Court: Any redirect?
+
+Mr. Miller: No further questions, Your Honor.
+
+Court: Thank you, sir, you may step down. Proceed with your next witness.
+(Witness excused — 11:56:56 a.m.)
+
+Summary
+
+The excerpt showcases the husband of the accident victim testifying about the impact of the accident on
+their family life. Here's a concise summary:
+
+Before the accident:
+The family was described as happy and engaged in activities, including vacations and family reunions.
+
+The wife was spontaneous, sociable, and involved in various activities like choir, bible study, and caring
+for their four children.
+
+She enjoyed her work as an assistant manager at a hair salon.
+After the accident:
+The family life and activity level significantly changed.
+
+The wife's physical limitations restrict her participation in activities like taking children to events, playing
+sports, or going on family vacations.
+
+Her reduced activity has even affected how their children perceive her, calling her "boring."
+
+She struggles with simple tasks like carrying laundry or cooking.
+
+Impact on the family:
+
+The wife attempted but couldn't return to work due to pain and difficulty managing long hours.
+
+The financial burden increased significantly with a single income supporting the family and medical bills.
+The strain on the wife due to pain and frustration has impacted their relationship.
+
+The children have had to adjust and take on more responsibilities, missing their previous active mother.
+Husband's hope for the future:
+
+He desires for his wife to find pain relief and regain normalcy in her life.
+
+Defense cross-examination:
+
+The husband assists with the wife's foot exercises based on instructions from a chart.
+
+She still drives and is pursuing a degree online while caring for their children.
+She expects to graduate within the next year.
+Deposition:
+Court Reporter: Please state your name for the record.
+Witness: Sarah Miller.
+Court Reporter: And how do you spell your last name, Ms. Miller?
+Witness: M-I-L-L-E-R.
+Mr. Brown: Ms. Miller, are you aware that today's proceedings are a legal deposition and that you are
+under oath to tell the truth, the whole truth, and nothing but the truth?
+Witness: Yes, I am aware.
+Mr. Brown: Thank you. Ms. Miller, were you present at the intersection of Main Street and Maple
+Avenue on July 15th, 2023, at approximately 3:00 pm?
+Witness: Yes, I was. I was waiting at the red light on Maple Avenue, southbound, facing east.
+Mr. Brown: Did you witness any accidents at that intersection at that time?
+Witness: Yes, I did. I saw a car traveling westbound on Main Street, which I believe was a blue sedan, run
+the red light and collide with a car traveling northbound on Maple Avenue, which I believe was a white
+SUV.
+Mr. Brown: Can you describe the collision in more detail?
+Witness: The blue sedan seemed to be traveling at a high speed and didn't slow down or attempt to stop
+at the red light. It hit the white SUV directly on the driver's side. The impact was quite forceful, and both
+cars spun around significantly.
+Mr. Lee: Ms. Miller, you mentioned the blue sedan was traveling at a high speed. How fast would you
+say it was going?
+Witness: It's difficult to say for sure, but it appeared to be going much faster than the posted speed
+limit, which is 35 miles per hour.
+Mr. Lee: Did you see the driver of either vehicle at any point?
+Witness: No, I didn't.
+Mr. Brown: Ms. Miller, did you notice anything unusual about the driver's behavior in the blue sedan
+before the accident?
+Witness: It's hard to say. Everything happened very quickly, but the car did seem to be swerving slightly
+just before the collision.
+Mr. Lee: Ms. Miller, did you call the police or offer assistance to anyone involved in the accident?
+Witness: Yes, I immediately called 911 and stayed at the scene until the police arrived.
+Mr. Brown: Did you speak to anyone else who may have witnessed the accident?
+Witness: Yes, I exchanged information with another driver who was stopped next to me on Maple
+Avenue at the time.
+Mr. Lee: Do you recall the make and model of the other vehicle that you spoke to?
+Witness: I believe it was a silver Toyota Camry, but I'm not entirely sure.
+Mr. Brown: That's all my questions at this time.
+Mr. Lee: I have no further questions
+Summary:
+The excerpt is from a legal deposition of Michael Anderson, who is under oath to tell the truth. Mr.
+Anderson confirms his employment at Acme Corporation as a graphic designer and details his job duties.
+He also confirms receiving positive performance reviews and never facing disciplinary actions. The
+excerpt ends with a question about witnessing or experiencing any discriminatory situations at Acme.
+Deposition:
+Ms. Garcia: Objection, that question calls for legal conclusions from the witness.
+Mr. Thompson: Withdrawn. Mr. Anderson, please describe any specific incidents or instances at Acme
+that involved your [protected category].
+Witness: There were several things that made me feel uncomfortable. During meetings, colleagues often
+talked over me or dismissed my ideas, particularly when compared to my younger male colleagues. I
+was also consistently passed over for promotions despite having experience and qualifications
+comparable to others who got promoted.
+Ms. Garcia: Mr. Anderson, can you be specific about which colleagues treated you this way and provide
+specific examples of situations where these incidents occurred?
+Witness: One specific example would be the marketing campaign for the new product launch in 2023. I
+put significant effort into developing design concepts, but they were ultimately disregarded without any
+explanation. My male colleague's design, which was very similar to mine, was ultimately chosen.
+Mr. Thompson: Did you ever report any of these incidents to your supervisor or anyone else at Acme?
+Witness: I once mentioned feeling undervalued to my supervisor, but they brushed it off, suggesting I
+needed to "work harder to prove myself." I wasn't comfortable bringing it up further after that.
+Mr. Thompson: Did you decide to leave Acme voluntarily, or were you terminated?
+Witness: When they announced another promotion I felt qualified for, but was once again passed over
+without explanation, I decided it was time to find a new position where I felt valued and respected.
+Ms. Garcia: Mr. Anderson, can you confirm that your decision to leave Acme was solely based on not
+receiving the promotion, and not due to other factors like job performance or personal reasons?
+Witness: To the best of my knowledge, yes. It became clear to me that further advancement
+opportunities within the company were unlikely.
+Mr. Thompson: That's all my questions at this time.
+Ms. Garcia: Mr. Anderson, during your time at Acme, did you ever receive any negative performance
+reviews or warnings related to your work performance?
+Witness: No, as mentioned before, my performance reviews were always positive.
+Ms. Garcia: Did you ever attend any diversity and inclusion training offered by Acme during your
+employment?
+Witness: I did participate in the mandatory online training modules, but there weren't any specific
+training sessions related to addressing or reporting potentially discriminatory situations within the
+company.
+Summary
+Michael Anderson details specific incidents supporting his feeling of being undervalued based on his
+protected category. He describes colleagues disregarding his ideas and being passed over for
+promotions despite comparable qualifications. He provides a specific example from the 2023 product
+launch where his design was overlooked in favor of a male colleague's similar work. He mentions
+mentioning his concerns to his supervisor but being discouraged from pursuing them. He clarifies his
+decision to leave Acme was due to the lack of advancement opportunities, not performance or personal
+reasons. Ms. Garcia then establishes that Mr. Anderson's performance was consistently good and that
+he participated in available diversity training while at Acme, though specific training for addressing
+potential discrimination was absent.
+Deposition:
+Ms. Garcia: Mr. Anderson, are you aware of Acme's anti-discrimination policy or how complaints of
+discrimination are addressed within the company?
+Witness: I reviewed the employee handbook, which did explain the existence of an anti-discrimination
+policy. However, I was unsure of the specific complaint process at the time
+Ms. Garcia: Mr. Anderson, can you elaborate on why you felt apprehensive about bringing up these
+incidents to your supervisor despite feeling uncomfortable and undervalued?
+Witness: Honestly, there were a few reasons. Firstly, as I mentioned, when I did hint at feeling
+undervalued to my supervisor, their dismissive response discouraged me from further discussions. It
+seemed like they weren't receptive to hearing about any potential issues.
+Secondly, there was a general company culture that made me hesitant to speak up. Younger male
+colleagues often dominated conversations and presentations, and there weren't many women in senior
+positions within the marketing department. It felt like my voice wouldn't be heard or even worse, that
+bringing forward complaints might lead to retaliation or hinder my career further.
+Ms. Garcia: Did you notice any specific instances of retaliation against other employees who may have
+raised complaints or concerns about work environment issues?
+Witness: While I can't say for sure, there was one colleague, Sarah Lopez, who openly challenged gender
+bias during a department meeting but was subsequently given less desirable project assignments
+compared to her male colleagues. This incident definitely reinforced my concerns about potentially
+facing a similar situation.**
+Mr. Thompson: Objection, speculation about an unrelated case is irrelevant to the present matter.
+Ms. Garcia: Withdrawn. Mr. Anderson, did you ever discuss your concerns about potential bias or lack of
+promotion opportunities with any human resources personnel at Acme?
+Witness: No, I didn't. As I mentioned before, the lack of clarity on the specific complaint process
+combined with the overall culture discouraged me from pursuing that route.
+Ms. Garcia: Mr. Anderson, since leaving Acme, have you sought employment elsewhere?
+Witness: Yes, I am currently employed at a different company and feel much more valued and respected
+in my current role. The work environment is significantly more inclusive, and I regularly receive positive
+feedback and opportunities for professional development.
+Mr. Thompson: Mr. Anderson, how has your experience at Acme impacted you personally and
+professionally?
+Witness: It was definitely a frustrating and discouraging experience. It felt like my hard work and
+qualifications weren't being recognized fairly, leading to some self-doubt and a sense of being
+undervalued. However, finding a new and positive work environment has helped me rebuild my
+confidence and refocus on my career goals.
+Ms. Garcia: I have no further questions.
+Summary
+This segment explores Mr. Anderson's reasons for not formally complaining despite feeling undervalued.
+He reiterates his supervisor's dismissive response and the perceived lack of receptiveness within the
+company culture. He describes a specific instance where a colleague who challenged gender bias faced
+negative consequences, reinforcing his fear of retaliation. He clarifies that he didn't pursue HR due to
+unclear procedures and the discouraging company culture. Finally, he highlights his positive experience
+at a new company, emphasizing feelings of value, inclusion, and professional growth in contrast to his
+experience at Acme. He concludes by acknowledging the frustration and self-doubt from Acme but also
+the positive impact of finding a supportive work environment.
+Deposition
+Mr. Thompson: I have one final question. Mr. Anderson, is there anything else you would like to add
+regarding your experience at Acme Corporation?
+Witness: Just that I hope by sharing my story, it can contribute to fostering a more diverse and inclusive
+work environment at Acme for future employees. Everyone deserves to feel valued and respected in
+their workplace, regardless of their [protected category].
+Mr. Thompson: Interesting point, Mr. Anderson. Ms. Garcia, while you have no further questions, I'd like
+to explore some aspects of Mr. Anderson's experience further before concluding the deposition.
+Ms. Garcia: No objection. Please proceed, Mr. Thompson.
+Mr. Thompson: Mr. Anderson, you mentioned feeling unsure about the specific complaint process at
+Acme. Did you take any steps to learn more about it after your meeting with your supervisor?
+Witness: No, I didn't feel comfortable approaching my supervisor again after their dismissive response.
+Additionally, I recall the employee handbook being quite lengthy, and finding specific information about
+the complaint process proved difficult at the time.
+Mr. Thompson: You mentioned a colleague, Sarah Lopez, who voiced concerns about gender bias. Did
+you ever speak to her directly about her experience and the alleged retaliation she faced?
+Witness: Briefly, yes. We expressed our mutual frustrations and the feeling of being undervalued within
+the department. However, we were both hesitant to pursue any formal complaints due to the
+aforementioned concerns about the company culture and potential retaliation.
+Mr. Thompson: Did you ever discuss the issue of lack of promotion opportunities with any other
+colleagues, particularly women in the marketing department?
+Witness: Not directly. While there were a few women colleagues in the department, none of them were
+in senior positions. The general environment discouraged open communication about potentially
+sensitive topics like discrimination.
+Ms. Garcia: Mr. Thompson, I object to leading the witness. Can you rephrase your question and allow
+Mr. Anderson to answer in his own words?
+Mr. Thompson: Apologies, Ms. Garcia. Mr. Anderson, to clarify, did you have any informal conversations
+with other colleagues about your concerns regarding promotion opportunities or potential gender bias
+within the marketing department at Acme?
+Witness: There weren't any specific discussions about promotions or bias, but the general atmosphere
+around the lack of female representation in senior positions was a frequent topic of quiet observation
+amongst some female colleagues. We felt implicit pressure to work harder and prove ourselves more
+than our male colleagues, but reaching leadership positions seemed like an increasingly distant
+prospect.
+Ms. Garcia: Mr. Anderson, can you elaborate on what kind of "pressure" you felt, and was there any
+specific instance or behavior from colleagues or superiors that made you feel this way?
+Summary
+In the concluding segment, Mr. Anderson expresses hope that his experience can contribute to a more
+inclusive work environment at Acme. Mr. Thompson then delves deeper into specific aspects of Mr.
+Anderson's experience:
+Complaint process: Mr. Anderson cites discomfort following his supervisor's reaction and difficulty
+navigating the lengthy employee handbook as reasons for not seeking further information.
+Colleague's experience: He mentions briefly discussing his frustrations and concerns with Sarah Lopez
+but clarifies their shared hesitation to pursue formal complaints due to company culture concerns.
+Promotion opportunities and gender bias: He explains the lack of open communication about these
+issues and feeling unspoken pressure due to the absence of women in senior positions, though no
+specific discussions on bias occurred.
+Ms. Garcia objects to a leading question about bias, and Mr. Thompson rephrases, allowing Mr.
+Anderson to clarify further. He explains the silent observation among female colleagues of the lack of
+female leadership and the perceived need to overachieve compared to male colleagues. Ms. Garcia
+requests further details about the pressure felt by Mr. Anderson.
+Deposition
+Witness: It wasn't any direct confrontation or statement, but more of a subtle feeling arising from
+observing the lack of female representation in leadership roles combined with certain comments about
+needing to "work harder" or "prove myself" despite my consistent positive performance reviews.
+Mr. Thompson: Thank you, Mr. Anderson. These are valuable insights. Do you have any further
+questions, Ms. Garcia?
+Ms. Garcia: (after reviewing her notes) I have a few follow-up questions for clarification. However, due
+to the time constraints, I would like to schedule a follow-up session at your earliest convenience, Mr.
+Thompson, to continue exploring specific details and potential evidence.
+Mr. Thompson: No objection. Mr. Anderson, are you available for a follow-up session within the next
+week?
+Witness: Yes, I am available. Please let me know the details when you've scheduled it
+Mr. Thompson: Mr. Anderson, since our last session, have you had any time to review Acme
+Corporation's employee handbook pertaining to the complaint process for potential discrimination?
+Witness: Yes, I have.
+Mr. Thompson: Can you briefly describe the steps outlined in the handbook for filing a complaint based
+on potential discrimination?
+Witness: The handbook mentioned employees could submit a written complaint to the Human
+Resources department or verbally report it to an HR representative or any manager. However, specific
+details about the investigation process or resolution options were quite vague.
+Ms. Garcia: Mr. Anderson, did the employee handbook specify who constitutes a "manager" authorized
+to receive such initial verbal complaints?
+Witness: No, it didn't provide any specific details about which managers were included in that definition
+or if all managers were authorized to receive such reports.
+Mr. Thompson: Mr. Anderson, you previously mentioned frustration with receiving similar design
+concepts to yours being chosen over your own work while working at Acme. Do you still have copies of
+these original design concepts and the final versions ultimately used?
+Witness: Unfortunately, I didn't retain individual copies of every design iteration. However, I did
+maintain some preliminary sketches and digital drafts from several projects, including the one discussed
+earlier related to the 2023 product launch campaign.
+Mr. Thompson: Would you be willing to provide these materials as potential evidence in this case?
+Witness: Yes, I can bring them to the next session.
+Ms. Garcia: Mr. Anderson, are you aware of other colleagues who may have retained copies of their
+rejected design projects or drafts during their employment at Acme?
+Witness: I'm not certain, but I remember several colleagues raising concerns about the inconsistent
+feedback and selection process for design concepts. It's possible some of them might have kept records
+for their own reference.
+Mr. Thompson: We will look into that possibility. Mr. Anderson, during your time at Acme, did you ever
+meet or hear about any employees who filed official complaints based on experiencing discrimination?
+Witness: Not officially. As mentioned earlier, there was an underlying lack of transparency and open
+communication around potentially sensitive topics like discrimination. Therefore, it was difficult to know
+for sure.
+Ms. Garcia: Mr. Anderson, did you receive any additional training or workshops related to diversity and
+inclusion since leaving Acme Corporation?
+Witness: Yes, my current employer offers comprehensive training programs and workshops regarding
+diversity and inclusion as part of their ongoing commitment to a fair and equitable work environment.
+Mr. Thompson: Do you find these additional training programs and the overall work environment at
+your current company to be beneficial compared to your experience at Acme?
+Witness: Absolutely. The focus on creating a safe space for open communication, valuing diverse
+perspectives, and providing equal opportunities for growth has been incredibly positive and
+empowering.
+Ms. Garcia: No further questions at this time.
+Mr. Thompson: Mr. Anderson, as mentioned previously, we would like you to bring copies of the design
+materials you retained for the next session. Additionally, I may reach out to inquire about potential
+colleagues who might have kept similar records. Is that alright?
+Witness: That's perfectly fine. Please let me know if you need anything else in the meantime.
+Mr. Thompson: Mr. Anderson, one final question before we adjourn. You mentioned feeling hesitant to
+bring up your concerns to your supervisor after their dismissive response. Did their reaction specifically
+mention any consequences of raising the potential bias issue?
+Witness: Not directly. There wasn't an explicit threat of any sort. However, their dismissive tone and the
+implication that my concerns weren't valid created an atmosphere where I felt further discussion would
+be futile and potentially disadvantageous.
+Ms. Garcia: Objection, speculation about the witness's interpretation of a supervisor's tone is not based
+on facts.
+Mr. Thompson: Reframing, Mr. Anderson. How did your supervisor's response make you feel about the
+potential consequences of reporting your concerns?
+Witness: Their response discouraged me and made me feel unheard. It conveyed the impression that my
+concerns about potential bias wouldn't be taken seriously and could potentially hinder my career
+progression within the company.
+Summary
+The concluding segment addresses further details and sets the stage for a follow-up session:
+Complaint process: Mr. Anderson reviews the handbook and describes the outlined steps for filing a
+complaint, noting the vagueness regarding investigation and resolution. Ms. Garcia highlights the lack of
+clarity on who qualifies as a "manager" authorized to receive initial verbal reports.
+Design concepts: Mr. Anderson clarifies he still possesses some preliminary sketches and drafts,
+including those from the 2023 product launch, and agrees to provide them as potential evidence. Mr.
+Thompson expresses interest in exploring the possibility of other colleagues retaining similar materials.
+Official complaints: Mr. Anderson reiterates the lack of knowledge about any official discrimination
+complaints at Acme due to the previously mentioned culture of secrecy.
+Current company: Mr. Anderson confirms receiving additional diversity and inclusion training at his
+current company. He emphasizes the positive aspects of his new work environment, highlighting open
+communication, valuing diverse perspectives, and equal opportunities, contrasting it with his experience
+at Acme.
+Follow-up: Both parties agree to a follow-up session. Mr. Thompson clarifies his intention to request the
+design materials and potentially contact other colleagues. Ms. Garcia objects to the witness's
+interpretation of his supervisor's tone, leading Mr. Thompson to rephrase the question, to which Mr.
+Anderson reiterates feeling discouraged and unheard, fearing his concerns wouldn't be taken seriously
+and could hinder his career.
+Deposition
+Ms. Garcia: Mr. Thompson, I believe we've covered the essential topics for today. However, as these are
+complex claims, I would appreciate the opportunity to review the transcript and potentially ask further
+questions at a future session, should any need arise.
+Mr. Thompson: No objection. Mr. Anderson, as Ms. Garcia mentioned, we appreciate your willingness to
+cooperate and provide additional materials. We will be in touch to schedule a follow-up session if
+needed.
+Witness: Understood.
+Summary
+The deposition concludes with Ms. Garcia expressing a desire to review the transcript and potentially
+ask further questions in a future session if needed. Mr. Thompson agrees, and both thank Mr. Anderson
+for his cooperation and willingness to provide additional materials. Mr. Anderson acknowledges their
+communication and awaits further information regarding a potential follow-up session.
+Deposition
+MILLER: A driver is obligated to pay attention to the road and yield to other drivers when required. Let
+me take you back to what happened on April 20th, 2022. The Defendant, who was an attorney for the
+IRS, was driving her usual route to work. She drove down Annapolis Road to take a left onto another
+road.
+(Could we have the next slide, please?) She was driving down this road… can everyone see this? She
+stopped at a light on a clear day. While stopped, she reached down to find her parking pass.
+DEFENSE LAWYER: May we approach?
+THE COURT: Yes.
+BENCH CONFERENCE
+(Bench Conference begins – 10:26:39m.)
+(The parties approach the bench for a discussion.)
+THE COURT: By court ruling, liability has been established. The focus of this case is only on damages. I
+understand why we’re discussing these details, but it’s about damages.
+MILLER: I’m setting the scene for the accident because her damages are part of the accident narrative.
+DEFENSE LAWYER: We’re only discussing the fact that an accident happened and a person was injured.
+The details about reaching and negligence seem to be evidence of liability.
+THE COURT: I understand. It’s your opening statement, so I’ll give you some leeway.
+MILLER: I’m just providing context. I’ll be getting into the damages soon.
+THE COURT: Alright.
+(Bench Conference concluded – 10:27:32 m.)
+(The parties return to their places.)
+MILLER: The Defendant heard a horn beep and took a left turn. She didn’t see the Plaintiff, who had the
+right of way, coming from the opposite direction. Due to the collision, the Plaintiff’s ankle was broken
+and required surgery.
+Take a look at these images. The first one shows her ankle before surgery, the second one after surgery.
+Today, she still has 15 screws and three plates in her ankle. She will never be able to run again and
+standing for extended periods of time is difficult.
+We’ve brought this case before you because of the harm caused to the Plaintiff. We needed to agree
+that the Defendant was at fault for the accident, which she has accepted. We also had to understand the
+extent and implications of the Plaintiff’s damages, not just the initial injury and surgery, but also its long-
+term impact on her life.
+To do this, we spoke to her doctors, her husband, her friends, and even her employer. One of her
+doctors is going to talk to you.
+This is the guy to see if something awful like this is going to happen to your ankle. He received an Ivy
+League education and, at one point, was the chief of foot and ankle orthopedic injuries at Johns
+Hopkins. He consults for the Baltimore Orioles. His resume, I want to say, is as long as your arm, but it’s
+actually a lot longer than that.
+We’re going to bring him to talk to you guys, in a very 2023 way. It’s going to be by videotape, so his
+testimony will be by videotape, but it holds the same force as if it was at trial, and he came here to see
+us. And, of course, my partner Laura Zois and the defense attorney had an opportunity to ask him
+questions.
+He’s going to tell you she still has 15 screws and three plates in her ankle holding everything together.
+The problem with that is that it creates a breeding ground for arthritis, and this 33-year-old woman
+already has the signs of arthritis. At some point, she’s going to need what’s called a fusion, which will
+stabilize her ankle. The bad news is, you can’t move it once it locks, so you no longer have the ability to
+bend.
+This trial is about the harms and losses that she has suffered and endured as the result of this accident.
+This is not a case about sympathy. You should not award her damages because you feel sorry for her.
+You’re going to hear about how the accident has impacted her professional and personal life.
+At the time of the crash, they were a very young family. They were an energetic family. This is an active
+family with four kids doing everything you can imagine, Six Flags, the park. They would run together.
+They played basketball together. They traveled everywhere, New York, Baltimore, Washington, DC. They
+were just a very active family.
+And she also had a vibrant social life. She was a hairstylist, and she loved that job. It was her social outlet
+beside her kids. She would do the church choir every Wednesday, and still found times to go out and see
+her family. She’s still fighting with her family, but it’s hard.
+She can’t work as a hairstylist anymore. So what did she do? She went back to school to the University
+of Maryland. She’s working, getting very close to getting her degree. She’s still fighting. She has four kids
+they’re chasing around.
+Let’s go back and talk about how it ended up. Let’s talk about the accident. She had this awful crash and
+needed emergency surgery where they put in these screws. She had a nine-month-old baby, along with
+three other kids. She and the two girls, the younger ones, went to live with her mom. Her mom took
+care of her and the girls, while her husband took care of the other kids.
+This has been a massive disruption to their lives. The accident has completely changed her life, and it’s
+reflected in every facet of her day-to-day. Her job, her family life, her hobbies, everything she used to
+take pleasure in has been impacted in one way or another. And the evidence in this case will show these
+changes are likely to persist for the rest of her life.
+We ask you to consider the totality of these changes, the persistent harm and loss she’s suffered and
+will continue to suffer, as a direct result of the accident. We ask you to consider these when coming to a
+decision in this case.
+This accident, however, led to an upheaval in their lives. About a month after the accident, she managed
+to return home with the kids. Her mother, an FDA employee, took three months off work to care for her,
+her daughter, and her grandchildren. The accident wreaked havoc on their lives.
+She endured six months of rigorous physical therapy and another operation. While it was painful and
+difficult, the effort was worthwhile as it improved her condition, especially her ankle, though we wish
+she had recovered more.
+As we delve into this case, it’s about the harm and losses experienced. We will ask you to make amends
+where possible and provide compensation for the irreparable harm. The damages can be categorized
+into three parts: her medical bills, the post-accident trauma suffered by her and her family, and the pain
+she will endure for the expected next 45 years of her life.
+She was a spontaneous person, fond of making impromptu plans like going to Virginia Beach over the
+weekend or heading to the park. Now, every activity revolves around her ability to reach there, her
+mobility, and whether she can tolerate the pain during the trip. This situation has affected her and her
+four kids, as well as her husband.
+The court wants to clarify that the evidence and testimonies from the witness stand are what will
+control your deliberations. Opening statements and closing arguments of lawyers do not constitute
+evidence.
+This case is not just about the suffering of their children or her husband. It’s about the impact of their
+suffering on her. We will ask you to consider an amount that may seem high at the beginning. But we
+believe that after hearing all the evidence, you’ll find it to be a fair compensation for her losses and
+harm. The amount we suggest is $1.1 million.
+Defense Opening Statement
+Regarding the defendant, they acknowledge the responsibility for the accident and that it was their
+fault. The case is for you to determine the appropriate damages. The injury is severe, and they ask for an
+extraordinary amount of compensation.
+She broke her ankle, which was repaired surgically with plates and screws. There was a second surgery
+due to loosening of the screws, which were then removed. She attended physical therapy, which
+improved her ability to move her ankle. Whether she will need surgery in the future is uncertain.
+The past medical expenses are around $36,505, which we don’t contest. Her lost wages due to the
+accident are around $3,400 to $3,500. These are not the focal points of this case. The main issue is the
+amount to be awarded for non-economic damages, for which we request something fair, reasonable,
+and sensible.
+Thank you for your time and attention, and we hope to conclude this case promptly.
+Testimony of Victim’s Husband
+Mr. Miller: Good morning. Can I have your address?
+SJ: Certainly.
+Mr. Miller: How long have you lived at that address?
+SJ: I bought the house in 2003, so it’s been approximately ten years.
+Mr. Miller: Who lives there with you?
+SJ: My wife, and our four children.
+Mr. Miller: Can you tell the jury how old your children are and their names?
+SJ: Yes. My children are 13, and the others are…
+The Honorable Judge: Please continue.
+SJ: …five, and three.
+Mr. Miller: I understand. And for some background, what do you do for a living?
+SJ: I’m currently the general manager at Oreck Clean Home Center.
+Mr. Miller: And where are these locations?
+SJ: We have six locations in Maryland and Virginia.
+Mr. Miller: What are your responsibilities at work?
+SJ: I oversee all six stores and manage one of them.
+Mr. Miller: Can you describe your work schedule?
+SJ: I work Monday through Saturday, from 10:00 am to 7:00 pm. Often, I work seven days a week which
+means working on Sundays from 12:00 pm to 5:00 pm.
+Mr. Miller: How do you feel about those hours?
+SJ: They are long, but I need to work to support my family.
+Mr. Miller: How long have you known your wife?
+SJ: I met her in 1993, she was my sister’s best friend.
+Mr. Miller: You mean your wife was your sister’s best friend?
+SJ: Yes, I apologize for the confusion. She was indeed my sister’s best friend.
+Mr. Miller: Let’s move to another topic. Do you remember the car accident your wife was in 2022?
+SJ: Yes, I do.
+Mr. Miller: Prior to the accident, can you describe your household?
+SJ: Our household was what I would consider the perfect life. My wife and children were happy and
+always engaged in activities. We used to take vacations and attend family reunions.
+Mr. Miller: Was your wife a spontaneous person or a planner?
+SJ: She was more spontaneous, always ready to take on new activities.
+Mr. Miller: Could you describe her for the jury?
+SJ: She is always happy, loves socializing and helping people. She attended choir rehearsal, Bible study
+every week, and also took care of our four children.
+Mr. Miller: What was her job at the time of the crash?
+SJ: She was the assistant manager of a hair salon.
+Mr. Miller: Did she enjoy her work?
+SJ: Yes, she loved her work. It was part of her identity.
+Mr. Miller: Did your wife’s demeanor change after the car accident?
+SJ: Yes, after the accident everything changed. Our family life and activity level changed significantly. She
+used to take the children to sporting events and practice basketball. Now, she can’t do these activities.
+She no longer goes on family vacations. My two older sons call her “boring” now because of her reduced
+activity level. The accident has restricted her capabilities and as a result, she can’t even do simple tasks
+like carrying laundry baskets or standing up to cook. Our family life has changed drastically since the
+accident.
+Mr. Miller: Has your wife gone back to work since the accident?
+SJ: She tried to help a friend out a couple of months ago at her hair salon, but it ended with her in a lot
+of pain due to the swelling in her ankle.
+Mr. Miller: I have here a picture you received from your wife. Is this the picture she sent you?
+Mr. Miller: Can you tell us how your wife’s personal social life has been affected since the crash?
+SJ: Her social life has indeed changed significantly. Before the accident, she would regularly go out with
+friends, engage in dancing, and other social activities. However, the constant pain and discomfort after
+the crash have made such activities impossible. Her social life is definitely not the same as before.
+Mr. Miller: You mentioned earlier about her job. Was she able to resume work post the crash?
+SJ: She attempted to return to work, but the persistent pain made it unmanageable, particularly the
+long-standing hours. Eventually, she was forced to leave her job.
+Mr. Miller: How has this situation impacted your family’s finances?
+SJ: The impact has been substantial. She held the position of an assistant manager at a hair salon,
+bringing in a significant income. Now, with my single income, managing expenses for our four children
+and her medical bills has been strenuous.
+Mr. Miller: Besides the financial struggle, can you share how your relationship with your wife has
+evolved post the accident?
+SJ: Our relationship has undeniably been affected. She isn’t the same person she was before the crash.
+Her constant pain and fatigue, coupled with frustration, have been hard on both of us.
+Mr. Miller: And your children? How have they been coping with all these changes?
+SJ: Our children have had to make significant adjustments. They miss the mother they had before the
+crash, not understanding why she can’t engage in the activities she used to do with them. My older
+sons, in particular, have had to step up, assisting more with household chores. It’s been a lot for them
+too.
+Mr. Miller: Finally, could you share your hopes for your wife’s future?
+SJ: My biggest hope is for her to find relief from her pain and regain some semblance of normalcy. She
+deserves to live her life, not just endure it. It’s challenging to see such a wonderful person go through
+this. We are taking each day as it comes, hoping for a better future.
+Defense Attorney Cross Examination of Victim’s Husband
+Q: Regarding the foot stretching exercises, you assist her with those?
+A: Yes, I do.
+Q: Looking through her medical records, I noticed there’s mention of an exercise bike at home. Do you
+have one?
+A: Indeed, we do have an exercise bike at home.
+Q: Did she frequently use the exercise bike, especially post-accident?
+A: Initially, during her therapy, they had her try riding the exercise bike.
+Q: Can you tell us what kind of exercises she did at home after the accident?
+A: She was given a chart with exercises, and I’ve been helping her to flex her foot in both directions to
+try and loosen it up.
+Q: How long did this routine last?
+A: Actually, I still assist her with the foot exercises every night.
+Q: So you assist her based on the instructions from the chart?
+A: Not directly from the chart, but I’ve learned the correct angles and try to flex her foot every night for
+her comfort and to aid her sleep.
+Q: Does she drive?
+A: Yes, she does.
+Q: Prior to the accident, she was employed full time?
+A: Yes, that’s correct.
+Q: The jury was informed initially that she was also pursuing a degree?
+A: Yes, she was attending the University of Maryland.
+Q: Did she commute to the university?
+A: At certain points she did, but due to our four children, she primarily takes her classes online now.
+Q: How close is she to obtaining her degree?
+A: She’s expected to graduate within the next year.
+Court: Any redirect?
+Mr. Miller: No further questions, Your Honor.
+Court: Thank you, sir, you may step down. Proceed with your next witness.
+(Witness excused – 11:56:56 a.m.)
+Summary
+The excerpt showcases the husband of the accident victim testifying about the impact of the accident on
+their family life. Here's a concise summary:
+Before the accident:
+The family was described as happy and engaged in activities, including vacations and family reunions.
+The wife was spontaneous, sociable, and involved in various activities like choir, bible study, and caring
+for their four children.
+She enjoyed her work as an assistant manager at a hair salon.
+After the accident:
+The family life and activity level significantly changed.
+The wife's physical limitations restrict her participation in activities like taking children to events, playing
+sports, or going on family vacations.
+Her reduced activity has even affected how their children perceive her, calling her "boring."
+She struggles with simple tasks like carrying laundry or cooking.
+Impact on the family:
+The wife attempted but couldn't return to work due to pain and difficulty managing long hours.
+The financial burden increased significantly with a single income supporting the family and medical bills.
+The strain on the wife due to pain and frustration has impacted their relationship.
+The children have had to adjust and take on more responsibilities, missing their previous active mother.
+Husband's hope for the future:
+He desires for his wife to find pain relief and regain normalcy in her life.
+Defense cross-examination:
+The husband assists with the wife's foot exercises based on instructions from a chart.
+She still drives and is pursuing a degree online while caring for their children.
+She expects to graduate within the next year.
