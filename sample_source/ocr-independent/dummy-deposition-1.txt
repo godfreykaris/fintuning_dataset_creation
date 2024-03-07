@@ -1,0 +1,116 @@
+--- Beginning of Page 1 ---
+Line 1, 16:07:17: Dataset Creation
+Line 2, 16:07:17: To address the challenge of acquiring real depositions for fine-tuning Mistral-7B-Instruct-v0.2 for
+Line 3, 16:07:17: automated summarization, we can leverage large language models (LLMs) like Gemini or ChatGPT to
+Line 4, 16:07:17: generate synthetic depositions.
+Line 5, 16:07:17: Here's a step-by-step guide:
+Line 6, 16:07:17: 1. Generating Synthetic Depositions:
+Line 7, 16:07:17:  Prompt the LLM: Provide clear instructions to the LLM, including the type of deposition (e.g.,
+Line 8, 16:07:17: accident, theft) and any relevant details (e.g., parties involved, timeframes).
+Line 9, 16:07:17:  Iterative Refinement: Start with a basic prompt and progressively refine the deposition by
+Line 10, 16:07:17: prompting the LLM to "extend the deposition based on the previous response."
+Line 11, 16:07:17:  Summarization: Once satisfied with the deposition, prompt the LLM to "generate a summary of
+Line 12, 16:07:17: the deposition."
+Line 13, 16:07:17: 2. Building the Dataset:
+Line 14, 16:07:17:  Repeat the process: Generate multiple deposition-summary pairs by repeating steps ensuring
+Line 15, 16:07:17: diverse scenarios in the dataset.
+Line 16, 16:07:17: Building a Compatible Dataset for Fine-Tuning
+Line 17, 16:07:17: After generating synthetic depositions and summaries using an LLM, we need to structure the data
+Line 18, 16:07:17: appropriately for fine-tuning Mistral-7B-Instruct-v0.2. Here's how:
+Line 19, 16:07:17: 1. Create a CSV File:
+Line 20, 16:07:17: a. Open a spreadsheet editor or text editor.
+Line 21, 16:07:17: b. Create two columns titled "Deposition" and "Summary."
+Line 22, 16:07:17: c. Fill each row with a corresponding deposition-summary pair.
+Line 23, 16:07:17: d. Use the pipe symbol ("|") to separate the deposition from its summary within each row.
+Line 24, 16:07:17: This adheres to standard formatting for many data processing tasks.
+Line 25, 16:07:17: 2. Understand Mistral AI's Instruction Format:
+Line 26, 16:07:17: a. Mistral AI requires a specific format to fine-tune their model effectively. This involves
+Line 27, 16:07:17: surrounding your instructions (in our case, the depositions) with special tokens:
+Line 28, 16:07:17: i. [INST]: indicates the beginning of an instruction.
+Line 29, 16:07:17: ii. [/INST]: marks the end of an instruction
+Line 30, 16:07:17: Example:
+Line 31, 16:07:17: text = "<s>[INST] What is your favourite condiment? [/INST]"
+Line 32, 16:07:17: "Well, I'm quite partial to a good squeeze of fresh lemon juice.
+Line 33, 16:07:17: It adds just the right amount of zesty flavour to whatever I'm
+Line 34, 16:07:17: cooking up in the kitchen!</s> "
+--- End of Page 1 ---
+
+--- Beginning of Page 2 ---
+Line 35, 16:07:17: Our dataset will consist of three main elements:
+Line 36, 16:07:17:  Deposition: This field contains the raw text of the legal statement.
+Line 37, 16:07:17:  Summary: This field holds the condensed version of the corresponding deposition.
+Line 38, 16:07:17:  Text: This crucial field is specifically formatted for the fine-tuning process, as it guides the model
+Line 39, 16:07:17: during training. Its structure will be further explained later in this document.
+Line 40, 16:07:17: Key Points and Logic:
+Line 41, 16:07:17: JSONL Format: Each row in the JSON Lines file will be a self-contained JSON object, representing a single
+Line 42, 16:07:17: training example for fine-tuning the Mistral-7B-Instruct-v0.2 model.
+Line 43, 16:07:17: Data Elements: Each row will have the following structure:
+Line 44, 16:07:17: JSON
+Line 45, 16:07:17: {
+Line 46, 16:07:17: "deposition": "(the text of the deposition)",
+Line 47, 16:07:17: "summary": "(the corresponding summary)",
+Line 48, 16:07:17: "text": "(the formatted text ready for Mistral-7B-Instruct-v0.2)"
+Line 49, 16:07:17: }
+Line 50, 16:07:17: We will utilize a function responsible for concatenating the instructions, deposition, summary, and
+Line 51, 16:07:17: special tokens according to Mistral AI's format. The output will populate the text key of each row.
+Line 52, 16:07:17: Example:
+Line 53, 16:07:17: Let's assume you have the following dummy deposition-summary pair in your CSV file:
+Line 54, 16:07:17:  Deposition: "The witness saw a blue car speeding through the intersection and hitting a
+Line 55, 16:07:17: pedestrian on the crosswalk."
+Line 56, 16:07:17:  Summary: "Blue car runs intersection, hits pedestrian."
+Line 57, 16:07:17: JSONL Row: After formatting by the code, the corresponding row in your JSONL file would look like:
+Line 58, 16:07:17: JSON
+Line 59, 16:07:17: {
+Line 60, 16:07:17: "deposition": "The witness saw a blue car speeding through the
+Line 61, 16:07:17: intersection and hitting a pedestrian on the crosswalk.",
+Line 62, 16:07:17: "summary": "Blue car runs intersection, hits pedestrian.",
+Line 63, 16:07:17: "text": "<s>[INST] Provide a summary of the following: The witness saw a
+Line 64, 16:07:17: blue car speeding through the intersection and hitting a pedestrian on the
+Line 65, 16:07:17: crosswalk. [/INST] \n Blue car runs intersection, hits pedestrian. </s>"
+Line 66, 16:07:17: }
+Line 67, 16:07:17: Explanation:
+Line 68, 16:07:17: deposition and summary: These fields contain the raw deposition and summary text, respectively.
+Line 69, 16:07:17: text: This field contains the deposition, your instruction ("Provide a summary of the following"), and the
+Line 70, 16:07:17: summary, surrounded by the [INST], [/INST] tokens. This is what Mistral AI's model will be trained on.
+--- End of Page 2 ---
+
+--- Beginning of Page 3 ---
+Line 71, 16:07:17: How the model uses this:
+Line 72, 16:07:17: Mistral-7B-Instruct-v0.2 is designed to learn from examples. When you feed it a JSONL file containing
+Line 73, 16:07:17: examples like this, it internalizes the pattern:
+Line 74, 16:07:17: [INST] indicates the start of a task
+Line 75, 16:07:17: Text following [INST] is the input to process
+Line 76, 16:07:17: Text following \n is the correct solution
+Line 77, 16:07:17: [/INST] signals the end of the task
+Line 78, 16:07:17: The samples are divided into 3 categories of the dataset as explained below:
+Line 79, 16:07:17: Training Dataset
+Line 80, 16:07:17:  Purpose: The training dataset is used to train the machine learning model. During training, the
+Line 81, 16:07:17: model learns patterns and relationships in the data, optimizing its parameters to minimize the
+Line 82, 16:07:17: error between predicted and actual values.
+Line 83, 16:07:17:  Composition: The training dataset typically constitutes the largest portion of the available data.
+Line 84, 16:07:17:  Usage: The model iteratively processes batches of data from the training dataset, updating its
+Line 85, 16:07:17: parameters through techniques like gradient descent or backpropagation.
+Line 86, 16:07:17:  Outcome: After training, the model should be capable of making predictions on new, unseen
+Line 87, 16:07:17: data.
+Line 88, 16:07:17: Validation Dataset
+Line 89, 16:07:17:  Purpose: The validation dataset is used to tune hyperparameters and assess the model's
+Line 90, 16:07:17: performance during training.
+Line 91, 16:07:17:  Composition: The validation dataset is a separate portion of the dataset that is not used for
+Line 92, 16:07:17: training. It is often a subset of the overall dataset.
+Line 93, 16:07:17:  Usage: During the training process, the model's performance on the validation dataset is
+Line 94, 16:07:17: periodically evaluated. This evaluation helps identify potential overfitting and guides
+Line 95, 16:07:17: adjustments to the model's architecture or hyperparameters.
+Line 96, 16:07:17:  Outcome: By monitoring the model's performance on the validation dataset, practitioners can
+Line 97, 16:07:17: make informed decisions to improve the model's generalization capabilities.
+Line 98, 16:07:17: Test Dataset
+Line 99, 16:07:17:  Purpose: The test dataset is used to evaluate the final performance of the trained model.
+Line 100, 16:07:17:  Composition: Like the validation dataset, the test dataset is separate from both the training and
+Line 101, 16:07:17: validation datasets.
+Line 102, 16:07:17:  Usage: Once the model has been trained and tuned using the training and validation datasets, it
+Line 103, 16:07:17: is evaluated on the test dataset. The test dataset provides an unbiased assessment of the
+Line 104, 16:07:17: model's ability to generalize to unseen data.
+Line 105, 16:07:17:  Outcome: The performance metrics obtained from the test dataset reflect the model's
+Line 106, 16:07:17: performance in real-world scenarios. These metrics guide decisions regarding model
+Line 107, 16:07:17: deployment and further improvements.
+--- End of Page 3 ---
+
