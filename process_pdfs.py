@@ -24,8 +24,7 @@ def process_page_pdfplumber(page):
 def process_pdf(pdf_file, output_text_file, use_ocr=True, chunk_size=4):
     start_time = time.time()
     current_page = 1
-    current_line = 1
-    
+        
     with Pool(cpu_count()) as pool:
         with open(output_text_file, 'a') as text_file:
             with open(pdf_file, 'rb') as f:
@@ -48,6 +47,8 @@ def process_pdf(pdf_file, output_text_file, use_ocr=True, chunk_size=4):
                     for page_num, extracted_text in enumerate(extracted_texts, start=current_page):
                         lines = extracted_text.split('\n')
                         text_file.write(f"--- Beginning of Page {page_num} ---\n")
+                        
+                        current_line = 1
                         for line in lines:
 
                             ############################################################
@@ -59,7 +60,7 @@ def process_pdf(pdf_file, output_text_file, use_ocr=True, chunk_size=4):
                             current_time += 1  # Increment the dummy timestamp
                             current_line += 1  # Increment the line number
                         text_file.write(f"--- End of Page {page_num} ---\n\n")
-
+                        
                     current_page += total_pages
                     print(f"Processed {current_page - 1} pages in {time.time() - start_time} seconds")
 
