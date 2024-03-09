@@ -1,0 +1,502 @@
+--- Beginning of Page 1 ---
+Line 1, 16:04:41: Transcript of
+Line 2, 16:04:41: Date:
+--- End of Page 1 ---
+
+--- Beginning of Page 2 ---
+Line 1, 16:04:41: Planet Depos
+Line 2, 16:04:41: Phone: 888-433-3767
+Line 3, 16:04:41: Fax: 888-503-3767
+Line 4, 16:04:41: Email: transcripts@planetdepos.com
+Line 5, 16:04:41: Internet: www.planetdepos.com
+Line 6, 16:04:41: Worldwide Court Reporting | Interpretation | Trial Services
+--- End of Page 2 ---
+
+--- Beginning of Page 3 ---
+Line 1, 16:04:41: Deposition of
+Line 2, 16:04:41: Conducted o
+Line 3, 16:04:41: IN THE CIRCUIT COURT FOR ANNE ARUNDEL COUN
+Line 4, 16:04:41: MARYLAND
+Line 5, 16:04:41: ------------------------------x
+Line 6, 16:04:41: :
+Line 7, 16:04:41: Plaintiff, :
+Line 8, 16:04:41: v. : Case No.
+Line 9, 16:04:41: , :
+Line 10, 16:04:41: Defendant. :
+Line 11, 16:04:41: ------------------------------x
+Line 12, 16:04:41: Deposition of OFFICER
+Line 13, 16:04:41: Baltimore, Maryland
+Line 14, 16:04:41: Tuesday, November 15, 2016
+Line 15, 16:04:41: 10:03 a.m.
+Line 16, 16:04:41: Job No.: 127037
+Line 17, 16:04:41: Pages: 1 - 36
+Line 18, 16:04:41: Reported by: Linda H. Cole
+--- End of Page 3 ---
+
+--- Beginning of Page 4 ---
+Line 1, 16:04:41: 4
+Line 2, 16:04:41: Deposition of OFFICER held at the 1 C O N T E N T S
+Line 3, 16:04:41: offices of: 2 EXAMINATION OF OFFICER PAGE
+Line 4, 16:04:41: 3 By 5
+Line 5, 16:04:41: 4 By 34
+Line 6, 16:04:41: MILLER & ZOIS, LLC 5
+Line 7, 16:04:41: One South Street 6
+Line 8, 16:04:41: Suite 2540 7 E X H I B I T S
+Line 9, 16:04:41: Baltimore, Maryland 21202 8 (Exhibits retained by Mr. Fiore.)
+Line 10, 16:04:41: (410) 553-6000 9 DEPOSITION EXHIBIT PAGE
+Line 11, 16:04:41: 10 Exhibit 1 Maryland Vehicle Accident Report 5
+Line 12, 16:04:41: 11 Exhibit 2 Photographs A through M 5
+Line 13, 16:04:41: 12 Exhibit 3 Diagram 25
+Line 14, 16:04:41: 13
+Line 15, 16:04:41: Pursuant to notice, before Linda H. Cole, Notary 14
+Line 16, 16:04:41: Public of the State of Maryland. 15
+Line 17, 16:04:41: 16
+Line 18, 16:04:41: 17
+Line 19, 16:04:41: 18
+Line 20, 16:04:41: 19
+Line 21, 16:04:41: 20
+Line 22, 16:04:41: 21
+Line 23, 16:04:41: 22
+Line 24, 16:04:41: PLANET DEPOS
+Line 25, 16:04:41: 888.433.3767 | WWW.PLANETDEPOS.COM
+--- End of Page 4 ---
+
+--- Beginning of Page 5 ---
+Line 1, 16:04:41: Deposition of
+Line 2, 16:04:41: Conducted o
+Line 3, 16:04:41: P R O C E E D I N G S
+Line 4, 16:04:41: OFFICER
+Line 5, 16:04:41: having been duly sworn, testified as follows.
+Line 6, 16:04:41: (Exhibits 1 through 2 were premarked for
+Line 7, 16:04:41: identification and were retained by counsel.)
+Line 8, 16:04:41: EXAMINATION BY COUNSEL FOR PLAINTI
+Line 9, 16:04:41: BY MR. FIORE:
+Line 10, 16:04:41: Q Would you state your full name for the
+Line 11, 16:04:41: record, sir?
+Line 12, 16:04:41: A Officer
+Line 13, 16:04:41: Q And your duty station, sir?
+Line 14, 16:04:41: A (Unintelligible) police crash team.
+Line 15, 16:04:41: Q Officer, my name is I'm an
+Line 16, 16:04:41: attorney, and I represent who is the
+Line 17, 16:04:41: pedestrian in a vehicle versus pedestrian accident
+Line 18, 16:04:41: that happened on September 19, 2013.
+Line 19, 16:04:41: Did you have some involvement in
+Line 20, 16:04:41: investigating that occurrence?
+Line 21, 16:04:41: A Yes.
+Line 22, 16:04:41: Q I want to ask you some questions today
+Line 23, 16:04:41: about yourself and about your investigation of that
+Line 24, 16:04:41: occurrence.
+--- End of Page 5 ---
+
+--- Beginning of Page 6 ---
+Line 1, 16:04:41: 8
+Line 2, 16:04:41: If at any time I ask you a question and 1 but it's over 200, a couple hundred hours of
+Line 3, 16:04:41: you don't hear it or you don't understand it, please 2 training with like Levels 1, 2, 3, pedestrian,
+Line 4, 16:04:41: tell me that and I'll repeat the question for you or 3 motorcycle, crush -- I mean, there's a multitude of
+Line 5, 16:04:41: I'll ask it a different way. 4 schools. Again, I can't remember them all right
+Line 6, 16:04:41: You were sworn today with the same oath 5 now.
+Line 7, 16:04:41: that you would take at the trial of this case. So, 6 Q Was some of that training with the
+Line 8, 16:04:41: if you answer any question for us today, we all 7 police department?
+Line 9, 16:04:41: shall take it that you heard the question and that 8 A Except for the college degree, all of the
+Line 10, 16:04:41: you understood it and that you then gave your sworn 9 other training was with the police department.
+Line 11, 16:04:41: answer; is all of that clear? 10 Q And you have conducted accident
+Line 12, 16:04:41: A Yes. 11 reconstruction investigations in your career as a
+Line 13, 16:04:41: Q Have you ever had your deposition taken 12 police officer, I take?
+Line 14, 16:04:41: before in an official capacity? 13 A Yes.
+Line 15, 16:04:41: A Yes. 14 Q How many have you done where you were the
+Line 16, 16:04:41: Q In connection with your investigation of 15 lead investigator, if you will, approximately?
+Line 17, 16:04:41: motor vehicle accidents or something else? 16 A I'm thinking. Usually I write around 30
+Line 18, 16:04:41: A Both. 17 reports a year, and I've been doing it for eight
+Line 19, 16:04:41: Q Both? 18 years, so that's --
+Line 20, 16:04:41: A Uh-huh. 19 Q A lot of reports?
+Line 21, 16:04:41: Q Okay. How many times have you had your 20 A I mean, with actual reconstruction, maybe
+Line 22, 16:04:41: deposition taken with regard to motor vehicle 21 200.
+Line 23, 16:04:41: accident investigation, approximately? 22 Q And you're approximating?
+Line 24, 16:04:41: PLANET DEPOS
+Line 25, 16:04:41: 888.433.3767 | WWW.PLANETDEPOS.COM
+--- End of Page 6 ---
+
+--- Beginning of Page 7 ---
+Line 1, 16:04:41: Deposition of
+Line 2, 16:04:41: Conducted o
+Line 3, 16:04:41: A Yes.
+Line 4, 16:04:41: Q Have you had any contact with me before
+Line 5, 16:04:41: today?
+Line 6, 16:04:41: A I don't think so.
+Line 7, 16:04:41: Q Have you had any contact with ,
+Line 8, 16:04:41: the attorney who represents the driver of the
+Line 9, 16:04:41: vehicle in this incident, before today?
+Line 10, 16:04:41: A No.
+Line 11, 16:04:41: Q With regard to that pedestrian versus car
+Line 12, 16:04:41: incident that happened on September 19, 2013, wha
+Line 13, 16:04:41: was your role in that investigation?
+Line 14, 16:04:41: A Lead investigator.
+Line 15, 16:04:41: Q Were there others that assisted you in the
+Line 16, 16:04:41: investigation?
+Line 17, 16:04:41: A Yes.
+Line 18, 16:04:41: Q How many others?
+Line 19, 16:04:41: A I don't recall.
+Line 20, 16:04:41: Q But you were the lead?
+Line 21, 16:04:41: A Uh-huh; yes.
+Line 22, 16:04:41: Q Were you the first officer upon the scene
+Line 23, 16:04:41: that day?
+Line 24, 16:04:41: A No.
+--- End of Page 7 ---
+
+--- Beginning of Page 8 ---
+Line 1, 16:04:41: 12
+Line 2, 16:04:41: Q When you arrived, had the scene been 1 A Yes.
+Line 3, 16:04:41: secured by other officers? 2 Q Okay. So please feel free to do so.
+Line 4, 16:04:41: A Yes. 3 You arrived on the scene, and you do
+Line 5, 16:04:41: Q Exhibit 1 in the deposition is your -- is 4 remember you weren't the first officer on the scene?
+Line 6, 16:04:41: the state of Maryland Motor Vehicle Accident Report, 5 A I wouldn't have been the first officer.
+Line 7, 16:04:41: No. . 6 My unit is called secondary. After it is deemed the
+Line 8, 16:04:41: Is that a report you had any hand in 7 person is injured enough and they are going to a
+Line 9, 16:04:41: preparing? 8 trauma center and have a certain amount of injuries,
+Line 10, 16:04:41: A Yes. 9 we are called in to do the investigation.
+Line 11, 16:04:41: Q What was your involvement in preparing 10 Q So you know you weren't the first officer
+Line 12, 16:04:41: that report that's Exhibit 1? 11 on the scene because of that fact?
+Line 13, 16:04:41: A I wrote the report. 12 A Yes.
+Line 14, 16:04:41: Q Did anyone else give you input into the 13 Q When you arrived at the scene, do you have
+Line 15, 16:04:41: report as far as police officer personnel go, not 14 any recollection of getting there and what you saw
+Line 16, 16:04:41: fact witnesses? 15 when you got there?
+Line 17, 16:04:41: A I don't recall. 16 A No.
+Line 18, 16:04:41: Q The incident is reported on Exhibit 1 as 17 Q What would have been your protocol back on
+Line 19, 16:04:41: happening on September 19, 2013, at 1800 hours. 18 September 19, 2013, to investigate an accident of
+Line 20, 16:04:41: Is that in accord with your recollection? 19 this nature?
+Line 21, 16:04:41: A Honestly, I don't -- it was over three 20 You received a call saying it was a car
+Line 22, 16:04:41: years ago. I don't recall every detail. That's why 21 and a pedestrian; did you have that much
+Line 23, 16:04:41: I write the report. So, if it's on the report, 22 information?
+Line 24, 16:04:41: PLANET DEPOS
+Line 25, 16:04:41: 888.433.3767 | WWW.PLANETDEPOS.COM
+--- End of Page 8 ---
+
+--- Beginning of Page 5 ---
+Line 1, 16:04:42: Deposition of
+Line 2, 16:04:42: Conducted o
+Line 3, 16:04:42: A If we -- if the crash came up, the police
+Line 4, 16:04:42: responded, and patrol units would request the crash
+Line 5, 16:04:42: team and we responded, we would go to the scene an
+Line 6, 16:04:42: I guess, get out and talk to witnesses, analyze the
+Line 7, 16:04:42: scene, take measurements and photographs, and
+Line 8, 16:04:42: respond to the hospital. I guess that's normal
+Line 9, 16:04:42: protocol.
+Line 10, 16:04:42: Q When you arrived, were you alone?
+Line 11, 16:04:42: A I don't recall.
+Line 12, 16:04:42: Q What would have been the practice; would
+Line 13, 16:04:42: you have been alone or would you have had someone
+Line 14, 16:04:42: with you?
+Line 15, 16:04:42: A Usually, it's one officer per car, and we
+Line 16, 16:04:42: work the entire county so it's not -- other people
+Line 17, 16:04:42: could have been other places in the county and they
+Line 18, 16:04:42: all go to the crash so we respond at different
+Line 19, 16:04:42: times. So I don't recall.
+Line 20, 16:04:42: Q What equipment did you have with you; did
+Line 21, 16:04:42: you have a digital camera?
+Line 22, 16:04:42: A For the unit, yes, because we use a
+Line 23, 16:04:42: digital camera for pictures, but each car has
+Line 24, 16:04:42: different equipment in it. I mean, usually it's
+--- End of Page 5 ---
+
+--- Beginning of Page 6 ---
+Line 1, 16:04:42: 16
+Line 2, 16:04:42: measuring equipment, like a wheelie-walker, tape 1 would one of your subordinates speak with the
+Line 3, 16:04:42: measures, levels, that kind of thing. But, as in 2 witnesses?
+Line 4, 16:04:42: who brought the camera that was used, I don't 3 A When we arrive at a scene, we all take
+Line 5, 16:04:42: recall. 4 different jobs just to facilitate, I guess, handling
+Line 6, 16:04:42: Q Did you take the pictures? 5 the crash quicker to open up the roadway. So
+Line 7, 16:04:42: A I don't recall if I did or not. 6 somebody does pictures, somebody does measurements,
+Line 8, 16:04:42: Q The pictures that are marked as Exhibit 2 7 somebody talks to witnesses, somebody talks to the
+Line 9, 16:04:42: and they are subtitled A through M, do you recognize 8 drivers. So the jobs get shuffled up every time we
+Line 10, 16:04:42: those as pictures from this file? 9 go.
+Line 11, 16:04:42: A Yes. The only the thing I'd say is that's 10 Q So you can't say who would have done --
+Line 12, 16:04:42: my arm -- 11 A Yeah.
+Line 13, 16:04:42: Q Okay. 12 Q -- that task on September 19, 2013?
+Line 14, 16:04:42: A -- on J. 13 A No.
+Line 15, 16:04:42: Q On Exhibit 2J, you recognize your arm, and 14 Q There is a statement from the driver which
+Line 16, 16:04:42: it's the exhibit of the hand holding the shoe? 15 is part of Exhibit 1, the second to last page, and
+Line 17, 16:04:42: A Yes. So, by that, I would surmise that I 16 then also from a witness named Grant Baber. You're
+Line 18, 16:04:42: took the pictures. 17 looking at those statements right now.
+Line 19, 16:04:42: Q When you arrived at the scene, do you have 18 Looking at them, does that assist at all,
+Line 20, 16:04:42: any recollection of speaking with the operator of 19 jog your memory, as to whether you were involved in
+Line 21, 16:04:42: the motor vehicle identified as Lisa Michelle 20 the completion of this statement?
+Line 22, 16:04:42: Barracato? 21 A By completion of the statement, what do
+Line 23, 16:04:42: A I don't remember talking to her 22 you mean, like taking the statement from the
+Line 24, 16:04:42: PLANET DEPOS
+Line 25, 16:04:42: 888.433.3767 | WWW.PLANETDEPOS.COM
+--- End of Page 6 ---
+
+--- Beginning of Page 7 ---
+Line 1, 16:04:42: Deposition of
+Line 2, 16:04:42: Conducted o
+Line 3, 16:04:42: individual?
+Line 4, 16:04:42: Q Yes.
+Line 5, 16:04:42: A No, it doesn't. I would say, like, our
+Line 6, 16:04:42: normal protocol is I don't take the statement, but
+Line 7, 16:04:42: my name is on the long form because that's -- they
+Line 8, 16:04:42: all have to filled out. Since it's my report, I get
+Line 9, 16:04:42: all the statements and I just put my name on them
+Line 10, 16:04:42: Q Understood.
+Line 11, 16:04:42: A -- before we turn in the report.
+Line 12, 16:04:42: Q Okay. That's why I was asking.
+Line 13, 16:04:42: So I know you don't have any independent
+Line 14, 16:04:42: recollection of this specific accident, but take me
+Line 15, 16:04:42: through the steps that you would go through when
+Line 16, 16:04:42: investigating an accident of this nature back at
+Line 17, 16:04:42: that time.
+Line 18, 16:04:42: A Um --
+Line 19, 16:04:42: Q Just in summary form. You don't have to
+Line 20, 16:04:42: go into great detail.
+Line 21, 16:04:42: A I respond to the scene, and I get out.
+Line 22, 16:04:42: Usually I walk the scene to get an idea of what
+Line 23, 16:04:42: happened, if there's any evidence on the road,
+Line 24, 16:04:42: damage to the car, see if there are witnesses.
+--- End of Page 7 ---
+
+--- Beginning of Page 8 ---
+Line 1, 16:04:42: 20
+Line 2, 16:04:42: Then it's take notes of the car, note any 1 the scene is left alone. So cars are not supposed
+Line 3, 16:04:42: vehicle damage, take photographs of the car, 2 to be moved before our arrival; and, if they are, we
+Line 4, 16:04:42: photograph the scene, make note of any evidence in 3 are noted, like we are given notation.
+Line 5, 16:04:42: the roadway of either shoe scuffs, hats, shoes, 4 Q And you don't have any notation that this
+Line 6, 16:04:42: blood. 5 vehicle was moved before you arrived on the scene?
+Line 7, 16:04:42: Then measure the scene, measure the 6 A Correct.
+Line 8, 16:04:42: evidence that we found, and talk to the witnesses 7 Q There were cones set up as shown in
+Line 9, 16:04:42: and drivers, if they are available and at the scene. 8 photograph 2A.
+Line 10, 16:04:42: Then, once the on-scene investigation is complete, 9 Would those be cones you would have placed
+Line 11, 16:04:42: then usually it's respond to the hospital and speak 10 just from your practice or would they have been put
+Line 12, 16:04:42: to the individuals involved. 11 there before you arrived?
+Line 13, 16:04:42: Q And you don't have any recollection of 12 A I would say it's standard practice for a
+Line 14, 16:04:42: going to the hospital and speaking with 13 patrol to cone items, especially in pedestrian
+Line 15, 16:04:42: ? 14 crashes, that are of interest, shoes, hats, and
+Line 16, 16:04:42: A No. 15 that. So they know, if somehow somebody kicks it
+Line 17, 16:04:42: Q Exhibit 2 is the photographs taken at the 16 and it's moved, they still have the general area of
+Line 18, 16:04:42: scene, we believe. The third picture, photo C 17 where it was.
+Line 19, 16:04:42: labeled down in the corner, shows -- it looks like 18 So we usually do not put down cones. I
+Line 20, 16:04:42: an officer is in the vehicle I presume trying to get 19 mean, it has happened in the past, but as a general
+Line 21, 16:04:42: data from the hookup in the vehicle. 20 practice usually a patrol does it.
+Line 22, 16:04:42: Is that you in that photograph? 21 Q On page 2 of Exhibit 1, which is the
+Line 23, 16:04:42: A No. 22 police report, in the middle of the page there's a
+Line 24, 16:04:42: PLANET DEPOS
+Line 25, 16:04:42: 888.433.3767 | WWW.PLANETDEPOS.COM
+--- End of Page 8 ---
+
+--- Beginning of Page 9 ---
+Line 1, 16:04:42: Deposition of
+Line 2, 16:04:42: Conducted o
+Line 3, 16:04:42: heading, quote, Part 2: Observations (of the
+Line 4, 16:04:42: investigator).
+Line 5, 16:04:42: Are you the investigator referred to
+Line 6, 16:04:42: there?
+Line 7, 16:04:42: A Yes.
+Line 8, 16:04:42: Q So those were your observations in the
+Line 9, 16:04:42: narration underneath part 2?
+Line 10, 16:04:42: A Yes.
+Line 11, 16:04:42: Q Let's go down to the one thing that you do
+Line 12, 16:04:42: specifically recall because it was unusual and that
+Line 13, 16:04:42: is the dirt mark in the road.
+Line 14, 16:04:42: Was it dirt or was it, in fact, dog feces
+Line 15, 16:04:42: or a combination of both?
+Line 16, 16:04:42: A I think it was a combination of both
+Line 17, 16:04:42: because it was unusual. Shoe scuffs are very har
+Line 18, 16:04:42: to find and to have one on scene is kind of -- it's
+Line 19, 16:04:42: a rarity. The dirt on the shoe makes the shoe
+Line 20, 16:04:42: scuff. Like I said, that's the only thing I
+Line 21, 16:04:42: remember from the crash.
+Line 22, 16:04:42: Q Fair enough. How did you determine that
+Line 23, 16:04:42: the -- strike that.
+Line 24, 16:04:42: There's a photo in Exhibit 2, subphoto D,
+--- End of Page 9 ---
+
+--- Beginning of Page 10 ---
+Line 1, 16:04:42: 24
+Line 2, 16:04:42: the fourth one down. 1 points for the following measurements.
+Line 3, 16:04:42: Is that a photo of the transfer of the 2 Q Okay. And then you measured the road
+Line 4, 16:04:42: dirt or dog feces to the roadway that you're talking 3 dimensions of Wilkens Avenue?
+Line 5, 16:04:42: about remembering? 4 A Yes.
+Line 6, 16:04:42: A Yes. 5 Q And that's not using the reference points.
+Line 7, 16:04:42: Q And it's your opinion that shows what? 6 That's just measuring the roadway; correct?
+Line 8, 16:04:42: A It shows where the shoe was located when 7 A Yes.
+Line 9, 16:04:42: it was, I guess, abruptly moved sideways. That 8 Q Then, beneath that, you have measurements
+Line 10, 16:04:42: would be considered the AOI, area of impact. 9 of the wheel position of all four wheels of the
+Line 11, 16:04:42: Q Going on down, photo J is the shoe, and 10 vehicle.
+Line 12, 16:04:42: we've already commented you remember that's you hold 11 Are those measurements taken with regard
+Line 13, 16:04:42: the shoe there? 12 to the reference points?
+Line 14, 16:04:42: A Uh-huh. 13 A Yes.
+Line 15, 16:04:42: Q Did you take that photograph or would 14 Q Can you show me maybe using page 9 of the
+Line 16, 16:04:42: someone else have taken it? 15 report, the page with the diagram -- is it possible
+Line 17, 16:04:42: A I would have taken it. 16 to show me or show us, because we have some
+Line 18, 16:04:42: Q Okay. In determining that the transfer of 17 confusion, where those reference points are, if we
+Line 19, 16:04:42: the soil to the roadway was the point of impact, did 18 come around and take a look?
+Line 20, 16:04:42: you use any calculations or was it just your 19 A Okay.
+Line 21, 16:04:42: reckoning from what you saw? 20 Q And the reason I'm asking is because I had
+Line 22, 16:04:42: In other words, did you use any analysis 21 a little trouble getting it.
+Line 23, 16:04:42: to arrive at that or was it just from a visual 22 A If you look on --
+Line 24, 16:04:42: PLANET DEPOS
+Line 25, 16:04:42: 888.433.3767 | WWW.PLANETDEPOS.COM
+--- End of Page 10 ---
+
+--- Beginning of Page 11 ---
+Line 1, 16:04:42: Deposition of
+Line 2, 16:04:42: Conducted o
+Line 3, 16:04:42: Q Do you mind if we stand around you?
+Line 4, 16:04:42: A See how I have this marked here and that
+Line 5, 16:04:42: marked there? They are my references. I'm using
+Line 6, 16:04:42: the curb here.
+Line 7, 16:04:42: MR. FIORE: Okay. Let's do this, then.
+Line 8, 16:04:42: Let's mark this as the next exhibit.
+Line 9, 16:04:42: (Exhibit 3 was marked for identification
+Line 10, 16:04:42: and was retained by counsel.)
+Line 11, 16:04:42: Q We're talking about the reference points
+Line 12, 16:04:42: that you used in Exhibit 1 to take some
+Line 13, 16:04:42: measurements. I'm showing you now what is marked
+Line 14, 16:04:42: Exhibit 3.
+Line 15, 16:04:42: Can you identify what that is?
+Line 16, 16:04:42: A A copy of my diagram, handwritten diagra
+Line 17, 16:04:42: Q And would this diagram have been created
+Line 18, 16:04:42: at the scene or at some point later?
+Line 19, 16:04:42: A At the scene.
+Line 20, 16:04:42: Q Can you show us on Exhibit 3 the reference
+Line 21, 16:04:42: points you're using when you say you're using the
+Line 22, 16:04:42: east curb of Beechfield Avenue and the south curb of
+Line 23, 16:04:42: Wilkens Avenue as reference points?
+Line 24, 16:04:42: A The east curb of Beechfield and the south
+--- End of Page 11 ---
+
+--- Beginning of Page 12 ---
+Line 1, 16:04:42: 28
+Line 2, 16:04:42: curb of Wilkens. 1 of the final resting point of the pedestrian other
+Line 3, 16:04:42: Q Okay. And then you have drawn in a 2 than the pool of blood?
+Line 4, 16:04:42: rectangle which depicts the approximate place of the 3 A Calculation or measurement?
+Line 5, 16:04:42: vehicle? 4 Because the resting point was not
+Line 6, 16:04:42: A Yes. 5 calculated, but measured.
+Line 7, 16:04:42: Q And you have drawn in a stick figure that 6 Q And it was measured from the reference
+Line 8, 16:04:42: depicts the approximate place of the resting point 7 point to the pool of blood?
+Line 9, 16:04:42: for the pedestrian? 8 A Yes.
+Line 10, 16:04:42: A Yes. 9 Q I understand.
+Line 11, 16:04:42: Q And you have drawn in a dark line along 10 Did you have any idea of the speed of the
+Line 12, 16:04:42: the curbing. 11 vehicle just from what you saw there?
+Line 13, 16:04:42: Does that indicate the sewer grate? 12 A From my experience, it looked like a
+Line 14, 16:04:42: A No. That's just a reference for myself to 13 low-speed impact.
+Line 15, 16:04:42: know what curbs I used as reference points. 14 Q And were you basing that on the damage to
+Line 16, 16:04:42: Q Okay. So the two dark lines along the 15 the motor vehicle?
+Line 17, 16:04:42: curbing are just indications of that's the reference 16 A It's the damage to the motor vehicle and
+Line 18, 16:04:42: point -- those are the reference points? 17 the distance from where the pedestrian was struck to
+Line 19, 16:04:42: A Yes. 18 where they came to final rest. The higher the
+Line 20, 16:04:42: Q So, in your report where you say the right 19 speed, the greater the distance.
+Line 21, 16:04:42: front wheel was 37 feet, 9 inches east and 9 feet -- 20 Q And I would presume the more damage to the
+Line 22, 16:04:42: and 4 feet, 0 inches north of the reference point, 21 car --
+Line 23, 16:04:42: can you show us on Exhibit 3 where you're measuring 22 A Yes.
+Line 24, 16:04:42: PLANET DEPOS
+Line 25, 16:04:42: 888.433.3767 | WWW.PLANETDEPOS.COM
+--- End of Page 12 ---
+
+--- Beginning of Page 9 ---
+Line 1, 16:04:42: Deposition of
+Line 2, 16:04:42: Conducted o
+Line 3, 16:04:42: Q -- likely as well?
+Line 4, 16:04:42: You hadn't done the calculations to come
+Line 5, 16:04:42: up with the approximate speed the vehicle was goin
+Line 6, 16:04:42: at the scene. Just eyeballing it, your conclusion
+Line 7, 16:04:42: was, well, this wasn't a high-speed impact?
+Line 8, 16:04:42: A Correct.
+Line 9, 16:04:42: Q And you don't recall the driver of the
+Line 10, 16:04:42: vehicle saying anything to you as far as what her
+Line 11, 16:04:42: speed was?
+Line 12, 16:04:42: A No.
+Line 13, 16:04:42: Q There is a statement by the witness, Grant
+Line 14, 16:04:42: Baber, on the last page of Exhibit 1 where he states
+Line 15, 16:04:42: or writes that the vehicle, the black SUV, was
+Line 16, 16:04:42: "traveling at a high rate of speed."
+Line 17, 16:04:42: Did you attach any significance to that
+Line 18, 16:04:42: statement?
+Line 19, 16:04:42: A No.
+Line 20, 16:04:42: Q Why not?
+Line 21, 16:04:42: A Most witnesses have a false perception of
+Line 22, 16:04:42: speed.
+Line 23, 16:04:42: Q Do you remember speaking with Mr. Baber
+Line 24, 16:04:42: A No.
+--- End of Page 9 ---
+
+--- Beginning of Page 10 ---
+Line 1, 16:04:42: 32
+Line 2, 16:04:42: Q Mr. Baber also writes "he -- meaning the 1 A I would -- I don't know.
+Line 3, 16:04:42: pedestrian -- was in the crosswalk at the time." 2 Q How wide is your standard crosswalk when
+Line 4, 16:04:42: Did you attach any significance to that 3 one is painted on the roadway?
+Line 5, 16:04:42: statement? 4 A I don't know the specific dimensions, but
+Line 6, 16:04:42: A No. 5 usually I would say eight to ten feet.
+Line 7, 16:04:42: Q Why not? 6 Q And you're approximating?
+Line 8, 16:04:42: A Well, the area of the impact put the -- I 7 A It's an approximation.
+Line 9, 16:04:42: mean, the shoe scuff put the area of impact outside 8 Q In your experience, are they usually
+Line 10, 16:04:42: of a crosswalk. So pedestrians have -- not 9 uniform sizes when they're painted or do they vary
+Line 11, 16:04:42: pedestrians, excuse me, witnesses don't have the 10 in what you've seen?
+Line 12, 16:04:42: best recollections. 11 A They vary.
+Line 13, 16:04:42: Q Was there a crosswalk at the intersection 12 Q Do you know where Mr. entered
+Line 14, 16:04:42: there where the accident occurred, where this 13 the roadway of Wilkens Avenue?
+Line 15, 16:04:42: pedestrian was crossing? 14 A As in?
+Line 16, 16:04:42: A For Wilkens Avenue where the crash 15 Q Can you identify within a few feet where
+Line 17, 16:04:42: occurred there was no crosswalk. 16 he entered the roadway?
+Line 18, 16:04:42: Q Are you saying there were no painted 17 A No.
+Line 19, 16:04:42: crosswalk lines on the roadway? 18 Q Is your understanding of where he was, at
+Line 20, 16:04:42: A No. 19 least when the contact occurred, limited to that
+Line 21, 16:04:42: Q That's correct, there were no painted 20 scuff mark from the shoe that's in the roadway?
+Line 22, 16:04:42: crosswalk lines on the roadway? 21 A Yes. There's physical evidence that puts
+Line 23, 16:04:42: A Correct. 22 him at that location.
+Line 24, 16:04:42: PLANET DEPOS
+Line 25, 16:04:42: 888.433.3767 | WWW.PLANETDEPOS.COM
+--- End of Page 10 ---
+
+--- Beginning of Page 11 ---
+Line 1, 16:04:42: Deposition of
+Line 2, 16:04:42: Conducted o
+Line 3, 16:04:42: Q Do you have any evidence that he was
+Line 4, 16:04:42: crossing the roadway in anything other than a
+Line 5, 16:04:42: straight line?
+Line 6, 16:04:42: A No evidence.
+Line 7, 16:04:42: Q Do you have any evidence of any other
+Line 8, 16:04:42: pedestrian crossing the roadway with him?
+Line 9, 16:04:42: I know you don't have specific recall of
+Line 10, 16:04:42: it, but does anything in your investigation, lookin
+Line 11, 16:04:42: at Exhibit 1, give you any indication that there wa
+Line 12, 16:04:42: more than one pedestrian crossing the roadway?
+Line 13, 16:04:42: A No.
+Line 14, 16:04:42: Q And that includes even the statement of
+Line 15, 16:04:42: the driver, Ms. Barracato; right?
+Line 16, 16:04:42: A Yes.
+Line 17, 16:04:42: Q Your report concludes, essentially, that
+Line 18, 16:04:42: the pedestrian is at fault for this accident.
+Line 19, 16:04:42: Why is that?
+Line 20, 16:04:42: A There's not a marked crosswalk.
+Line 21, 16:04:42: Basically, the pedestrian is illegally in the
+Line 22, 16:04:42: roadway. Cars have the right of way.
+Line 23, 16:04:42: Q Were you able to determine the color of
+--- End of Page 11 ---
+
+--- Beginning of Page 12 ---
+Line 1, 16:04:42: 36
+Line 2, 16:04:42: time the contact occurred? 1 CERTIFICATE OF SHORTHAND REPORTER-NOTARY PUBLIC
+Line 3, 16:04:42: A Was I able to determine the specific light 2 I, Linda H. Cole, the officer before whom
+Line 4, 16:04:42: color? 3 the foregoing deposition was taken, do hereby
+Line 5, 16:04:42: Q Yes. 4 certify that the foregoing transcript is a true and
+Line 6, 16:04:42: A No. 5 correct record of the testimony given; that said
+Line 7, 16:04:42: MR. FIORE: Those are all of the questions 6 testimony was taken by me stenographically and
+Line 8, 16:04:42: I have for you, Officer. Thank you so much. 7 thereafter reduced to typewriting under my
+Line 9, 16:04:42: EXAMINATION BY COUNSEL FOR DEFENDANT 8 supervision; and that I am neither counsel for,
+Line 10, 16:04:42: BY MR. COHEN: 9 related to, nor employed by any of the parties to
+Line 11, 16:04:42: Q I'll be very brief. Good morning again. 10 this case and have no interest, financial or
+Line 12, 16:04:42: A Good morning. 11 otherwise, in its outcome.
+Line 13, 16:04:42: Q My name is Adam Cohen. I represent the 12 IN WITNESS WHEREOF, I have hereunto set my
+Line 14, 16:04:42: driver, Lisa Barracato, involved in this incident. 13 hand and affixed my notarial seal this 18th day of
+Line 15, 16:04:42: Do you know either or 14 November, 2016.
+Line 16, 16:04:42: Lisa Barracato? 15 My commission expires July 19, 2018
+Line 17, 16:04:42: A No. 16
+Line 18, 16:04:42: Q And one of the findings that you would 17
+Line 19, 16:04:42: have noted at the scene would be skid marks if there 18 ____________________________________
+Line 20, 16:04:42: were any; correct? 19 NOTARY PUBLIC IN AND FOR
+Line 21, 16:04:42: A Yes. 20 STATE OF MARYLAND
+Line 22, 16:04:42: Q Were there any skid marks that you noted 21
+Line 23, 16:04:42: at the scene? 22
+Line 24, 16:04:42: PLANET DEPOS
+Line 25, 16:04:42: 888.433.3767 | WWW.PLANETDEPOS.COM
+--- End of Page 12 ---
+

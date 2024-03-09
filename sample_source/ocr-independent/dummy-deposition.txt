@@ -565,3 +565,570 @@ Line 30, 19:01:39: She still drives and is pursuing a degree online while caring
 Line 1, 19:01:39: She expects to graduate within the next year.
 --- End of Page 17 ---
 
+--- Beginning of Page 1 ---
+Line 1, 19:20:53: Deposition:
+Line 2, 19:20:53: Court Reporter: Please state your name for the record.
+Line 3, 19:20:53: Witness: Sarah Miller.
+Line 4, 19:20:53: Court Reporter: And how do you spell your last name, Ms. Miller?
+Line 5, 19:20:53: Witness: M-I-L-L-E-R.
+Line 6, 19:20:53: Mr. Brown: Ms. Miller, are you aware that today's proceedings are a legal deposition and that you are
+Line 7, 19:20:53: under oath to tell the truth, the whole truth, and nothing but the truth?
+Line 8, 19:20:53: Witness: Yes, I am aware.
+Line 9, 19:20:53: Mr. Brown: Thank you. Ms. Miller, were you present at the intersection of Main Street and Maple
+Line 10, 19:20:53: Avenue on July 15th, 2023, at approximately 3:00 pm?
+Line 11, 19:20:53: Witness: Yes, I was. I was waiting at the red light on Maple Avenue, southbound, facing east.
+Line 12, 19:20:53: Mr. Brown: Did you witness any accidents at that intersection at that time?
+Line 13, 19:20:53: Witness: Yes, I did. I saw a car traveling westbound on Main Street, which I believe was a blue sedan, run
+Line 14, 19:20:53: the red light and collide with a car traveling northbound on Maple Avenue, which I believe was a white
+Line 15, 19:20:53: SUV.
+Line 16, 19:20:53: Mr. Brown: Can you describe the collision in more detail?
+Line 17, 19:20:53: Witness: The blue sedan seemed to be traveling at a high speed and didn't slow down or attempt to stop
+Line 18, 19:20:53: at the red light. It hit the white SUV directly on the driver's side. The impact was quite forceful, and both
+Line 19, 19:20:53: cars spun around significantly.
+Line 20, 19:20:53: Mr. Lee: Ms. Miller, you mentioned the blue sedan was traveling at a high speed. How fast would you
+Line 21, 19:20:53: say it was going?
+Line 22, 19:20:53: Witness: It's difficult to say for sure, but it appeared to be going much faster than the posted speed
+Line 23, 19:20:53: limit, which is 35 miles per hour.
+Line 24, 19:20:53: Mr. Lee: Did you see the driver of either vehicle at any point?
+Line 25, 19:20:53: Witness: No, I didn't.
+Line 26, 19:20:53: Mr. Brown: Ms. Miller, did you notice anything unusual about the driver's behavior in the blue sedan
+Line 27, 19:20:53: before the accident?
+Line 28, 19:20:53: Witness: It's hard to say. Everything happened very quickly, but the car did seem to be swerving slightly
+Line 29, 19:20:53: just before the collision.
+Line 30, 19:20:53: Mr. Lee: Ms. Miller, did you call the police or offer assistance to anyone involved in the accident?
+Line 31, 19:20:53: Witness: Yes, I immediately called 911 and stayed at the scene until the police arrived.
+Line 32, 19:20:53: Mr. Brown: Did you speak to anyone else who may have witnessed the accident?
+--- End of Page 1 ---
+
+--- Beginning of Page 2 ---
+Line 1, 19:20:53: Witness: Yes, I exchanged information with another driver who was stopped next to me on Maple
+Line 2, 19:20:53: Avenue at the time.
+Line 3, 19:20:53: Mr. Lee: Do you recall the make and model of the other vehicle that you spoke to?
+Line 4, 19:20:53: Witness: I believe it was a silver Toyota Camry, but I'm not entirely sure.
+Line 5, 19:20:53: Mr. Brown: That's all my questions at this time.
+Line 6, 19:20:53: Mr. Lee: I have no further questions
+Line 7, 19:20:53: Summary:
+Line 8, 19:20:53: The excerpt is from a legal deposition of Michael Anderson, who is under oath to tell the truth. Mr.
+Line 9, 19:20:53: Anderson confirms his employment at Acme Corporation as a graphic designer and details his job duties.
+Line 10, 19:20:53: He also confirms receiving positive performance reviews and never facing disciplinary actions. The
+Line 11, 19:20:53: excerpt ends with a question about witnessing or experiencing any discriminatory situations at Acme.
+--- End of Page 2 ---
+
+--- Beginning of Page 3 ---
+Line 1, 19:20:53: Deposition:
+Line 2, 19:20:53: Ms. Garcia: Objection, that question calls for legal conclusions from the witness.
+Line 3, 19:20:53: Mr. Thompson: Withdrawn. Mr. Anderson, please describe any specific incidents or instances at Acme
+Line 4, 19:20:53: that involved your [protected category].
+Line 5, 19:20:53: Witness: There were several things that made me feel uncomfortable. During meetings, colleagues often
+Line 6, 19:20:53: talked over me or dismissed my ideas, particularly when compared to my younger male colleagues. I
+Line 7, 19:20:53: was also consistently passed over for promotions despite having experience and qualifications
+Line 8, 19:20:53: comparable to others who got promoted.
+Line 9, 19:20:53: Ms. Garcia: Mr. Anderson, can you be specific about which colleagues treated you this way and provide
+Line 10, 19:20:53: specific examples of situations where these incidents occurred?
+Line 11, 19:20:53: Witness: One specific example would be the marketing campaign for the new product launch in 2023. I
+Line 12, 19:20:53: put significant effort into developing design concepts, but they were ultimately disregarded without any
+Line 13, 19:20:53: explanation. My male colleague's design, which was very similar to mine, was ultimately chosen.
+Line 14, 19:20:53: Mr. Thompson: Did you ever report any of these incidents to your supervisor or anyone else at Acme?
+Line 15, 19:20:53: Witness: I once mentioned feeling undervalued to my supervisor, but they brushed it off, suggesting I
+Line 16, 19:20:53: needed to "work harder to prove myself." I wasn't comfortable bringing it up further after that.
+Line 17, 19:20:53: Mr. Thompson: Did you decide to leave Acme voluntarily, or were you terminated?
+Line 18, 19:20:53: Witness: When they announced another promotion I felt qualified for, but was once again passed over
+Line 19, 19:20:53: without explanation, I decided it was time to find a new position where I felt valued and respected.
+Line 20, 19:20:53: Ms. Garcia: Mr. Anderson, can you confirm that your decision to leave Acme was solely based on not
+Line 21, 19:20:53: receiving the promotion, and not due to other factors like job performance or personal reasons?
+Line 22, 19:20:53: Witness: To the best of my knowledge, yes. It became clear to me that further advancement
+Line 23, 19:20:53: opportunities within the company were unlikely.
+Line 24, 19:20:53: Mr. Thompson: That's all my questions at this time.
+Line 25, 19:20:53: Ms. Garcia: Mr. Anderson, during your time at Acme, did you ever receive any negative performance
+Line 26, 19:20:53: reviews or warnings related to your work performance?
+Line 27, 19:20:53: Witness: No, as mentioned before, my performance reviews were always positive.
+Line 28, 19:20:53: Ms. Garcia: Did you ever attend any diversity and inclusion training offered by Acme during your
+Line 29, 19:20:53: employment?
+Line 30, 19:20:53: Witness: I did participate in the mandatory online training modules, but there weren't any specific
+Line 31, 19:20:53: training sessions related to addressing or reporting potentially discriminatory situations within the
+Line 32, 19:20:53: company.
+Line 33, 19:20:53: Summary
+--- End of Page 3 ---
+
+--- Beginning of Page 4 ---
+Line 1, 19:20:53: Michael Anderson details specific incidents supporting his feeling of being undervalued based on his
+Line 2, 19:20:53: protected category. He describes colleagues disregarding his ideas and being passed over for
+Line 3, 19:20:53: promotions despite comparable qualifications. He provides a specific example from the 2023 product
+Line 4, 19:20:53: launch where his design was overlooked in favor of a male colleague's similar work. He mentions
+Line 5, 19:20:53: mentioning his concerns to his supervisor but being discouraged from pursuing them. He clarifies his
+Line 6, 19:20:53: decision to leave Acme was due to the lack of advancement opportunities, not performance or personal
+Line 7, 19:20:53: reasons. Ms. Garcia then establishes that Mr. Anderson's performance was consistently good and that
+Line 8, 19:20:53: he participated in available diversity training while at Acme, though specific training for addressing
+Line 9, 19:20:53: potential discrimination was absent.
+Line 10, 19:20:53: Deposition:
+Line 11, 19:20:53: Ms. Garcia: Mr. Anderson, are you aware of Acme's anti-discrimination policy or how complaints of
+Line 12, 19:20:53: discrimination are addressed within the company?
+Line 13, 19:20:53: Witness: I reviewed the employee handbook, which did explain the existence of an anti-discrimination
+Line 14, 19:20:53: policy. However, I was unsure of the specific complaint process at the time
+Line 15, 19:20:53: Ms. Garcia: Mr. Anderson, can you elaborate on why you felt apprehensive about bringing up these
+Line 16, 19:20:53: incidents to your supervisor despite feeling uncomfortable and undervalued?
+Line 17, 19:20:53: Witness: Honestly, there were a few reasons. Firstly, as I mentioned, when I did hint at feeling
+Line 18, 19:20:53: undervalued to my supervisor, their dismissive response discouraged me from further discussions. It
+Line 19, 19:20:53: seemed like they weren't receptive to hearing about any potential issues.
+Line 20, 19:20:53: Secondly, there was a general company culture that made me hesitant to speak up. Younger male
+Line 21, 19:20:53: colleagues often dominated conversations and presentations, and there weren't many women in senior
+Line 22, 19:20:53: positions within the marketing department. It felt like my voice wouldn't be heard or even worse, that
+Line 23, 19:20:53: bringing forward complaints might lead to retaliation or hinder my career further.
+Line 24, 19:20:53: Ms. Garcia: Did you notice any specific instances of retaliation against other employees who may have
+Line 25, 19:20:53: raised complaints or concerns about work environment issues?
+Line 26, 19:20:53: Witness: While I can't say for sure, there was one colleague, Sarah Lopez, who openly challenged gender
+Line 27, 19:20:53: bias during a department meeting but was subsequently given less desirable project assignments
+Line 28, 19:20:53: compared to her male colleagues. This incident definitely reinforced my concerns about potentially
+Line 29, 19:20:53: facing a similar situation.**
+Line 30, 19:20:53: Mr. Thompson: Objection, speculation about an unrelated case is irrelevant to the present matter.
+Line 31, 19:20:53: Ms. Garcia: Withdrawn. Mr. Anderson, did you ever discuss your concerns about potential bias or lack of
+Line 32, 19:20:53: promotion opportunities with any human resources personnel at Acme?
+Line 33, 19:20:53: Witness: No, I didn't. As I mentioned before, the lack of clarity on the specific complaint process
+Line 34, 19:20:53: combined with the overall culture discouraged me from pursuing that route.
+Line 35, 19:20:53: Ms. Garcia: Mr. Anderson, since leaving Acme, have you sought employment elsewhere?
+--- End of Page 4 ---
+
+--- Beginning of Page 5 ---
+Line 1, 19:20:54: Witness: Yes, I am currently employed at a different company and feel much more valued and respected
+Line 2, 19:20:54: in my current role. The work environment is significantly more inclusive, and I regularly receive positive
+Line 3, 19:20:54: feedback and opportunities for professional development.
+Line 4, 19:20:54: Mr. Thompson: Mr. Anderson, how has your experience at Acme impacted you personally and
+Line 5, 19:20:54: professionally?
+Line 6, 19:20:54: Witness: It was definitely a frustrating and discouraging experience. It felt like my hard work and
+Line 7, 19:20:54: qualifications weren't being recognized fairly, leading to some self-doubt and a sense of being
+Line 8, 19:20:54: undervalued. However, finding a new and positive work environment has helped me rebuild my
+Line 9, 19:20:54: confidence and refocus on my career goals.
+Line 10, 19:20:54: Ms. Garcia: I have no further questions.
+Line 11, 19:20:54: Summary
+Line 12, 19:20:54: This segment explores Mr. Anderson's reasons for not formally complaining despite feeling undervalued.
+Line 13, 19:20:54: He reiterates his supervisor's dismissive response and the perceived lack of receptiveness within the
+Line 14, 19:20:54: company culture. He describes a specific instance where a colleague who challenged gender bias faced
+Line 15, 19:20:54: negative consequences, reinforcing his fear of retaliation. He clarifies that he didn't pursue HR due to
+Line 16, 19:20:54: unclear procedures and the discouraging company culture. Finally, he highlights his positive experience
+Line 17, 19:20:54: at a new company, emphasizing feelings of value, inclusion, and professional growth in contrast to his
+Line 18, 19:20:54: experience at Acme. He concludes by acknowledging the frustration and self-doubt from Acme but also
+Line 19, 19:20:54: the positive impact of finding a supportive work environment.
+Line 20, 19:20:54: Deposition
+Line 21, 19:20:54: Mr. Thompson: I have one final question. Mr. Anderson, is there anything else you would like to add
+Line 22, 19:20:54: regarding your experience at Acme Corporation?
+Line 23, 19:20:54: Witness: Just that I hope by sharing my story, it can contribute to fostering a more diverse and inclusive
+Line 24, 19:20:54: work environment at Acme for future employees. Everyone deserves to feel valued and respected in
+Line 25, 19:20:54: their workplace, regardless of their [protected category].
+Line 26, 19:20:54: Mr. Thompson: Interesting point, Mr. Anderson. Ms. Garcia, while you have no further questions, I'd like
+Line 27, 19:20:54: to explore some aspects of Mr. Anderson's experience further before concluding the deposition.
+Line 28, 19:20:54: Ms. Garcia: No objection. Please proceed, Mr. Thompson.
+Line 29, 19:20:54: Mr. Thompson: Mr. Anderson, you mentioned feeling unsure about the specific complaint process at
+Line 30, 19:20:54: Acme. Did you take any steps to learn more about it after your meeting with your supervisor?
+Line 31, 19:20:54: Witness: No, I didn't feel comfortable approaching my supervisor again after their dismissive response.
+Line 32, 19:20:54: Additionally, I recall the employee handbook being quite lengthy, and finding specific information about
+Line 33, 19:20:54: the complaint process proved difficult at the time.
+--- End of Page 5 ---
+
+--- Beginning of Page 6 ---
+Line 1, 19:20:54: Mr. Thompson: You mentioned a colleague, Sarah Lopez, who voiced concerns about gender bias. Did
+Line 2, 19:20:54: you ever speak to her directly about her experience and the alleged retaliation she faced?
+Line 3, 19:20:54: Witness: Briefly, yes. We expressed our mutual frustrations and the feeling of being undervalued within
+Line 4, 19:20:54: the department. However, we were both hesitant to pursue any formal complaints due to the
+Line 5, 19:20:54: aforementioned concerns about the company culture and potential retaliation.
+Line 6, 19:20:54: Mr. Thompson: Did you ever discuss the issue of lack of promotion opportunities with any other
+Line 7, 19:20:54: colleagues, particularly women in the marketing department?
+Line 8, 19:20:54: Witness: Not directly. While there were a few women colleagues in the department, none of them were
+Line 9, 19:20:54: in senior positions. The general environment discouraged open communication about potentially
+Line 10, 19:20:54: sensitive topics like discrimination.
+Line 11, 19:20:54: Ms. Garcia: Mr. Thompson, I object to leading the witness. Can you rephrase your question and allow
+Line 12, 19:20:54: Mr. Anderson to answer in his own words?
+Line 13, 19:20:54: Mr. Thompson: Apologies, Ms. Garcia. Mr. Anderson, to clarify, did you have any informal conversations
+Line 14, 19:20:54: with other colleagues about your concerns regarding promotion opportunities or potential gender bias
+Line 15, 19:20:54: within the marketing department at Acme?
+Line 16, 19:20:54: Witness: There weren't any specific discussions about promotions or bias, but the general atmosphere
+Line 17, 19:20:54: around the lack of female representation in senior positions was a frequent topic of quiet observation
+Line 18, 19:20:54: amongst some female colleagues. We felt implicit pressure to work harder and prove ourselves more
+Line 19, 19:20:54: than our male colleagues, but reaching leadership positions seemed like an increasingly distant
+Line 20, 19:20:54: prospect.
+Line 21, 19:20:54: Ms. Garcia: Mr. Anderson, can you elaborate on what kind of "pressure" you felt, and was there any
+Line 22, 19:20:54: specific instance or behavior from colleagues or superiors that made you feel this way?
+Line 23, 19:20:54: Summary
+Line 24, 19:20:54: In the concluding segment, Mr. Anderson expresses hope that his experience can contribute to a more
+Line 25, 19:20:54: inclusive work environment at Acme. Mr. Thompson then delves deeper into specific aspects of Mr.
+Line 26, 19:20:54: Anderson's experience:
+Line 27, 19:20:54: Complaint process: Mr. Anderson cites discomfort following his supervisor's reaction and difficulty
+Line 28, 19:20:54: navigating the lengthy employee handbook as reasons for not seeking further information.
+Line 29, 19:20:54: Colleague's experience: He mentions briefly discussing his frustrations and concerns with Sarah Lopez
+Line 30, 19:20:54: but clarifies their shared hesitation to pursue formal complaints due to company culture concerns.
+Line 31, 19:20:54: Promotion opportunities and gender bias: He explains the lack of open communication about these
+Line 32, 19:20:54: issues and feeling unspoken pressure due to the absence of women in senior positions, though no
+Line 33, 19:20:54: specific discussions on bias occurred.
+Line 34, 19:20:54: Ms. Garcia objects to a leading question about bias, and Mr. Thompson rephrases, allowing Mr.
+Line 35, 19:20:54: Anderson to clarify further. He explains the silent observation among female colleagues of the lack of
+--- End of Page 6 ---
+
+--- Beginning of Page 7 ---
+Line 1, 19:20:54: female leadership and the perceived need to overachieve compared to male colleagues. Ms. Garcia
+Line 2, 19:20:54: requests further details about the pressure felt by Mr. Anderson.
+Line 3, 19:20:54: Deposition
+Line 4, 19:20:54: Witness: It wasn't any direct confrontation or statement, but more of a subtle feeling arising from
+Line 5, 19:20:54: observing the lack of female representation in leadership roles combined with certain comments about
+Line 6, 19:20:54: needing to "work harder" or "prove myself" despite my consistent positive performance reviews.
+Line 7, 19:20:54: Mr. Thompson: Thank you, Mr. Anderson. These are valuable insights. Do you have any further
+Line 8, 19:20:54: questions, Ms. Garcia?
+Line 9, 19:20:54: Ms. Garcia: (after reviewing her notes) I have a few follow-up questions for clarification. However, due
+Line 10, 19:20:54: to the time constraints, I would like to schedule a follow-up session at your earliest convenience, Mr.
+Line 11, 19:20:54: Thompson, to continue exploring specific details and potential evidence.
+Line 12, 19:20:54: Mr. Thompson: No objection. Mr. Anderson, are you available for a follow-up session within the next
+Line 13, 19:20:54: week?
+Line 14, 19:20:54: Witness: Yes, I am available. Please let me know the details when you've scheduled it
+Line 15, 19:20:54: Mr. Thompson: Mr. Anderson, since our last session, have you had any time to review Acme
+Line 16, 19:20:54: Corporation's employee handbook pertaining to the complaint process for potential discrimination?
+Line 17, 19:20:54: Witness: Yes, I have.
+Line 18, 19:20:54: Mr. Thompson: Can you briefly describe the steps outlined in the handbook for filing a complaint based
+Line 19, 19:20:54: on potential discrimination?
+Line 20, 19:20:54: Witness: The handbook mentioned employees could submit a written complaint to the Human
+Line 21, 19:20:54: Resources department or verbally report it to an HR representative or any manager. However, specific
+Line 22, 19:20:54: details about the investigation process or resolution options were quite vague.
+Line 23, 19:20:54: Ms. Garcia: Mr. Anderson, did the employee handbook specify who constitutes a "manager" authorized
+Line 24, 19:20:54: to receive such initial verbal complaints?
+Line 25, 19:20:54: Witness: No, it didn't provide any specific details about which managers were included in that definition
+Line 26, 19:20:54: or if all managers were authorized to receive such reports.
+Line 27, 19:20:54: Mr. Thompson: Mr. Anderson, you previously mentioned frustration with receiving similar design
+Line 28, 19:20:54: concepts to yours being chosen over your own work while working at Acme. Do you still have copies of
+Line 29, 19:20:54: these original design concepts and the final versions ultimately used?
+Line 30, 19:20:54: Witness: Unfortunately, I didn't retain individual copies of every design iteration. However, I did
+Line 31, 19:20:54: maintain some preliminary sketches and digital drafts from several projects, including the one discussed
+Line 32, 19:20:54: earlier related to the 2023 product launch campaign.
+Line 33, 19:20:54: Mr. Thompson: Would you be willing to provide these materials as potential evidence in this case?
+Line 34, 19:20:54: Witness: Yes, I can bring them to the next session.
+--- End of Page 7 ---
+
+--- Beginning of Page 8 ---
+Line 1, 19:20:54: Ms. Garcia: Mr. Anderson, are you aware of other colleagues who may have retained copies of their
+Line 2, 19:20:54: rejected design projects or drafts during their employment at Acme?
+Line 3, 19:20:54: Witness: I'm not certain, but I remember several colleagues raising concerns about the inconsistent
+Line 4, 19:20:54: feedback and selection process for design concepts. It's possible some of them might have kept records
+Line 5, 19:20:54: for their own reference.
+Line 6, 19:20:54: Mr. Thompson: We will look into that possibility. Mr. Anderson, during your time at Acme, did you ever
+Line 7, 19:20:54: meet or hear about any employees who filed official complaints based on experiencing discrimination?
+Line 8, 19:20:54: Witness: Not officially. As mentioned earlier, there was an underlying lack of transparency and open
+Line 9, 19:20:54: communication around potentially sensitive topics like discrimination. Therefore, it was difficult to know
+Line 10, 19:20:54: for sure.
+Line 11, 19:20:54: Ms. Garcia: Mr. Anderson, did you receive any additional training or workshops related to diversity and
+Line 12, 19:20:54: inclusion since leaving Acme Corporation?
+Line 13, 19:20:54: Witness: Yes, my current employer offers comprehensive training programs and workshops regarding
+Line 14, 19:20:54: diversity and inclusion as part of their ongoing commitment to a fair and equitable work environment.
+Line 15, 19:20:54: Mr. Thompson: Do you find these additional training programs and the overall work environment at
+Line 16, 19:20:54: your current company to be beneficial compared to your experience at Acme?
+Line 17, 19:20:54: Witness: Absolutely. The focus on creating a safe space for open communication, valuing diverse
+Line 18, 19:20:54: perspectives, and providing equal opportunities for growth has been incredibly positive and
+Line 19, 19:20:54: empowering.
+Line 20, 19:20:54: Ms. Garcia: No further questions at this time.
+Line 21, 19:20:54: Mr. Thompson: Mr. Anderson, as mentioned previously, we would like you to bring copies of the design
+Line 22, 19:20:54: materials you retained for the next session. Additionally, I may reach out to inquire about potential
+Line 23, 19:20:54: colleagues who might have kept similar records. Is that alright?
+Line 24, 19:20:54: Witness: That's perfectly fine. Please let me know if you need anything else in the meantime.
+Line 25, 19:20:54: Mr. Thompson: Mr. Anderson, one final question before we adjourn. You mentioned feeling hesitant to
+Line 26, 19:20:54: bring up your concerns to your supervisor after their dismissive response. Did their reaction specifically
+Line 27, 19:20:54: mention any consequences of raising the potential bias issue?
+Line 28, 19:20:54: Witness: Not directly. There wasn't an explicit threat of any sort. However, their dismissive tone and the
+Line 29, 19:20:54: implication that my concerns weren't valid created an atmosphere where I felt further discussion would
+Line 30, 19:20:54: be futile and potentially disadvantageous.
+Line 31, 19:20:54: Ms. Garcia: Objection, speculation about the witness's interpretation of a supervisor's tone is not based
+Line 32, 19:20:54: on facts.
+Line 33, 19:20:54: Mr. Thompson: Reframing, Mr. Anderson. How did your supervisor's response make you feel about the
+Line 34, 19:20:54: potential consequences of reporting your concerns?
+--- End of Page 8 ---
+
+--- Beginning of Page 9 ---
+Line 1, 19:20:55: Witness: Their response discouraged me and made me feel unheard. It conveyed the impression that my
+Line 2, 19:20:55: concerns about potential bias wouldn't be taken seriously and could potentially hinder my career
+Line 3, 19:20:55: progression within the company.
+Line 4, 19:20:55: Summary
+Line 5, 19:20:55: The concluding segment addresses further details and sets the stage for a follow-up session:
+Line 6, 19:20:55: Complaint process: Mr. Anderson reviews the handbook and describes the outlined steps for filing a
+Line 7, 19:20:55: complaint, noting the vagueness regarding investigation and resolution. Ms. Garcia highlights the lack of
+Line 8, 19:20:55: clarity on who qualifies as a "manager" authorized to receive initial verbal reports.
+Line 9, 19:20:55: Design concepts: Mr. Anderson clarifies he still possesses some preliminary sketches and drafts,
+Line 10, 19:20:55: including those from the 2023 product launch, and agrees to provide them as potential evidence. Mr.
+Line 11, 19:20:55: Thompson expresses interest in exploring the possibility of other colleagues retaining similar materials.
+Line 12, 19:20:55: Official complaints: Mr. Anderson reiterates the lack of knowledge about any official discrimination
+Line 13, 19:20:55: complaints at Acme due to the previously mentioned culture of secrecy.
+Line 14, 19:20:55: Current company: Mr. Anderson confirms receiving additional diversity and inclusion training at his
+Line 15, 19:20:55: current company. He emphasizes the positive aspects of his new work environment, highlighting open
+Line 16, 19:20:55: communication, valuing diverse perspectives, and equal opportunities, contrasting it with his experience
+Line 17, 19:20:55: at Acme.
+Line 18, 19:20:55: Follow-up: Both parties agree to a follow-up session. Mr. Thompson clarifies his intention to request the
+Line 19, 19:20:55: design materials and potentially contact other colleagues. Ms. Garcia objects to the witness's
+Line 20, 19:20:55: interpretation of his supervisor's tone, leading Mr. Thompson to rephrase the question, to which Mr.
+Line 21, 19:20:55: Anderson reiterates feeling discouraged and unheard, fearing his concerns wouldn't be taken seriously
+Line 22, 19:20:55: and could hinder his career.
+Line 23, 19:20:55: Deposition
+Line 24, 19:20:55: Ms. Garcia: Mr. Thompson, I believe we've covered the essential topics for today. However, as these are
+Line 25, 19:20:55: complex claims, I would appreciate the opportunity to review the transcript and potentially ask further
+Line 26, 19:20:55: questions at a future session, should any need arise.
+Line 27, 19:20:55: Mr. Thompson: No objection. Mr. Anderson, as Ms. Garcia mentioned, we appreciate your willingness to
+Line 28, 19:20:55: cooperate and provide additional materials. We will be in touch to schedule a follow-up session if
+Line 29, 19:20:55: needed.
+Line 30, 19:20:55: Witness: Understood.
+Line 31, 19:20:55: Summary
+Line 32, 19:20:55: The deposition concludes with Ms. Garcia expressing a desire to review the transcript and potentially
+Line 33, 19:20:55: ask further questions in a future session if needed. Mr. Thompson agrees, and both thank Mr. Anderson
+Line 34, 19:20:55: for his cooperation and willingness to provide additional materials. Mr. Anderson acknowledges their
+Line 35, 19:20:55: communication and awaits further information regarding a potential follow-up session.
+--- End of Page 9 ---
+
+--- Beginning of Page 10 ---
+Line 1, 19:20:55: Deposition
+Line 2, 19:20:55: MILLER: A driver is obligated to pay attention to the road and yield to other drivers when required. Let
+Line 3, 19:20:55: me take you back to what happened on April 20th, 2022. The Defendant, who was an attorney for the
+Line 4, 19:20:55: IRS, was driving her usual route to work. She drove down Annapolis Road to take a left onto another
+Line 5, 19:20:55: road.
+Line 6, 19:20:55: (Could we have the next slide, please?) She was driving down this road… can everyone see this? She
+Line 7, 19:20:55: stopped at a light on a clear day. While stopped, she reached down to find her parking pass.
+Line 8, 19:20:55: DEFENSE LAWYER: May we approach?
+Line 9, 19:20:55: THE COURT: Yes.
+Line 10, 19:20:55: BENCH CONFERENCE
+Line 11, 19:20:55: (Bench Conference begins – 10:26:39m.)
+Line 12, 19:20:55: (The parties approach the bench for a discussion.)
+Line 13, 19:20:55: THE COURT: By court ruling, liability has been established. The focus of this case is only on damages. I
+Line 14, 19:20:55: understand why we’re discussing these details, but it’s about damages.
+Line 15, 19:20:55: MILLER: I’m setting the scene for the accident because her damages are part of the accident narrative.
+Line 16, 19:20:55: DEFENSE LAWYER: We’re only discussing the fact that an accident happened and a person was injured.
+Line 17, 19:20:55: The details about reaching and negligence seem to be evidence of liability.
+Line 18, 19:20:55: THE COURT: I understand. It’s your opening statement, so I’ll give you some leeway.
+Line 19, 19:20:55: MILLER: I’m just providing context. I’ll be getting into the damages soon.
+Line 20, 19:20:55: THE COURT: Alright.
+Line 21, 19:20:55: (Bench Conference concluded – 10:27:32 m.)
+Line 22, 19:20:55: (The parties return to their places.)
+Line 23, 19:20:55: MILLER: The Defendant heard a horn beep and took a left turn. She didn’t see the Plaintiff, who had the
+Line 24, 19:20:55: right of way, coming from the opposite direction. Due to the collision, the Plaintiff’s ankle was broken
+Line 25, 19:20:55: and required surgery.
+Line 26, 19:20:55: Take a look at these images. The first one shows her ankle before surgery, the second one after surgery.
+Line 27, 19:20:55: Today, she still has 15 screws and three plates in her ankle. She will never be able to run again and
+Line 28, 19:20:55: standing for extended periods of time is difficult.
+Line 29, 19:20:55: We’ve brought this case before you because of the harm caused to the Plaintiff. We needed to agree
+Line 30, 19:20:55: that the Defendant was at fault for the accident, which she has accepted. We also had to understand the
+Line 31, 19:20:55: extent and implications of the Plaintiff’s damages, not just the initial injury and surgery, but also its long-
+Line 32, 19:20:55: term impact on her life.
+Line 33, 19:20:55: To do this, we spoke to her doctors, her husband, her friends, and even her employer. One of her
+Line 34, 19:20:55: doctors is going to talk to you.
+--- End of Page 10 ---
+
+--- Beginning of Page 11 ---
+Line 1, 19:20:55: This is the guy to see if something awful like this is going to happen to your ankle. He received an Ivy
+Line 2, 19:20:55: League education and, at one point, was the chief of foot and ankle orthopedic injuries at Johns
+Line 3, 19:20:55: Hopkins. He consults for the Baltimore Orioles. His resume, I want to say, is as long as your arm, but it’s
+Line 4, 19:20:55: actually a lot longer than that.
+Line 5, 19:20:55: We’re going to bring him to talk to you guys, in a very 2023 way. It’s going to be by videotape, so his
+Line 6, 19:20:55: testimony will be by videotape, but it holds the same force as if it was at trial, and he came here to see
+Line 7, 19:20:55: us. And, of course, my partner Laura Zois and the defense attorney had an opportunity to ask him
+Line 8, 19:20:55: questions.
+Line 9, 19:20:55: He’s going to tell you she still has 15 screws and three plates in her ankle holding everything together.
+Line 10, 19:20:55: The problem with that is that it creates a breeding ground for arthritis, and this 33-year-old woman
+Line 11, 19:20:55: already has the signs of arthritis. At some point, she’s going to need what’s called a fusion, which will
+Line 12, 19:20:55: stabilize her ankle. The bad news is, you can’t move it once it locks, so you no longer have the ability to
+Line 13, 19:20:55: bend.
+Line 14, 19:20:55: This trial is about the harms and losses that she has suffered and endured as the result of this accident.
+Line 15, 19:20:55: This is not a case about sympathy. You should not award her damages because you feel sorry for her.
+Line 16, 19:20:55: You’re going to hear about how the accident has impacted her professional and personal life.
+Line 17, 19:20:55: At the time of the crash, they were a very young family. They were an energetic family. This is an active
+Line 18, 19:20:55: family with four kids doing everything you can imagine, Six Flags, the park. They would run together.
+Line 19, 19:20:55: They played basketball together. They traveled everywhere, New York, Baltimore, Washington, DC. They
+Line 20, 19:20:55: were just a very active family.
+Line 21, 19:20:55: And she also had a vibrant social life. She was a hairstylist, and she loved that job. It was her social outlet
+Line 22, 19:20:55: beside her kids. She would do the church choir every Wednesday, and still found times to go out and see
+Line 23, 19:20:55: her family. She’s still fighting with her family, but it’s hard.
+Line 24, 19:20:55: She can’t work as a hairstylist anymore. So what did she do? She went back to school to the University
+Line 25, 19:20:55: of Maryland. She’s working, getting very close to getting her degree. She’s still fighting. She has four kids
+Line 26, 19:20:55: they’re chasing around.
+Line 27, 19:20:55: Let’s go back and talk about how it ended up. Let’s talk about the accident. She had this awful crash and
+Line 28, 19:20:55: needed emergency surgery where they put in these screws. She had a nine-month-old baby, along with
+Line 29, 19:20:55: three other kids. She and the two girls, the younger ones, went to live with her mom. Her mom took
+Line 30, 19:20:55: care of her and the girls, while her husband took care of the other kids.
+Line 31, 19:20:55: This has been a massive disruption to their lives. The accident has completely changed her life, and it’s
+Line 32, 19:20:55: reflected in every facet of her day-to-day. Her job, her family life, her hobbies, everything she used to
+Line 33, 19:20:55: take pleasure in has been impacted in one way or another. And the evidence in this case will show these
+Line 34, 19:20:55: changes are likely to persist for the rest of her life.
+Line 35, 19:20:55: We ask you to consider the totality of these changes, the persistent harm and loss she’s suffered and
+Line 36, 19:20:55: will continue to suffer, as a direct result of the accident. We ask you to consider these when coming to a
+Line 37, 19:20:55: decision in this case.
+--- End of Page 11 ---
+
+--- Beginning of Page 12 ---
+Line 1, 19:20:55: This accident, however, led to an upheaval in their lives. About a month after the accident, she managed
+Line 2, 19:20:55: to return home with the kids. Her mother, an FDA employee, took three months off work to care for her,
+Line 3, 19:20:55: her daughter, and her grandchildren. The accident wreaked havoc on their lives.
+Line 4, 19:20:55: She endured six months of rigorous physical therapy and another operation. While it was painful and
+Line 5, 19:20:55: difficult, the effort was worthwhile as it improved her condition, especially her ankle, though we wish
+Line 6, 19:20:55: she had recovered more.
+Line 7, 19:20:55: As we delve into this case, it’s about the harm and losses experienced. We will ask you to make amends
+Line 8, 19:20:55: where possible and provide compensation for the irreparable harm. The damages can be categorized
+Line 9, 19:20:55: into three parts: her medical bills, the post-accident trauma suffered by her and her family, and the pain
+Line 10, 19:20:55: she will endure for the expected next 45 years of her life.
+Line 11, 19:20:55: She was a spontaneous person, fond of making impromptu plans like going to Virginia Beach over the
+Line 12, 19:20:55: weekend or heading to the park. Now, every activity revolves around her ability to reach there, her
+Line 13, 19:20:55: mobility, and whether she can tolerate the pain during the trip. This situation has affected her and her
+Line 14, 19:20:55: four kids, as well as her husband.
+Line 15, 19:20:55: The court wants to clarify that the evidence and testimonies from the witness stand are what will
+Line 16, 19:20:55: control your deliberations. Opening statements and closing arguments of lawyers do not constitute
+Line 17, 19:20:55: evidence.
+Line 18, 19:20:55: This case is not just about the suffering of their children or her husband. It’s about the impact of their
+Line 19, 19:20:55: suffering on her. We will ask you to consider an amount that may seem high at the beginning. But we
+Line 20, 19:20:55: believe that after hearing all the evidence, you’ll find it to be a fair compensation for her losses and
+Line 21, 19:20:55: harm. The amount we suggest is $1.1 million.
+Line 22, 19:20:55: Defense Opening Statement
+Line 23, 19:20:55: Regarding the defendant, they acknowledge the responsibility for the accident and that it was their
+Line 24, 19:20:55: fault. The case is for you to determine the appropriate damages. The injury is severe, and they ask for an
+Line 25, 19:20:55: extraordinary amount of compensation.
+Line 26, 19:20:55: She broke her ankle, which was repaired surgically with plates and screws. There was a second surgery
+Line 27, 19:20:55: due to loosening of the screws, which were then removed. She attended physical therapy, which
+Line 28, 19:20:55: improved her ability to move her ankle. Whether she will need surgery in the future is uncertain.
+Line 29, 19:20:55: The past medical expenses are around $36,505, which we don’t contest. Her lost wages due to the
+Line 30, 19:20:55: accident are around $3,400 to $3,500. These are not the focal points of this case. The main issue is the
+Line 31, 19:20:55: amount to be awarded for non-economic damages, for which we request something fair, reasonable,
+Line 32, 19:20:55: and sensible.
+Line 33, 19:20:55: Thank you for your time and attention, and we hope to conclude this case promptly.
+Line 34, 19:20:55: Testimony of Victim’s Husband
+Line 35, 19:20:55: Mr. Miller: Good morning. Can I have your address?
+Line 36, 19:20:55: SJ: Certainly.
+Line 37, 19:20:55: Mr. Miller: How long have you lived at that address?
+--- End of Page 12 ---
+
+--- Beginning of Page 13 ---
+Line 1, 19:20:56: SJ: I bought the house in 2003, so it’s been approximately ten years.
+Line 2, 19:20:56: Mr. Miller: Who lives there with you?
+Line 3, 19:20:56: SJ: My wife, and our four children.
+Line 4, 19:20:56: Mr. Miller: Can you tell the jury how old your children are and their names?
+Line 5, 19:20:56: SJ: Yes. My children are 13, and the others are…
+Line 6, 19:20:56: The Honorable Judge: Please continue.
+Line 7, 19:20:56: SJ: …five, and three.
+Line 8, 19:20:56: Mr. Miller: I understand. And for some background, what do you do for a living?
+Line 9, 19:20:56: SJ: I’m currently the general manager at Oreck Clean Home Center.
+Line 10, 19:20:56: Mr. Miller: And where are these locations?
+Line 11, 19:20:56: SJ: We have six locations in Maryland and Virginia.
+Line 12, 19:20:56: Mr. Miller: What are your responsibilities at work?
+Line 13, 19:20:56: SJ: I oversee all six stores and manage one of them.
+Line 14, 19:20:56: Mr. Miller: Can you describe your work schedule?
+Line 15, 19:20:56: SJ: I work Monday through Saturday, from 10:00 am to 7:00 pm. Often, I work seven days a week which
+Line 16, 19:20:56: means working on Sundays from 12:00 pm to 5:00 pm.
+Line 17, 19:20:56: Mr. Miller: How do you feel about those hours?
+Line 18, 19:20:56: SJ: They are long, but I need to work to support my family.
+Line 19, 19:20:56: Mr. Miller: How long have you known your wife?
+Line 20, 19:20:56: SJ: I met her in 1993, she was my sister’s best friend.
+Line 21, 19:20:56: Mr. Miller: You mean your wife was your sister’s best friend?
+Line 22, 19:20:56: SJ: Yes, I apologize for the confusion. She was indeed my sister’s best friend.
+Line 23, 19:20:56: Mr. Miller: Let’s move to another topic. Do you remember the car accident your wife was in 2022?
+Line 24, 19:20:56: SJ: Yes, I do.
+Line 25, 19:20:56: Mr. Miller: Prior to the accident, can you describe your household?
+Line 26, 19:20:56: SJ: Our household was what I would consider the perfect life. My wife and children were happy and
+Line 27, 19:20:56: always engaged in activities. We used to take vacations and attend family reunions.
+Line 28, 19:20:56: Mr. Miller: Was your wife a spontaneous person or a planner?
+Line 29, 19:20:56: SJ: She was more spontaneous, always ready to take on new activities.
+--- End of Page 13 ---
+
+--- Beginning of Page 14 ---
+Line 1, 19:20:56: Mr. Miller: Could you describe her for the jury?
+Line 2, 19:20:56: SJ: She is always happy, loves socializing and helping people. She attended choir rehearsal, Bible study
+Line 3, 19:20:56: every week, and also took care of our four children.
+Line 4, 19:20:56: Mr. Miller: What was her job at the time of the crash?
+Line 5, 19:20:56: SJ: She was the assistant manager of a hair salon.
+Line 6, 19:20:56: Mr. Miller: Did she enjoy her work?
+Line 7, 19:20:56: SJ: Yes, she loved her work. It was part of her identity.
+Line 8, 19:20:56: Mr. Miller: Did your wife’s demeanor change after the car accident?
+Line 9, 19:20:56: SJ: Yes, after the accident everything changed. Our family life and activity level changed significantly. She
+Line 10, 19:20:56: used to take the children to sporting events and practice basketball. Now, she can’t do these activities.
+Line 11, 19:20:56: She no longer goes on family vacations. My two older sons call her “boring” now because of her reduced
+Line 12, 19:20:56: activity level. The accident has restricted her capabilities and as a result, she can’t even do simple tasks
+Line 13, 19:20:56: like carrying laundry baskets or standing up to cook. Our family life has changed drastically since the
+Line 14, 19:20:56: accident.
+Line 15, 19:20:56: Mr. Miller: Has your wife gone back to work since the accident?
+Line 16, 19:20:56: SJ: She tried to help a friend out a couple of months ago at her hair salon, but it ended with her in a lot
+Line 17, 19:20:56: of pain due to the swelling in her ankle.
+Line 18, 19:20:56: Mr. Miller: I have here a picture you received from your wife. Is this the picture she sent you?
+Line 19, 19:20:56: Mr. Miller: Can you tell us how your wife’s personal social life has been affected since the crash?
+Line 20, 19:20:56: SJ: Her social life has indeed changed significantly. Before the accident, she would regularly go out with
+Line 21, 19:20:56: friends, engage in dancing, and other social activities. However, the constant pain and discomfort after
+Line 22, 19:20:56: the crash have made such activities impossible. Her social life is definitely not the same as before.
+Line 23, 19:20:56: Mr. Miller: You mentioned earlier about her job. Was she able to resume work post the crash?
+Line 24, 19:20:56: SJ: She attempted to return to work, but the persistent pain made it unmanageable, particularly the
+Line 25, 19:20:56: long-standing hours. Eventually, she was forced to leave her job.
+Line 26, 19:20:56: Mr. Miller: How has this situation impacted your family’s finances?
+Line 27, 19:20:56: SJ: The impact has been substantial. She held the position of an assistant manager at a hair salon,
+Line 28, 19:20:56: bringing in a significant income. Now, with my single income, managing expenses for our four children
+Line 29, 19:20:56: and her medical bills has been strenuous.
+Line 30, 19:20:56: Mr. Miller: Besides the financial struggle, can you share how your relationship with your wife has
+Line 31, 19:20:56: evolved post the accident?
+Line 32, 19:20:56: SJ: Our relationship has undeniably been affected. She isn’t the same person she was before the crash.
+Line 33, 19:20:56: Her constant pain and fatigue, coupled with frustration, have been hard on both of us.
+Line 34, 19:20:56: Mr. Miller: And your children? How have they been coping with all these changes?
+--- End of Page 14 ---
+
+--- Beginning of Page 15 ---
+Line 1, 19:20:56: SJ: Our children have had to make significant adjustments. They miss the mother they had before the
+Line 2, 19:20:56: crash, not understanding why she can’t engage in the activities she used to do with them. My older
+Line 3, 19:20:56: sons, in particular, have had to step up, assisting more with household chores. It’s been a lot for them
+Line 4, 19:20:56: too.
+Line 5, 19:20:56: Mr. Miller: Finally, could you share your hopes for your wife’s future?
+Line 6, 19:20:56: SJ: My biggest hope is for her to find relief from her pain and regain some semblance of normalcy. She
+Line 7, 19:20:56: deserves to live her life, not just endure it. It’s challenging to see such a wonderful person go through
+Line 8, 19:20:56: this. We are taking each day as it comes, hoping for a better future.
+Line 9, 19:20:56: Defense Attorney Cross Examination of Victim’s Husband
+Line 10, 19:20:56: Q: Regarding the foot stretching exercises, you assist her with those?
+Line 11, 19:20:56: A: Yes, I do.
+Line 12, 19:20:56: Q: Looking through her medical records, I noticed there’s mention of an exercise bike at home. Do you
+Line 13, 19:20:56: have one?
+Line 14, 19:20:56: A: Indeed, we do have an exercise bike at home.
+Line 15, 19:20:56: Q: Did she frequently use the exercise bike, especially post-accident?
+Line 16, 19:20:56: A: Initially, during her therapy, they had her try riding the exercise bike.
+Line 17, 19:20:56: Q: Can you tell us what kind of exercises she did at home after the accident?
+Line 18, 19:20:56: A: She was given a chart with exercises, and I’ve been helping her to flex her foot in both directions to
+Line 19, 19:20:56: try and loosen it up.
+Line 20, 19:20:56: Q: How long did this routine last?
+Line 21, 19:20:56: A: Actually, I still assist her with the foot exercises every night.
+Line 22, 19:20:56: Q: So you assist her based on the instructions from the chart?
+Line 23, 19:20:56: A: Not directly from the chart, but I’ve learned the correct angles and try to flex her foot every night for
+Line 24, 19:20:56: her comfort and to aid her sleep.
+Line 25, 19:20:56: Q: Does she drive?
+Line 26, 19:20:56: A: Yes, she does.
+Line 27, 19:20:56: Q: Prior to the accident, she was employed full time?
+Line 28, 19:20:56: A: Yes, that’s correct.
+Line 29, 19:20:56: Q: The jury was informed initially that she was also pursuing a degree?
+Line 30, 19:20:56: A: Yes, she was attending the University of Maryland.
+Line 31, 19:20:56: Q: Did she commute to the university?
+Line 32, 19:20:56: A: At certain points she did, but due to our four children, she primarily takes her classes online now.
+--- End of Page 15 ---
+
+--- Beginning of Page 16 ---
+Line 1, 19:20:56: Q: How close is she to obtaining her degree?
+Line 2, 19:20:56: A: She’s expected to graduate within the next year.
+Line 3, 19:20:56: Court: Any redirect?
+Line 4, 19:20:56: Mr. Miller: No further questions, Your Honor.
+Line 5, 19:20:56: Court: Thank you, sir, you may step down. Proceed with your next witness.
+Line 6, 19:20:56: (Witness excused – 11:56:56 a.m.)
+Line 7, 19:20:56: Summary
+Line 8, 19:20:56: The excerpt showcases the husband of the accident victim testifying about the impact of the accident on
+Line 9, 19:20:56: their family life. Here's a concise summary:
+Line 10, 19:20:56: Before the accident:
+Line 11, 19:20:56: The family was described as happy and engaged in activities, including vacations and family reunions.
+Line 12, 19:20:56: The wife was spontaneous, sociable, and involved in various activities like choir, bible study, and caring
+Line 13, 19:20:56: for their four children.
+Line 14, 19:20:56: She enjoyed her work as an assistant manager at a hair salon.
+Line 15, 19:20:56: After the accident:
+Line 16, 19:20:56: The family life and activity level significantly changed.
+Line 17, 19:20:56: The wife's physical limitations restrict her participation in activities like taking children to events, playing
+Line 18, 19:20:56: sports, or going on family vacations.
+Line 19, 19:20:56: Her reduced activity has even affected how their children perceive her, calling her "boring."
+Line 20, 19:20:56: She struggles with simple tasks like carrying laundry or cooking.
+Line 21, 19:20:56: Impact on the family:
+Line 22, 19:20:56: The wife attempted but couldn't return to work due to pain and difficulty managing long hours.
+Line 23, 19:20:56: The financial burden increased significantly with a single income supporting the family and medical bills.
+Line 24, 19:20:56: The strain on the wife due to pain and frustration has impacted their relationship.
+Line 25, 19:20:56: The children have had to adjust and take on more responsibilities, missing their previous active mother.
+Line 26, 19:20:56: Husband's hope for the future:
+Line 27, 19:20:56: He desires for his wife to find pain relief and regain normalcy in her life.
+Line 28, 19:20:56: Defense cross-examination:
+Line 29, 19:20:56: The husband assists with the wife's foot exercises based on instructions from a chart.
+Line 30, 19:20:56: She still drives and is pursuing a degree online while caring for their children.
+--- End of Page 16 ---
+
+--- Beginning of Page 17 ---
+Line 1, 19:20:56: She expects to graduate within the next year.
+--- End of Page 17 ---
+

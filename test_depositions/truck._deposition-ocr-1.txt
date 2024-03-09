@@ -1,0 +1,2468 @@
+--- Beginning of Page 1 ---
+Line 1, 16:06:06: In The Matter Of:
+Line 2, 16:06:06: November 7, 2007
+Line 3, 16:06:06: For The Record, Inc.
+Line 4, 16:06:06: Court Reporting and Litigation Support
+Line 5, 16:06:06: Demarr Road
+Line 6, 16:06:06: White Plains, MD USA 20695
+Line 7, 16:06:06: (301) 870-8025 FAX: (GOLD) 870-8335
+Line 8, 16:06:06: Original File 71107QUA.ASC, 60 Pages
+Line 9, 16:06:06: Min-U-Script® File ID, 2920852213
+Line 10, 16:06:06: Word Index included with this Min-U-Scripte
+--- End of Page 1 ---
+
+--- Beginning of Page 2 ---
+Line 1, 16:06:06: 20)
+Line 2, 16:06:06: 22)
+Line 3, 16:06:06: 22.
+Line 4, 16:06:06: IN THE CIRCUIT COURT FOR CHARLES
+Line 5, 16:06:06: COUNTY, MARYLAND
+Line 6, 16:06:06: Qa )
+Line 7, 16:06:06: Plaintiff, ) Case No.
+Line 8, 16:06:06: ) 08-C-07-001783
+Line 9, 16:06:06: — )
+Line 10, 16:06:06: and )
+Line 11, 16:06:06: BALTIMORE TANK LINCS, INC. )
+Line 12, 16:06:06: and )
+Line 13, 16:06:06: USAA INSURANCE COMPANY, )
+Line 14, 16:06:06: Defendants. )
+Line 15, 16:06:06: The deposition {Oe was
+Line 16, 16:06:06: taken on Wednesday, November 7, 2007, commencing
+Line 17, 16:06:06: at 12:12 p.m., at the offices of For The Record,
+Line 18, 16:06:06: Inc., 10760 Demarr Road, White Plains, Maryland,
+Line 19, 16:06:06: before Melissa G. Fleming, Notary Public.
+Line 20, 16:06:06: APPEARANCES
+Line 21, 16:06:06: ON BEHALF OF THE PLAINTIFF:
+Line 22, 16:06:06: LAURA G. ZOIS, ESQUIRE
+Line 23, 16:06:06: Miller & Zois, LLC
+Line 24, 16:06:06: Empire Towers, Suite 1001
+Line 25, 16:06:06: Ritchie Highway
+Line 26, 16:06:06: Glen Burnie, Maryland 21061
+Line 27, 16:06:06: (410) 553-6000
+Line 28, 16:06:06: laurazois @ millerandzois.com
+Line 29, 16:06:06: ON BEHALF OF THE DEFENDANT gee
+Line 30, 16:06:06: FRANCIS J. FORD, ESQUIRE
+Line 31, 16:06:06: Law Offices of Francis T. Ford, P.A.
+Line 32, 16:06:06: Old Georgetown Road, Suite 520
+Line 33, 16:06:06: Bethesda, Maryland 20814
+Line 34, 16:06:06: (301) 279-2000
+Line 35, 16:06:06: ff.law@ verizon.net
+Line 36, 16:06:06: ON BEHALF OF THE DEFENDANT BALTIMORE TANK LINES:
+Line 37, 16:06:06: ANDREW T. STEPHENSON, ESQUIRE
+Line 38, 16:06:06: Franklin & Prokopik
+Line 39, 16:06:06: For The Record, Inc. -- (401)870-8025
+Line 40, 16:06:06: SB
+Line 41, 16:06:06: yy
+Line 42, 16:06:06: (20
+Line 43, 16:06:06: ‘(22
+Line 44, 16:06:06: | [20.
+Line 45, 16:06:06: 22)
+Line 46, 16:06:06: |
+Line 47, 16:06:06: Min-U-Script®
+Line 48, 16:06:06: November 7, 2007
+Line 49, 16:06:06: APPEARANCES (cont.)
+Line 50, 16:06:06: The B&O Building
+Line 51, 16:06:06: Two North Charles Street, Suite 600
+Line 52, 16:06:06: ’ Baltimore, Maryland 21201
+Line 53, 16:06:06: (410) 230-3638
+Line 54, 16:06:06: astephenson@ fandpnet.com
+Line 55, 16:06:06: ON BEHALF OF THE DEFENDANT USAA INSURANCE
+Line 56, 16:06:06: COMPANY:
+Line 57, 16:06:06: THOMAS P. TURGEON, ESQUIRE
+Line 58, 16:06:06: Adelman, Sheff & Smith, LLC
+Line 59, 16:06:06: Adimiral Cochrane Drive, Suite 370
+Line 60, 16:06:06: Annapolis, Maryland 21401
+Line 61, 16:06:06: (410) 224-3000
+Line 62, 16:06:06: tturgeon @ Hospitallaw.com
+Line 63, 16:06:06: ALSO PRESENT:
+Line 64, 16:06:06: Cindy Young
+Line 65, 16:06:06: (Index appears following the transcript.)
+Line 66, 16:06:06: Page 3
+Line 67, 16:06:06: PROCEEDINGS
+Line 68, 16:06:06: @@Mp Exhibit Numbers 1 and 2 were
+Line 69, 16:06:06: marked for identification.)
+Line 70, 16:06:06: Whereupon —
+Line 71, 16:06:06: [,
+Line 72, 16:06:06: a witness, called for examination, having been
+Line 73, 16:06:06: first duly sworn, was examined and testified as
+Line 74, 16:06:06: follows:
+Line 75, 16:06:06: EXAMINATION
+Line 76, 16:06:06: BY MS. ZOIS:
+Line 77, 16:06:06: Q: Good afternoon, Gaia My name is
+Line 78, 16:06:06: Laura Zois and I’m an attorney fo QED
+Line 79, 16:06:06: QM ce garding a car accident, which took place
+Line 80, 16:06:06: back on March 13th of 2006. Before we get
+Line 81, 16:06:06: started, I just want to go through some of the
+Line 82, 16:06:06: ground rules of a deposition process. Okay?
+Line 83, 16:06:06: If 1 ask you a question and you do not
+Line 84, 16:06:06: understand the question, I want you to let me
+Line 85, 16:06:06: know. Okay?
+Line 86, 16:06:06: A: Okay.
+Line 87, 16:06:06: Q: Otherwise, I’m going to assume you
+Line 88, 16:06:06: Page 4
+Line 89, 16:06:06: (3) Page 1 - Page 4
+--- End of Page 2 ---
+
+--- Beginning of Page 3 ---
+Line 1, 16:06:06: November 7, 2007
+Line 2, 16:06:06: 4) heard the question and understood Uie question
+Line 3, 16:06:06: 2) and you're answering my question. All right?
+Line 4, 16:06:06: 3] A: Okay.
+Line 5, 16:06:06: 4. Q: I’m also going to ask that you answer
+Line 6, 16:06:06: 5} all of my questions verbally. The court
+Line 7, 16:06:06: 6) reporter to my right is taking down everything
+Line 8, 16:06:06: that’s being said at the table and she can’t
+Line 9, 16:06:06: a) take down shrugs of the shoulder and nods of the
+Line 10, 16:06:06: 3] head yes or no, so you actually have to say yes
+Line 11, 16:06:06: or no. Okay?
+Line 12, 16:06:06: I’m also going to ask that you avoid
+Line 13, 16:06:06: saying uh-huh or ub-uh, because it comes out the
+Line 14, 16:06:06: same way on the record, so I'm going to ask that
+Line 15, 16:06:06: you try and actually say yes or no. Okay? And
+Line 16, 16:06:06: every time you break that rule, you have to put
+Line 17, 16:06:06: a quarter on the table.
+Line 18, 16:06:06: A: I don’t have any quarters.
+Line 19, 16:06:06: MR. FORD: She’ll take dollar bills.
+Line 20, 16:06:06: BY MS. ZOIS:
+Line 21, 16:06:06: Q: Also during your deposition, I’m going
+Line 22, 16:06:06: 21] to maybe ask you about time, speed and distances
+Line 23, 16:06:06: 1) the tractor-trailer might go and I’m going to
+Line 24, 16:06:06: 2] ask that you avoid to kind of using hand
+Line 25, 16:06:06: gestures and actually try and articulate and
+Line 26, 16:06:06: 4) describe with words a movement. Okay?
+Line 27, 16:06:06: 5) A: Okay.
+Line 28, 16:06:06: 3) @: All right QB, your name is
+Line 29, 16:06:06: 7, CEE, correct?
+Line 30, 16:06:06: : That’s correct.
+Line 31, 16:06:06: : Is that your full name?
+Line 32, 16:06:06: : Yeah.
+Line 33, 16:06:06: : Any middle name?
+Line 34, 16:06:06: : Initial G, Gordon.
+Line 35, 16:06:06: —
+Line 36, 16:06:06: Right.
+Line 37, 16:06:06: : And what is your current address?
+Line 38, 16:06:06: : It’s Grampton Road, Clements, Maryland.
+Line 39, 16:06:06: : Is that in Charles County?
+Line 40, 16:06:06: POPOPrPOPOPO >
+Line 41, 16:06:06: : No, St. Mary’s.
+Line 42, 16:06:06: : And how long have you lived at that
+Line 43, 16:06:06: ©
+Line 44, 16:06:06: address?
+Line 45, 16:06:06: A: Four and a half years.
+Line 46, 16:06:06: Q: So you would have been living at that
+Line 47, 16:06:06: and about how, you know, maybe the movement of
+Line 48, 16:06:06: Page 6 |
+Line 49, 16:06:06: '
+Line 50, 16:06:06: Page 7
+Line 51, 16:06:06: 4) address back on the date of this accident of
+Line 52, 16:06:06: 2) March 13th, 2006?
+Line 53, 16:06:06: 3] A: Yes.
+Line 54, 16:06:06: 4)  Q: Can you give me your date of birth,
+Line 55, 16:06:06: 5] please?
+Line 56, 16:06:06: 6) A: 8/6/61.
+Line 57, 16:06:06: @: And your Social Security number?
+Line 58, 16:06:06: 8} A: 218-88-7073.
+Line 59, 16:06:06: Q: And do you have a CDL driver's license?
+Line 60, 16:06:06: io) = A: Yes, Ido.
+Line 61, 16:06:06: i) Q: Is ita special class of CDL?
+Line 62, 16:06:06: 12) A: Hazmat.
+Line 63, 16:06:06: 13, Q@: And is that so you can haul fuel?
+Line 64, 16:06:06: 14) A: That’s correct.
+Line 65, 16:06:06: 15) @Q: And how long have you held a hazmat CDL
+Line 66, 16:06:06: ie) driver’s license?
+Line 67, 16:06:06: 17. A: Eight years.
+Line 68, 16:06:06: 18) Q: So you acquired that back in 1999?
+Line 69, 16:06:06: i9) A: That’s correct.
+Line 70, 16:06:06: Q: My math isn't very good.That’s why I
+Line 71, 16:06:06: 21) have to double-check.
+Line 72, 16:06:06: 22) A: You know, I’ve had a CDL for a while,
+Line 73, 16:06:06: Page 8
+Line 74, 16:06:06: 4] but I had to have hazmat when I started pulling
+Line 75, 16:06:06: 2) fuel.
+Line 76, 16:06:06: 3} Q: And did you start hauling fuel back in
+Line 77, 16:06:06: 4) 1999?
+Line 78, 16:06:06: 5) A: No. It was five years ago.
+Line 79, 16:06:06: 6}  Q: So you started hauling fuel five years
+Line 80, 16:06:06: 7) ago?
+Line 81, 16:06:06: 3) A: Right.
+Line 82, 16:06:06: @: And who did you start hauling fuel for
+Line 83, 16:06:06: 10) five years ago?
+Line 84, 16:06:06: A: Well, I started with a — I worked with
+Line 85, 16:06:06: 12) another company before Baltimore Tank Lines.
+Line 86, 16:06:06: Q: What was the name of the company that
+Line 87, 16:06:06: 14) you worked —
+Line 88, 16:06:06: 15} A: Mid States Oil.
+Line 89, 16:06:06: 16)  Q: Mid States Oil.
+Line 90, 16:06:06: 17, A: In Baltimore.
+Line 91, 16:06:06: Q: And they're based out of Baltimore?
+Line 92, 16:06:06: 19) A: That’s correct.
+Line 93, 16:06:06:  Q: Also during your deposition, I know you
+Line 94, 16:06:06: 21) know where I’m headed with a lot of my
+Line 95, 16:06:06: 22} questions. You have to wait until J get the
+Line 96, 16:06:06: _ _ _ -
+Line 97, 16:06:06: Page 5 - Page 8 (4)
+Line 98, 16:06:06: Min-U-Script®
+Line 99, 16:06:06: For The Record, Inc. -- (301)870-8025
+--- End of Page 3 ---
+
+--- Beginning of Page 4 ---
+Line 1, 16:06:06: quai,
+Line 2, 16:06:06: se November 7, 2007
+Line 3, 16:06:06: Page 9 | Page 11
+Line 4, 16:06:06: 4) whole question out before you begin your answer, 1) Q: What year?
+Line 5, 16:06:06: 2] otherwise we're going to drive her crazy. All Ly A: A 2004 Freightliner.
+Line 6, 16:06:06: 3] right? When did you haul fuel for Mid States 33 Q: What year did you acquire the 2004
+Line 7, 16:06:06: 4) Oil, for what years? | (4) vehicle?
+Line 8, 16:06:06: 5) A: It had to be around '95, the year of = A: 2007.
+Line 9, 16:06:06: 6) ‘95, something like that. 6) Q: So in 2007 you bought the 2004 vehicle?
+Line 10, 16:06:06: Q: So only during 1995? 7) A: That’s correct.
+Line 11, 16:06:06: A: Yeah. I didn’t stay with them that 8 Q: And back in March of 2006, you had the
+Line 12, 16:06:06: 9) long. | 9) 1992 vehicle.
+Line 13, 16:06:06: Q: And when did you start hauling fuel for 0 A: That is correct.
+Line 14, 16:06:06: 14] Baltimore Tank Lines? 14) Q: Got it.Taking you back to the date of
+Line 15, 16:06:06: 123) = A: 2003. [12] March 13th of 2006, do you know what, if
+Line 16, 16:06:06: GQ: Who were you driving for from 1995 to ia anything, you were hauling back on that date?
+Line 17, 16:06:06: 14) 2003? 14) A: Number two oil.
+Line 18, 16:06:06: 1s) A: For myself, hauling logs. 148) @: Back on March 13th of 2006, you were
+Line 19, 16:06:06: 16) «= Q: So you're an owner/operator? 16) hauling number two oil, correct?
+Line 20, 16:06:06: A: That's correct. 17) A: That is correct.
+Line 21, 16:06:06: Q: And in 2003 you started hauling fuel 48 Q: And were you hauling number two oil for
+Line 22, 16:06:06: 19) for Baltimore Tank Lines? 19) Baltimore Tank Lines?
+Line 23, 16:06:06: 20) A: That’s correct. 120) A: That’s correct.
+Line 24, 16:06:06: Q: Is that what you still are currently ot Q: How was it that you received the
+Line 25, 16:06:06: 22) doing? oo ; _____|te2) dispatch assignment to call this particular tank
+Line 26, 16:06:06: Page 10 | Page 12
+Line 27, 16:06:06: yA: That's correct. |) Of number two oil from Baltimore Tank Lines?
+Line 28, 16:06:06: Q: Since 2003 as an owner/operator, do you 1) At How did I receive —
+Line 29, 16:06:06: 3] only haul for Baltimore Tank Lines? 3 Q: The job.
+Line 30, 16:06:06: 4) A: That’s correct. “ta A: From the dispatcher.
+Line 31, 16:06:06: Q: Do you still do anything on the side lis Q: Do you know when you were contacted by
+Line 32, 16:06:06: 6) for yourself? | (6) the dispatcher?
+Line 33, 16:06:06: A: No. 7 A: The day before, that evening on the
+Line 34, 16:06:06: Q: So the only thing you've done from 2003 6) Sth.
+Line 35, 16:06:06: through 2007 is haul fuel for Baltimore Tank | 9) Q: On what date, I’m sorry?
+Line 36, 16:06:06: 19) Lines? ‘toy A: Well, you're saying the accident
+Line 37, 16:06:06: A: That’s correct. 41) happened on the Gth, so the 5th — is that what
+Line 38, 16:06:06: 32) Q: Back in March of 2006, what kind of “ap you asked me, the oil —
+Line 39, 16:06:06: 13) tractor did you have? 13) Q: Let me just be clear.The date of the
+Line 40, 16:06:06: 14) A: A blue Peterbilt. ita) accident we're talking about today is March 13th
+Line 41, 16:06:06: Q: And what year was it? | 48) of 2006. Okay?
+Line 42, 16:06:06: A: °92. 16 A: Okay. Well, the day before I get
+Line 43, 16:06:06: Q: And is that still the vehicle that you 117) dispatched, the night before I get dispatched.
+Line 44, 16:06:06: 18) have now? : 13) Q: On the evening of March 12th of 2006,
+Line 45, 16:06:06: i] A: No, it’s not. \19) the dispatcher from Baltimore Tank Lines called
+Line 46, 16:06:06: 29) Q: When did you — did you acquire a new 20) you and told you what your assignment —
+Line 47, 16:06:06: ay vehicle? ‘24 A: No, I called them.
+Line 48, 16:06:06: 22) A: Yes, I did. i227  Q: You've got to wait till I finish my
+Line 49, 16:06:06: For The Record, Inc. -- (301)870-8025 Min-U-Script® (5) Page 9 - Page 12
+--- End of Page 4 ---
+
+--- Beginning of Page 5 ---
+Line 1, 16:06:16: a , sas
+Line 2, 16:06:16: 1] question.
+Line 3, 16:06:16: 2) A: Tmsorry.
+Line 4, 16:06:16: 3] Q: That’s okay. We’ll get through it.
+Line 5, 16:06:16: 4) Don’t worry.As a habit or the way you would
+Line 6, 16:06:16: 5) receive an assignment, and correct me if I’m
+Line 7, 16:06:16: 6) wrong, because I don't know, you would call the
+Line 8, 16:06:16: 7) dispatch the day before and say, what am I doing
+Line 9, 16:06:16: 8} tomorrow?
+Line 10, 16:06:16: 3} A: That’s correct.
+Line 11, 16:06:16: 19) «© Q: So on March 12th, like any other day,
+Line 12, 16:06:16: 11] you called the dispatcher at Baltimore Tank
+Line 13, 16:06:16: Lines and say, what am I hauling tomorrow; is
+Line 14, 16:06:16: 13} that right?
+Line 15, 16:06:16: A: That’s correct.
+Line 16, 16:06:16: Q: So the evening before on March 12th of
+Line 17, 16:06:16: 16] 2006, what was your understanding of what you
+Line 18, 16:06:16: 47] were hauling the next day?
+Line 19, 16:06:16: A: Number two oil going to Dickerson,
+Line 20, 16:06:16: 19] Maryland, two loads.
+Line 21, 16:06:16: Q: So you were taking —
+Line 22, 16:06:16: A: From Baltimore to Dickerson, Maryland.
+Line 23, 16:06:16: Q@: And you were — I’m assuming you spent
+Line 24, 16:06:16: 4) the night in your home with your tractor at your
+Line 25, 16:06:16: 2) home on March 12th of 2006?
+Line 26, 16:06:16: 3) A: That’s correct.
+Line 27, 16:06:16: 4)  Q: So you were coming from St. Mary’s
+Line 28, 16:06:16: 6) County heading to the Baltimore Tank Lines —
+Line 29, 16:06:16: 6) I’m going to call it warehouse, what do you call
+Line 30, 16:06:16: 7) it, yard?
+Line 31, 16:06:16: 8) A: Yard.
+Line 32, 16:06:16: 9}  Q: To pick up your first tank of number
+Line 33, 16:06:16: 19) two fuel.
+Line 34, 16:06:16: 11] A: No. I've got to get my paperwork. I
+Line 35, 16:06:16: 12) have my tanker behind me. I’m already hooked to
+Line 36, 16:06:16: 13} my tanker.
+Line 37, 16:06:16: 14) Q: Okay. See, these are things I don’t
+Line 38, 16:06:16: 15) know.
+Line 39, 16:06:16: is) A: I get my paperwork, then I went to load
+Line 40, 16:06:16: 47) it out of Baltimore and then went to Dickerson,
+Line 41, 16:06:16: 13} Maryland.
+Line 42, 16:06:16: Q: So onthe evening of March 12th of
+Line 43, 16:06:16: 20) 2006, you have your tractor.
+Line 44, 16:06:16: a1 A: That’s correct.
+Line 45, 16:06:16: Q: And it’s hooked up to the trailer.
+Line 46, 16:06:16: (22
+Line 47, 16:06:16: Page 14 |
+Line 48, 16:06:16: (20
+Line 49, 16:06:16: Ca
+Line 50, 16:06:16: i
+Line 51, 16:06:16: | (22
+Line 52, 16:06:16: Page 13 - Page 16 (6)
+Line 53, 16:06:16: Min-U-Scripte®
+Line 54, 16:06:16: | [20:
+Line 55, 16:06:16: 22)
+Line 56, 16:06:16: A: That’s correct.
+Line 57, 16:06:16: Q: Tanker. Tanker, is that what you want
+Line 58, 16:06:16: to call it?
+Line 59, 16:06:16: A: That’s correct.
+Line 60, 16:06:16: Q: Tanker. Okay. So your tractor is
+Line 61, 16:06:16: hooked up to your tanker at your house —
+Line 62, 16:06:16: A: That’s correct.
+Line 63, 16:06:16: Q: — on the evening of March 12, 2006.
+Line 64, 16:06:16: A: That’s correct.
+Line 65, 16:06:16: Q: When you leave your house on the
+Line 66, 16:06:16: morning of March 13th, 2006, you have your
+Line 67, 16:06:16: tractor, you have your tanker and you said you
+Line 68, 16:06:16: needed to go pick up your paperwork.
+Line 69, 16:06:16: A: That’s correct.
+Line 70, 16:06:16: Q: Where do you pick up your paperwork?
+Line 71, 16:06:16: A: At Baltimore Tank Lines.
+Line 72, 16:06:16: Q: And Baltimore Tank Lines is located
+Line 73, 16:06:16: whete?
+Line 74, 16:06:16: A: In Glen Burnie, Maryland.
+Line 75, 16:06:16: Q: What time, if you remember, did you
+Line 76, 16:06:16: leave your home on the morning of March 13,
+Line 77, 16:06:16: 2006?
+Line 78, 16:06:16: A: I’m going to say 4 0’clock.
+Line 79, 16:06:16: Q: When you say 4 o'clock, you mean 4:00
+Line 80, 16:06:16: a.m.?
+Line 81, 16:06:16: A: Yeah, 4:00 a.m.
+Line 82, 16:06:16: Q: And how long does it typically take you
+Line 83, 16:06:16: to get from your home in St. Mary’s County to
+Line 84, 16:06:16: Glen Burnie to Baltimore Tank Lines to get your
+Line 85, 16:06:16: paperwork?
+Line 86, 16:06:16: A: About an hour and 20 minutes, an hour
+Line 87, 16:06:16: and 25 minutes.
+Line 88, 16:06:16: Q: And when you arrived at Baltimore Tank
+Line 89, 16:06:16: Lines in Glen Burnie, Maryland, do you remember
+Line 90, 16:06:16: about what time that was?
+Line 91, 16:06:16: A: It had to be between about 20 minutes
+Line 92, 16:06:16: after 5:00, a quarter after 5:00.
+Line 93, 16:06:16: Q: And when you arrived to get your
+Line 94, 16:06:16: paperwork in Glen Burnie, did you pick up your
+Line 95, 16:06:16: paperwork?
+Line 96, 16:06:16: A: Yes, I did.
+Line 97, 16:06:16: Q: What paperwork is it that you pick up
+Line 98, 16:06:16: in Glen Burnie?
+Line 99, 16:06:16: A: It’s called a DR. It’s a load form to
+Line 100, 16:06:16: For The Record, Inc. -- (301)870-8025
+--- End of Page 5 ---
+
+--- Beginning of Page 6 ---
+Line 1, 16:06:16: November 7, -_
+Line 2, 16:06:16: tell you where to load a product, load the two
+Line 3, 16:06:16: ou,
+Line 4, 16:06:16: Q: I'm going to show you what’s been
+Line 5, 16:06:16: marked as Deposition Exhibit Numbers 1 and 2 and
+Line 6, 16:06:16: can you tell me if either one of these pieces of
+Line 7, 16:06:16: paper are your DR?
+Line 8, 16:06:16: A: Yeah, that’s what these are. Well,
+Line 9, 16:06:16: this is not a DR. Yes, it ts. It’s a DR.
+Line 10, 16:06:16: Q: So when you go to Glen Burnie in the
+Line 11, 16:06:16: morning to pick up your paperwork, this is the
+Line 12, 16:06:16: type of paperwork that you're talking about?
+Line 13, 16:06:16: A: No.This is not it. This is the
+Line 14, 16:06:16: stuff, the product I load, the gallons and stuff
+Line 15, 16:06:16: I put on the trailer.
+Line 16, 16:06:16: Q: So this is not your DR.
+Line 17, 16:06:16: A: No, that’s nota DR.
+Line 18, 16:06:16: Q: Is this more like a purchase order ora
+Line 19, 16:06:16: bill of lading?
+Line 20, 16:06:16: A: Yes. This is like a — it says, sold
+Line 21, 16:06:16: to Mirant. They come out of Center Oil, so in
+Line 22, 16:06:16: other words, this is their paperwork where I
+Line 23, 16:06:16: load the product out of.
+Line 24, 16:06:16: Q: Okay. So the two pieces of paper that
+Line 25, 16:06:16: are in front of us, Deposition Exhibit Number 1
+Line 26, 16:06:16: and Deposition Exhibit Number 2, are not your DR
+Line 27, 16:06:16: paperwork. This is paperwork that was supplied
+Line 28, 16:06:16: to you where you load it —
+Line 29, 16:06:16: A: Pick or load it up, where I pick or
+Line 30, 16:06:16: load it up, the Center Oil right here.This is
+Line 31, 16:06:16: the shipper and this is where it goes.
+Line 32, 16:06:16: MR. FORD: All right. I’m losing you.
+Line 33, 16:06:16: Youre pointing to stuff,
+Line 34, 16:06:16: MS. ZOIS: I’m going to back up.
+Line 35, 16:06:16: BY MS. ZOIS:
+Line 36, 16:06:16: Q: The paperwork that you have in front of
+Line 37, 16:06:16: you, Number 1 and Number 2, is paperwork that
+Line 38, 16:06:16: you pick up from the place where you load the
+Line 39, 16:06:16: fuel into your tanker; is that correct?
+Line 40, 16:06:16: A: That’s correct.
+Line 41, 16:06:16: Q: And on this paperwork, it indicates a
+Line 42, 16:06:16: sold to box that says Mirant Corp., George E.
+Line 43, 16:06:16: Warren?
+Line 44, 16:06:16: A: That’s correct.
+Line 45, 16:06:16: Q: Is that where you picked up the fuel?
+Line 46, 16:06:16: For The Record, Inc. -- (401)870-8025
+Line 47, 16:06:16: Page 17
+Line 48, 16:06:16: Page 18
+Line 49, 16:06:16: ai
+Line 50, 16:06:16: Min-U-Script®
+Line 51, 16:06:16: Page 19
+Line 52, 16:06:16: A: No.1 picked it up at Center Oil —
+Line 53, 16:06:16: MR. FORD: Are you saying center?
+Line 54, 16:06:16: THE WITNESS: Center Oil, all the way
+Line 55, 16:06:16: to the right of the paper.
+Line 56, 16:06:16: BY MS. ZOIS:
+Line 57, 16:06:16: Q: So where it says co-signer, it says
+Line 58, 16:06:16: Center Point Term?
+Line 59, 16:06:16: A: Right here. Indicating.)
+Line 60, 16:06:16: Q: And that says Center Point Term right
+Line 61, 16:06:16: there.
+Line 62, 16:06:16: A: Right. I say Center Oil. That’s
+Line 63, 16:06:16: always called Center Oil Point, that’s correct.
+Line 64, 16:06:16: Q: And so that is the location where you
+Line 65, 16:06:16: actually filled your tanker up with fuel; is
+Line 66, 16:06:16: that correct?
+Line 67, 16:06:16: A: That's correct.
+Line 68, 16:06:16: Q: And this is their paperwork, correct?
+Line 69, 16:06:16: A: Correct, that’s correct. It wouldn’t
+Line 70, 16:06:16: have on — which it doesn’t. It’s got Mirant.
+Line 71, 16:06:16: I did go to Mirant, but see they ship different
+Line 72, 16:06:16: Mirant — they’ve got different places,
+Line 73, 16:06:16: Alexandria, Dickerson, Maryland, Chalk Point,
+Line 74, 16:06:16: Page 20
+Line 75, 16:06:16: Maryland. I went to Dickerson, Maryland, which
+Line 76, 16:06:16: that would have been on the DR.
+Line 77, 16:06:16: Q: And the DR is what we don’t have?
+Line 78, 16:06:16: A: That is correct.
+Line 79, 16:06:16: Q: So on Deposition Exhibit Number 2, I
+Line 80, 16:06:16: just want to come back to this for a second, it
+Line 81, 16:06:16: says that on March 13th of 2006 — and this
+Line 82, 16:06:16: looks like 4:40?
+Line 83, 16:06:16: A: 4:40.
+Line 84, 16:06:16: Q: In the morning, correct?
+Line 85, 16:06:16: A: Yes. You know, I'm just trying to give
+Line 86, 16:06:16: you a time frame. I might not be perfect on
+Line 87, 16:06:16: this. This has been a while back.
+Line 88, 16:06:16: Q: Sure. I understand.
+Line 89, 16:06:16: A: It’s got to be correct if that’s the
+Line 90, 16:06:16: time on it that I loaded it.
+Line 91, 16:06:16: Q: And you loaded it — as far as
+Line 92, 16:06:16: Deposition Exhibit Number 2, you loaded up your
+Line 93, 16:06:16: tanker with fuel at Center Point.
+Line 94, 16:06:16: A: That’s correct.
+Line 95, 16:06:16: Q: And according to this document, you
+Line 96, 16:06:16: were going to deliver the fuel to — is it this
+Line 97, 16:06:16: (7) Page 17 - Page 20
+--- End of Page 6 ---
+
+--- Beginning of Page 7 ---
+Line 1, 16:06:16: November 7, 2007 a.
+Line 2, 16:06:16: Page 21 Page 23
+Line 3, 16:06:16: 4] entity, Mirant Corp., Maryland?
+Line 4, 16:06:16: A: Mirant.That’s the buyer, Mirant. I
+Line 5, 16:06:16: 3] went to Dickerson, Maryland with it. It’s
+Line 6, 16:06:16: Dickerson?
+Line 7, 16:06:16: A: 5:30, quarter to 6:00, around 5:30.
+Line 8, 16:06:16: 3} Q: Does anything on this document help us
+Line 9, 16:06:16: nS
+Line 10, 16:06:16: 4) Mirant. It’s called Mirant.The address is
+Line 11, 16:06:16: =
+Line 12, 16:06:16: determine what time you arrived in Dickerson?
+Line 13, 16:06:16: 5} Dickerson, Maryland.
+Line 14, 16:06:16: 6} Q: And this says shipped to 700003. Do
+Line 15, 16:06:16: 7] you know what that means?
+Line 16, 16:06:16: 5} A: No. It wouldn't anyway, because they
+Line 17, 16:06:16: wouldn't -- I’m the one that’s got to mark it on
+Line 18, 16:06:16: a
+Line 19, 16:06:16: my log what time I got there. It wouldn't be on
+Line 20, 16:06:16: =
+Line 21, 16:06:16: A: Ihave no idea.
+Line 22, 16:06:16: C2)
+Line 23, 16:06:16: here. They wouldn't know.
+Line 24, 16:06:16: 9) Q: Okay. How do you know that — / (3)  Q: And when you got to Dickerson, you
+Line 25, 16:06:16: iq) ~—s A: It’s on my DR, the DR that I get from
+Line 26, 16:06:16: 11} Baltimore Tank Lines.
+Line 27, 16:06:16: oO
+Line 28, 16:06:16: dumped your fuel there, right?
+Line 29, 16:06:16: A: That’s correct.
+Line 30, 16:06:16: (lz Q: You know where I’m going with my 2 Q: How long does that take?
+Line 31, 16:06:16: {13] Questions. You've got to wait till I ask them. ‘1a3~—« A: Sometimes a half hour, 45 minutes. It
+Line 32, 16:06:16: 1 y ati 0 I
+Line 33, 16:06:16: (14] Based on this piece of documentation alone, we 14) depends.
+Line 34, 16:06:16: (18) know you went to Center Point Terminal in 18) Q: Do you remember approximately what time
+Line 35, 16:06:16: (16) Baltimore and you had to deliver a tank of fuel ite) you left Dickerson?
+Line 36, 16:06:16: (17) to Mirant Corp. in Maryland, right? (17) A: Idon’t have the slightest idea.
+Line 37, 16:06:16: (a) A: That’s correct. 3) Q: When you left Dickerson, where did you
+Line 38, 16:06:16: |
+Line 39, 16:06:16: |
+Line 40, 16:06:16: . A r ic . ?
+Line 41, 16:06:16: Q@: How do you know it was Dickerson: 19] go to next?
+Line 42, 16:06:16: 2) A: It’s on my DR, 29) A: Back to Baltimore.
+Line 43, 16:06:16: (et Q: And where is your DR? 24 Q: And when you went back to Baltimore,
+Line 44, 16:06:16: ]__ A: Where is it now? _ _ 21 did you go back to Baltimore Tank Lines in Glen
+Line 45, 16:06:16: Page 22 | Page 24
+Line 46, 16:06:16: Q: Yes. Do you know? | i] Burnie to pick up additional paperwork?
+Line 47, 16:06:16: 2) A: I don’t have the slightest idea. /1@ At No.l went back to Center Oil.
+Line 48, 16:06:16: 3] Baltimore Tank Lines has got it.
+Line 49, 16:06:16: oO
+Line 50, 16:06:16: Q: So you already had the paperwork you
+Line 51, 16:06:16: 4) Q: Does this help us at all, the second
+Line 52, 16:06:16: 5] sheet of this?
+Line 53, 16:06:16: needed for that.
+Line 54, 16:06:16: =
+Line 55, 16:06:16: A: That’s correct.
+Line 56, 16:06:16: 6) A: It tells you right there where I went 1 Q: So you didn’t have to go back to Glen
+Line 57, 16:06:16: 7) with it. 7) Burnie.
+Line 58, 16:06:16: 8)  Q@: Okay. : (s) A: That’s correct.
+Line 59, 16:06:16: A: If that’s what you're looking for, © Q: So when you left Dickerson, you went to
+Line 60, 16:06:16: 1o) right here Mirant Corporation, PEPCO, Dickerson,
+Line 61, 16:06:16: (11) Maryland. That’s where I shipped it to.
+Line 62, 16:06:16: 10) Center Oil in Baltimore.
+Line 63, 16:06:16: ft A: That’s correct.
+Line 64, 16:06:16: iq Q: Okay. So according to this document, 12] @: And you refueled there.
+Line 65, 16:06:16: 13] even though it’s not your DR, you went to 13 A: That’s correct.
+Line 66, 16:06:16: 14] Baltimore, you filled up your tanker and you 14) Q: How long does that process take?
+Line 67, 16:06:16: 15] went to Dickerson, Maryland? 1s) A: 20 minutes to a half hour.
+Line 68, 16:06:16: 16) A: That’s correct. ve) Q: And after you refueled your tank in
+Line 69, 16:06:16: ~©Q: All right. And do you know what route ‘1171 Baltimore, where did you go next?
+Line 70, 16:06:16: 18] you took from Baltimore to Dickerson? 18) A: Back to Dickerson, Maryland.
+Line 71, 16:06:16: A: 495 — 95 to 495. 495 runs together (19) Q: Back to Dickerson, Maryland.
+Line 72, 16:06:16: 20) with 95.270 to 29.That’s it. 29 takes you |) A: Which that took me a little longer to
+Line 73, 16:06:16: 2i} right up to Dickerson. j21] get back because of the traffic on 495,
+Line 74, 16:06:16: 22) Q: Do you know what time you arrived in 223 Q: Okay.When you went back to Baltimore
+Line 75, 16:06:16: Page 21 - Page 24 (8) Min-U-Scripto For The Record, Inc. -- (301)870-8025
+--- End of Page 7 ---
+
+--- Beginning of Page 8 ---
+Line 1, 16:06:16: Que
+Line 2, 16:06:16: November 7, 2007
+Line 3, 16:06:16: Page 25 | Page 27
+Line 4, 16:06:16: | before you went to Dickerson again, would this 1) A: Yeah, 1 do it all the time.
+Line 5, 16:06:16: 2) paperwork indicate approximately what time — in Q: Do you have any independent memory of
+Line 6, 16:06:16: 3] you've got to wait till I finish my question. 3] this particular day, March 13 of 2006, how long
+Line 7, 16:06:16: 4) I'm going to start making you pay a quarter for 4) it took you to run these two loads?
+Line 8, 16:06:16: 8} that. All right. So when you went back to 5) A: Like it normally does, usually 11:30,
+Line 9, 16:06:16: 6) Baltimore to fill up your second tanker on (6) 12 o'clock when I'm finishing up in Dickerson,
+Line 10, 16:06:16: 7) Deposition Exhibit Number 1, it indicates it was 7) Maryland.
+Line 11, 16:06:16: 3) about 8:47. Does that look about right? 8} Q: Okay. But I'm asking you, can you in
+Line 12, 16:06:16: A: That’s correct. 9] your head rewind your tape to March 13th —
+Line 13, 16:06:16: Q: So that would have been the time you 10 A: Oh, no, I can’t do that. I’m not a
+Line 14, 16:06:16: 1) started to begin the fueling? ln4] genius.
+Line 15, 16:06:16: A: That's correct. 12) Q: I didn’t think so. 1 just wanted to
+Line 16, 16:06:16: MS. ZOIS: Okay. Let's go off the '13) check. But we do know that you left Dickerson
+Line 17, 16:06:16: 4) record for one second. i(14} with your second load at 8:47 a.m.
+Line 18, 16:06:16: (A discussion was held off the record.) is) A: I left Baltimore.
+Line 19, 16:06:16: BY MS. ZOIS: 16 ~«=Q: I'm sorry, youre right, Baltimore when
+Line 20, 16:06:16: 17, Q: So according to Deposition Exhibit 17) you refueled your second load.
+Line 21, 16:06:16: Number 1, you arrived back in Baltimore ita) A: That’s correct.
+Line 22, 16:06:16: 19] approximately 8:47 to get your second tank of 19) Q@: And when you unload in Dickerson and
+Line 23, 16:06:16: 2q) fuel, correct? 29) head back home to St. Mary’s County, right —
+Line 24, 16:06:16: A: That’s correct. 24 A: Right.
+Line 25, 16:06:16: Q@: And you were going to haul your second | 221 Q: — what route do you take?
+Line 26, 16:06:16: Page 26 | Page 28
+Line 27, 16:06:16: 4] Tank of fuel to Dickerson? 1) A: 29,270, 495 to 95 on the east side to
+Line 28, 16:06:16: 4A: That's correct. 2) Route 5/Exit 7 to Mattawoman Beantown Road
+Line 29, 16:06:16: Q: And did you take the same route to 3) south.
+Line 30, 16:06:16: 4) Dickerson from Baltimore that you told me about 4) Q: So you take 495 to Route 5, correct?
+Line 31, 16:06:16: 8) before? 3) A: Right. 495 and 95 runs together. 95
+Line 32, 16:06:16: A: That’s correct, I always do. 6) comes by itself at the split.
+Line 33, 16:06:16: 7, Q: And after you unloaded your second tank la Q: And then from where you get off on 495,
+Line 34, 16:06:16: a] of fuel in Dickerson, were you going to head 6 you take Route 5 to Mattawoman Beantown Road,
+Line 35, 16:06:16: 3} home from there? - 9) correct?
+Line 36, 16:06:16: 0) A: That's correct. 10) A: That’s correct, Exit 7.
+Line 37, 16:06:16: Q: Do you know what time you left iQ: And that’s how long, how many miles is
+Line 38, 16:06:16: Dickerson to head home? 12) that from 495 down to Mattawoman Beantown Road?
+Line 39, 16:06:16: A: I'm going to say around 12:00, quarter 13} A: 30 miles.
+Line 40, 16:06:16: 14) to 12:00, 141 Q: And when you get to Mattawoman Beantown
+Line 41, 16:06:16: 15) Q: How sure are you about the time? ‘s] Road — Ihave to cheat and look at my map now
+Line 42, 16:06:16: 16) A: Because the time that it took me to get 16) — do you come off of 301?
+Line 43, 16:06:16: 17) up there and the time I unload, that’s the time 7 A: Well, 301 and 5 runs together. There’s
+Line 44, 16:06:16: 18) I normally leave there when I run two loads to 19) a left-hand —
+Line 45, 16:06:16: Dickerson. Between 11:30 and 12:00 is the time 19} MS. ZOIS: We should probably mark your
+Line 46, 16:06:16: 20] I normally leave Dickerson, Maryland. | 20) assisting us. Let’s go ahead and mark this.
+Line 47, 16:06:16: Q: And you're basing that on having done | 21) It’s Frank Ford’s artwork. He deserves credit.
+Line 48, 16:06:16: 2a) this run before? |z2} THE WITNESS: I was going to show you
+Line 49, 16:06:16: For The Record, Inc. -- (301)870-8025 Min-U-Script® (9) Page 25 - Page 28
+--- End of Page 8 ---
+
+--- Beginning of Page 9 ---
+Line 1, 16:06:25: a 75 =
+Line 2, 16:06:25: (12)
+Line 3, 16:06:25: (14}
+Line 4, 16:06:25: (15
+Line 5, 16:06:25: (16)
+Line 6, 16:06:25: (17
+Line 7, 16:06:25: (18
+Line 8, 16:06:25: [19
+Line 9, 16:06:25: [20
+Line 10, 16:06:25: {21
+Line 11, 16:06:25: (22
+Line 12, 16:06:25: BS N=
+Line 13, 16:06:25: 20)
+Line 14, 16:06:25: 21]
+Line 15, 16:06:25: 22] Beantown Road, is it fair to say that the three
+Line 16, 16:06:25: that —
+Line 17, 16:06:25: MS. ZOIS: Can we draw on your artwork,
+Line 18, 16:06:25: Frank?
+Line 19, 16:06:25: MR. FORD: Sure.
+Line 20, 16:06:25: THE WITNESS: Why do you got 5 over
+Line 21, 16:06:25: here and 301, what’s the deal here?
+Line 22, 16:06:25: MS. ZOIS: Here’s 495, Route 5 coming
+Line 23, 16:06:25: down, 301.This is all —
+Line 24, 16:06:25: THE WITNESS: Okay. I come down here.
+Line 25, 16:06:25: It’s three turning lanes right here. I make a
+Line 26, 16:06:25: left here on Mattawoman Beantown Road.
+Line 27, 16:06:25: CUndicating.)
+Line 28, 16:06:25: BY MS. ZOIS:
+Line 29, 16:06:25: Q: So there’s three left-hand turn lanes
+Line 30, 16:06:25: to take the left onto Mattawoman Beantown Road.
+Line 31, 16:06:25: A: That’s correct.
+Line 32, 16:06:25: Q: Do you remember whether or not you got
+Line 33, 16:06:25: stopped at that traffic signal or not?
+Line 34, 16:06:25: A: That I can’t remember.
+Line 35, 16:06:25: Q: Is there a lane that you favor when
+Line 36, 16:06:25: you're in those three left-hand turn lanes?
+Line 37, 16:06:25: A: I’ve got to be on the outside lane.
+Line 38, 16:06:25: All trucks have got to be on the outside Jane,
+Line 39, 16:06:25: because you've got two cars on the inside. You
+Line 40, 16:06:25: can't get it inside if you make the turn.
+Line 41, 16:06:25: You've got to have a car.
+Line 42, 16:06:25: Q: So when you say on the outside lane —
+Line 43, 16:06:25: A: Outside come all the way around.
+Line 44, 16:06:25: Q: — you mean the far right-hand lane of
+Line 45, 16:06:25: those three turning lanes?
+Line 46, 16:06:25: A: That’s right. You have three. This
+Line 47, 16:06:25: would be the left, right two left.
+Line 48, 16:06:25: Cndicating.)
+Line 49, 16:06:25: Q: Okay. So when you're in the left-hand
+Line 50, 16:06:25: turn lanes to take your left onto Mattawoman
+Line 51, 16:06:25: Beantown Road, there’s two lanes of traffic to
+Line 52, 16:06:25: you to your left.
+Line 53, 16:06:25: A: That’s correct.
+Line 54, 16:06:25: Q: Got it.And on this particular day you
+Line 55, 16:06:25: don’t remember whether you stopped at that
+Line 56, 16:06:25: light, right?
+Line 57, 16:06:25: A: No.
+Line 58, 16:06:25: Q: When you take your left onto Mattawoman
+Line 59, 16:06:25: Page 29 - Page 32 (10)
+Line 60, 16:06:25: Page 29
+Line 61, 16:06:25: Page 30
+Line 62, 16:06:25: 20)
+Line 63, 16:06:25: ‘(24
+Line 64, 16:06:25: | (22
+Line 65, 16:06:25: lanes go down to two lanes?
+Line 66, 16:06:25: A: Yes, and I would say a good quarter
+Line 67, 16:06:25: mile in it goes — bears over.
+Line 68, 16:06:25: Q: And when you —
+Line 69, 16:06:25: A: I stop at all railroad tracks, so I had
+Line 70, 16:06:25: to stop at the railroad tracks. Then when you
+Line 71, 16:06:25: take back off, there’s another traffic light
+Line 72, 16:06:25: here and another one here and then you've got to
+Line 73, 16:06:25: merge over to the left to get over.
+Line 74, 16:06:25: CIindicating.)
+Line 75, 16:06:25: Q: And on your regular route home from
+Line 76, 16:06:25: Dickerson, you take a left onto Mattawoman
+Line 77, 16:06:25: Beantown Road and then where do you go from
+Line 78, 16:06:25: there?
+Line 79, 16:06:25: A: Back out to 5 — no, Mattawoman
+Line 80, 16:06:25: Beantown Road comes back out to 5.
+Line 81, 16:06:25: Q: Then what do you do at the intersection
+Line 82, 16:06:25: of Mattawoman Beantown Road and Route 5?
+Line 83, 16:06:25: A: Are you talking at the end of it?
+Line 84, 16:06:25: Q: Yes, sir.
+Line 85, 16:06:25: A: I make a left. I head south.
+Line 86, 16:06:25: Q: And Mattawoman Beantown Road has two
+Line 87, 16:06:25: Page 32
+Line 88, 16:06:25: lanes for a while and then it opens up to two
+Line 89, 16:06:25: left-hand turn lanes and two lanes, correct?
+Line 90, 16:06:25: A: At the end of it.
+Line 91, 16:06:25: Q: Right.
+Line 92, 16:06:25: A: There’s two that goes over and two
+Line 93, 16:06:25: stays to the right that goes into St. Charles
+Line 94, 16:06:25: and there’s two turn lanes that go south towards
+Line 95, 16:06:25: Leonardtown Road.
+Line 96, 16:06:25: Q: And that’s the direction you would have
+Line 97, 16:06:25: been heading?
+Line 98, 16:06:25: A: That’s correct.
+Line 99, 16:06:25: Q: And you've already told us that you
+Line 100, 16:06:25: prefer to take the outside lane, if you will, to
+Line 101, 16:06:25: take that left-hand turn; is that right?
+Line 102, 16:06:25: A: That’s correct, I always do. We're not
+Line 103, 16:06:25: supposed to be in the middle or the lane all the
+Line 104, 16:06:25: way over.
+Line 105, 16:06:25: Q: So when you take your left from
+Line 106, 16:06:25: Mattawoman Beantown Road onto southbound Route
+Line 107, 16:06:25: 5, you would be in the right-hand of the two
+Line 108, 16:06:25: left-hand turn lanes; is that correct?
+Line 109, 16:06:25: A: That’s correct. Il would be on the
+Line 110, 16:06:25: Min-U-Script®
+Line 111, 16:06:25: For The Record, Inc. -- (401)870-8025
+--- End of Page 9 ---
+
+--- Beginning of Page 10 ---
+Line 1, 16:06:25: 20)
+Line 2, 16:06:25: Page 33
+Line 3, 16:06:25: outside. There’s only two there. If you're
+Line 4, 16:06:25: talking about getting off at the end of
+Line 5, 16:06:25: Mattawoman Beantown Road, there’s only two
+Line 6, 16:06:25: turning lanes there.
+Line 7, 16:06:25: Q: Okay. So you would have one lane of
+Line 8, 16:06:25: traffic to your left at that intersection.
+Line 9, 16:06:25: A: One lane, that’s correct.
+Line 10, 16:06:25: Q: And just so — I know I’ve asked this
+Line 11, 16:06:25: before, but do you have any specific
+Line 12, 16:06:25: recollection of any traffic in the area of
+Line 13, 16:06:25: Mattawoman Beantown Road and southbound Route 5
+Line 14, 16:06:25: back on March 13 of 2006?
+Line 15, 16:06:25: A: I don't have any idea what the traffic
+Line 16, 16:06:25: was like that day.
+Line 17, 16:06:25: Q: And you have at home your logbook?
+Line 18, 16:06:25: A: Yes, I do. I’ve got it filed. I can
+Line 19, 16:06:25: take it out. It’s in my file.
+Line 20, 16:06:25: Q: And your logbook would tell us what
+Line 21, 16:06:25: your pickup and drop-off was back on the date of
+Line 22, 16:06:25: this accident?
+Line 23, 16:06:25: A: That is correct.
+Line 24, 16:06:25: Q: Would your logbook tell us what time
+Line 25, 16:06:25: Page 34 |
+Line 26, 16:06:25: you left Dickerson that day?
+Line 27, 16:06:25: A: Yes, it would.
+Line 28, 16:06:25: Q: Would your logbook tell us what time
+Line 29, 16:06:25: you got home that day?
+Line 30, 16:06:25: A: Yes, it would. I log the time I leave
+Line 31, 16:06:25: the house and the time I get home.
+Line 32, 16:06:25: Q: Can you tell me how far you live from
+Line 33, 16:06:25: the intersection of Mattawoman Beantown Road and
+Line 34, 16:06:25: Route 5, this area right here, how far it is
+Line 35, 16:06:25: from here to your house? (Indicating. )
+Line 36, 16:06:25: A: About a half hour. You're talking
+Line 37, 16:06:25: about time-wise?
+Line 38, 16:06:25: Q: Yes, sir.
+Line 39, 16:06:25: A: Half hour.
+Line 40, 16:06:25: Q: And if you stop and eat lunch or get a
+Line 41, 16:06:25: cup of coffee or go to the bathroom or something
+Line 42, 16:06:25: like that, is that logged on your logbook?
+Line 43, 16:06:25: A: No. Not five, ten minutes, no.
+Line 44, 16:06:25: Q: What about like a half an hour?
+Line 45, 16:06:25: A: Yeah, a half hour.A half hour would
+Line 46, 16:06:25: be if I stopped somewhere, a half hour would be
+Line 47, 16:06:25: logged.
+Line 48, 16:06:25: | [20
+Line 49, 16:06:25: pene pe.)
+Line 50, 16:06:25: November 7, 2007
+Line 51, 16:06:25: i [22
+Line 52, 16:06:25: Page 35
+Line 53, 16:06:25: Q: And if it’s something less than half an
+Line 54, 16:06:25: hour, it wouldn't be logged.
+Line 55, 16:06:25: A: I don’t log it, no. If I stop
+Line 56, 16:06:25: somewhere for a half hour, I log saying this is
+Line 57, 16:06:25: where I was for a half hour.
+Line 58, 16:06:25: Q: And you'll get a copy of the log for
+Line 59, 16:06:25: this day?
+Line 60, 16:06:25: A: I'll go into my file cabinet. All my
+Line 61, 16:06:25: stuff, I keep everything for a couple years, so
+Line 62, 16:06:25: I should be able to dig that up.
+Line 63, 16:06:25: MS. ZOIS: Great. You can provide that
+Line 64, 16:06:25: to Mr. Stephenson and he can get that to us. I
+Line 65, 16:06:25: don’t think I have anything further. Thank you,
+Line 66, 16:06:25: MR. STEPHENSON: Mr. Ford?
+Line 67, 16:06:25: MR. FORD: Yeah, I have a couple.
+Line 68, 16:06:25: EXAMINATION
+Line 69, 16:06:25: BY MR. FORD:
+Line 70, 16:06:25: Q: You're aware that there’s this lawsuit
+Line 71, 16:06:25: pending where it’s claimed that a Baltimore Tank
+Line 72, 16:06:25: Lines truck cut off SD in the area of
+Line 73, 16:06:25: Mattawoman Beantown Road and Route 5. You're
+Line 74, 16:06:25: Page 36
+Line 75, 16:06:25: aware of that fact?
+Line 76, 16:06:25: A: That’s what they’re saying.
+Line 77, 16:06:25: Q: When were you first contacted by
+Line 78, 16:06:25: Baltimore Tank Lines or anybody else about your
+Line 79, 16:06:25: possible involvement in this incident?
+Line 80, 16:06:25: A: I'm going to say three or four months
+Line 81, 16:06:25: ago.
+Line 82, 16:06:25: Q: This incident occurred March 2006,
+Line 83, 16:06:25: March 13. You were not contacted within a day
+Line 84, 16:06:25: or two of that date by the people of Baltimore
+Line 85, 16:06:25: Tank Lines?
+Line 86, 16:06:25: A: Of that day?
+Line 87, 16:06:25: : About this incident.
+Line 88, 16:06:25: No.
+Line 89, 16:06:25: : No one contacted you?
+Line 90, 16:06:25: No.
+Line 91, 16:06:25: : Who was the dispatcher at Baltimore
+Line 92, 16:06:25: Tank Lines back in March of '06?
+Line 93, 16:06:25: A: I have no idea who. They've got two or
+Line 94, 16:06:25: POPS
+Line 95, 16:06:25: Oo
+Line 96, 16:06:25: three dispatchers. I don’t know who was
+Line 97, 16:06:25: dispatcher that day.
+Line 98, 16:06:25: Q: Can you give me the name of any of
+Line 99, 16:06:25: For The Record, Inc. -- (301)870-8025
+Line 100, 16:06:25: Min-U-Scripta
+Line 101, 16:06:25: (11) Page 33 - Page 36
+--- End of Page 10 ---
+
+--- Beginning of Page 11 ---
+Line 1, 16:06:25: November 7, 2007
+Line 2, 16:06:25: 1]
+Line 3, 16:06:25: 20)
+Line 4, 16:06:25: 22}
+Line 5, 16:06:25: them?
+Line 6, 16:06:25: A: They cot
+Line 7, 16:06:25: Q: Gps her last name?
+Line 8, 16:06:25: A: I can’t pronounce her last name. She
+Line 9, 16:06:25: has a weird last name.
+Line 10, 16:06:25: Q: She’ll appreciate hearing that. Anyone
+Line 11, 16:06:25: else?
+Line 12, 16:06:25: A: Dale. I don’t know these people’s last
+Line 13, 16:06:25: names.
+Line 14, 16:06:25: Q: All right. Just give me their first
+Line 15, 16:06:25: names,
+Line 16, 16:06:25: A: pe. Dale.
+Line 17, 16:06:25: Q: And they are still there at this time?
+Line 18, 16:06:25: A: Oh, yes.
+Line 19, 16:06:25: Q: And they were there in March of '06?
+Line 20, 16:06:25: A: I’m sure. Joe, too. That’s another
+Line 21, 16:06:25: guy named Joe.That’s the only three that I
+Line 22, 16:06:25: deal with and I don’t know their last names. |
+Line 23, 16:06:25: know but it’s — I can’t say it.
+Line 24, 16:06:25: Q: That’s all right. But they were all
+Line 25, 16:06:25: dispatchers back in March of '06?
+Line 26, 16:06:25: A: I’m sure they were.
+Line 27, 16:06:25: Page 37 - Page 40 (12)
+Line 28, 16:06:25: Q: And none of them ever contacted you
+Line 29, 16:06:25: about this incident at or about the time it
+Line 30, 16:06:25: allegedly occurred?
+Line 31, 16:06:25: A: Not that I’m aware of, no.
+Line 32, 16:06:25: Q: Are you aware of any other Baltimore
+Line 33, 16:06:25: Tank Lines’ vehicle or driver who was in the
+Line 34, 16:06:25: vicinity of Mattawoman Beantown Road and Route 5
+Line 35, 16:06:25: on March 13, 2006?
+Line 36, 16:06:25: A: I mean there's very few of us that run
+Line 37, 16:06:25: down here, but I don't know where they were that
+Line 38, 16:06:25: day. ,
+Line 39, 16:06:25: Q: When you say run down here, you would
+Line 40, 16:06:25: take the shipments to where, Morgantown or Chalk
+Line 41, 16:06:25: Point?
+Line 42, 16:06:25: A: Well, we've got — a couple of us live
+Line 43, 16:06:25: down here.
+Line 44, 16:06:25: Q: Who else lives down here?
+Line 45, 16:06:25: A: A guy named Ed, but I can’t pronounce
+Line 46, 16:06:25: his last name either.
+Line 47, 16:06:25: Q: Is he related to wa
+Line 48, 16:06:25: A: Yes.
+Line 49, 16:06:25: Q: He’s an owner/operator?
+Line 50, 16:06:25: Page 37
+Line 51, 16:06:25: Page 38 |
+Line 52, 16:06:25: Min-U-Script®
+Line 53, 16:06:25: Page 39
+Line 54, 16:06:25: A: Yes, he is.
+Line 55, 16:06:25: a) Q: And where does he live?
+Line 56, 16:06:25: ' (3) A: He lives in Mechanicsville, Maryland.
+Line 57, 16:06:25: 4) Q: And he’s an owner/operator at this time
+Line 58, 16:06:25: 5] aS well?
+Line 59, 16:06:25: A: That’s correct.
+Line 60, 16:06:25: | 7]  Q: Do you happen to know what his route
+Line 61, 16:06:25: | (8) Was On Match 13, 2006?
+Line 62, 16:06:25: | 9 A: Ihave no idea.1 don’t keep up with
+Line 63, 16:06:25: 10) other owner/operators, what they do.
+Line 64, 16:06:25: Q: You never talked toffPavout this
+Line 65, 16:06:25: 112) incident?
+Line 66, 16:06:25: A: Noe.
+Line 67, 16:06:25: Q: Any other owner/operators that live
+Line 68, 16:06:25: 15) down in St. Mary’s County or Charles County who
+Line 69, 16:06:25: 18] were Owner/operators back in March of 20067
+Line 70, 16:06:25: 1A? A: I'm trying to think. They come and go
+Line 71, 16:06:25: ig) like flies on you know what.
+Line 72, 16:06:25: Q: By the way, did you ever know
+Line 73, 16:06:25: oi
+Line 74, 16:06:25: A: No.
+Line 75, 16:06:25: 22} Q: Do you know that name at all?
+Line 76, 16:06:25: Page 40
+Line 77, 16:06:25: A: No.
+Line 78, 16:06:25: i 2] Q: And your estimate of your time, you
+Line 79, 16:06:25: 3] Originally thought you had left your home that
+Line 80, 16:06:25: morning around 4 o'clock. You had to have left
+Line 81, 16:06:25: earlier than that if you were picking your oil
+Line 82, 16:06:25: up at 4:40.
+Line 83, 16:06:25: A: That’s correct. I left at 3:00, 3:30.
+Line 84, 16:06:25: Q: Now, your logbook will show that you
+Line 85, 16:06:25: presumably left Center Point Terminal around
+Line 86, 16:06:25: 4:40; is that correct?
+Line 87, 16:06:25: A: Yeah, either that or 5 o'clock,
+Line 88, 16:06:25: Q: Pardon me?
+Line 89, 16:06:25: A: Either that or 5 o'clock.
+Line 90, 16:06:25: Q: What does the 4:40 mean on this? ’'m
+Line 91, 16:06:25: looking at Exhibit Number 2.
+Line 92, 16:06:25: A: That’s the time that I clocked out when
+Line 93, 16:06:25: you get —
+Line 94, 16:06:25: Q: When you load it up?
+Line 95, 16:06:25: A: Right.
+Line 96, 16:06:25: Q: And usually you leave within a short
+Line 97, 16:06:25: time of that?
+Line 98, 16:06:25: A: Well, usually if you go to the bathroom
+Line 99, 16:06:25: For The Record, Inc. -- (401)870-8025
+--- End of Page 11 ---
+
+--- Beginning of Page 12 ---
+Line 1, 16:06:25: November 7, 2007
+Line 2, 16:06:25: Page 41 |
+Line 3, 16:06:25: 1] or whatever, you just don’t jump in the truck. '
+Line 4, 16:06:25: 7) I!mean you do, but you sometimes — I might be 2
+Line 5, 16:06:25: 3] talking to somebody or whatnot. 3
+Line 6, 16:06:25: 4) Q: Your logbook will show what you 4
+Line 7, 16:06:25: 5] recorded as your departure time from Center 6
+Line 8, 16:06:25: 6} Point Terminal; is that correct? 5
+Line 9, 16:06:25: 7) A: That's correct. | 7
+Line 10, 16:06:25: 8} Q: And it will also record your arrival 1
+Line 11, 16:06:25: 9] time at Dickerson? 9
+Line 12, 16:06:25: to) «= A: That’s correct. ‘10
+Line 13, 16:06:25: "4 Q: And it will record when you left 1
+Line 14, 16:06:25: iz] Dickerson that first time; is that correct? ”
+Line 15, 16:06:25: A: That’s correct. 13
+Line 16, 16:06:25: Q: And it will further record the time 44
+Line 17, 16:06:25: that you arrived back in Center Point in 15
+Line 18, 16:06:25: 16] Baltimore? lite
+Line 19, 16:06:25: 17) A: That’s correct. | 7
+Line 20, 16:06:25: Q: And then for your second trip, your 43
+Line 21, 16:06:25: 19} logbook will also show when you left Center 19
+Line 22, 16:06:25: 29) Point to go back to Dickerson? 20
+Line 23, 16:06:25: A: That's correct. 34
+Line 24, 16:06:25: 22) Q: Now, this Exhibit Number 1, which is 39
+Line 25, 16:06:25: Page 42
+Line 26, 16:06:25: 4) the second trip presumably, shows a load time of a
+Line 27, 16:06:25: 2) 8:47, a quarter of 9:00 roughly? _
+Line 28, 16:06:25: 3} A: That’s correct. 3
+Line 29, 16:06:25: 4) Q: So you would have left quarter of 9:00, | ia
+Line 30, 16:06:25: 3] maybe 9 o'clock to go back to Dickerson. i i
+Line 31, 16:06:25: A: That's correct. lig
+Line 32, 16:06:25: Q: Now you're in the rush-hour traffic. 7
+Line 33, 16:06:25: 9] It’s going to take you a little bit longer. 3
+Line 34, 16:06:25: A: That’s correct. 9
+Line 35, 16:06:25: = Q: And you made this run a number of times leo
+Line 36, 16:06:25: 4) in rush hour? iit
+Line 37, 16:06:25: A: Yes, I have. 12
+Line 38, 16:06:25: Q: What would you ball park as the time it 43
+Line 39, 16:06:25: 14) would take you during rush hour, morning rush 14
+Line 40, 16:06:25: 3) hour to go from Baltimore to Dickerson? 45
+Line 41, 16:06:25: ‘6 =A: It usually takes me an extra sometimes 16
+Line 42, 16:06:25: 17) 40 minutes to a half hour, so it will put me at 17
+Line 43, 16:06:25: is} Dickerson at 11 o’clock. 43
+Line 44, 16:06:25: = Q: And then you unload and that’s a 49
+Line 45, 16:06:25: 20) 20-minute to a half-hour process? | 20
+Line 46, 16:06:25: a4 A: That is correct. 21
+Line 47, 16:06:25: 22) Q: And then you leave? -
+Line 48, 16:06:25: Page 43
+Line 49, 16:06:25: A: That’s correct.
+Line 50, 16:06:25: Q: And again you have recorded what time
+Line 51, 16:06:25: you leave Dickerson.
+Line 52, 16:06:25: A: That’s correct, and I’ve got recorded
+Line 53, 16:06:25: the time I got home.
+Line 54, 16:06:25: Q: And did you say you do have the logbook
+Line 55, 16:06:25: or did you say you're going to look for it?
+Line 56, 16:06:25: A: Well, I’m going to look in my file. I
+Line 57, 16:06:25: should be able to find it. It’s in my file.
+Line 58, 16:06:25: Q: Are you required to keep those logs for
+Line 59, 16:06:25: a certain period of time?
+Line 60, 16:06:25: A: Six months.
+Line 61, 16:06:25: Q: So you may or may not have it.
+Line 62, 16:06:25: A: Right, but it should be in there. I
+Line 63, 16:06:25: don't see no reason why it wouldn’t.
+Line 64, 16:06:25: Q: Other than your logbook, do you know of
+Line 65, 16:06:25: any other record by you or the people at
+Line 66, 16:06:25: Baltimore Tank Lines or anyone else who has any
+Line 67, 16:06:25: record of when your trips started and ended that
+Line 68, 16:06:25: day?
+Line 69, 16:06:25: A: No.They don’t keep stuff but six
+Line 70, 16:06:25: months. Then it gets destroyed, you know,
+Line 71, 16:06:25: Page 44
+Line 72, 16:06:25: Baltimore Tank Lines. Because I’ma personal
+Line 73, 16:06:25: owner/operator, I do what I want at home. If 1
+Line 74, 16:06:25: want to file something, I can file it.A lot of
+Line 75, 16:06:25: times I throw my stuff away, too, but I usually
+Line 76, 16:06:25: try to keep stuff at least a year in the past,
+Line 77, 16:06:25: just in case I need to dig something up and look
+Line 78, 16:06:25: at something.
+Line 79, 16:06:25: Q: Now, let me get back to your usual
+Line 80, 16:06:25: routine when you're traveling in the vicinity of
+Line 81, 16:06:25: where this incident occurred. I understood you
+Line 82, 16:06:25: to say that when you turned from 301 — 5,301
+Line 83, 16:06:25: onto Mattawoman Beantown Road, you always get in
+Line 84, 16:06:25: the extreme right-hand lane of those three
+Line 85, 16:06:25: turning lanes; is that correct?
+Line 86, 16:06:25: A: That is correct.
+Line 87, 16:06:25: Q: And you go a certain distance and
+Line 88, 16:06:25: there’s a railroad track?
+Line 89, 16:06:25: A: You've got to stop.
+Line 90, 16:06:25: Q: And then after that, that third lane
+Line 91, 16:06:25: disappears. You have to move over; is that
+Line 92, 16:06:25: correct?
+Line 93, 16:06:25: A: You've got to merge into the left into
+Line 94, 16:06:25: For The Record, Inc. -- (301)870-8025
+Line 95, 16:06:25: Min-U-Scripto
+Line 96, 16:06:25: (13) Page 41 - Page 44
+--- End of Page 12 ---
+
+--- Beginning of Page 13 ---
+Line 1, 16:06:34: November 7, 2007
+Line 2, 16:06:34: Page 45
+Line 3, 16:06:34: 1] traffic,
+Line 4, 16:06:34: 2) Q: And you did that?
+Line 5, 16:06:34: 3} A: That’s correct.
+Line 6, 16:06:34: 4) Q: And from that point where you merged
+Line 7, 16:06:34: 5} into the right-hand lane of the two through
+Line 8, 16:06:34: 6) lanes, you’ve passed the railroad track now.
+Line 9, 16:06:34: A: That’s correct.
+Line 10, 16:06:34: 8) Q: Did you stay in that right-hand lane
+Line 11, 16:06:34: 9] all the way down to where the two-lane portion
+Line 12, 16:06:34: [10] Of Mattawoman Beantown Road ended?
+Line 13, 16:06:34: tH A: I can’t —
+Line 14, 16:06:34: (12} Q: You don’t know?
+Line 15, 16:06:34: 13] =A: I don’t know.
+Line 16, 16:06:34: (14) Q: So it’s possible you could have gone
+Line 17, 16:06:34: (15) into the left lane, back again and that kind of
+Line 18, 16:06:34: (16) thing?
+Line 19, 16:06:34: (177 A: Well, it wouldn’t have been back and
+Line 20, 16:06:34: (18) forth. When I go in it, I stay in it, I mean
+Line 21, 16:06:34: (19) because that’s it. When the right ends, you've
+Line 22, 16:06:34: [20] got to be over to the left lane.
+Line 23, 16:06:34: (24 Q: But that’s some distance from —
+Line 24, 16:06:34: 22] A: It’s a quarter of a mile.
+Line 25, 16:06:34: Page 46 :
+Line 26, 16:06:34: Q: No, no, no. ?’m talking from — youre
+Line 27, 16:06:34: 2] past the railroad track. You've now merged over
+Line 28, 16:06:34: 3] to your left where it’s two lanes.
+Line 29, 16:06:34: 4) A: Right.
+Line 30, 16:06:34: Q: And it continues for two lanes for
+Line 31, 16:06:34: 6) several miles until you get down to Route 5.
+Line 32, 16:06:34: A: Right.
+Line 33, 16:06:34: 8} Q: I’m talking about that area. Did you
+Line 34, 16:06:34: 9] stay in that right-hand lane once you got in it
+Line 35, 16:06:34: or did you move?
+Line 36, 16:06:34: A: I can’t — I don't know if I did or
+Line 37, 16:06:34: not.
+Line 38, 16:06:34: Q: As you approached the area where the
+Line 39, 16:06:34: four lanes begin just before you get to Route 5,
+Line 40, 16:06:34: are you with me?
+Line 41, 16:06:34: A: Yeah.
+Line 42, 16:06:34: Q: Do you know which of the lanes you were
+Line 43, 16:06:34: in at that point of the two lanes?
+Line 44, 16:06:34: A: L usually get over to the left lane
+Line 45, 16:06:34: after I go through the traffic light there. I
+Line 46, 16:06:34: forget what the name of that road is.
+Line 47, 16:06:34: Q: Poplar Hill past the cemetery?
+Line 48, 16:06:34: nO
+Line 49, 16:06:34: Page 45 - Page 48 (14)
+Line 50, 16:06:34: Min-U-Scripte
+Line 51, 16:06:34: i
+Line 52, 16:06:34: 20)
+Line 53, 16:06:34: [24
+Line 54, 16:06:34: _ { [22
+Line 55, 16:06:34: Page 47
+Line 56, 16:06:34: A: Is that Poplar Hill?
+Line 57, 16:06:34: Q: Do you know where the cemetery is on
+Line 58, 16:06:34: the right?
+Line 59, 16:06:34: A: Right.
+Line 60, 16:06:34: Q: And there’s a traffic light past that.
+Line 61, 16:06:34: A: Right.
+Line 62, 16:06:34: Q: Is that the traffic light you're
+Line 63, 16:06:34: talking about?
+Line 64, 16:06:34: A: After I usually go through that light,
+Line 65, 16:06:34: I merge over to my left Jane if I’m in the right
+Line 66, 16:06:34: lane.
+Line 67, 16:06:34: Q: Okay.
+Line 68, 16:06:34: A: Sometimes I'm already in the other
+Line 69, 16:06:34: lane. But if I'm in the right, I’ve got to
+Line 70, 16:06:34: merge Over to get up to the turning point. I
+Line 71, 16:06:34: never wait until I get to the turning point to
+Line 72, 16:06:34: try to get over.
+Line 73, 16:06:34: Q: Okay. And then assuming that’s your
+Line 74, 16:06:34: routine, you get over into the left lane, as you
+Line 75, 16:06:34: then get to the area of the road whete it
+Line 76, 16:06:34: becomes four lanes, what is your routine?
+Line 77, 16:06:34: A: I’m already over to the left.
+Line 78, 16:06:34: Page 48
+Line 79, 16:06:34: Q: When you get up there, you have to move
+Line 80, 16:06:34: from the through lane into one of the turning
+Line 81, 16:06:34: lanes.
+Line 82, 16:06:34: A: Well, it actually merges into it. When
+Line 83, 16:06:34: you merge over, there will be traffic. You
+Line 84, 16:06:34: either could go over all the way to the right or
+Line 85, 16:06:34: stay in the left at that light.
+Line 86, 16:06:34: Q: All right.
+Line 87, 16:06:34: A: Which I always stay in the right,
+Line 88, 16:06:34: because I can’t get all the way over because of
+Line 89, 16:06:34: the turn. You've got to have the ratio to turn,
+Line 90, 16:06:34: the turning ratio.
+Line 91, 16:06:34: Q: But at some point, and it’s your
+Line 92, 16:06:34: routine to get into that right most turn lane —
+Line 93, 16:06:34: are you with me?
+Line 94, 16:06:34: A: Right.
+Line 95, 16:06:34: Q: Two lanes, one — they're both going
+Line 96, 16:06:34: left. I’m talking about the right most lane.
+Line 97, 16:06:34: At some point you have to get into that lane to
+Line 98, 16:06:34: make your left turn at Route 5.
+Line 99, 16:06:34: A: I’m already in that lane when I get
+Line 100, 16:06:34: there.
+Line 101, 16:06:34: For The Record, Inc. -- (301)870-80
+--- End of Page 13 ---
+
+--- Beginning of Page 14 ---
+Line 1, 16:06:34: ies: ee 2007
+Line 2, 16:06:34: Page 49 Page 51
+Line 3, 16:06:34: Q: That's your routine? 1) 2006 you had proceeded into the right most turn
+Line 4, 16:06:34: A: That's right. | @ lane and gone up to the intersection and stopped
+Line 5, 16:06:34: 3] Q: And your routine is to get into it as 31 fora red light, you have no particular
+Line 6, 16:06:34: 4) $00N as those lanes open up; is that correct? 4) recollection of that: is that correct?
+Line 7, 16:06:34: 8} A: That’s correct, when I can get over, if lis A: That’s correct.
+Line 8, 16:06:34: @) I’m not already in the left lane. You're saying | 5 MR. FORD: That’s all I have.
+Line 9, 16:06:34: 7| if I'm in the right, I’ve got to get over. [iv (A brief pause.)
+Line 10, 16:06:34: Q: Well, if you're in one of the through : 5 EXAMINATION
+Line 11, 16:06:34: 9] lanes, you still have to get over to the left, | ta BY MR. TURGEON:
+Line 12, 16:06:34: 10) do you not? 19: SED | just have a few questions.
+Line 13, 16:06:34: A: If you're already in the left lane, you 11) Your typical routine driving your vehicle or
+Line 14, 16:06:34: don’t. I don’t. When I'm already in the left lap your tractor, do you tend to — well, you have
+Line 15, 16:06:34: 9) lane, it’s like a curve, like it goes over like 13] no recollection of the weather on this date in
+Line 16, 16:06:34: 14) this, so I just go over a little bit and then I 14) March of ’06, do you?
+Line 17, 16:06:34: 15] Stay in the lane to make my left. I don’t go 18) A: No.
+Line 18, 16:06:34: "| all the way over to the left lane. 18} Q: Do you listen to any radio or music or
+Line 19, 16:06:34: 17) Q: Eunderstand that. Your routine is to i7) anything while you drive typically?
+Line 20, 16:06:34: 18] get into the right-hand lane of the two left is} A: Usually I listen to a satellite radio.
+Line 21, 16:06:34: ‘3] turn lanes. (191 Q: And does that require some special
+Line 22, 16:06:34: ao, A: That’s correct, 20] equipment in your tractor to get satellite
+Line 23, 16:06:34: a Q: Now, let’s talk about this particular 21) radio?
+Line 24, 16:06:34: 22] day. You're going home at some point that day; j99 A: No.When I've got satellite radio, it
+Line 25, 16:06:34: Page 60 | Page 52
+Line 26, 16:06:34: 1) is that correct? 1] stays on one channel the whole time.
+Line 27, 16:06:34: 2) A: Okay. | a] Q: What channel is that?
+Line 28, 16:06:34: a Q: And you would have been on Mattawoman 3 MR. STEPHENSON: Objection, relevance,
+Line 29, 16:06:34: 4) Beantown Road and you would have gone up to 4) THE WITNESS: NASCAR channel.
+Line 30, 16:06:34: 5) Route 5 and made a left and gone south en route 46 BY MR. TURGEON:
+Line 31, 16:06:34: §} to your home in Clements? 6} Q: Do you get the NASCAR channel 24 hours
+Line 32, 16:06:34: A: That’s correct. | (7) a day on your satellite radio?
+Line 33, 16:06:34: 3) =Q: You have no memory of any incident — 8) A: Yeah, it goes in and out in Baltimore.
+Line 34, 16:06:34: ['m not talking about an accident, but any @ © Q: You're actually listening to races?
+Line 35, 16:06:34: to) incident involving another vehicle that was in 10 A: Yeah, and talk shows, whatnot.
+Line 36, 16:06:34: 11) the vicinity of your tanker truck, your tanker 41 Q@: And you do get some races through that
+Line 37, 16:06:34: ‘a, that then had an accident with a third vehicle? 12) program?
+Line 38, 16:06:34: 13) A: No. 13) MR. STEPHENSON: Objection, relevance.
+Line 39, 16:06:34: 4) Q: No knowledge of that at all? 14) You can answer. You can answer,
+Line 40, 16:06:34: 13) ~~ A: No knowledge of it whatsoever. 45s) THE WITNESS: Yeah.
+Line 41, 16:06:34: '6} Q: And you have no particular memory, do 46 BY MR. TURGEON:
+Line 42, 16:06:34: 17] you, Of this particular day traveling down 17 Q: So you can hear the roaring of the cars
+Line 43, 16:06:34: ‘) Mattawoman Beantown Road? ‘(18) as they go around the track on your radio?
+Line 44, 16:06:34: A: No. 9) ~~ A: Yeah,
+Line 45, 16:06:34: 20} Q: As opposed to any other day. (20) Q: Do you know whether or not you were
+Line 46, 16:06:34: a) A: No, (21) listening to that channel on this particular
+Line 47, 16:06:34: Q: So if I were to ask you if on March 13, 22) day?
+Line 48, 16:06:34: For The Record, Inc. -- (301)870-8025 Min-U-Scripta (15) Page 49 - Page 52
+--- End of Page 14 ---
+
+--- Beginning of Page 15 ---
+Line 1, 16:06:34: November 7, 2007
+Line 2, 16:06:34: Page 53 |
+Line 3, 16:06:34: 1} months; is that what you're saying?
+Line 4, 16:06:34: 2) A: Yeah, or once a month or so. It
+Line 5, 16:06:34: 3} depends on the weather.The power plant burns
+Line 6, 16:06:34: 4) oil up there.
+Line 7, 16:06:34: Q: And are the tankers, the tankers that
+Line 8, 16:06:34: 8] you hook onto your tractor from Baltimore Tank
+Line 9, 16:06:34: 7) Lines, do they generally look the same?
+Line 10, 16:06:34: 8] A: Pretty much.
+Line 11, 16:06:34: 9} Q: What do they look like?
+Line 12, 16:06:34: A: A tanker?
+Line 13, 16:06:34: if Q: Do they have any writing on them?
+Line 14, 16:06:34: 12) A: Baltimore Tank Lines. On some of them
+Line 15, 16:06:34: 13] they've got Baltimore Tank Lines on the side and
+Line 16, 16:06:34: 14) Baltimore Tank Lines in the back.
+Line 17, 16:06:34: Q: Do you know what color the lettering
+Line 18, 16:06:34: 16] is?
+Line 19, 16:06:34: 17. A: Blue, red.
+Line 20, 16:06:34: 18) Q: And is the name spelled out or is it
+Line 21, 16:06:34: 19] hyphenated?
+Line 22, 16:06:34: 20) A: It’s spelled out.
+Line 23, 16:06:34: Q: And I'll assume the tankers are — are
+Line 24, 16:06:34: (22) they silver?
+Line 25, 16:06:34: Page 53 - Page 56 (16)
+Line 26, 16:06:34: A: No.
+Line 27, 16:06:34: 2) Q: Are you aware of any dispatch records
+Line 28, 16:06:34: 3] that are created as a result of communications
+Line 29, 16:06:34: 4) with the dispatcher at Baltimore Tank Lines?
+Line 30, 16:06:34: s) MR. STEPHENSON: Objection. You can
+Line 31, 16:06:34: 6) answer.
+Line 32, 16:06:34: 7) MR.TURGEON: What’s your response?
+Line 33, 16:06:34: 8} THE WITNESS: No.
+Line 34, 16:06:34: BY MR. TURGEON:
+Line 35, 16:06:34: Q: And is your response, no, there are no
+Line 36, 16:06:34: 14} records created as a result of communications or
+Line 37, 16:06:34: $2] you just aren’t aware that any are created?
+Line 38, 16:06:34: 13} A: They keep records, but they only keep
+Line 39, 16:06:34: 14) them for six months that I’m aware of.
+Line 40, 16:06:34: 1s} Q@: And in 2006, how often did you make
+Line 41, 16:06:34: 16] this Baltimore to Dickerson run, was it a major
+Line 42, 16:06:34: 17] portion of your yearly travels?
+Line 43, 16:06:34: 18) A: No.
+Line 44, 16:06:34: 13] Q: How often would you make this run?
+Line 45, 16:06:34: 20) A: Sometimes you might — a couple months
+Line 46, 16:06:34: 21} out of a year,
+Line 47, 16:06:34: 22] Q: You’d make the run once every couple of
+Line 48, 16:06:34: Page 54
+Line 49, 16:06:34: | [20
+Line 50, 16:06:34: (24
+Line 51, 16:06:34: ‘(22
+Line 52, 16:06:34: Min-U-Scripte
+Line 53, 16:06:34: Page 55
+Line 54, 16:06:34: A: That’s correct.
+Line 55, 16:06:34: Q: Do you notice a difference in the
+Line 56, 16:06:34: handling of your tractor-tanker combination when
+Line 57, 16:06:34: the tanker is empty versus when it’s full?
+Line 58, 16:06:34: A: Yes.
+Line 59, 16:06:34: Q: What is the difference in say if you're
+Line 60, 16:06:34: turning your tanker to the left or you're
+Line 61, 16:06:34: changing lanes to the left how that tanker
+Line 62, 16:06:34: maneuvers differently when that tanker is empty
+Line 63, 16:06:34: versus being full?
+Line 64, 16:06:34: A: I mean it feels like something’s heavy
+Line 65, 16:06:34: on it, I mean —
+Line 66, 16:06:34: Q: Do you have to change the way you turn
+Line 67, 16:06:34: your vehicle, do you have to change the handling
+Line 68, 16:06:34: of your tanker when making a lane change in any
+Line 69, 16:06:34: manner when your tanker is empty versus being
+Line 70, 16:06:34: full, is there any difference in how you handle
+Line 71, 16:06:34: or operate that tanker?
+Line 72, 16:06:34: A: No.
+Line 73, 16:06:34: Q: And when you make this
+Line 74, 16:06:34: Baltimore-Dickerson run, when you have to make
+Line 75, 16:06:34: that run twice a day, do you typically stop for
+Line 76, 16:06:34: Page 56
+Line 77, 16:06:34: lunch at any particular point or do you wait
+Line 78, 16:06:34: til you get home to have lunch?
+Line 79, 16:06:34: A: Sometimes I do, sometimes I don’t.
+Line 80, 16:06:34: Q: Do you stop at any particular place on
+Line 81, 16:06:34: that run when you don’t eat at home?
+Line 82, 16:06:34: A: On 29 there’s a 7-Eleven on the way
+Line 83, 16:06:34: down the road. I may stop for 10 minutes,
+Line 84, 16:06:34: whatever it takes to go inside and get
+Line 85, 16:06:34: something, come back out and go.
+Line 86, 16:06:34: MR. FORD: Can | just jump in with a
+Line 87, 16:06:34: clarification?
+Line 88, 16:06:34: MR. TURGEON: Sure.
+Line 89, 16:06:34: MR. FORD: You kept saying 29. Isn’t
+Line 90, 16:06:34: it 28?
+Line 91, 16:06:34: THE WITNESS: Yeah, I’m sorry, it is
+Line 92, 16:06:34: 28.
+Line 93, 16:06:34: MR. FORD: Yeah.
+Line 94, 16:06:34: THE WITNESS: You know how to get
+Line 95, 16:06:34: there,
+Line 96, 16:06:34: BY MR. TURGEON:
+Line 97, 16:06:34: Q: And 28, you're referring to when you go
+Line 98, 16:06:34: from Dickerson to Baltimore?
+Line 99, 16:06:34: For The Record, Inc. -- (301)870-8025
+--- End of Page 15 ---
+
+--- Beginning of Page 16 ---
+Line 1, 16:06:34: Page 57
+Line 2, 16:06:34: A: Well, 28 is north and I come back 28
+Line 3, 16:06:34: 2] south,
+Line 4, 16:06:34: 3) MR. FORD: From 270 you can take 28.
+Line 5, 16:06:34: 4) THE WITNESS: Youre right, 28.
+Line 6, 16:06:34: BY MR. TURGEON:
+Line 7, 16:06:34: 6) Q: Have you ever taken a different route
+Line 8, 16:06:34: 7) from Baltimore to Dickerson?
+Line 9, 16:06:34: 8} = A: Yes. You can go up 70.
+Line 10, 16:06:34: 9} @: And have you done that on this
+Line 11, 16:06:34: o Baltimore to Dickerson run?
+Line 12, 16:06:34: A: Yes.
+Line 13, 16:06:34: Q: If you go Route 70, how would your
+Line 14, 16:06:34: route be from Baltimore to Dickerson?
+Line 15, 16:06:34: A: 695 to 70 to 270 to 28, 28 which is up
+Line 16, 16:06:34: on the top. It’s Route 28, but I can’t think of
+Line 17, 16:06:34: the road, the name of that road there. 1 don't
+Line 18, 16:06:34: go that way that often.
+Line 19, 16:06:34: Q: When you do go that way, what ate the
+Line 20, 16:06:34: reasons you go that way?
+Line 21, 16:06:34: A: If there’s an accident, if the roads
+Line 22, 16:06:34: 21) are blocked, I know something is wrong. It’s
+Line 23, 16:06:34: 22)
+Line 24, 16:06:34: very seldom I go that way.
+Line 25, 16:06:34: Page 58
+Line 26, 16:06:34: MR. TURGEON: [ have no more cuestions.
+Line 27, 16:06:34: 2) Thank you.
+Line 28, 16:06:34: MS. ZOIS: Nothing based on that.
+Line 29, 16:06:34: 4) MR. STEPHENSON: Okay. You have a
+Line 30, 16:06:34: 3) tight to read your deposition transcript to
+Line 31, 16:06:34: 6) check for errors in the transcription process or
+Line 32, 16:06:34: 7) you can waive that right if you trust that Madam
+Line 33, 16:06:34: 8} Court Reporter has done a good job in creating
+Line 34, 16:06:34: 9] the transcript. Most people waive. Would you
+Line 35, 16:06:34: like to read and sign your deposition transcript
+Line 36, 16:06:34: 11) of would you like to waive your right?
+Line 37, 16:06:34: 12) THE WITNESS: I'll waive my right.
+Line 38, 16:06:34: i37 BY MR. FORD: Great. We'll waive.
+Line 39, 16:06:34: Qiaeee Exhibit Number 3 was marked for
+Line 40, 16:06:34: 15) identification.)
+Line 41, 16:06:34: (Reading and signature waived.)
+Line 42, 16:06:34: (Whereupon, at 1:01 p.m., the
+Line 43, 16:06:34: 1a) deposition was concluded.)
+Line 44, 16:06:34: 20:
+Line 45, 16:06:34: 22.
+Line 46, 16:06:34: For The Record, Inc. -- (301)870-8025
+Line 47, 16:06:34: Min-U-Script®
+Line 48, 16:06:34: i7
+Line 49, 16:06:34: \(18
+Line 50, 16:06:34: 18)
+Line 51, 16:06:34: ; [16
+Line 52, 16:06:34: ift?
+Line 53, 16:06:34: (24
+Line 54, 16:06:34: ‘(22
+Line 55, 16:06:34: Nooeper 7, 2007
+Line 56, 16:06:34: Page 59
+Line 57, 16:06:34: 1] STATE OF MARYLAND, to wit:
+Line 58, 16:06:34: 1, Melissa G. Fleming, the officer
+Line 59, 16:06:34: before whom the foregoing deposition was taken,
+Line 60, 16:06:34: w
+Line 61, 16:06:34: do hereby certify that the within-named witness
+Line 62, 16:06:34: personaily appeared before me at the time and
+Line 63, 16:06:34: a
+Line 64, 16:06:34: place herein set out, and after having been duly
+Line 65, 16:06:34: sworn by me, according to law, was examined by
+Line 66, 16:06:34: a
+Line 67, 16:06:34: counsel.
+Line 68, 16:06:34: | turther certify that the examination
+Line 69, 16:06:34: was recorded stenographically by me and this
+Line 70, 16:06:34: 7) transcript is a true record of the proceedings.
+Line 71, 16:06:34: | further certity that | am not of
+Line 72, 16:06:34: counsel to any of the parties, nor an employee
+Line 73, 16:06:34: oO
+Line 74, 16:06:34: of counsel, nor related to any of the parties,
+Line 75, 16:06:34: nor in any way interested in the outcome of this
+Line 76, 16:06:34: 10] action.
+Line 77, 16:06:34: As witness my hand and notarial seal
+Line 78, 16:06:34: this 26th day of November, 2007.
+Line 79, 16:06:34: 15)
+Line 80, 16:06:34: Melissa G. Fleming
+Line 81, 16:06:34: Notary Public
+Line 82, 16:06:34: MY COMMISSION EXPIRES:
+Line 83, 16:06:34: 9/1/08
+Line 84, 16:06:34: Page 60
+Line 85, 16:06:34: {1 INDEX
+Line 86, 16:06:34: DEPOSITION OF qi
+Line 87, 16:06:34: November 7, 2007
+Line 88, 16:06:34: EXAMINATION BY: PAGE
+Line 89, 16:06:34: Ms. Zois 4
+Line 90, 16:06:34: Mr. Ford 36
+Line 91, 16:06:34: Mr. Turgeon 51
+Line 92, 16:06:34: EXHIBITS: PAGE MARKED
+Line 93, 16:06:34: Quade 1 and 2 4
+Line 94, 16:06:34: Quade 3 58
+Line 95, 16:06:34: (17) Page 57 - Page 60
+--- End of Page 16 ---
+
+--- Beginning of Page 17 ---
+Line 1, 16:06:45: Lawyer’s Notes
+--- End of Page 17 ---
+
+--- Beginning of Page 18 ---
+Line 1, 16:06:45: qhibitithitiieet,
+Line 2, 16:06:45: Qe eae
+Line 3, 16:06:45: O06 36:18; 37:15, 21:51:14
+Line 4, 16:06:45: 4:3; 17:4; 18:2, 14; 25-7,
+Line 5, 16:06:45: 18; 41:22
+Line 6, 16:06:45: 56:7
+Line 7, 16:06:45: 17.42:18
+Line 8, 16:06:45: 11:30 26:19; 27:5
+Line 9, 16:06:45: 15:8; 27:6
+Line 10, 16:06:45: 12:00 26:13, 14,19
+Line 11, 16:06:45: 12th 12:18; 13:10, 15;
+Line 12, 16:06:45: 14:2,19
+Line 13, 16:06:45: 15:21; 27:3; 33:12;
+Line 14, 16:06:45: 36:9; 38:8; 39:8; 50:22
+Line 15, 16:06:45: 13th 4:15; 7:2; 11:12, 15;
+Line 16, 16:06:45: 12:14; 15:11; 20:7; 27:9
+Line 17, 16:06:45: 11:9
+Line 18, 16:06:45: 9:7, 13
+Line 19, 16:06:45: 7:18:8:4
+Line 20, 16:06:45: 1:01 58:17
+Line 21, 16:06:45: 4:3; 17:4; 18:3, 14; 20:5,
+Line 22, 16:06:45: 18; 40:15
+Line 23, 16:06:45: 16:9, 14; 24:15
+Line 24, 16:06:45: 20-minute 42:20
+Line 25, 16:06:45: 9:12, 14, 18; 10:2,8
+Line 26, 16:06:45: 11:2, 3,6
+Line 27, 16:06:45: 4:15; 7:2; 10:12:
+Line 28, 16:06:45: 11:8, 12, 15; 12:15, 18;
+Line 29, 16:06:45: 13:16; 14:2, 20; 15:8, 11,
+Line 30, 16:06:45: 22; 20:7; 27.3; 33:12; 36:8;
+Line 31, 16:06:45: 38:8; 39:8, 16; 51:1; 53:15
+Line 32, 16:06:45: 10:9; 1 1:5,6
+Line 33, 16:06:45: 218-88-7073 7:8
+Line 34, 16:06:45: 52:6
+Line 35, 16:06:45: 16:10
+Line 36, 16:06:45: 22:20; 28:1; 57:3, 14
+Line 37, 16:06:45: 56:14, 16, 21; 57:1, 1,
+Line 38, 16:06:45: 3,4, 14, 14,15
+Line 39, 16:06:45: 22:20, 20; 28:1; 56:6,
+Line 40, 16:06:45: 58:14
+Line 41, 16:06:45: 28:13
+Line 42, 16:06:45: 28:16, 17; 29:6, 8;
+Line 43, 16:06:45: 44:41,11
+Line 44, 16:06:45: 3:00 40:7
+Line 45, 16:06:45: 3:30 40:7
+Line 46, 16:06:45: 16:1, 2; 40:4
+Line 47, 16:06:45: 42:17
+Line 48, 16:06:45: :
+Line 49, 16:06:45: |
+Line 50, 16:06:45: 23:13
+Line 51, 16:06:45: 22:19, 19, 19; 24:21;
+Line 52, 16:06:45: 28:1, 4,5, 7, 12; 29:7
+Line 53, 16:06:45: 4:00 16:2, 4
+Line 54, 16:06:45: 4:40 20:8, 9; 40:6, 10,14
+Line 55, 16:06:45: 28:4, 8, 17; 29:5, 7:
+Line 56, 16:06:45: 31:15, 16, 18; 32:20;
+Line 57, 16:06:45: | 33:11; 34:9; 35:22; 38:7;
+Line 58, 16:06:45: 40:11, 13; 44:11; 46:6, 14;
+Line 59, 16:06:45: 48:20; 50:5
+Line 60, 16:06:45: 5/Exit 28:2
+Line 61, 16:06:45: 5:00 16:15,15
+Line 62, 16:06:45: 5:30 23:2, 2
+Line 63, 16:06:45: 5th 12:8, 11
+Line 64, 16:06:45: 57:14
+Line 65, 16:06:45: 6:00 23:2
+Line 66, 16:06:45: , 6th 12:11
+Line 67, 16:06:45: 28:2,10
+Line 68, 16:06:45: 7-Eleven 56:6
+Line 69, 16:06:45: / 70 57:8, 12, 14
+Line 70, 16:06:45: | 700003 21:6
+Line 71, 16:06:45: S
+Line 72, 16:06:45: 8/6/61 7:6
+Line 73, 16:06:45: 8:47 25:8, 19; 27:14; 42:2
+Line 74, 16:06:45: 42:5
+Line 75, 16:06:45: 10:16
+Line 76, 16:06:45: 9:5, 6; 22:19, 20; 28:1,
+Line 77, 16:06:45: 5,5
+Line 78, 16:06:45: 9:00 42:2, 4
+Line 79, 16:06:45: A
+Line 80, 16:06:45: a.m 16:3, 4; 27:14
+Line 81, 16:06:45: | able 35:10; 43:9
+Line 82, 16:06:45: accident 4:14; 7:1; 12:10,
+Line 83, 16:06:45: 14; 33:20; 50:9, 12; 57:20
+Line 84, 16:06:45: according 20:21; 22:12:
+Line 85, 16:06:45: 25:17
+Line 86, 16:06:45: | acquire 10:20; 11:3
+Line 87, 16:06:45: acquired 7:18
+Line 88, 16:06:45: actually 5:9, 14; 6:3;
+Line 89, 16:06:45: | 19:14; 48:4; 52:9
+Line 90, 16:06:45: additional 24:1
+Line 91, 16:06:45: address 6:15, 20; 7:1:
+Line 92, 16:06:45: 21:4
+Line 93, 16:06:45: afternoon 4:12
+Line 94, 16:06:45: For The Record, Inc.
+Line 95, 16:06:45: -- 301)870-8025
+Line 96, 16:06:45: again 25:1; 43:2: 45:15
+Line 97, 16:06:45: ago 8:5, 7, 10; 36:7
+Line 98, 16:06:45: ahead 28:20
+Line 99, 16:06:45: Alexandria 19:22
+Line 100, 16:06:45: allegedly 38:3
+Line 101, 16:06:45: alone 21:14
+Line 102, 16:06:45: always 19:12; 26:6;
+Line 103, 16:06:45: 32:15; 44:12: 48:9
+Line 104, 16:06:45: appreciate 37:6
+Line 105, 16:06:45: approached 46:13
+Line 106, 16:06:45: approximately 23:15;
+Line 107, 16:06:45: 25:2,19
+Line 108, 16:06:45: area 33:10; 34:9; 35:21;
+Line 109, 16:06:45: 46:8, 13:47:20
+Line 110, 16:06:45: around 9:5; 23:2; 26:13;
+Line 111, 16:06:45: 30:6; 40:4, 9; 52:18
+Line 112, 16:06:45: arrival 41:8
+Line 113, 16:06:45: arrived 16:11, 16; 22:22;
+Line 114, 16:06:45: 23:4; 25:18; 41:15
+Line 115, 16:06:45: articulate 6:3
+Line 116, 16:06:45: artwork 28:21; 29:2
+Line 117, 16:06:45: assignment 11:22:
+Line 118, 16:06:45: 12:20; 13:5
+Line 119, 16:06:45: | assisting 28:20
+Line 120, 16:06:45: assume 4:22: 54:21
+Line 121, 16:06:45: assuming 13:22; 47:18
+Line 122, 16:06:45: attorney 4:13
+Line 123, 16:06:45: avoid 5:11;6:2
+Line 124, 16:06:45: aware 35:19; 36:1; 38:4,
+Line 125, 16:06:45: 5; 93:2, 12, 14
+Line 126, 16:06:45: away 44:4
+Line 127, 16:06:45: B
+Line 128, 16:06:45: back 4:15; 7:1, 18; 8:3;
+Line 129, 16:06:45: 10:12; 11:8, 11, 13,15;
+Line 130, 16:06:45: 18:11; 20:6, 13; 23:20, 21,
+Line 131, 16:06:45: 22; 24:2, 6, 18, 19, 21, 22:
+Line 132, 16:06:45: 25:5, 18; 27:20; 31:7, 15,
+Line 133, 16:06:45: 16; 33:12, 19; 36:18;
+Line 134, 16:06:45: 37:21; 39:16; 41:15, 20;
+Line 135, 16:06:45: 42:5; 44:8; 45:15, 17;
+Line 136, 16:06:45: 54:14; 56:9: 57:1
+Line 137, 16:06:45: ball 42:13
+Line 138, 16:06:45: Baltimore 8:12, 17, 18;
+Line 139, 16:06:45: 9:11, 19; 10:3, 9:11:19;
+Line 140, 16:06:45: 12:1, 19; 13:11, 21; 14:5,
+Line 141, 16:06:45: 17; 15:16, 17; 16:7, 11;
+Line 142, 16:06:45: 21:11, 16; 22:3, 14, 18;
+Line 143, 16:06:45: 23:20, 21, 22; 24:10, 17,
+Line 144, 16:06:45: 22; 25:6, 18; 26:4; 27:15,
+Line 145, 16:06:45: 16; 35:20; 36:4, 10, 17;
+Line 146, 16:06:45: 38:5; 41:16; 42:15; 43:18;
+Line 147, 16:06:45: 44:1; 42:8; 53:4, 16; 54:6,
+Line 148, 16:06:45: 12, 12, 14; 56:22: 57:7, 10,
+Line 149, 16:06:45: | 13
+Line 150, 16:06:45: Baltimore-Dickerson
+Line 151, 16:06:45: 55:21
+Line 152, 16:06:45: | based 8:18: 21:14: 58:3
+Line 153, 16:06:45: basing 26:21
+Line 154, 16:06:45: | bathroom 34:16; 40:22
+Line 155, 16:06:45: Beantown 28:2, 8, 12,
+Line 156, 16:06:45: 14; 29:11, 15; 30:14, 22;
+Line 157, 16:06:45: 31:13, 16, 18, 22; 32:19;
+Line 158, 16:06:45: 33:3, 11; 34:8; 35:22; 38:7;
+Line 159, 16:06:45: Min-U-Scripta
+Line 160, 16:06:45: | 44:12; 45:10; 50:4, 18
+Line 161, 16:06:45: bears 31:3
+Line 162, 16:06:45: becomes 47:21
+Line 163, 16:06:45: begin 9:1; 25:11; 46:14
+Line 164, 16:06:45: behind 14:12
+Line 165, 16:06:45: bill 17:18
+Line 166, 16:06:45: bills 5:18
+Line 167, 16:06:45: birth 7:4
+Line 168, 16:06:45: bit 42:8; 49:14
+Line 169, 16:06:45: blocked 57:21
+Line 170, 16:06:45: blue 10:14; 54:17
+Line 171, 16:06:45: both 48:17
+Line 172, 16:06:45: bought 11:6
+Line 173, 16:06:45: box 18:19
+Line 174, 16:06:45: | break 5:15
+Line 175, 16:06:45: brief 51:7
+Line 176, 16:06:45: Burnie 15:19; 16:7, 12,
+Line 177, 16:06:45: 17, 21;17:9; 24:1,7
+Line 178, 16:06:45: burns 54:3
+Line 179, 16:06:45: buyer 21:2
+Line 180, 16:06:45: nan C
+Line 181, 16:06:45: cabinet 35:8
+Line 182, 16:06:45: call 11:22; 13:6; 14:6, 6;
+Line 183, 16:06:45: 15:3
+Line 184, 16:06:45: called 4:7; 12:19, 21;
+Line 185, 16:06:45: 13:11; 16:22; 19:12; 21:4
+Line 186, 16:06:45: Can 7:4, 13; 17:5; 27:8;
+Line 187, 16:06:45: 29:2; 33:16; 34:7; 35:11,
+Line 188, 16:06:45: 12; 36:22; 44:3; 49:5;
+Line 189, 16:06:45: 52:14, 14, 17; $3:5; 56:10;
+Line 190, 16:06:45: 57:3, 8; 58:7
+Line 191, 16:06:45: car 4:14; 30:4
+Line 192, 16:06:45: Cars 30:2; 52:17
+Line 193, 16:06:45: case 44:6
+Line 194, 16:06:45: CDL 7:9,11,15, 22
+Line 195, 16:06:45: cemetery 46:22. 47:2
+Line 196, 16:06:45: Center 17:20; 18:7; 19:1,
+Line 197, 16:06:45: 2,3,7,9, 11, 12; 20:19;
+Line 198, 16:06:45: 21:15; 24:2, 10; 40:9; 41:5,
+Line 199, 16:06:45: 15,19
+Line 200, 16:06:45: certain 43:11; 44:16
+Line 201, 16:06:45: Chalk 19:22: 38:13
+Line 202, 16:06:45: change 55:13, 14,15
+Line 203, 16:06:45: changing 55:8
+Line 204, 16:06:45: channel 52:1, 2, 4,6, 21
+Line 205, 16:06:45: Charles 6:17; 32:6; 39:15
+Line 206, 16:06:45: cheat 28:15
+Line 207, 16:06:45: check 27:13; 58:6
+Line 208, 16:06:45: Ce 37-2, 3, 12:38:20
+Line 209, 16:06:45: lige 3719
+Line 210, 16:06:45: claimed 35:20
+Line 211, 16:06:45: clarification 56:11
+Line 212, 16:06:45: class 7:11
+Line 213, 16:06:45: clear 12:13
+Line 214, 16:06:45: Clements 6:16; 50:6
+Line 215, 16:06:45: clocked 40:16
+Line 216, 16:06:45: co-signer 19:6
+Line 217, 16:06:45: coffee 34:16
+Line 218, 16:06:45: color 54:15
+Line 219, 16:06:45: combination 55:3
+Line 220, 16:06:45: ees?
+Line 221, 16:06:45: November 7, 2007
+Line 222, 16:06:45: coming 14:4; 29:7
+Line 223, 16:06:45: communications 53:3,
+Line 224, 16:06:45: company 8:12, 13
+Line 225, 16:06:45: concluded 58:18
+Line 226, 16:06:45: contacted 12:5; 36:3, 9,
+Line 227, 16:06:45: 15; 38:1
+Line 228, 16:06:45: continues 46:5
+Line 229, 16:06:45: copy 35:6
+Line 230, 16:06:45: Corp 18:19; 21:1, 17
+Line 231, 16:06:45: Corporation 22:10
+Line 232, 16:06:45: County 6:17; 14:5; 16:6;
+Line 233, 16:06:45: 27:20; 39:15, 15
+Line 234, 16:06:45: couple 35:9, 16; 38:15;
+Line 235, 16:06:45: 53:20, 22
+Line 236, 16:06:45: court 5:5; 58:8
+Line 237, 16:06:45: Crazy 9:2
+Line 238, 16:06:45: created 53:3, 11,12
+Line 239, 16:06:45: creating 58:8
+Line 240, 16:06:45: credit 28:21
+Line 241, 16:06:45: cup 34:16
+Line 242, 16:06:45: current 6:15
+Line 243, 16:06:45: currently 9:21
+Line 244, 16:06:45: curve 49:13
+Line 245, 16:06:45: cut 35:21
+Line 246, 16:06:45: D
+Line 247, 16:06:45: Dale 37:8, 12
+Line 248, 16:06:45: DANIEL 4:6; 6:7, 13
+Line 249, 16:06:45: date 7:1, 4;11:11, 13;
+Line 250, 16:06:45: 12:9, 13; 33:19; 36:10;
+Line 251, 16:06:45: 51:13
+Line 252, 16:06:45: day 12:7, 16; 13:7, 10, 17;
+Line 253, 16:06:45: 27:3; 30:17; 33:14; 34:1, 4;
+Line 254, 16:06:45: 35:7; 36:9, 12, 21; 38:11;
+Line 255, 16:06:45: 43:20; 49:22, 22; 50:17,
+Line 256, 16:06:45: 20; 52:7, 22; 55:22
+Line 257, 16:06:45: deal 29:6; 37:18
+Line 258, 16:06:45: deliver 20:22: 21:16
+Line 259, 16:06:45: departure 41:5
+Line 260, 16:06:45: depends 23:14; 54:3
+Line 261, 16:06:45: deposition 4:17; 5:20;
+Line 262, 16:06:45: 8:20; 17:4; 18:2, 3; 20:5,
+Line 263, 16:06:45: 18; 25:7, 17; 58:5, 10, 18
+Line 264, 16:06:45: describe 6:4
+Line 265, 16:06:45: deserves 28:21
+Line 266, 16:06:45: destroyed 43:22
+Line 267, 16:06:45: determine 23:4
+Line 268, 16:06:45: Dickerson 13:18, 21:
+Line 269, 16:06:45: 14:17; 19:22; 20:1; 21:3, 5,
+Line 270, 16:06:45: 19; 22:10, 15, 18, 21; 23:1,
+Line 271, 16:06:45: 4,9, 16, 18; 24:9, 18, 19;
+Line 272, 16:06:45: 25:1; 26:1, 4, 8, 12, 19, 20;
+Line 273, 16:06:45: 27:6, 13, 19; 31:12; 34:1;
+Line 274, 16:06:45: 41:9, 12, 20; 42:5, 15, 18:
+Line 275, 16:06:45: 43:3; 53:16; 56:22: 57:7,
+Line 276, 16:06:45: 10, 13
+Line 277, 16:06:45: difference 55:2, 6, 17
+Line 278, 16:06:45: different 19:20, 21: 57:6
+Line 279, 16:06:45: differently 55:9
+Line 280, 16:06:45: dig 35:10; 44:6
+Line 281, 16:06:45: direction 32:9
+Line 282, 16:06:45: (1) 06- direction
+--- End of Page 18 ---
+
+--- Beginning of Page 19 ---
+Line 1, 16:06:45: Me
+Line 2, 16:06:45: a.
+Line 3, 16:06:45: November 7, 2007
+Line 4, 16:06:45: disappears 44:20
+Line 5, 16:06:45: discussion 25:15
+Line 6, 16:06:45: dispatch 11:22; 13:7;
+Line 7, 16:06:45: 53:2
+Line 8, 16:06:45: dispatched 12:17, 17
+Line 9, 16:06:45: dispatcher 12:4, 6, 19:
+Line 10, 16:06:45: 13:11; 36:17, 21; 53:4
+Line 11, 16:06:45: dispatchers 36:20:
+Line 12, 16:06:45: 37:21
+Line 13, 16:06:45: distance 44:16; 45:21
+Line 14, 16:06:45: distances 5:21
+Line 15, 16:06:45: document 20:21; 22:12:
+Line 16, 16:06:45: 23:3
+Line 17, 16:06:45: documentation 21:14
+Line 18, 16:06:45: dollar 5:18
+Line 19, 16:06:45: done 10:8; 26:21; 57:9;
+Line 20, 16:06:45: 58:8
+Line 21, 16:06:45: double-check 7:21
+Line 22, 16:06:45: down 5:6, 8; 28:12; 29:8,
+Line 23, 16:06:45: 9; 31:1; 38:10, 12, 16, 17;
+Line 24, 16:06:45: 39:15; 45:9; 46:6; 50:17;
+Line 25, 16:06:45: 56:7
+Line 26, 16:06:45: DR 16:22; 17:6, 8, 8, 15,
+Line 27, 16:06:45: 16; 18:3; 20:2, 3; 21:10,
+Line 28, 16:06:45: 10, 20, 21; 22:13
+Line 29, 16:06:45: draw 29:2
+Line 30, 16:06:45: drive 9:2: 51:17
+Line 31, 16:06:45: driver 38:6
+Line 32, 16:06:45: driver’s 7:9, 16
+Line 33, 16:06:45: driving 9:13; 51:11
+Line 34, 16:06:45: drop-off 33:19
+Line 35, 16:06:45: duly 4:8
+Line 36, 16:06:45: dumped 23:10
+Line 37, 16:06:45: during 5:20; 8:20; 9:7;
+Line 38, 16:06:45: 42:14
+Line 39, 16:06:45: Dwayne 39:19
+Line 40, 16:06:45: E
+Line 41, 16:06:45: E 18:19
+Line 42, 16:06:45: earlier 40:5
+Line 43, 16:06:45: east 28:1
+Line 44, 16:06:45: eat 34:15;56:5
+Line 45, 16:06:45: Ed 38:18; 39:11
+Line 46, 16:06:45: Eight 7:17
+Line 47, 16:06:45: either 17:5; 38:19; 40:11,
+Line 48, 16:06:45: 13; 48:6
+Line 49, 16:06:45: else 36:4; 37:7; 38:17;
+Line 50, 16:06:45: 43:18
+Line 51, 16:06:45: empty 55:4, 9, 16
+Line 52, 16:06:45: en 50:5
+Line 53, 16:06:45: end 31:19; 32:3; 33:2
+Line 54, 16:06:45: ended 43:19; 45:10
+Line 55, 16:06:45: ends 45:19
+Line 56, 16:06:45: entity 21:1
+Line 57, 16:06:45: equipment 51:20
+Line 58, 16:06:45: errors 58:6
+Line 59, 16:06:45: i 4:14; 35:21; 39:20
+Line 60, 16:06:45: estimate 40:2
+Line 61, 16:06:45: even 22:13
+Line 62, 16:06:45: evening 12:7, 18; 13:15;
+Line 63, 16:06:45: 14:19; 15:8
+Line 64, 16:06:45: Oe
+Line 65, 16:06:45: examination 4:7, 10;
+Line 66, 16:06:45: 35:17; 51:8
+Line 67, 16:06:45: examined 4:8
+Line 68, 16:06:45: Exhibit 4:3; 17:4; 18:2, 3:
+Line 69, 16:06:45: 20:5, 18; 25:7, 17; 40:15;
+Line 70, 16:06:45: 41:22; 58:14
+Line 71, 16:06:45: Exit 28:10
+Line 72, 16:06:45: extra 42:16
+Line 73, 16:06:45: extreme 44:13
+Line 74, 16:06:45: r
+Line 75, 16:06:45: fact 36:1
+Line 76, 16:06:45: fair 30:22
+Line 77, 16:06:45: far 20:17; 30:7; 34:7,9
+Line 78, 16:06:45: favor 29:20
+Line 79, 16:06:45: feels 55:11
+Line 80, 16:06:45: few 38:9; 51:10
+Line 81, 16:06:45: file 33:17; 35:8; 43:8, 9;
+Line 82, 16:06:45: 44:3,3
+Line 83, 16:06:45: filed 33:16
+Line 84, 16:06:45: fill 25:6
+Line 85, 16:06:45: filled 19:14; 22:14
+Line 86, 16:06:45: find 43:9
+Line 87, 16:06:45: finish 12:22: 25:3
+Line 88, 16:06:45: finishing 27:6
+Line 89, 16:06:45: first 4:8; 14:9: 36:3:
+Line 90, 16:06:45: 37:10; 41:12
+Line 91, 16:06:45: five 8:5, 6, 10; 34:18
+Line 92, 16:06:45: flies 39:18
+Line 93, 16:06:45: foliows 4:9
+Line 94, 16:06:45: FORD 5:18; 18:9; 19:2;
+Line 95, 16:06:45: 29:4; 35:15, 16, 18; 51:6;
+Line 96, 16:06:45: 56:10, 13, 17; 57:3; 58:13
+Line 97, 16:06:45: Ford’s 28:21
+Line 98, 16:06:45: forget 46:21
+Line 99, 16:06:45: form 16:22
+Line 100, 16:06:45: forth 45:18
+Line 101, 16:06:45: Four 6:21; 36:6; 46:14;
+Line 102, 16:06:45: 47:21
+Line 103, 16:06:45: frame 20:12
+Line 104, 16:06:45: Frank 28:21; 29:3
+Line 105, 16:06:45: Freightliner 11:2
+Line 106, 16:06:45: front 18:2, 13
+Line 107, 16:06:45: fuel 7:13; 8:2, 3, 6,9: 9:3,
+Line 108, 16:06:45: 10, 18; 10:9; 14:10; 18:16,
+Line 109, 16:06:45: 22; 19:14; 20:19, 22:
+Line 110, 16:06:45: 21:16; 23:10; 25:20; 26:1,
+Line 111, 16:06:45: fueling 25:11
+Line 112, 16:06:45: full 6:9; 55:4, 10, 17
+Line 113, 16:06:45: further 35:13; 41:14
+Line 114, 16:06:45: G6:12
+Line 115, 16:06:45: gallons 17:13
+Line 116, 16:06:45: generally 54:7
+Line 117, 16:06:45: genius 27:11
+Line 118, 16:06:45: George 18:19
+Line 119, 16:06:45: gestures 6:3
+Line 120, 16:06:45: gets 43:22
+Line 121, 16:06:45: | Glen 15:19; 16:7, 12, 17,
+Line 122, 16:06:45: | ground 4:17
+Line 123, 16:06:45: |
+Line 124, 16:06:45: habit 13:4
+Line 125, 16:06:45: | handle 55:17
+Line 126, 16:06:45: | haul 7:13; 9:3; 10:3, 9:
+Line 127, 16:06:45: | 25:22
+Line 128, 16:06:45: | hauling 8:3, 6, 9; 9:10,
+Line 129, 16:06:45: | heavy 55:11
+Line 130, 16:06:45: | help 22:4; 23:3
+Line 131, 16:06:45: / 56:2,5
+Line 132, 16:06:45: |
+Line 133, 16:06:45: 21; 17:9; 23:22: 24:6
+Line 134, 16:06:45: goes 18:8; 31:3; 32:5, 6;
+Line 135, 16:06:45: 49:13; 52:8
+Line 136, 16:06:45: Good 4:12; 7:20; 31:2;
+Line 137, 16:06:45: 58:8
+Line 138, 16:06:45: Gordon 6:12, 13
+Line 139, 16:06:45: Grampton 6:16
+Line 140, 16:06:45: Great 35:11;58:13
+Line 141, 16:06:45: half 6:21; 23:13: 24:15;
+Line 142, 16:06:45: 34:11, 14, 19, 20, 20, 21;
+Line 143, 16:06:45: 35:1, 4, 5:42:17
+Line 144, 16:06:45: half-hour 42:20
+Line 145, 16:06:45: hand G:2
+Line 146, 16:06:45: handling 55:3, 14
+Line 147, 16:06:45: happen 39:7
+Line 148, 16:06:45: happened 12:11
+Line 149, 16:06:45: 15, 18; 11:13, 16, 18;
+Line 150, 16:06:45: 13:12,17
+Line 151, 16:06:45: Hazmat 7:12, 15; 8:1
+Line 152, 16:06:45: head 5:9; 26:8, 12; 27:9,
+Line 153, 16:06:45: 20; 31:21
+Line 154, 16:06:45: headed 8:21
+Line 155, 16:06:45: heading 14:5; 32:10
+Line 156, 16:06:45: hear 52:17
+Line 157, 16:06:45: heard 5:1
+Line 158, 16:06:45: hearing 37:6
+Line 159, 16:06:45: held 7:15; 25:15
+Line 160, 16:06:45: Here’s 29:7
+Line 161, 16:06:45: Hill 46:22; 47:1
+Line 162, 16:06:45: home 14:1, 2; 15:21;
+Line 163, 16:06:45: 16:6; 26:9, 12; 27:20;
+Line 164, 16:06:45: 31:11; 33:15; 34:4, 6; 40:3;
+Line 165, 16:06:45: 43:5; 44:2; 49:22: 50:6;
+Line 166, 16:06:45: hook 54:6
+Line 167, 16:06:45: hooked 14:12, 22: 15:6
+Line 168, 16:06:45: hour 16:9, 9; 23:13;
+Line 169, 16:06:45: 24:15; 34:11, 14, 19, 20,
+Line 170, 16:06:45: 20, 21; 35:2, 4, 5; 42:11,
+Line 171, 16:06:45: 14,15, 17
+Line 172, 16:06:45: hours 52:6
+Line 173, 16:06:45: house 15:6, 10; 34:6, 10
+Line 174, 16:06:45: hyphenated 54:19
+Line 175, 16:06:45: I
+Line 176, 16:06:45: idea 21:8; 22:2; 23:17;
+Line 177, 16:06:45: 33:13; 36:19; 39:9
+Line 178, 16:06:45: identification 4:4: 58:15
+Line 179, 16:06:45: | incident 36:5, 8, 13; 38:2;
+Line 180, 16:06:45: 39:12; 44:10; 50:8, 10
+Line 181, 16:06:45: | independent 27:2
+Line 182, 16:06:45: indicate 25:2
+Line 183, 16:06:45: indicates 18:18: 25:7
+Line 184, 16:06:45: Indicating 19:8; 29:12:
+Line 185, 16:06:45: 30:11; 31:10; 34:10
+Line 186, 16:06:45: Initial 6:12
+Line 187, 16:06:45: inside 30:2, 3: 56:8
+Line 188, 16:06:45: intersection 31:17; 33:6;
+Line 189, 16:06:45: 34:8; 51:2
+Line 190, 16:06:45: | into 18:16; 32:6; 35:8;
+Line 191, 16:06:45: 44:22, 22; 45:5, 15; 47:19;
+Line 192, 16:06:45: 48:2, 4, 14, 19; 49:3, 18;
+Line 193, 16:06:45: 51:1
+Line 194, 16:06:45: involvement 36:5
+Line 195, 16:06:45: involving 50:10
+Line 196, 16:06:45: J
+Line 197, 16:06:45: job 12:3; 58:8
+Line 198, 16:06:45: Joe 37:16, 17
+Line 199, 16:06:45: jump 41:1;56:10
+Line 200, 16:06:45: K
+Line 201, 16:06:45: keep 35:9; 39:9; 43:10,
+Line 202, 16:06:45: 21; 44:5; 53:13, 13
+Line 203, 16:06:45: kept 56:13
+Line 204, 16:06:45: kind 6:2; 10:12; 45:15
+Line 205, 16:06:45: knowledge 50:14, 15
+Line 206, 16:06:45: lading 17:18
+Line 207, 16:06:45: lane 29:20, 22; 30:1, 5, 7;
+Line 208, 16:06:45: 32:13, 16; 33:5, 7; 44:13,
+Line 209, 16:06:45: 19; 45:5, 8, 15, 20; 46:9,
+Line 210, 16:06:45: 19; 47:10, 11, 14, 19; 48:2,
+Line 211, 16:06:45: 14, 18, 19, 21; 49:6, 11,
+Line 212, 16:06:45: 13, 15, 16, 18; 51:2; 55:15
+Line 213, 16:06:45: lanes 29:10, 14, 21; 30:8,
+Line 214, 16:06:45: 13, 14; 34:1, 1; 32:1, 2, 2,
+Line 215, 16:06:45: 7, 21; 33:4; 44:14; 45:6;
+Line 216, 16:06:45: 46:3, 5, 14,17, 18; 47:21;
+Line 217, 16:06:45: 48:3, 17; 49:4, 9, 19: 55:8
+Line 218, 16:06:45: last 37:3, 4,5, 8, 18:38:19
+Line 219, 16:06:45: Laurd
+Line 220, 16:06:45: laws wit.2 SabO
+Line 221, 16:06:45: least 44:5
+Line 222, 16:06:45: leave 15:10, 21; 26:18,
+Line 223, 16:06:45: 20; 34:5; 40:20; 42:22:
+Line 224, 16:06:45: 43:3
+Line 225, 16:06:45: left 23:16, 18; 24:9: 26:11;
+Line 226, 16:06:45: 27:13, 15; 29:11, 15;
+Line 227, 16:06:45: 30:10, 10, 13, 15, 21; 31:9,
+Line 228, 16:06:45: 12, 21; 32:18; 33:6; 34:1;
+Line 229, 16:06:45: 40:3, 4, 7,9; 41:11, 19;
+Line 230, 16:06:45: 42:4; 44:22: 45:15, 20;
+Line 231, 16:06:45: 46:3, 19; 47:10, 19, 22:
+Line 232, 16:06:45: 48:7, 18, 20; 49:6, 9, 11,
+Line 233, 16:06:45: 12,15, 16, 18; 50:5; 55:7,
+Line 234, 16:06:45: left-hand 28:18; 29:14,
+Line 235, 16:06:45: tw
+Line 236, 16:06:45: 21; 30:12; 32:2, 14, 21
+Line 237, 16:06:45: Leonardtown 32:8
+Line 238, 16:06:45: less 35:1
+Line 239, 16:06:45: lettering 54:15
+Line 240, 16:06:45: license 7:9, 16
+Line 241, 16:06:45: light 30:19; 31:7; 46:20;
+Line 242, 16:06:45: 47:5, 7,9; 48:7; 51:3
+Line 243, 16:06:45: Lines 8:12;9:11, 19;
+Line 244, 16:06:45: 10:3, 10; 11:19; 12:1, 19;
+Line 245, 16:06:45: 13:12; 14:5; 15:16, 17;
+Line 246, 16:06:45: 16:7, 12; 21:11; 22:3:
+Line 247, 16:06:45: 23:22; 35:21; 36:4, 11, 18;
+Line 248, 16:06:45: 38:6; 43:18; 44:1;53:4;
+Line 249, 16:06:45: 54:7, 12, 13, 14
+Line 250, 16:06:45: listen 51:16, 18
+Line 251, 16:06:45: listening 52:9, 21
+Line 252, 16:06:45: little 24:20, 42:8; 49:14
+Line 253, 16:06:45: live 34:7; 38:15; 39:2, 14
+Line 254, 16:06:45: | lived 6:19
+Line 255, 16:06:45: lives 38:17; 39:3
+Line 256, 16:06:45: living 6:22
+Line 257, 16:06:45: j load 14:16; 16:22; 17:1, 1,
+Line 258, 16:06:45: 13, 22; 18:5, 6,7, 15;
+Line 259, 16:06:45: 27:14, 17; 40:18; 42:1
+Line 260, 16:06:45: loaded 20:16, 17,18
+Line 261, 16:06:45: loads 13:19; 26:18; 27:4
+Line 262, 16:06:45: located 15:17
+Line 263, 16:06:45: | location 19:13
+Line 264, 16:06:45: log 23:7; 34:5: 35:3, 4,6
+Line 265, 16:06:45: logbook 33:15, 18, 22;
+Line 266, 16:06:45: 34:3, 17; 40:8; 41:4, 19;
+Line 267, 16:06:45: 43:6, 16
+Line 268, 16:06:45: logged 34:17, 22: 35:2
+Line 269, 16:06:45: logs 9:15; 43:10
+Line 270, 16:06:45: long 6:19; 7:15; 9:9: 16:5;
+Line 271, 16:06:45: , 23:12; 24:14; 27:3: 28:11
+Line 272, 16:06:45: longer 24:20; 42:8
+Line 273, 16:06:45: | look 25:8; 28:15; 43:7, 8:
+Line 274, 16:06:45: 44:6; 54:7, 9
+Line 275, 16:06:45: ' looking 22:9; 40:15
+Line 276, 16:06:45: looks 20:8
+Line 277, 16:06:45: losing 18:9
+Line 278, 16:06:45: ; lot 8:21; 44:3
+Line 279, 16:06:45: + lunch 34:15; 56:1, 2
+Line 280, 16:06:45: M
+Line 281, 16:06:45: |; Madam 58:7
+Line 282, 16:06:45: major 53:16
+Line 283, 16:06:45: making 25:4:55:15
+Line 284, 16:06:45: maneuvers 55:9
+Line 285, 16:06:45: manner 55:16
+Line 286, 16:06:45: many 28:11
+Line 287, 16:06:45: map 28:15
+Line 288, 16:06:45: March 4:15; 7:2; 10:12;
+Line 289, 16:06:45: 11:8, 12,15; 12:14, 18;
+Line 290, 16:06:45: 13:10, 15; 14:2, 19; 15:8,
+Line 291, 16:06:45: LL, 21; 20:7; 27:3, 9:
+Line 292, 16:06:45: 33:12; 36:8, 9, 18:37:15,
+Line 293, 16:06:45: i 21; 38:8; 39:8, 16; 50:22;
+Line 294, 16:06:45: 51 : 14
+Line 295, 16:06:45: ! mark 23:6; 28:19, 20
+Line 296, 16:06:45: marked 4:4: 17:4;58:14
+Line 297, 16:06:45: disappears - marked (2)
+Line 298, 16:06:45: Min-U-Scripto
+Line 299, 16:06:45: For The Record, Inc. -- (301)870-8025
+--- End of Page 19 ---
+
+--- Beginning of Page 20 ---
+Line 1, 16:06:45: Y.
+Line 2, 16:06:45: i
+Line 3, 16:06:45: . Seles
+Line 4, 16:06:45: Mary’s 6:18; 14:4; 16:6;
+Line 5, 16:06:45: 27:20; 39:15
+Line 6, 16:06:45: Maryland 6:16; 13:19, i
+Line 7, 16:06:45: 21; 14:18; 15:19; 16:12;
+Line 8, 16:06:45: 19:22; 20:1, 1; 21:1, 3,5,
+Line 9, 16:06:45: 17; 22:11, 15; 24:18, 19;
+Line 10, 16:06:45: 26:20; 27:7; 39:3
+Line 11, 16:06:45: math 7:20
+Line 12, 16:06:45: Mattawoman 28:2, 8, 12,
+Line 13, 16:06:45: 14; 29:11, 15; 30:13, 21:
+Line 14, 16:06:45: 31:12, 15, 18, 22; 32:19;
+Line 15, 16:06:45: 33:3, 11:44:8: 35:22: 38:7:
+Line 16, 16:06:45: 44:12; 45:10; 50:3, 18
+Line 17, 16:06:45: may 43:13, 13; 56:7
+Line 18, 16:06:45: maybe 5:21, 22; 42:5
+Line 19, 16:06:45: mean 16:2; 30.7; 38:9;
+Line 20, 16:06:45: 40:14; 41:2; 45:18; 55:11,
+Line 21, 16:06:45: means 21:7
+Line 22, 16:06:45: Mechanicsville 39:3
+Line 23, 16:06:45: memory 27:2; 50:8, 16
+Line 24, 16:06:45: merge 31:9; 44:22; 47:10,
+Line 25, 16:06:45: 15; 48:5
+Line 26, 16:06:45: merged 45:4; 46:2
+Line 27, 16:06:45: merges 48:4
+Line 28, 16:06:45: Mid 8:15, 16;9:3
+Line 29, 16:06:45: middle 6:11; 32:16
+Line 30, 16:06:45: might 6:1: 20:12; 41:2;
+Line 31, 16:06:45: 53:20
+Line 32, 16:06:45: mile 31:3; 45:22
+Line 33, 16:06:45: miles 28:11, 13; 46:6
+Line 34, 16:06:45: minutes 16:9, 10, 14;
+Line 35, 16:06:45: 23:13; 24:15; 34:18;
+Line 36, 16:06:45: 42:17: 56:7
+Line 37, 16:06:45: Mirant 17:20; 18:19;
+Line 38, 16:06:45: 19:19, 20, 21; 23:1, 2, 2, 4,
+Line 39, 16:06:45: 4,17; 22:10
+Line 40, 16:06:45: month 54:2
+Line 41, 16:06:45: months 36:6; 43:12, 22:
+Line 42, 16:06:45: 53:14, 20; 54:1
+Line 43, 16:06:45: more 17:17; 58:1
+Line 44, 16:06:45: Morgantown 38:13
+Line 45, 16:06:45: morning 15:11, 21;
+Line 46, 16:06:45: 17:10; 20:10; 40:4; 42:14
+Line 47, 16:06:45: most 48:14, 18; 51:1;
+Line 48, 16:06:45: 58:9
+Line 49, 16:06:45: move 14:20; 46:10; 48:1
+Line 50, 16:06:45: movement 5:22: 6:4
+Line 51, 16:06:45: much 54:8
+Line 52, 16:06:45: music 51:16
+Line 53, 16:06:45: myself 9:15
+Line 54, 16:06:45: N
+Line 55, 16:06:45: name 4:12;6:6,9, 11;
+Line 56, 16:06:45: 8:13; 36:22; 37:3, 4, 5;
+Line 57, 16:06:45: 38:19; 39:22; 46:21;
+Line 58, 16:06:45: 54:18; 57:16
+Line 59, 16:06:45: named 37:17; 38:18
+Line 60, 16:06:45: names 37:9,11,18
+Line 61, 16:06:45: NASCAR 382:4,6
+Line 62, 16:06:45: need 44:6
+Line 63, 16:06:45: needed 15:13; 24:4
+Line 64, 16:06:45: new 10:20
+Line 65, 16:06:45: next 13:17; 23:19; 24:17
+Line 66, 16:06:45: night 12:17; 14:1
+Line 67, 16:06:45: nods 5:8
+Line 68, 16:06:45: none 38:1
+Line 69, 16:06:45: normally 26:18, 20; 27:5
+Line 70, 16:06:45: north 57:1
+Line 71, 16:06:45: | notice 55:2
+Line 72, 16:06:45: number 7:7; 11:14, 16,
+Line 73, 16:06:45: 18; 12:1; 13:18; 14:9; 18:2,
+Line 74, 16:06:45: 3,14, 14; 20:5, 18; 25:7,
+Line 75, 16:06:45: 18; 40:15; 41:22; 42:10;
+Line 76, 16:06:45: 58:14
+Line 77, 16:06:45: Numbers 4:3; 17:4
+Line 78, 16:06:45: oO
+Line 79, 16:06:45: o’clock 16:1, 2; 27:6;
+Line 80, 16:06:45: 40.4, 11, 13; 42:5, 18
+Line 81, 16:06:45: Objection 52:3, 13; 53:5
+Line 82, 16:06:45: occurred 36:8; 38:3:
+Line 83, 16:06:45: 44:10
+Line 84, 16:06:45: : Off 25:13, 15; 28:7, 16;
+Line 85, 16:06:45: 31:7; 33:2; 35:21
+Line 86, 16:06:45: often 53:15, 19; 57:17
+Line 87, 16:06:45: Oil 8:15, 16; 9:4; 11:14,
+Line 88, 16:06:45: | 16,18; 12:1, 12; 13:18;
+Line 89, 16:06:45: 17:2, 20; 18:7; 19:1, 3, 11,
+Line 90, 16:06:45: ) 12; 24:2, 10; 40:5; 54:4
+Line 91, 16:06:45: once 16:9; 53:22; 54:2
+Line 92, 16:06:45: one 17:5; 23:6; 25:14;
+Line 93, 16:06:45: 31:8; 33:5, 7; 36:15; 48:2,
+Line 94, 16:06:45: 17; 49:8; 52:1
+Line 95, 16:06:45: | only 9:7; 10:3, 8; 33:1, 3;
+Line 96, 16:06:45: | 37:17; 53:13
+Line 97, 16:06:45: onto 29:15; 30:13, 21;
+Line 98, 16:06:45: 31:12; 32:19; 44:12; 54:6
+Line 99, 16:06:45: | open 49:4
+Line 100, 16:06:45: opens 32:1
+Line 101, 16:06:45: operate 55:18
+Line 102, 16:06:45: opposed 50:20
+Line 103, 16:06:45: order 17:17
+Line 104, 16:06:45: originally 40:3
+Line 105, 16:06:45: Otherwise 4:22: 9:2
+Line 106, 16:06:45: » OUt 5:12; 8:18; 9:1; 14:17;
+Line 107, 16:06:45: 17:20, 22; 31:15, 16;
+Line 108, 16:06:45: 33:17; 40:16; 52:8; 53:21;
+Line 109, 16:06:45: 54:18, 20; 56:9
+Line 110, 16:06:45: : outside 29:22; 30:1, 5, 6;
+Line 111, 16:06:45: 32:13; 33:1
+Line 112, 16:06:45: over 29:5; 31:3, 9, 9; 32:5,
+Line 113, 16:06:45: 17; 44:20; 45:20; 46:2, 19:
+Line 114, 16:06:45: j 47:10, 15,17, 19, 22; 48:5,
+Line 115, 16:06:45: G, 10; 49:5, 7,9, 13, 14,16
+Line 116, 16:06:45: owner/operator 9:16;
+Line 117, 16:06:45: 10:2; 38:22; 39:4; 44:2
+Line 118, 16:06:45: owner/operators 39:10,
+Line 119, 16:06:45: 14,16
+Line 120, 16:06:45: p.m 58:17
+Line 121, 16:06:45: Paper 17:6; 18:1; 19:4
+Line 122, 16:06:45: paperwork 14:11, 16;
+Line 123, 16:06:45: 15:13, 15; 16:8, 17, 18, 20;
+Line 124, 16:06:45: 17:10, 11, 21; 18:4, 4, 13,
+Line 125, 16:06:45: 14, 18; 19:17; 24:1, 3; 25:2
+Line 126, 16:06:45: Pardon 40:12
+Line 127, 16:06:45: park 42:13
+Line 128, 16:06:45: particular 11:22; 27:3;
+Line 129, 16:06:45: 30:17; 49:21; 50:16, 17;
+Line 130, 16:06:45: 51:3; 52:21; 56:1, 4
+Line 131, 16:06:45: passed 45:6
+Line 132, 16:06:45: past 44:5; 46:2, 22: 47:5
+Line 133, 16:06:45: pause 51:7
+Line 134, 16:06:45: pay 25:4
+Line 135, 16:06:45: pending 35:20
+Line 136, 16:06:45: people 36:10; 43:17; 58:9
+Line 137, 16:06:45: people’s 37:8
+Line 138, 16:06:45: PEPCO 22:10
+Line 139, 16:06:45: perfect 20:12
+Line 140, 16:06:45: period 43:11
+Line 141, 16:06:45: personal 44:1
+Line 142, 16:06:45: Peterbilt 10:14
+Line 143, 16:06:45: pick 14:9; 15:13, 15;
+Line 144, 16:06:45: 16:17, 20; 17:10; 18:6, 6,
+Line 145, 16:06:45: 15; 24:1
+Line 146, 16:06:45: picked 18:22; 19:1
+Line 147, 16:06:45: picking 40:5
+Line 148, 16:06:45: pickup 33:19
+Line 149, 16:06:45: piece 21:14
+Line 150, 16:06:45: pieces 17:5; 18:1
+Line 151, 16:06:45: place 4:14; 18:15; 56:4
+Line 152, 16:06:45: places 19:21
+Line 153, 16:06:45: plant 54:3
+Line 154, 16:06:45: please 7:5
+Line 155, 16:06:45: Point 19:7, 9, 12, 22;
+Line 156, 16:06:45: 20:19; 21:15; 38:14; 40:9;
+Line 157, 16:06:45: 41:6, 15, 20; 45:4; 46:18;
+Line 158, 16:06:45: 47:15, 16; 48:13, 19:
+Line 159, 16:06:45: 49:22; 56:1
+Line 160, 16:06:45: pointing 18:10
+Line 161, 16:06:45: Poplar 46:22; 47:1
+Line 162, 16:06:45: portion 45:9; 53:17
+Line 163, 16:06:45: possible 36:5; 45:14
+Line 164, 16:06:45: power 54:3
+Line 165, 16:06:45: prefer 32:13
+Line 166, 16:06:45: presumably 40:9; 42:1
+Line 167, 16:06:45: Pretty 54:8
+Line 168, 16:06:45: probably 28:19
+Line 169, 16:06:45: proceeded 51:1
+Line 170, 16:06:45: | PROCEEDINGS 4:1
+Line 171, 16:06:45: process 4:17; 24:14;
+Line 172, 16:06:45: 42:20; 58:6
+Line 173, 16:06:45: product 17:1, 13, 22
+Line 174, 16:06:45: program 52:12
+Line 175, 16:06:45: pronounce 37:4; 38:18
+Line 176, 16:06:45: provide 35:11
+Line 177, 16:06:45: pulling 8:1
+Line 178, 16:06:45: purchase 17:17
+Line 179, 16:06:45: | put 5:15; 17:14; 42:17
+Line 180, 16:06:45: Q
+Line 181, 16:06:45: | Quade 4:3, 6, 12;6:6, 7,
+Line 182, 16:06:45: 13; 35:14; 51:10; 58:14
+Line 183, 16:06:45: For The Record, Inc.
+Line 184, 16:06:45: -- (301)870-8025
+Line 185, 16:06:45: Min-U-Script®
+Line 186, 16:06:45: quarter 5:16; 16: 15gig3:2;
+Line 187, 16:06:45: 25:4; 26:13; 31:2; 42:2, 4;
+Line 188, 16:06:45: 45:22
+Line 189, 16:06:45: quarters 5:17
+Line 190, 16:06:45: OR
+Line 191, 16:06:45: ; races 52:9, 11
+Line 192, 16:06:45: radio 51:16, 18, 21, 22;
+Line 193, 16:06:45: 52:7,18
+Line 194, 16:06:45: railroad 31:5, 6; 44:17;
+Line 195, 16:06:45: 45:6; 46:2
+Line 196, 16:06:45: ratio 48:11, 12
+Line 197, 16:06:45: read 58:5, 10
+Line 198, 16:06:45: Reading 58:16
+Line 199, 16:06:45: reason 43:15
+Line 200, 16:06:45: reasons 57:19
+Line 201, 16:06:45: receive 12:2; 13:5
+Line 202, 16:06:45: received 11:21
+Line 203, 16:06:45: , recollection 33:10; 51:4,
+Line 204, 16:06:45: record 5:13; 25:14, 15;
+Line 205, 16:06:45: 41:8, 11, 14; 43:17, 19
+Line 206, 16:06:45: recorded 41:5; 43:2, 4
+Line 207, 16:06:45: records 53:2, 11, 13
+Line 208, 16:06:45: red 51:3; 54:17
+Line 209, 16:06:45: referring 56:21
+Line 210, 16:06:45: refueled 24:12, 16; 27:17
+Line 211, 16:06:45: | regarding 4:14
+Line 212, 16:06:45: regular 31:11
+Line 213, 16:06:45: related 38:20
+Line 214, 16:06:45: relevance 52:3, 13
+Line 215, 16:06:45: remember 15:20; 16:12;
+Line 216, 16:06:45: 23:15; 29:17, 19; 30:18
+Line 217, 16:06:45: reporter 5:6; 58:8
+Line 218, 16:06:45: require 51:19
+Line 219, 16:06:45: required 43:10
+Line 220, 16:06:45: response 53:7, 10
+Line 221, 16:06:45: | result 53:3, 11
+Line 222, 16:06:45: rewind 27:9
+Line 223, 16:06:45: | right 5:2, 6; 6:6, 14; 8:8;
+Line 224, 16:06:45: 9:3; 13:13; 18:7, 9; 19:4, 8,
+Line 225, 16:06:45: 9,11, 21:17; 22:6, 10,17,
+Line 226, 16:06:45: 21; 23:10; 25:5, 8; 27:16,
+Line 227, 16:06:45: 20, 21; 28:5; 29:10; 30:9,
+Line 228, 16:06:45: 10, 19; 32:4, 6, 14; 34:9;
+Line 229, 16:06:45: 37:10, 20; 40:19; 43:14;
+Line 230, 16:06:45: 45:19; 46:4, 7; 47:3, 4, 6,
+Line 231, 16:06:45: 10, 14; 48:6, 8, 9, 14, 16,
+Line 232, 16:06:45: 18; 49:2, 7; 51:1; 57:4;
+Line 233, 16:06:45: 58:5,7,11,12
+Line 234, 16:06:45: right-hand 30:7; 32:20;
+Line 235, 16:06:45: 44:13; 45:5, 8; 46:9; 49:18
+Line 236, 16:06:45: Road 6:16; 28:2, 8, 12,
+Line 237, 16:06:45: 15; 29:11, 15; 30:14, 22;
+Line 238, 16:06:45: 31:13, 16, 18, 22; 32:8, 19;
+Line 239, 16:06:45: 33:3, 11; 34:8; 35:22; 38:7;
+Line 240, 16:06:45: 44:12; 45:10; 46:21;
+Line 241, 16:06:45: 47:20; 50:4, 18; 56:7;
+Line 242, 16:06:45: 57:16, 16
+Line 243, 16:06:45: roads 57:20
+Line 244, 16:06:45: roaring 52:17
+Line 245, 16:06:45: : roughly 42:2
+Line 246, 16:06:45: route 22:17; 26:3; 27:22;
+Line 247, 16:06:45: November.7, 2007
+Line 248, 16:06:45: 28:2, 4, 8; 29:79:11, 18:
+Line 249, 16:06:45: 32:19; 33:11; 34:9; 35:22;
+Line 250, 16:06:45: 38:7; 39:7; 46:6, 14; 48:20;
+Line 251, 16:06:45: 50:5, 5: 57:6, 12, 13,15
+Line 252, 16:06:45: routine 44:9; 47:19, 21;
+Line 253, 16:06:45: 48:14; 49:1,3, 17; 51:11
+Line 254, 16:06:45: rule 5:15
+Line 255, 16:06:45: rules 4:17
+Line 256, 16:06:45: run 26:18, 22; 27:4; 38:9,
+Line 257, 16:06:45: 12; 42:10; 53:16, 19, 22;
+Line 258, 16:06:45: 55:21, 22; 56:5; 57:10
+Line 259, 16:06:45: runs 22:19; 28:5, 17
+Line 260, 16:06:45: rush 42:11,14, 14
+Line 261, 16:06:45: rush-hour 42:7
+Line 262, 16:06:45: S
+Line 263, 16:06:45: same 5:13; 26:3; 54:7
+Line 264, 16:06:45: satellite 51:18, 20, 22;
+Line 265, 16:06:45: 52:7
+Line 266, 16:06:45: saying 5:12; 12:10; 19:2;
+Line 267, 16:06:45: 35:4; 36:2; 49:6; 54:1;
+Line 268, 16:06:45: 56:13
+Line 269, 16:06:45: second 20:6; 22:4; 25:6,
+Line 270, 16:06:45: 14, 19, 22; 26:7; 27:14, 17;
+Line 271, 16:06:45: 41:18; 42:1
+Line 272, 16:06:45: Security 7:7
+Line 273, 16:06:45: seldom 57:22
+Line 274, 16:06:45: several 46:6
+Line 275, 16:06:45: sheet 22:5
+Line 276, 16:06:45: ship 19:20
+Line 277, 16:06:45: shipments 38:13
+Line 278, 16:06:45: shipped 21:6; 22:11
+Line 279, 16:06:45: shipper 18:8
+Line 280, 16:06:45: short 40:20
+Line 281, 16:06:45: shoulder 5:8
+Line 282, 16:06:45: show 17:3; 28:22; 40:8;
+Line 283, 16:06:45: 41:4,19
+Line 284, 16:06:45: shows 42:1; 52:10
+Line 285, 16:06:45: shrugs 5:8
+Line 286, 16:06:45: side 10:5; 28:1; 54:13
+Line 287, 16:06:45: sign 58:10
+Line 288, 16:06:45: signal 29:18
+Line 289, 16:06:45: signature 58:16
+Line 290, 16:06:45: silver 54:22
+Line 291, 16:06:45: Six 43:12, 21; 53:14
+Line 292, 16:06:45: slightest 22:2; 23:17
+Line 293, 16:06:45: Social 7:7
+Line 294, 16:06:45: sold 17:19;18:19
+Line 295, 16:06:45: somebody 41:3
+Line 296, 16:06:45: something’s 55:11
+Line 297, 16:06:45: Sometimes 23:13; 41:2;
+Line 298, 16:06:45: 42:16; 47:13; 53:20; 56:3,
+Line 299, 16:06:45: somewhere 34:21; 35:4
+Line 300, 16:06:45: soon 49:4
+Line 301, 16:06:45: sorry 12:9; 13:2; 27:16;
+Line 302, 16:06:45: 56:15
+Line 303, 16:06:45: south 28:3; 31:21; 32:7;
+Line 304, 16:06:45: 50:5; 57:2
+Line 305, 16:06:45: southbound 32:19;
+Line 306, 16:06:45: 33:11
+Line 307, 16:06:45: special 7:11; 51:19
+Line 308, 16:06:45: (3) Mary’s - special
+--- End of Page 20 ---
+
+--- Beginning of Page 21 ---
+Line 1, 16:06:50: ember 7, 2007
+Line 2, 16:06:50: specific 33:9
+Line 3, 16:06:50: speed 5:21
+Line 4, 16:06:50: spelled 54:18, 20
+Line 5, 16:06:50: spent 13:22
+Line 6, 16:06:50: split 28:6
+Line 7, 16:06:50: St 6:18; 14:4; 16:6; 27:20;
+Line 8, 16:06:50: 32:6; 39:15
+Line 9, 16:06:50: start 8:3, 9; 9:10; 25:4
+Line 10, 16:06:50: started 4:16; 8:1, 6, 11;
+Line 11, 16:06:50: 9:18; 25:11; 43:19
+Line 12, 16:06:50: States 8:15, 16; 9:3
+Line 13, 16:06:50: stay 9:8; 45:8, 18; 46:9;
+Line 14, 16:06:50: 48:7,9; 49:15
+Line 15, 16:06:50: stays 32:6; 52:1
+Line 16, 16:06:50: Stephenson 35:12, 15;
+Line 17, 16:06:50: 52:3, 13; 53:5; 58:4
+Line 18, 16:06:50: still 9:21; 10:5, 17; 37:13;
+Line 19, 16:06:50: 49:9
+Line 20, 16:06:50: stop 31:5, 6; 34:15; 35:3;
+Line 21, 16:06:50: 44:18; 55:22: 56:4, 7
+Line 22, 16:06:50: stopped 29:18; 30:18,
+Line 23, 16:06:50: 34:21; 51:2
+Line 24, 16:06:50: stuff 17:13, 13; 18:10;
+Line 25, 16:06:50: 35:9; 43:21; 44:4, 5
+Line 26, 16:06:50: supplied 18:4
+Line 27, 16:06:50: supposed 32:16
+Line 28, 16:06:50: Sure 20:14; 26:15; 29:4;
+Line 29, 16:06:50: 37:16, 22; 56:12
+Line 30, 16:06:50: sworn 4:8
+Line 31, 16:06:50: table 5:7, 16
+Line 32, 16:06:50: talk 49:21; 52:10
+Line 33, 16:06:50: talked 39:11
+Line 34, 16:06:50: talking 12:14; 17:11,
+Line 35, 16:06:50: 31:19; 33:2; 34:11; 41:3;
+Line 36, 16:06:50: 46:1, 8; 47:8; 48:18; 50:9
+Line 37, 16:06:50: Tank 8:12; 9:11, 19; 10:3,
+Line 38, 16:06:50: 9; 11:19, 22; 12:1, 19;
+Line 39, 16:06:50: 13:11; 14:5, 9; 15:16, 17;
+Line 40, 16:06:50: 16:7, 11; 21:11, 16; 22:3;
+Line 41, 16:06:50: 23:22; 24:16; 25:19; 26:1,
+Line 42, 16:06:50: 7; 35:20; 36:4, 11, 18;
+Line 43, 16:06:50: 38:6; 43:18; 44:1; 53:4;
+Line 44, 16:06:50: 54:6, 12, 13,14
+Line 45, 16:06:50: tanker 14:12, 13; 15:2, 2,
+Line 46, 16:06:50: 5, 6, 12; 18:16; 19:14;
+Line 47, 16:06:50: 20:19; 22:14; 25:6; 50:11,
+Line 48, 16:06:50: 11; 54:10; 55:4, 7, 8,9,15,
+Line 49, 16:06:50: 16, 18
+Line 50, 16:06:50: tankers 54:5, 5, 21
+Line 51, 16:06:50: tape 27:9
+Line 52, 16:06:50: tells 22:6
+Line 53, 16:06:50: ten 34:18
+Line 54, 16:06:50: tend 51:12
+Line 55, 16:06:50: Term 19:7,9
+Line 56, 16:06:50: Terminal 21:15; 40:9;
+Line 57, 16:06:50: 41:6
+Line 58, 16:06:50: testified 4:8
+Line 59, 16:06:50: Theodore 4:13
+Line 60, 16:06:50: third 44:19; 50:12
+Line 61, 16:06:50: though 22:13
+Line 62, 16:06:50: thought 40:3
+Line 63, 16:06:50: three 29:10, 14, 21; 30:8,
+Line 64, 16:06:50: 9, 22; 36:6, 20; 37:17;
+Line 65, 16:06:50: 44.13
+Line 66, 16:06:50: throw 44:4
+Line 67, 16:06:50: till 12:22; 21:13; 25:3;
+Line 68, 16:06:50: 56:2
+Line 69, 16:06:50: time-wise 34:12
+Line 70, 16:06:50: times 42:10; 44:4
+Line 71, 16:06:50: today 12:14
+Line 72, 16:06:50: together 22:19; 28:5, 17
+Line 73, 16:06:50: told 12:20; 26:4; 32:12
+Line 74, 16:06:50: tomorrow 13:8, 12
+Line 75, 16:06:50: took 4:14; 22:18, 24:20;
+Line 76, 16:06:50: 26:16; 27:4
+Line 77, 16:06:50: top 57:15
+Line 78, 16:06:50: towards 32:7
+Line 79, 16:06:50: track 44:17; 45:6; 46:2;
+Line 80, 16:06:50: 52:18
+Line 81, 16:06:50: tracks 31:5,6
+Line 82, 16:06:50: tractor 10:13; 14:1, 20;
+Line 83, 16:06:50: 15:5, 12; 51:12, 20; 54:6
+Line 84, 16:06:50: tractor-tanker 55:3
+Line 85, 16:06:50: tractor-trailer 6:1
+Line 86, 16:06:50: traffic 24:21; 29:18;
+Line 87, 16:06:50: 30:14; 31:7; 33:6, 10, 13;
+Line 88, 16:06:50: 42:7; 45:1; 46:20; 47:5, 7;
+Line 89, 16:06:50: 48:5
+Line 90, 16:06:50: trailer 14:22; 17:14
+Line 91, 16:06:50: transcript 58:5, 9, 10
+Line 92, 16:06:50: transcription 58:6
+Line 93, 16:06:50: traveling 44:9; 50:17
+Line 94, 16:06:50: travels 53:17
+Line 95, 16:06:50: trip 41:18; 42:1
+Line 96, 16:06:50: trips 43:19
+Line 97, 16:06:50: truck 35:21; 41:1; 50:11
+Line 98, 16:06:50: trucks 30:1
+Line 99, 16:06:50: trust 58:7
+Line 100, 16:06:50: try 5:14; 6:3; 44:5; 47:17
+Line 101, 16:06:50: trying 20:11; 39:17
+Line 102, 16:06:50: TURGEON 51:9; 52:5,
+Line 103, 16:06:50: 16; 53:7, 9; 56:12, 20;
+Line 104, 16:06:50: 57:5; 58:1
+Line 105, 16:06:50: turn 29:14, 21; 30:3, 13;
+Line 106, 16:06:50: 32:2, 7, 14, 21; 48:11, 11,
+Line 107, 16:06:50: 14, 20; 49:19; 51:1; 55:13
+Line 108, 16:06:50: turned 44:11
+Line 109, 16:06:50: turning 29:10; 30:8; 33:4;
+Line 110, 16:06:50: 44:14; 47:15, 16; 48:2, 12;
+Line 111, 16:06:50: 55:7
+Line 112, 16:06:50: twice 55:22
+Line 113, 16:06:50: two 11:14, 16, 18; 12:1;
+Line 114, 16:06:50: 13:18, 19; 14:10; 17:1;
+Line 115, 16:06:50: 18:1; 26:18; 27:4; 30:2, 10,
+Line 116, 16:06:50: 14; 31:1, 22; 32:1, 2, 5,5,
+Line 117, 16:06:50: 7, 20; 33:1, 3; 36:10, 19;
+Line 118, 16:06:50: 45:5; 46:3, 5, 18; 48:17;
+Line 119, 16:06:50: 49:18
+Line 120, 16:06:50: two-lane 45:9
+Line 121, 16:06:50: type 17:11
+Line 122, 16:06:50: typical 51:11
+Line 123, 16:06:50: typically 16:5; 51:17;
+Line 124, 16:06:50: 55:22
+Line 125, 16:06:50: uh-uh 5:12
+Line 126, 16:06:50: understood 5:1; 44:10
+Line 127, 16:06:50: unload 26:17; 27:19;
+Line 128, 16:06:50: 42:19
+Line 129, 16:06:50: | unloaded 26:7
+Line 130, 16:06:50: up 14:9, 22; 15:6, 13, 15;
+Line 131, 16:06:50: 16:17, 20; 17:10; 18:6, 7,
+Line 132, 16:06:50: 11, 15, 22; 19:1, 14; 20:18;
+Line 133, 16:06:50: 22:14, 21; 24:1; 25:6;
+Line 134, 16:06:50: 26:17; 27:6; 32:1; 35:10;
+Line 135, 16:06:50: 39:9; 40:6, 18; 44:6; 47:15;
+Line 136, 16:06:50: 48:1; 49:4; 50:4; 51:2;
+Line 137, 16:06:50: 54:4; 57:8, 14
+Line 138, 16:06:50: using 6:2
+Line 139, 16:06:50: usual 44:8
+Line 140, 16:06:50: usually 27:5; 40:20, 22;
+Line 141, 16:06:50: 42:16; 44:4; 46:19; 47:9;
+Line 142, 16:06:50: 51:18
+Line 143, 16:06:50: vehicle 10:17, 21; 11:4, 6,
+Line 144, 16:06:50: 9; 38:6; 50:10, 12; 51:11;
+Line 145, 16:06:50: 55:14
+Line 146, 16:06:50: verbally 5:5
+Line 147, 16:06:50: versus 55:4, 10,16
+Line 148, 16:06:50: vicinity 38:7; 44:9; 50:11
+Line 149, 16:06:50: WwW
+Line 150, 16:06:50: | wait 8:22; 12:22; 21:13;
+Line 151, 16:06:50: | 25:3; 47:16; 56:1
+Line 152, 16:06:50: waive 58:7,9, 11, 12,13
+Line 153, 16:06:50: waived 58:16
+Line 154, 16:06:50: warehouse 14:6
+Line 155, 16:06:50: Warren 18:20
+Line 156, 16:06:50: way 5:13; 13:4; 19:3;
+Line 157, 16:06:50: 30:6; 32:17; 39:19; 45:9;
+Line 158, 16:06:50: 48:6, 10; 49:16; 55:13;
+Line 159, 16:06:50: 56:6; 57:17, 18, 19, 22
+Line 160, 16:06:50: weather 51:13; 54:3
+Line 161, 16:06:50: weird 37:5
+Line 162, 16:06:50: what’s 17:3; 29:6; 37:3;
+Line 163, 16:06:50: 53:7
+Line 164, 16:06:50: whatnot 41:3; 52:10
+Line 165, 16:06:50: whatsoever 50:15
+Line 166, 16:06:50: Whereupon 4:5; 58:17
+Line 167, 16:06:50: whole 9:1; 52:1
+Line 168, 16:06:50: within 36-9; 40:20
+Line 169, 16:06:50: witness 4:7; 19:3; 28:22;
+Line 170, 16:06:50: 29:5, 9; 52:4, 15; 53:8;
+Line 171, 16:06:50: 56:15, 18; 57:4; 58:12
+Line 172, 16:06:50: words 6:4; 17:21
+Line 173, 16:06:50: worked 8:11, 14
+Line 174, 16:06:50: worry 13:4
+Line 175, 16:06:50: writing 54:11
+Line 176, 16:06:50: wrong 13:6; 57:21
+Line 177, 16:06:50: yard 14:7,8
+Line 178, 16:06:50: year 9:5; 10:15; 11:1, 3;
+Line 179, 16:06:50: 44:5; 53:21
+Line 180, 16:06:50: yearly 53:17
+Line 181, 16:06:50: years 6:21; 7:17; 8:5, 6,
+Line 182, 16:06:50: 10; 9:4; 35:9
+Line 183, 16:06:50: Z
+Line 184, 16:06:50: ZOIS 4:11, 13; 5:19;
+Line 185, 16:06:50: 18:11, 12; 19:5; 25:13, 16;
+Line 186, 16:06:50: 28:19; 29:2, 7,13; 35:11;
+Line 187, 16:06:50: 58:3
+Line 188, 16:06:50: specific - ZOIS (4)
+Line 189, 16:06:50: Min-U-Script®
+Line 190, 16:06:50: For The Record, Inc. -- (401)870-8025
+Line 191, 16:06:50: Sey, A
+--- End of Page 21 ---
+
+--- Beginning of Page 22 ---
+Line 1, 16:06:50: aw
+Line 2, 16:06:50: Lawyer’s Notes
+Line 3, 16:06:50: ae
+--- End of Page 22 ---
+

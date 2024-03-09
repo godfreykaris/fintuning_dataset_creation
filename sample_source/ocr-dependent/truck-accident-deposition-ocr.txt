@@ -1,1416 +1,1382 @@
 --- Beginning of Page 1 ---
-Line 1, 19:00:51: Deposition of as
-Line 2, 19:00:51: Taken on June 26, 2006
-Line 3, 19:00:51: IN THE UNITED STATES DISTRICT COURT
-Line 4, 19:00:51: FOR THE DISTRICT OF MARYLAND
-Line 5, 19:00:51: ee
-Line 6, 19:00:51: Plaintiff, Case No.
-Line 7, 19:00:51: vs. 06-CV-638
-Line 8, 19:00:51: ALTON D. GRADY, ET AL.,
-Line 9, 19:00:51: Defendants.
-Line 10, 19:00:51: ek a RRS eee ee
-Line 11, 19:00:51: Pursuant to Notice, the deposition of
-Line 12, 19:00:51: GRE was taken on Monday, June 26th,
-Line 13, 19:00:51: 2006, commencing at 1:57 p.m., at the offices
-Line 14, 19:00:51: of Miller and Zois, 7310 Ritchie Highway, Suite
-Line 15, 19:00:51: SE
-Line 16, 19:00:51: 1001, Glen Burnie, Maryland 21061, before
-Line 17, 19:00:51: Kathryn M. Benhoff, Notary Public.
-Line 18, 19:00:51: Corbin & Hook Reporting, Inc. i
-Line 19, 19:00:51: Annapolis, MD 21401-9996
-Line 20, 19:00:51: Corbin &£ Hook, Reporting  Videoconferencing
-Line 21, 19:00:51: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:07: Deposition of as
+Line 2, 19:20:07: Taken on June 26, 2006
+Line 3, 19:20:07: IN THE UNITED STATES DISTRICT COURT
+Line 4, 19:20:07: FOR THE DISTRICT OF MARYLAND
+Line 5, 19:20:07: ee
+Line 6, 19:20:07: Plaintiff, Case No.
+Line 7, 19:20:07: vs. 06-CV-638
+Line 8, 19:20:07: ALTON D. GRADY, ET AL.,
+Line 9, 19:20:07: Defendants.
+Line 10, 19:20:07: ek a RRS eee ee
+Line 11, 19:20:07: Pursuant to Notice, the deposition of
+Line 12, 19:20:07: GRE was taken on Monday, June 26th,
+Line 13, 19:20:07: 2006, commencing at 1:57 p.m., at the offices
+Line 14, 19:20:07: of Miller and Zois, 7310 Ritchie Highway, Suite
+Line 15, 19:20:07: SE
+Line 16, 19:20:07: 1001, Glen Burnie, Maryland 21061, before
+Line 17, 19:20:07: Kathryn M. Benhoff, Notary Public.
+Line 18, 19:20:07: Corbin & Hook Reporting, Inc. i
+Line 19, 19:20:07: Annapolis, MD 21401-9996
+Line 20, 19:20:07: Corbin &£ Hook, Reporting  Videoconferencing
+Line 21, 19:20:07: (410) 268-6006 1-866-337-6778
 --- End of Page 1 ---
 
 --- Beginning of Page 2 ---
-Line 1, 19:00:51: Deposition fae
-Line 2, 19:00:51: Taken on June 26, 2006
-Line 3, 19:00:51: APPEARANCES
-Line 4, 19:00:51: ON BEHALF OF THE PLAINTIFF:
-Line 5, 19:00:51: RONALD V. MILLER, JR., ESQUIRE
-Line 6, 19:00:51: Miller and Zois
-Line 7, 19:00:51: 7310 Ritchie Highway -- Suite 1001
-Line 8, 19:00:51: Glen Burnie, Maryland 21061
-Line 9, 19:00:51: 410-553-6000
-Line 10, 19:00:51: ON BEHALF OF THE DEFENDANTS :
-Line 11, 19:00:51: GERARD F. MILES, ESQUIRE
-Line 12, 19:00:51: Huesman, Jones and Miles, LLC
-Line 13, 19:00:51: Executive Plaza III, Suite 300
-Line 14, 19:00:51: 11350 McCormick Road
-Line 15, 19:00:51: Hunt Valley, Maryland 21031
-Line 16, 19:00:51: 443-589-0150
-Line 17, 19:00:51: Corbin & Hook, Reporting L Videoconferencing
-Line 18, 19:00:51: (410) 268-6006 1-866-337-6778
-Line 19, 19:00:51: Le
-Line 20, 19:00:51: ssa
-Line 21, 19:00:51: SS
-Line 22, 19:00:51: ae a
+Line 1, 19:20:07: Deposition fae
+Line 2, 19:20:07: Taken on June 26, 2006
+Line 3, 19:20:07: APPEARANCES
+Line 4, 19:20:07: ON BEHALF OF THE PLAINTIFF:
+Line 5, 19:20:07: RONALD V. MILLER, JR., ESQUIRE
+Line 6, 19:20:07: Miller and Zois
+Line 7, 19:20:07: 7310 Ritchie Highway -- Suite 1001
+Line 8, 19:20:07: Glen Burnie, Maryland 21061
+Line 9, 19:20:07: 410-553-6000
+Line 10, 19:20:07: ON BEHALF OF THE DEFENDANTS :
+Line 11, 19:20:07: GERARD F. MILES, ESQUIRE
+Line 12, 19:20:07: Huesman, Jones and Miles, LLC
+Line 13, 19:20:07: Executive Plaza III, Suite 300
+Line 14, 19:20:07: 11350 McCormick Road
+Line 15, 19:20:07: Hunt Valley, Maryland 21031
+Line 16, 19:20:07: 443-589-0150
+Line 17, 19:20:07: Corbin & Hook, Reporting L Videoconferencing
+Line 18, 19:20:07: (410) 268-6006 1-866-337-6778
+Line 19, 19:20:07: Le
+Line 20, 19:20:07: ssa
+Line 21, 19:20:07: SS
+Line 22, 19:20:07: ae a
 --- End of Page 2 ---
 
 --- Beginning of Page 3 ---
-Line 1, 19:00:51: Deposition of |
-Line 2, 19:00:51: Taken on June 26, 2006
-Line 3, 19:00:51: Name of Witness
-Line 4, 19:00:51: Examination:
-Line 5, 19:00:51: By Mr. Miles
-Line 6, 19:00:51: Exhibits:
-Line 7, 19:00:51: Exhibits 1 through 3 - Photocopies of
-Line 8, 19:00:51: Photographs
-Line 9, 19:00:51: Exhibit 4 - Police Report
-Line 10, 19:00:51: Corbin sf Hook, Reporting sl Videoconferencing
-Line 11, 19:00:51: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:07: Deposition of |
+Line 2, 19:20:07: Taken on June 26, 2006
+Line 3, 19:20:07: Name of Witness
+Line 4, 19:20:07: Examination:
+Line 5, 19:20:07: By Mr. Miles
+Line 6, 19:20:07: Exhibits:
+Line 7, 19:20:07: Exhibits 1 through 3 - Photocopies of
+Line 8, 19:20:07: Photographs
+Line 9, 19:20:07: Exhibit 4 - Police Report
+Line 10, 19:20:07: Corbin sf Hook, Reporting sl Videoconferencing
+Line 11, 19:20:07: (410) 268-6006 1-866-337-6778
 --- End of Page 3 ---
 
 --- Beginning of Page 4 ---
-Line 1, 19:00:51: Deposition of CR
-Line 2, 19:00:51: Taken on June 26, 2006
-Line 3, 19:00:51: Page 4 |
-Line 4, 19:00:51: IT IS HEREBY STIPULATED AND AGREED that ‘
-Line 5, 19:00:51: the reading and signing of this deposition are not
-Line 6, 19:00:51: waived.
-Line 7, 19:00:51: duly been sworn to tell the truth, the whole truth,
-Line 8, 19:00:51: and nothing but the truth, testifies as follows:
-Line 9, 19:00:51: EXAMINATION
-Line 10, 19:00:51: BY MR. MILES:
-Line 11, 19:00:51: Q. What is your name and address, please?
-Line 12, 19:00:51: A. t's (ip,
-Line 13, 19:00:51: Q. I've seen your name spelled different
-Line 14, 19:00:51: ways. How is SR spelled?
-Line 15, 19:00:51: .
-Line 16, 19:00:51: Q. Have you ever had your deposition taken
-Line 17, 19:00:51: before?
-Line 18, 19:00:51: A. Never. I'm quite nervous, too.
-Line 19, 19:00:51: Q. Okay. Well, I understand that, and it's
-Line 20, 19:00:51: typical for persons to be quite nervous,
-Line 21, 19:00:51: particularly if you've never done it before. I will
-Line 22, 19:00:51: explain to you what I do, and Mr. Miller may have
-Line 23, 19:00:51: Corbin & Hook, Reporting L Videoconferencing
-Line 24, 19:00:51: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:07: Deposition of CR
+Line 2, 19:20:07: Taken on June 26, 2006
+Line 3, 19:20:07: Page 4 |
+Line 4, 19:20:07: IT IS HEREBY STIPULATED AND AGREED that ‘
+Line 5, 19:20:07: the reading and signing of this deposition are not
+Line 6, 19:20:07: waived.
+Line 7, 19:20:07: duly been sworn to tell the truth, the whole truth,
+Line 8, 19:20:07: and nothing but the truth, testifies as follows:
+Line 9, 19:20:07: EXAMINATION
+Line 10, 19:20:07: BY MR. MILES:
+Line 11, 19:20:07: Q. What is your name and address, please?
+Line 12, 19:20:07: A. t's (ip,
+Line 13, 19:20:07: Q. I've seen your name spelled different
+Line 14, 19:20:07: ways. How is SR spelled?
+Line 15, 19:20:07: .
+Line 16, 19:20:07: Q. Have you ever had your deposition taken
+Line 17, 19:20:07: before?
+Line 18, 19:20:07: A. Never. I'm quite nervous, too.
+Line 19, 19:20:07: Q. Okay. Well, I understand that, and it's
+Line 20, 19:20:07: typical for persons to be quite nervous,
+Line 21, 19:20:07: particularly if you've never done it before. I will
+Line 22, 19:20:07: explain to you what I do, and Mr. Miller may have
+Line 23, 19:20:07: Corbin & Hook, Reporting L Videoconferencing
+Line 24, 19:20:07: (410) 268-6006 1-866-337-6778
 --- End of Page 4 ---
 
 --- Beginning of Page 5 ---
-Line 1, 19:00:55: Deposttion o
-Line 2, 19:00:55: Taken on June 26, 2006
-Line 3, 19:00:55: Page 5 |
-Line 4, 19:00:55: had a chance to speak to you, and then before we get }
-Line 5, 19:00:55: into asking questions, if you have anything you want :
-Line 6, 19:00:55: to know about how it works, let me know.
-Line 7, 19:00:55: A. Okay.
-Line 8, 19:00:55: Q. I'm going to ask you some questions about /
-Line 9, 19:00:55: your background, about the accident and about your
-Line 10, 19:00:55: injuries.
-Line 11, 19:00:55: A. Okay.
-Line 12, 19:00:55: Q. I'm not here to trick you or confuse you.
-Line 13, 19:00:55: I'm here to get information, so if I ask you
-Line 14, 19:00:55: anything that you don't understand, will you ask me
-Line 15, 19:00:55: to clarify it?
-Line 16, 19:00:55: ea ears
-Line 17, 19:00:55: A. Definitely.
-Line 18, 19:00:55: Q. Is it fair for me to assume that if I ask
-Line 19, 19:00:55: you a question and you answer it that you understood
-Line 20, 19:00:55: SS ee
-Line 21, 19:00:55: what I asked you?
-Line 22, 19:00:55: A. Yes, sir.
-Line 23, 19:00:55: Q. Okay. It's very important we don't both
-Line 24, 19:00:55: speak at the same time. The court reporter can go
-Line 25, 19:00:55: fairly quickly, but she cannot take down two people
-Line 26, 19:00:55: talking at once. She can only record one thread of
-Line 27, 19:00:55: Corbin & Hook, Reporting £ Videoconferencing
-Line 28, 19:00:55: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:10: Deposttion o
+Line 2, 19:20:10: Taken on June 26, 2006
+Line 3, 19:20:10: Page 5 |
+Line 4, 19:20:10: had a chance to speak to you, and then before we get }
+Line 5, 19:20:10: into asking questions, if you have anything you want :
+Line 6, 19:20:10: to know about how it works, let me know.
+Line 7, 19:20:10: A. Okay.
+Line 8, 19:20:10: Q. I'm going to ask you some questions about /
+Line 9, 19:20:10: your background, about the accident and about your
+Line 10, 19:20:10: injuries.
+Line 11, 19:20:10: A. Okay.
+Line 12, 19:20:10: Q. I'm not here to trick you or confuse you.
+Line 13, 19:20:10: I'm here to get information, so if I ask you
+Line 14, 19:20:10: anything that you don't understand, will you ask me
+Line 15, 19:20:10: to clarify it?
+Line 16, 19:20:10: ea ears
+Line 17, 19:20:10: A. Definitely.
+Line 18, 19:20:10: Q. Is it fair for me to assume that if I ask
+Line 19, 19:20:10: you a question and you answer it that you understood
+Line 20, 19:20:10: SS ee
+Line 21, 19:20:10: what I asked you?
+Line 22, 19:20:10: A. Yes, sir.
+Line 23, 19:20:10: Q. Okay. It's very important we don't both
+Line 24, 19:20:10: speak at the same time. The court reporter can go
+Line 25, 19:20:10: fairly quickly, but she cannot take down two people
+Line 26, 19:20:10: talking at once. She can only record one thread of
+Line 27, 19:20:10: Corbin & Hook, Reporting £ Videoconferencing
+Line 28, 19:20:10: (410) 268-6006 1-866-337-6778
 --- End of Page 5 ---
 
 --- Beginning of Page 6 ---
-Line 1, 19:00:55: Deposition of Cian,
-Line 2, 19:00:55: Taken on June 26, 2006
-Line 3, 19:00:55: Page 6 |
-Line 4, 19:00:55: a conversation, so please wait until I've finished
-Line 5, 19:00:55: asking my question until you go ahead to answer it,
-Line 6, 19:00:55: okay?
-Line 7, 19:00:55: A. Yes, sir.
-Line 8, 19:00:55: Q. And that will also ensure that you've
-Line 9, 19:00:55: heard and understood my question.
-Line 10, 19:00:55: A. Yes, sir.
-Line 11, 19:00:55: Q. Okay. And the same way, except for you
-Line 12, 19:00:55: to, I heard you say what day the accident was, I've
-Line 13, 19:00:55: never spoken to you before, and so I don't know your
-Line 14, 19:00:55: pattern of speech. You may be thinking of some more
-Line 15, 19:00:55: information you want to share to answer a question,
-Line 16, 19:00:55: but I may think you're completed. I never intend to
-Line 17, 19:00:55: interrupt you. If I've interrupted you and you have
-Line 18, 19:00:55: not given me the complete answer, will you ask me to
-Line 19, 19:00:55: let you finish the answer?
-Line 20, 19:00:55: A. Yes, sir.
-Line 21, 19:00:55: Q. I can ask you a lot of questions, and the
-Line 22, 19:00:55: more I ask, the more detailed I get, and at some
-Line 23, 19:00:55: point, you'll find I get to the point where I've
-Line 24, 19:00:55: “sort of exhausted what you remember. It's perfectly j
-Line 25, 19:00:55: Corbin & Hook, Reporting L Videoconferencing
-Line 26, 19:00:55: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:10: Deposition of Cian,
+Line 2, 19:20:10: Taken on June 26, 2006
+Line 3, 19:20:10: Page 6 |
+Line 4, 19:20:10: a conversation, so please wait until I've finished
+Line 5, 19:20:10: asking my question until you go ahead to answer it,
+Line 6, 19:20:10: okay?
+Line 7, 19:20:10: A. Yes, sir.
+Line 8, 19:20:10: Q. And that will also ensure that you've
+Line 9, 19:20:10: heard and understood my question.
+Line 10, 19:20:10: A. Yes, sir.
+Line 11, 19:20:10: Q. Okay. And the same way, except for you
+Line 12, 19:20:10: to, I heard you say what day the accident was, I've
+Line 13, 19:20:10: never spoken to you before, and so I don't know your
+Line 14, 19:20:10: pattern of speech. You may be thinking of some more
+Line 15, 19:20:10: information you want to share to answer a question,
+Line 16, 19:20:10: but I may think you're completed. I never intend to
+Line 17, 19:20:10: interrupt you. If I've interrupted you and you have
+Line 18, 19:20:10: not given me the complete answer, will you ask me to
+Line 19, 19:20:10: let you finish the answer?
+Line 20, 19:20:10: A. Yes, sir.
+Line 21, 19:20:10: Q. I can ask you a lot of questions, and the
+Line 22, 19:20:10: more I ask, the more detailed I get, and at some
+Line 23, 19:20:10: point, you'll find I get to the point where I've
+Line 24, 19:20:10: “sort of exhausted what you remember. It's perfectly j
+Line 25, 19:20:10: Corbin & Hook, Reporting L Videoconferencing
+Line 26, 19:20:10: (410) 268-6006 1-866-337-6778
 --- End of Page 6 ---
 
 --- Beginning of Page 7 ---
-Line 1, 19:00:55: 10
-Line 2, 19:00:55: 11
-Line 3, 19:00:55: 12
-Line 4, 19:00:55: 13
-Line 5, 19:00:55: 14
-Line 6, 19:00:55: 15
-Line 7, 19:00:55: 16
-Line 8, 19:00:55: 17
-Line 9, 19:00:55: 18
-Line 10, 19:00:55: 19
-Line 11, 19:00:55: 20
-Line 12, 19:00:55: 21
-Line 13, 19:00:55: Deposition o
-Line 14, 19:00:55: Taken on June 26, 2006
-Line 15, 19:00:55: ;
-Line 16, 19:00:55: Page 7 |
-Line 17, 19:00:55: appropriate for you to say you don't know or you
-Line 18, 19:00:55: don't remember. In other words, it's not like
-Line 19, 19:00:55: taking the SAT. You know, I don't know is
-Line 20, 19:00:55: wrong answer. I only want to ask you what
-Line 21, 19:00:55: and what you remember sitting here today.
-Line 22, 19:00:55: A. Yes, sir.
-Line 23, 19:00:55: Q. In other words, I don't want you
-Line 24, 19:00:55: about things. Do you understand that?
-Line 25, 19:00:55: A. Yes, I do.
-Line 26, 19:00:55: Q. Do you have any questions for me
-Line 27, 19:00:55: get started?
-Line 28, 19:00:55: A. No, sir.
-Line 29, 19:00:55: not a
-Line 30, 19:00:55: you know
-Line 31, 19:00:55: to guess
-Line 32, 19:00:55: before we
-Line 33, 19:00:55: Q. And you understand the court reporter has
-Line 34, 19:00:55: just sworn you under oath and under the penalties of
-Line 35, 19:00:55: perjury, and you understand what that means?
-Line 36, 19:00:55: A. Yes, I do, sir.
-Line 37, 19:00:55: Q. And for certain purposes, I can use your
-Line 38, 19:00:55: testimony here today in a courtroom even though
-Line 39, 19:00:55: we're just sitting in your lawyer's offices.
-Line 40, 19:00:55: understand that?
-Line 41, 19:00:55: A. Yes, sir.
-Line 42, 19:00:55: Corbin &f Hook, Reporting sf Videoconferencing
-Line 43, 19:00:55: (410) 268-6006 1-866-337-6778
-Line 44, 19:00:55: Do you
-Line 45, 19:00:55: q
-Line 46, 19:00:55: .
+Line 1, 19:20:10: Deposition o
+Line 2, 19:20:10: Taken on June 26, 2006
+Line 3, 19:20:10: ;
+Line 4, 19:20:10: Page 7 |
+Line 5, 19:20:10: appropriate for you to say you don't know or you
+Line 6, 19:20:10: don't remember. In other words, it's not like
+Line 7, 19:20:10: taking the SAT. You know, I don't know is
+Line 8, 19:20:10: wrong answer. I only want to ask you what
+Line 9, 19:20:10: and what you remember sitting here today.
+Line 10, 19:20:10: A. Yes, sir.
+Line 11, 19:20:10: Q. In other words, I don't want you
+Line 12, 19:20:10: about things. Do you understand that?
+Line 13, 19:20:10: A. Yes, I do.
+Line 14, 19:20:10: Q. Do you have any questions for me
+Line 15, 19:20:10: get started?
+Line 16, 19:20:10: A. No, sir.
+Line 17, 19:20:10: not a
+Line 18, 19:20:10: you know
+Line 19, 19:20:10: to guess
+Line 20, 19:20:10: before we
+Line 21, 19:20:10: Q. And you understand the court reporter has
+Line 22, 19:20:10: just sworn you under oath and under the penalties of
+Line 23, 19:20:10: perjury, and you understand what that means?
+Line 24, 19:20:10: A. Yes, I do, sir.
+Line 25, 19:20:10: Q. And for certain purposes, I can use your
+Line 26, 19:20:10: testimony here today in a courtroom even though
+Line 27, 19:20:10: we're just sitting in your lawyer's offices.
+Line 28, 19:20:10: understand that?
+Line 29, 19:20:10: A. Yes, sir.
+Line 30, 19:20:10: Corbin &f Hook, Reporting sf Videoconferencing
+Line 31, 19:20:10: (410) 268-6006 1-866-337-6778
+Line 32, 19:20:10: Do you
+Line 33, 19:20:10: q
+Line 34, 19:20:10: .
 --- End of Page 7 ---
 
 --- Beginning of Page 8 ---
-Line 1, 19:00:55: Deposition of fi
-Line 2, 19:00:55: Taken on June 26, 2006
-Line 3, 19:00:55: Okay. Your date of birth?
-Line 4, 19:00:55: 5. Se,
-Line 5, 19:00:55: And did you graduate from high school?
-Line 6, 19:00:55: Yes, I did.
-Line 7, 19:00:55: And what high school?
-Line 8, 19:00:55: 7.
-Line 9, 19:00:55: And what year?
-Line 10, 19:00:55: A. 1981.
-Line 11, 19:00:55: Q. Did you have any education after high
-Line 12, 19:00:55: school?
-Line 13, 19:00:55: A. Yes, I did.
-Line 14, 19:00:55: Q. Okay. Tell me about that.
-Line 15, 19:00:55: », Te,
-Line 16, 19:00:55: Wn
-Line 17, 19:00:55: Q. And did you get an AA degree or whatever?
-Line 18, 19:00:55: A. No, I never finished. Just credited
-Line 19, 19:00:55: courses.
-Line 20, 19:00:55: CS
-Line 21, 19:00:55: Okay. Any other education?
-Line 22, 19:00:55: That's it.
-Line 23, 19:00:55: Okay. Are you married or single?
-Line 24, 19:00:55: Ls
-Line 25, 19:00:55: I am single.
-Line 26, 19:00:55: Corbin & Hook, Reporting ef Videoconferencing
-Line 27, 19:00:55: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:10: Deposition of fi
+Line 2, 19:20:10: Taken on June 26, 2006
+Line 3, 19:20:10: Okay. Your date of birth?
+Line 4, 19:20:10: 5. Se,
+Line 5, 19:20:10: And did you graduate from high school?
+Line 6, 19:20:10: Yes, I did.
+Line 7, 19:20:10: And what high school?
+Line 8, 19:20:10: 7.
+Line 9, 19:20:10: And what year?
+Line 10, 19:20:10: A. 1981.
+Line 11, 19:20:10: Q. Did you have any education after high
+Line 12, 19:20:10: school?
+Line 13, 19:20:10: A. Yes, I did.
+Line 14, 19:20:10: Q. Okay. Tell me about that.
+Line 15, 19:20:10: », Te,
+Line 16, 19:20:10: Wn
+Line 17, 19:20:10: Q. And did you get an AA degree or whatever?
+Line 18, 19:20:10: A. No, I never finished. Just credited
+Line 19, 19:20:10: courses.
+Line 20, 19:20:10: CS
+Line 21, 19:20:10: Okay. Any other education?
+Line 22, 19:20:10: That's it.
+Line 23, 19:20:10: Okay. Are you married or single?
+Line 24, 19:20:10: Ls
+Line 25, 19:20:10: I am single.
+Line 26, 19:20:10: Corbin & Hook, Reporting ef Videoconferencing
+Line 27, 19:20:10: (410) 268-6006 1-866-337-6778
 --- End of Page 8 ---
 
 --- Beginning of Page 9 ---
-Line 1, 19:00:58: Deposition o
-Line 2, 19:00:58: Taken on June 26, 2006
-Line 3, 19:00:58: Okay. Any children?
-Line 4, 19:00:58: A. No.
-Line 5, 19:00:58: Q. Tell me briefly about your employment
-Line 6, 19:00:58: history.
-Line 7, 19:00:58: A. I've been with this company -- I was with
-Line 8, 19:00:58: a company prior 'til the company closing,
-Line 9, 19:00:58: Ue fom high school one, and
-Line 10, 19:00:58: as of 11 years ago, I've been with this company,
-Line 11, 19:00:58: which is (ty
-Line 12, 19:00:58: Q. Is that B-E --
-Line 13, 19:00:58: A.
-Line 14, 19:00:58: ey
-Line 15, 19:00:58: Q. And where are they located?
-Line 16, 19:00:58: A. egy
-Line 17, 19:00:58: Se,
-Line 18, 19:00:58: Q. What's their telephone number there?
-Line 19, 19:00:58: What do you do for them?
-Line 20, 19:00:58: A. I am a customer service rep for them.
-Line 21, 19:00:58: Q. Okay. What kind of products do they sell
-Line 22, 19:00:58: or what are the services do they provide?
-Line 23, 19:00:58: Corbin & Hook, Reporting sf Videoconferencing
-Line 24, 19:00:58: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:14: Deposition o
+Line 2, 19:20:14: Taken on June 26, 2006
+Line 3, 19:20:14: Okay. Any children?
+Line 4, 19:20:14: A. No.
+Line 5, 19:20:14: Q. Tell me briefly about your employment
+Line 6, 19:20:14: history.
+Line 7, 19:20:14: A. I've been with this company -- I was with
+Line 8, 19:20:14: a company prior 'til the company closing,
+Line 9, 19:20:14: Ue fom high school one, and
+Line 10, 19:20:14: as of 11 years ago, I've been with this company,
+Line 11, 19:20:14: which is (ty
+Line 12, 19:20:14: Q. Is that B-E --
+Line 13, 19:20:14: A.
+Line 14, 19:20:14: ey
+Line 15, 19:20:14: Q. And where are they located?
+Line 16, 19:20:14: A. egy
+Line 17, 19:20:14: Se,
+Line 18, 19:20:14: Q. What's their telephone number there?
+Line 19, 19:20:14: What do you do for them?
+Line 20, 19:20:14: A. I am a customer service rep for them.
+Line 21, 19:20:14: Q. Okay. What kind of products do they sell
+Line 22, 19:20:14: or what are the services do they provide?
+Line 23, 19:20:14: Corbin & Hook, Reporting sf Videoconferencing
+Line 24, 19:20:14: (410) 268-6006 1-866-337-6778
 --- End of Page 9 ---
 
 --- Beginning of Page 10 ---
-Line 1, 19:00:58: Deposition of JD
-Line 2, 19:00:58: Taken on June 26, 2006
-Line 3, 19:00:58: Page 10 }
-Line 4, 19:00:58: a
-Line 5, 19:00:58: i
-Line 6, 19:00:58: qa.
-Line 7, 19:00:58: 5 Q. I see.
-Line 8, 19:00:58: 6 MR. MILLER: For 9B?
-Line 9, 19:00:58: do them all.
-Line 10, 19:00:58: Wwe
-Line 11, 19:00:58: MR. MILLER: You do.
-Line 12, 19:00:58: 9 A. We do a lot of things.
-Line 13, 19:00:58: Okay. Let's talk about the accident.
-Line 14, 19:00:58: Okay.
-Line 15, 19:00:58: You told me it happened on a Friday?
-Line 16, 19:00:58: It was a Friday morning.
-Line 17, 19:00:58: (Discussion off the record.)
-Line 18, 19:00:58: BY MR. MILES:
-Line 19, 19:00:58: 16 Q. The accident happened on a Friday. Were
-Line 20, 19:00:58: Pacer TE
-Line 21, 19:00:58: you on your way to work at the time of the accident?
-Line 22, 19:00:58: a
-Line 23, 19:00:58: 18 A. Yes, sir.
-Line 24, 19:00:58: 19 Q. Okay. What route do you take from your
-Line 25, 19:00:58: home to work?
-Line 26, 19:00:58: 21 A. Usually, I take 695 to Pulaski Route 40,
-Line 27, 19:00:58: Corbin & Hook, Reporting L Videoconferencing
-Line 28, 19:00:58: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:14: Deposition of JD
+Line 2, 19:20:14: Taken on June 26, 2006
+Line 3, 19:20:14: Page 10 }
+Line 4, 19:20:14: a
+Line 5, 19:20:14: i
+Line 6, 19:20:14: qa.
+Line 7, 19:20:14: 5 Q. I see.
+Line 8, 19:20:14: 6 MR. MILLER: For 9B?
+Line 9, 19:20:14: do them all.
+Line 10, 19:20:14: Wwe
+Line 11, 19:20:14: MR. MILLER: You do.
+Line 12, 19:20:14: 9 A. We do a lot of things.
+Line 13, 19:20:14: Okay. Let's talk about the accident.
+Line 14, 19:20:14: Okay.
+Line 15, 19:20:14: You told me it happened on a Friday?
+Line 16, 19:20:14: It was a Friday morning.
+Line 17, 19:20:14: (Discussion off the record.)
+Line 18, 19:20:14: BY MR. MILES:
+Line 19, 19:20:14: 16 Q. The accident happened on a Friday. Were
+Line 20, 19:20:14: Pacer TE
+Line 21, 19:20:14: you on your way to work at the time of the accident?
+Line 22, 19:20:14: a
+Line 23, 19:20:14: 18 A. Yes, sir.
+Line 24, 19:20:14: 19 Q. Okay. What route do you take from your
+Line 25, 19:20:14: home to work?
+Line 26, 19:20:14: 21 A. Usually, I take 695 to Pulaski Route 40,
+Line 27, 19:20:14: Corbin & Hook, Reporting L Videoconferencing
+Line 28, 19:20:14: (410) 268-6006 1-866-337-6778
 --- End of Page 10 ---
 
 --- Beginning of Page 11 ---
-Line 1, 19:00:58: 11
-Line 2, 19:00:58: 12
-Line 3, 19:00:58: 13
-Line 4, 19:00:58: 14
-Line 5, 19:00:58: 15
-Line 6, 19:00:58: 16
-Line 7, 19:00:58: 17
-Line 8, 19:00:58: 18
-Line 9, 19:00:58: 19
-Line 10, 19:00:58: 20
-Line 11, 19:00:58: 21
-Line 12, 19:00:58: Deposition of
-Line 13, 19:00:58: Taken on June 26, 2006
-Line 14, 19:00:58: Page 11 |
-Line 15, 19:00:58: but for some reason, the past couple days, they've i
-Line 16, 19:00:58: been doing a lot of construction work, so I decided,
-Line 17, 19:00:58: you know, I used to take that route along -- a lot,
-Line 18, 19:00:58: so I figured I'd just go back to the same route
-Line 19, 19:00:58: again, so I was going down east to North Point Road
-Line 20, 19:00:58: to I guess it's a cut off after Quad Avenue, and
-Line 21, 19:00:58: that takes me onto Pulaski. :
-Line 22, 19:00:58: Q. So you're on North Point Road, and if the :
-Line 23, 19:00:58: accident wouldn't have happened, you would have gone
-Line 24, 19:00:58: past Quad?
-Line 25, 19:00:58: A. Correct.
-Line 26, 19:00:58: Q. And you would have turned in what
-Line 27, 19:00:58: direction?
-Line 28, 19:00:58: A. I guess it would be going maybe west.
-Line 29, 19:00:58: I meant right or left.
-Line 30, 19:00:58: Oh, I'm sorry. Right.
-Line 31, 19:00:58: Right, onto?
-Line 32, 19:00:58: Onto Pulaski Highway.
-Line 33, 19:00:58: Q. And then from Pulaski Highway, you take
-Line 34, 19:00:58: that all the way out to --
-Line 35, 19:00:58: A. Yes, about a half a mile to where it takes
-Line 36, 19:00:58: om
-Line 37, 19:00:58: Corbin &L Hook, Reporting L Videoconferencing
-Line 38, 19:00:58: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:14: Deposition of
+Line 2, 19:20:14: Taken on June 26, 2006
+Line 3, 19:20:14: Page 11 |
+Line 4, 19:20:14: but for some reason, the past couple days, they've i
+Line 5, 19:20:14: been doing a lot of construction work, so I decided,
+Line 6, 19:20:14: you know, I used to take that route along -- a lot,
+Line 7, 19:20:14: so I figured I'd just go back to the same route
+Line 8, 19:20:14: again, so I was going down east to North Point Road
+Line 9, 19:20:14: to I guess it's a cut off after Quad Avenue, and
+Line 10, 19:20:14: that takes me onto Pulaski. :
+Line 11, 19:20:14: Q. So you're on North Point Road, and if the :
+Line 12, 19:20:14: accident wouldn't have happened, you would have gone
+Line 13, 19:20:14: past Quad?
+Line 14, 19:20:14: A. Correct.
+Line 15, 19:20:14: Q. And you would have turned in what
+Line 16, 19:20:14: direction?
+Line 17, 19:20:14: A. I guess it would be going maybe west.
+Line 18, 19:20:14: I meant right or left.
+Line 19, 19:20:14: Oh, I'm sorry. Right.
+Line 20, 19:20:14: Right, onto?
+Line 21, 19:20:14: Onto Pulaski Highway.
+Line 22, 19:20:14: Q. And then from Pulaski Highway, you take
+Line 23, 19:20:14: that all the way out to --
+Line 24, 19:20:14: A. Yes, about a half a mile to where it takes
+Line 25, 19:20:14: om
+Line 26, 19:20:14: Corbin &L Hook, Reporting L Videoconferencing
+Line 27, 19:20:14: (410) 268-6006 1-866-337-6778
 --- End of Page 11 ---
 
 --- Beginning of Page 12 ---
-Line 1, 19:00:58: Deposition 0a
-Line 2, 19:00:58: Taken on June 26, 2006
-Line 3, 19:00:58: Page 12
-Line 4, 19:00:58: me to 67th Street.
-Line 5, 19:00:58: Q. Okay. The road you were on where the
-Line 6, 19:00:58: accident happened is called what?
-Line 7, 19:00:58: A. That is North Point Road.
-Line 8, 19:00:58: Q. Okay. How long had you been on North :
-Line 9, 19:00:58: Point Road before the area where the accident
-Line 10, 19:00:58: occurred, how far?
-Line 11, 19:00:58: A. From Edgemere, coming out of Edgemere,
-Line 12, 19:00:58: about 12 1/2 miles.
-Line 13, 19:00:58: Q. So you'd been on North Point Road for
-Line 14, 19:00:58: 12 1/2 miles? 4
-Line 15, 19:00:58: A. Uh-huh. Uh-huh. /
-Line 16, 19:00:58: Q. And as you're approaching the area where
-Line 17, 19:00:58: the accident happened, describe North Point Road to
-Line 18, 19:00:58: me, how many lanes and that sort of thing. ‘
-Line 19, 19:00:58: A. Going down North Point all the way from
-Line 20, 19:00:58: Edgemere, it's two lanes all the way in. Once you
-Line 21, 19:00:58: hit Kane, I guess it goes to Kane Street, the
-Line 22, 19:00:58: intersection there. If you're coming down, it goes
-Line 23, 19:00:58: down to two until you hit the underpass, and then it
-Line 24, 19:00:58: SSS
-Line 25, 19:00:58: goes into three.
-Line 26, 19:00:58: Corbin £ Hook, Reporting < Videoconferencing
-Line 27, 19:00:58: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:14: Deposition 0a
+Line 2, 19:20:14: Taken on June 26, 2006
+Line 3, 19:20:14: Page 12
+Line 4, 19:20:14: me to 67th Street.
+Line 5, 19:20:14: Q. Okay. The road you were on where the
+Line 6, 19:20:14: accident happened is called what?
+Line 7, 19:20:14: A. That is North Point Road.
+Line 8, 19:20:14: Q. Okay. How long had you been on North :
+Line 9, 19:20:14: Point Road before the area where the accident
+Line 10, 19:20:14: occurred, how far?
+Line 11, 19:20:14: A. From Edgemere, coming out of Edgemere,
+Line 12, 19:20:14: about 12 1/2 miles.
+Line 13, 19:20:14: Q. So you'd been on North Point Road for
+Line 14, 19:20:14: 12 1/2 miles? 4
+Line 15, 19:20:14: A. Uh-huh. Uh-huh. /
+Line 16, 19:20:14: Q. And as you're approaching the area where
+Line 17, 19:20:14: the accident happened, describe North Point Road to
+Line 18, 19:20:14: me, how many lanes and that sort of thing. ‘
+Line 19, 19:20:14: A. Going down North Point all the way from
+Line 20, 19:20:14: Edgemere, it's two lanes all the way in. Once you
+Line 21, 19:20:14: hit Kane, I guess it goes to Kane Street, the
+Line 22, 19:20:14: intersection there. If you're coming down, it goes
+Line 23, 19:20:14: down to two until you hit the underpass, and then it
+Line 24, 19:20:14: SSS
+Line 25, 19:20:14: goes into three.
+Line 26, 19:20:14: Corbin £ Hook, Reporting < Videoconferencing
+Line 27, 19:20:14: (410) 268-6006 1-866-337-6778
 --- End of Page 12 ---
 
 --- Beginning of Page 13 ---
-Line 1, 19:01:02: Deposition of ae
-Line 2, 19:01:02: Taken on June 26, 2006
-Line 3, 19:01:02: Page 13 |
-Line 4, 19:01:02: Q. So it's two lanes in the direction you're f[
-Line 5, 19:01:02: heading --
-Line 6, 19:01:02: A. Uh-huh.
-Line 7, 19:01:02: Q. -- and it becomes three?
-Line 8, 19:01:02: A. It becomes three lanes once you go
-Line 9, 19:01:02: underneath the underpass. It's Kane Street.
-Line 10, 19:01:02: Q. And how far, the spot where it becomes
-Line 11, 19:01:02: three lanes, how far is that from the area where the
-Line 12, 19:01:02: accident happened? :
-Line 13, 19:01:02: A. Maybe 300 feet, 400 feet.
-Line 14, 19:01:02: Q. Okay. Pretty close to where the accident?
-Line 15, 19:01:02: A. Yeah, yeah. I would say it's no less than :
-Line 16, 19:01:02: a quarter -- it was less than a quarter mile. |
-Line 17, 19:01:02: Q. Okay. Now, when did you first see the
-Line 18, 19:01:02: truck that was involved in this accident? j
-Line 19, 19:01:02: A. Coming down North Point Road, coming :
-Line 20, 19:01:02: eastbound when he crossed over the intersection of !
-Line 21, 19:01:02: Kane and coming down.
-Line 22, 19:01:02: Q. How far were you from the accident scene
-Line 23, 19:01:02: when you first saw the truck?
-Line 24, 19:01:02: A. About, probably about a quarter mile. |
-Line 25, 19:01:02: Corbin & Hook, Reporting L Videoconferencing
-Line 26, 19:01:02: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:18: Deposition of ae
+Line 2, 19:20:18: Taken on June 26, 2006
+Line 3, 19:20:18: Page 13 |
+Line 4, 19:20:18: Q. So it's two lanes in the direction you're f[
+Line 5, 19:20:18: heading --
+Line 6, 19:20:18: A. Uh-huh.
+Line 7, 19:20:18: Q. -- and it becomes three?
+Line 8, 19:20:18: A. It becomes three lanes once you go
+Line 9, 19:20:18: underneath the underpass. It's Kane Street.
+Line 10, 19:20:18: Q. And how far, the spot where it becomes
+Line 11, 19:20:18: three lanes, how far is that from the area where the
+Line 12, 19:20:18: accident happened? :
+Line 13, 19:20:18: A. Maybe 300 feet, 400 feet.
+Line 14, 19:20:18: Q. Okay. Pretty close to where the accident?
+Line 15, 19:20:18: A. Yeah, yeah. I would say it's no less than :
+Line 16, 19:20:18: a quarter -- it was less than a quarter mile. |
+Line 17, 19:20:18: Q. Okay. Now, when did you first see the
+Line 18, 19:20:18: truck that was involved in this accident? j
+Line 19, 19:20:18: A. Coming down North Point Road, coming :
+Line 20, 19:20:18: eastbound when he crossed over the intersection of !
+Line 21, 19:20:18: Kane and coming down.
+Line 22, 19:20:18: Q. How far were you from the accident scene
+Line 23, 19:20:18: when you first saw the truck?
+Line 24, 19:20:18: A. About, probably about a quarter mile. |
+Line 25, 19:20:18: Corbin & Hook, Reporting L Videoconferencing
+Line 26, 19:20:18: (410) 268-6006 1-866-337-6778
 --- End of Page 13 ---
 
 --- Beginning of Page 14 ---
-Line 1, 19:01:02: Deposition of
-Line 2, 19:01:02: Taken on June 26, 2006
-Line 3, 19:01:02: Page 14}
-Line 4, 19:01:02: Q. Okay. And when you first saw the truck,
-Line 5, 19:01:02: where was it?
-Line 6, 19:01:02: A. He was in the righthand lane, and I was in :
-Line 7, 19:01:02: the left lane coming down North Point.
-Line 8, 19:01:02: Q. And when you first saw the truck, where
-Line 9, 19:01:02: was it in relation to you? In other words, I ;
-Line 10, 19:01:02: understand it was in the right lane, you were :
-Line 11, 19:01:02: left lane?
-Line 12, 19:01:02: A. Beside me.
-Line 13, 19:01:02: You were alongside of each other?
-Line 14, 19:01:02: Uh-huh.
-Line 15, 19:01:02: Yes? :
-Line 16, 19:01:02: Yes, sir.
-Line 17, 19:01:02: Q. And then, and then what happened next?
-Line 18, 19:01:02: A. And then as we came under the underpass,
-Line 19, 19:01:02: he got into the lane splits out where it comes down
-Line 20, 19:01:02: the three lanes. I put my blinker on. I went into
-Line 21, 19:01:02: the right lane. He went into the very center lane, |
-Line 22, 19:01:02: and then we were following each other all the way
-Line 23, 19:01:02: down about, I guess about a quarter of a mile before
-Line 24, 19:01:02: we came to the, the impact.
-Line 25, 19:01:02: Corbin & Hook, Reporting eL Videoconferencing
-Line 26, 19:01:02: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:18: Deposition of
+Line 2, 19:20:18: Taken on June 26, 2006
+Line 3, 19:20:18: Page 14}
+Line 4, 19:20:18: Q. Okay. And when you first saw the truck,
+Line 5, 19:20:18: where was it?
+Line 6, 19:20:18: A. He was in the righthand lane, and I was in :
+Line 7, 19:20:18: the left lane coming down North Point.
+Line 8, 19:20:18: Q. And when you first saw the truck, where
+Line 9, 19:20:18: was it in relation to you? In other words, I ;
+Line 10, 19:20:18: understand it was in the right lane, you were :
+Line 11, 19:20:18: left lane?
+Line 12, 19:20:18: A. Beside me.
+Line 13, 19:20:18: You were alongside of each other?
+Line 14, 19:20:18: Uh-huh.
+Line 15, 19:20:18: Yes? :
+Line 16, 19:20:18: Yes, sir.
+Line 17, 19:20:18: Q. And then, and then what happened next?
+Line 18, 19:20:18: A. And then as we came under the underpass,
+Line 19, 19:20:18: he got into the lane splits out where it comes down
+Line 20, 19:20:18: the three lanes. I put my blinker on. I went into
+Line 21, 19:20:18: the right lane. He went into the very center lane, |
+Line 22, 19:20:18: and then we were following each other all the way
+Line 23, 19:20:18: down about, I guess about a quarter of a mile before
+Line 24, 19:20:18: we came to the, the impact.
+Line 25, 19:20:18: Corbin & Hook, Reporting eL Videoconferencing
+Line 26, 19:20:18: (410) 268-6006 1-866-337-6778
 --- End of Page 14 ---
 
 --- Beginning of Page 15 ---
-Line 1, 19:01:02: Deposition o
-Line 2, 19:01:02: Taken on June 26, 2006
-Line 3, 19:01:02: Page 15
-Line 4, 19:01:02: Q. When there's only two lanes, the truck is 4
-Line 5, 19:01:02: in the right lane and you're in the left lane,
-Line 6, 19:01:02: right?
-Line 7, 19:01:02: A. Okay. I'm in the right lane, he's in the
-Line 8, 19:01:02: left lane.
-Line 9, 19:01:02: Q. Oh, I misunderstood you.
-Line 10, 19:01:02: A. I'm sorry. I'm sorry. My right and left.
-Line 11, 19:01:02: MR. MILLER: I thought he had it right,
-Line 12, 19:01:02: actually. I could be wrong. P
-Line 13, 19:01:02: A. No, as we were coming down, I was in the
-Line 14, 19:01:02: righthand lane, he was in the left lane as we were
-Line 15, 19:01:02: coming down underneath the underpass.
-Line 16, 19:01:02: Q. Okay. i
-Line 17, 19:01:02: A. And then the lane goes into three lanes. '
-Line 18, 19:01:02: i
-Line 19, 19:01:02: i
-Line 20, 19:01:02: Okay. We'll get there. I was just making f
-Line 21, 19:01:02: Okay.
-Line 22, 19:01:02: -- because I think I've heard it both
-Line 23, 19:01:02: Okay.
-Line 24, 19:01:02: -- and all that matters to me is that I
-Line 25, 19:01:02: as
-Line 26, 19:01:02: Corbin sf Hook Reporting < Videoconferencing
-Line 27, 19:01:02: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:18: Deposition o
+Line 2, 19:20:18: Taken on June 26, 2006
+Line 3, 19:20:18: Page 15
+Line 4, 19:20:18: Q. When there's only two lanes, the truck is 4
+Line 5, 19:20:18: in the right lane and you're in the left lane,
+Line 6, 19:20:18: right?
+Line 7, 19:20:18: A. Okay. I'm in the right lane, he's in the
+Line 8, 19:20:18: left lane.
+Line 9, 19:20:18: Q. Oh, I misunderstood you.
+Line 10, 19:20:18: A. I'm sorry. I'm sorry. My right and left.
+Line 11, 19:20:18: MR. MILLER: I thought he had it right,
+Line 12, 19:20:18: actually. I could be wrong. P
+Line 13, 19:20:18: A. No, as we were coming down, I was in the
+Line 14, 19:20:18: righthand lane, he was in the left lane as we were
+Line 15, 19:20:18: coming down underneath the underpass.
+Line 16, 19:20:18: Q. Okay. i
+Line 17, 19:20:18: A. And then the lane goes into three lanes. '
+Line 18, 19:20:18: i
+Line 19, 19:20:18: i
+Line 20, 19:20:18: Okay. We'll get there. I was just making f
+Line 21, 19:20:18: Okay.
+Line 22, 19:20:18: -- because I think I've heard it both
+Line 23, 19:20:18: Okay.
+Line 24, 19:20:18: -- and all that matters to me is that I
+Line 25, 19:20:18: as
+Line 26, 19:20:18: Corbin sf Hook Reporting < Videoconferencing
+Line 27, 19:20:18: (410) 268-6006 1-866-337-6778
 --- End of Page 15 ---
 
 --- Beginning of Page 16 ---
-Line 1, 19:01:02: Deposition of
-Line 2, 19:01:02: Taken on June 26, 2006
-Line 3, 19:01:02: Page 16 |
-Line 4, 19:01:02: get it right. So when it was two lanes, the truck
-Line 5, 19:01:02: is in the left?
-Line 6, 19:01:02: A. Correct.
-Line 7, 19:01:02: Q. And you were to the truck's right?
-Line 8, 19:01:02: A. In the right.
-Line 9, 19:01:02: Q. Now, when a third lane is created, does
-Line 10, 19:01:02: that appear on the righthand side --
-Line 11, 19:01:02: A. Yes, it does.
-Line 12, 19:01:02: Q. -- or on the lefthand side? The right?
-Line 13, 19:01:02: A. The right side, right. That's what I
-Line 14, 19:01:02: Meant coming over.
-Line 15, 19:01:02: Q. Okay. So when the right lane is created,
-Line 16, 19:01:02: did I understand that you moved over one lane to the
-Line 17, 19:01:02: right?
-Line 18, 19:01:02: A. Yes, I did.
-Line 19, 19:01:02: QO. And the truck moved over one lane so it's
-Line 20, 19:01:02: in the second lane from the right?
-Line 21, 19:01:02: A. Correct.
-Line 22, 19:01:02: Q. Okay. And as you're driving along North
-Line 23, 19:01:02: Point, where are you two positioned in relationship
-Line 24, 19:01:02: to each other? In other words, who was in front of
-Line 25, 19:01:02: Corbin &L Hook, Reporting & Videoconferencing
-Line 26, 19:01:02: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:18: Deposition of
+Line 2, 19:20:18: Taken on June 26, 2006
+Line 3, 19:20:18: Page 16 |
+Line 4, 19:20:18: get it right. So when it was two lanes, the truck
+Line 5, 19:20:18: is in the left?
+Line 6, 19:20:18: A. Correct.
+Line 7, 19:20:18: Q. And you were to the truck's right?
+Line 8, 19:20:18: A. In the right.
+Line 9, 19:20:18: Q. Now, when a third lane is created, does
+Line 10, 19:20:18: that appear on the righthand side --
+Line 11, 19:20:18: A. Yes, it does.
+Line 12, 19:20:18: Q. -- or on the lefthand side? The right?
+Line 13, 19:20:18: A. The right side, right. That's what I
+Line 14, 19:20:18: Meant coming over.
+Line 15, 19:20:18: Q. Okay. So when the right lane is created,
+Line 16, 19:20:18: did I understand that you moved over one lane to the
+Line 17, 19:20:18: right?
+Line 18, 19:20:18: A. Yes, I did.
+Line 19, 19:20:18: QO. And the truck moved over one lane so it's
+Line 20, 19:20:18: in the second lane from the right?
+Line 21, 19:20:18: A. Correct.
+Line 22, 19:20:18: Q. Okay. And as you're driving along North
+Line 23, 19:20:18: Point, where are you two positioned in relationship
+Line 24, 19:20:18: to each other? In other words, who was in front of
+Line 25, 19:20:18: Corbin &L Hook, Reporting & Videoconferencing
+Line 26, 19:20:18: (410) 268-6006 1-866-337-6778
 --- End of Page 16 ---
 
 --- Beginning of Page 17 ---
-Line 1, 19:01:05: Deposition of
-Line 2, 19:01:05: Taken on June 26, 2006
-Line 3, 19:01:05: Page 17
-Line 4, 19:01:05: each other, behind each other, whatever?
-Line 5, 19:01:05: A. His truck was here, and I was right behind
-Line 6, 19:01:05: his door --
-Line 7, 19:01:05: Q. You need to -- let me interrupt you. You
-Line 8, 19:01:05: need to use words like behind his door. That's
-Line 9, 19:01:05: good. Here doesn't work because they can only take
-Line 10, 19:01:05: down what you say.
-Line 11, 19:01:05: A. I know.
-Line 12, 19:01:05: Q. So you need to describe it in words.
-Line 13, 19:01:05: A. We were going eastbound. The tractor
-Line 14, 19:01:05: trailer was in the left lane, I was in the right :
-Line 15, 19:01:05: lane and I was adjacent to his door.
-Line 16, 19:01:05: Q. The door?
-Line 17, 19:01:05: A. The back side of his door, of the tractor
-Line 18, 19:01:05: trailer, because I remember looking over. We
-Line 19, 19:01:05: weren't going fast at all. I remember looking over f[
-Line 20, 19:01:05: and seeing the numbers that was on the side of the i
-Line 21, 19:01:05: door because I felt -- I never seen a truck that big |
-Line 22, 19:01:05: with -- it hardly had, didn't have a very big load :
-Line 23, 19:01:05: on it. '
-Line 24, 19:01:05: Q. What do you mean, it didn't have a big
-Line 25, 19:01:05: Corbin Hook, Reporting L Videoconferencing
-Line 26, 19:01:05: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:21: Deposition of
+Line 2, 19:20:21: Taken on June 26, 2006
+Line 3, 19:20:21: Page 17
+Line 4, 19:20:21: each other, behind each other, whatever?
+Line 5, 19:20:21: A. His truck was here, and I was right behind
+Line 6, 19:20:21: his door --
+Line 7, 19:20:21: Q. You need to -- let me interrupt you. You
+Line 8, 19:20:21: need to use words like behind his door. That's
+Line 9, 19:20:21: good. Here doesn't work because they can only take
+Line 10, 19:20:21: down what you say.
+Line 11, 19:20:21: A. I know.
+Line 12, 19:20:21: Q. So you need to describe it in words.
+Line 13, 19:20:21: A. We were going eastbound. The tractor
+Line 14, 19:20:21: trailer was in the left lane, I was in the right :
+Line 15, 19:20:21: lane and I was adjacent to his door.
+Line 16, 19:20:21: Q. The door?
+Line 17, 19:20:21: A. The back side of his door, of the tractor
+Line 18, 19:20:21: trailer, because I remember looking over. We
+Line 19, 19:20:21: weren't going fast at all. I remember looking over f[
+Line 20, 19:20:21: and seeing the numbers that was on the side of the i
+Line 21, 19:20:21: door because I felt -- I never seen a truck that big |
+Line 22, 19:20:21: with -- it hardly had, didn't have a very big load :
+Line 23, 19:20:21: on it. '
+Line 24, 19:20:21: Q. What do you mean, it didn't have a big
+Line 25, 19:20:21: Corbin Hook, Reporting L Videoconferencing
+Line 26, 19:20:21: (410) 268-6006 1-866-337-6778
 --- End of Page 17 ---
 
 --- Beginning of Page 18 ---
-Line 1, 19:01:05: Deposition of Za
-Line 2, 19:01:05: Taken on June 26, 2006
-Line 3, 19:01:05: load?
-Line 4, 19:01:05: A. It only had a couple pallets on it, and I
-Line 5, 19:01:05: thought it was kind of a big truck for being in such
-Line 6, 19:01:05: a little area, that little area of road.
-Line 7, 19:01:05: Q. What kind of trailer was attached to the
-Line 8, 19:01:05: tractor?
-Line 9, 19:01:05: A. It was a big trailer. ;
-Line 10, 19:01:05: Q. Well, in other words, there's the box
-Line 11, 19:01:05: trailer that has walls and so forth --
-Line 12, 19:01:05: A. No, it was a open trailer. It was a open
-Line 13, 19:01:05: trailer, and I just remember looking over and seeing [|
-Line 14, 19:01:05: that, you know, because I was right beside him.
-Line 15, 19:01:05: Q. An open trailer is what people sometimes
-Line 16, 19:01:05: call a flatbed where it's just a --
-Line 17, 19:01:05: A. That's what it was, yes.
-Line 18, 19:01:05: Q. -- a bed and you see the product sitting :
-Line 19, 19:01:05: on there, and you're saying there weren't many of :
-Line 20, 19:01:05: them?
-Line 21, 19:01:05: A. Didn't look there was many of them. It
-Line 22, 19:01:05: was a couple pallets, and I didn't know what was in
-Line 23, 19:01:05: the pallets. :
-Line 24, 19:01:05: Corbin ef Hook, Reporting <L Videoconferencing
-Line 25, 19:01:05: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:21: Deposition of Za
+Line 2, 19:20:21: Taken on June 26, 2006
+Line 3, 19:20:21: load?
+Line 4, 19:20:21: A. It only had a couple pallets on it, and I
+Line 5, 19:20:21: thought it was kind of a big truck for being in such
+Line 6, 19:20:21: a little area, that little area of road.
+Line 7, 19:20:21: Q. What kind of trailer was attached to the
+Line 8, 19:20:21: tractor?
+Line 9, 19:20:21: A. It was a big trailer. ;
+Line 10, 19:20:21: Q. Well, in other words, there's the box
+Line 11, 19:20:21: trailer that has walls and so forth --
+Line 12, 19:20:21: A. No, it was a open trailer. It was a open
+Line 13, 19:20:21: trailer, and I just remember looking over and seeing [|
+Line 14, 19:20:21: that, you know, because I was right beside him.
+Line 15, 19:20:21: Q. An open trailer is what people sometimes
+Line 16, 19:20:21: call a flatbed where it's just a --
+Line 17, 19:20:21: A. That's what it was, yes.
+Line 18, 19:20:21: Q. -- a bed and you see the product sitting :
+Line 19, 19:20:21: on there, and you're saying there weren't many of :
+Line 20, 19:20:21: them?
+Line 21, 19:20:21: A. Didn't look there was many of them. It
+Line 22, 19:20:21: was a couple pallets, and I didn't know what was in
+Line 23, 19:20:21: the pallets. :
+Line 24, 19:20:21: Corbin ef Hook, Reporting <L Videoconferencing
+Line 25, 19:20:21: (410) 268-6006 1-866-337-6778
 --- End of Page 18 ---
 
 --- Beginning of Page 19 ---
-Line 1, 19:01:05: Deposition o
-Line 2, 19:01:05: Taken on June 26, 2006
-Line 3, 19:01:05: Page 19
-Line 4, 19:01:05: 1 Q. Okay. So as you're driving along, before
-Line 5, 19:01:05: the lane split, before we add the lane to the right,
-Line 6, 19:01:05: you're in the right lane, the truck's in the left,
-Line 7, 19:01:05: and your, the front of your -- what are you driving?
-Line 8, 19:01:05: A green pickup, right?
-Line 9, 19:01:05: 6 A. I have a very big truck. I have a truck,
-Line 10, 19:01:05: a Dodge Daytona -- a Dodge Dakota.
-Line 11, 19:01:05: 8 Q. Okay. And that's lined up, the front of
-Line 12, 19:01:05: your pickup is, is alongside --
-Line 13, 19:01:05: 10 A. Yeah, to where the front of his door, yes.
-Line 14, 19:01:05: 11 Q. The front of --
-Line 15, 19:01:05: 12 A. Towards --
-Line 16, 19:01:05: 13 MR. MILLER: I got to caution you both to
-Line 17, 19:01:05: 15 Q. Go on, Qi
-Line 18, 19:01:05: 16 A. My, my front of my truck was in like the
-Line 19, 19:01:05: middle of his door to the end of his door where you
-Line 20, 19:01:05: open it up.
-Line 21, 19:01:05: 19 Q. Okay. And then a lane is added on the
-Line 22, 19:01:05: right, correct?
-Line 23, 19:01:05: al A. Correct.
-Line 24, 19:01:05: SSS
-Line 25, 19:01:05: Corbin of Hook, Reporting «L Videoconferencing
-Line 26, 19:01:05: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:21: Deposition o
+Line 2, 19:20:21: Taken on June 26, 2006
+Line 3, 19:20:21: Page 19
+Line 4, 19:20:21: 1 Q. Okay. So as you're driving along, before
+Line 5, 19:20:21: the lane split, before we add the lane to the right,
+Line 6, 19:20:21: you're in the right lane, the truck's in the left,
+Line 7, 19:20:21: and your, the front of your -- what are you driving?
+Line 8, 19:20:21: A green pickup, right?
+Line 9, 19:20:21: 6 A. I have a very big truck. I have a truck,
+Line 10, 19:20:21: a Dodge Daytona -- a Dodge Dakota.
+Line 11, 19:20:21: 8 Q. Okay. And that's lined up, the front of
+Line 12, 19:20:21: your pickup is, is alongside --
+Line 13, 19:20:21: 10 A. Yeah, to where the front of his door, yes.
+Line 14, 19:20:21: 11 Q. The front of --
+Line 15, 19:20:21: 12 A. Towards --
+Line 16, 19:20:21: 13 MR. MILLER: I got to caution you both to
+Line 17, 19:20:21: 15 Q. Go on, Qi
+Line 18, 19:20:21: 16 A. My, my front of my truck was in like the
+Line 19, 19:20:21: middle of his door to the end of his door where you
+Line 20, 19:20:21: open it up.
+Line 21, 19:20:21: 19 Q. Okay. And then a lane is added on the
+Line 22, 19:20:21: right, correct?
+Line 23, 19:20:21: al A. Correct.
+Line 24, 19:20:21: SSS
+Line 25, 19:20:21: Corbin of Hook, Reporting «L Videoconferencing
+Line 26, 19:20:21: (410) 268-6006 1-866-337-6778
 --- End of Page 19 ---
 
 --- Beginning of Page 20 ---
-Line 1, 19:01:05: Deposition of
-Line 2, 19:01:05: Taken on June 26, 2006
-Line 3, 19:01:05: Page 20 }
-Line 4, 19:01:05: Q. And then what did you do? Did you move q
-Line 5, 19:01:05: into the right lane?
-Line 6, 19:01:05: A. Yes. I put my blinker on and I moved into
-Line 7, 19:01:05: the right lane because that exit, that lane takes me
-Line 8, 19:01:05: to my exit.
-Line 9, 19:01:05: Q. Okay. And did the truck put its right
-Line 10, 19:01:05: turn signal on and move into the lane that you had
-Line 11, 19:01:05: previously --
-Line 12, 19:01:05: A. No, he did not.
-Line 13, 19:01:05: Okay. What did the truck do next?
-Line 14, 19:01:05: A. He just basically had gotten into that
-Line 15, 19:01:05: lane when I moved over. He had gotten into that
-Line 16, 19:01:05: lane, and I moved over into my lane.
-Line 17, 19:01:05: Q. Okay. Were you and the truck going
-Line 18, 19:01:05: approximately the same speed, or is one of you going
-Line 19, 19:01:05: faster than the other?
-Line 20, 19:01:05: A. Probably exactly the same, because we were
-Line 21, 19:01:05: staying up at the same pace all the way down.
-Line 22, 19:01:05: Q. And what speed was that?
-Line 23, 19:01:05: A. I'd say no more than 15, 20 miles, because
-Line 24, 19:01:05: it's only a 30 mile, 25 to 30 mile speed zone there.
-Line 25, 19:01:05: Corbin ef Hook, Reporting ef Videoconferencing
-Line 26, 19:01:05: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:21: Deposition of
+Line 2, 19:20:21: Taken on June 26, 2006
+Line 3, 19:20:21: Page 20 }
+Line 4, 19:20:21: Q. And then what did you do? Did you move q
+Line 5, 19:20:21: into the right lane?
+Line 6, 19:20:21: A. Yes. I put my blinker on and I moved into
+Line 7, 19:20:21: the right lane because that exit, that lane takes me
+Line 8, 19:20:21: to my exit.
+Line 9, 19:20:21: Q. Okay. And did the truck put its right
+Line 10, 19:20:21: turn signal on and move into the lane that you had
+Line 11, 19:20:21: previously --
+Line 12, 19:20:21: A. No, he did not.
+Line 13, 19:20:21: Okay. What did the truck do next?
+Line 14, 19:20:21: A. He just basically had gotten into that
+Line 15, 19:20:21: lane when I moved over. He had gotten into that
+Line 16, 19:20:21: lane, and I moved over into my lane.
+Line 17, 19:20:21: Q. Okay. Were you and the truck going
+Line 18, 19:20:21: approximately the same speed, or is one of you going
+Line 19, 19:20:21: faster than the other?
+Line 20, 19:20:21: A. Probably exactly the same, because we were
+Line 21, 19:20:21: staying up at the same pace all the way down.
+Line 22, 19:20:21: Q. And what speed was that?
+Line 23, 19:20:21: A. I'd say no more than 15, 20 miles, because
+Line 24, 19:20:21: it's only a 30 mile, 25 to 30 mile speed zone there.
+Line 25, 19:20:21: Corbin ef Hook, Reporting ef Videoconferencing
+Line 26, 19:20:21: (410) 268-6006 1-866-337-6778
 --- End of Page 20 ---
 
 --- Beginning of Page 21 ---
-Line 1, 19:01:09: Deposition o
-Line 2, 19:01:09: Taken on June 26, 2006
-Line 3, 19:01:09: Page 21
-Line 4, 19:01:09: Q. Okay. What happened next?
-Line 5, 19:01:09: 2 A. Then next, all I know is that we had came
-Line 6, 19:01:09: up to I guess where he was making a turn, and alls I
-Line 7, 19:01:09: know is I was just going down. I put my blinker on
-Line 8, 19:01:09: to make the turn because it's at the next light.
-Line 9, 19:01:09: Went to put my blinker on to make that turn, and all
-Line 10, 19:01:09: of a sudden, he was in front of me. His truck just
-Line 11, 19:01:09: came completely in front of me, and T went
-Line 12, 19:01:09: underneath the back end of his front tire.
-Line 13, 19:01:09: 10 Q. And what part of the truck hit what part
-Line 14, 19:01:09: of your pickup?
-Line 15, 19:01:09: 12 A. The front of my truck, the side of my
-Line 16, 19:01:09: truck. The driver's side.
-Line 17, 19:01:09: 14 Q. And what part of the tractor was hit?
-Line 18, 19:01:09: 15 A. I mean, the tire to the back frame, I
-Line 19, 19:01:09: guess. I don't know.
-Line 20, 19:01:09: 17 Q. Did you see any damage to the truck?
-Line 21, 19:01:09: 18 A. I really wasn't looking. I was ina lot
-Line 22, 19:01:09: of pain myself. I really wasn't --
-Line 23, 19:01:09: 20 Q. What damage was done to your pickup?
-Line 24, 19:01:09: 21 A. Almost $5000 worth of damage, and that was
-Line 25, 19:01:09: Corbin & Hook Reporting L Videoconferencing
-Line 26, 19:01:09: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:25: Deposition o
+Line 2, 19:20:25: Taken on June 26, 2006
+Line 3, 19:20:25: Page 21
+Line 4, 19:20:25: Q. Okay. What happened next?
+Line 5, 19:20:25: 2 A. Then next, all I know is that we had came
+Line 6, 19:20:25: up to I guess where he was making a turn, and alls I
+Line 7, 19:20:25: know is I was just going down. I put my blinker on
+Line 8, 19:20:25: to make the turn because it's at the next light.
+Line 9, 19:20:25: Went to put my blinker on to make that turn, and all
+Line 10, 19:20:25: of a sudden, he was in front of me. His truck just
+Line 11, 19:20:25: came completely in front of me, and T went
+Line 12, 19:20:25: underneath the back end of his front tire.
+Line 13, 19:20:25: 10 Q. And what part of the truck hit what part
+Line 14, 19:20:25: of your pickup?
+Line 15, 19:20:25: 12 A. The front of my truck, the side of my
+Line 16, 19:20:25: truck. The driver's side.
+Line 17, 19:20:25: 14 Q. And what part of the tractor was hit?
+Line 18, 19:20:25: 15 A. I mean, the tire to the back frame, I
+Line 19, 19:20:25: guess. I don't know.
+Line 20, 19:20:25: 17 Q. Did you see any damage to the truck?
+Line 21, 19:20:25: 18 A. I really wasn't looking. I was ina lot
+Line 22, 19:20:25: of pain myself. I really wasn't --
+Line 23, 19:20:25: 20 Q. What damage was done to your pickup?
+Line 24, 19:20:25: 21 A. Almost $5000 worth of damage, and that was
+Line 25, 19:20:25: Corbin & Hook Reporting L Videoconferencing
+Line 26, 19:20:25: (410) 268-6006 1-866-337-6778
 --- End of Page 21 ---
 
 --- Beginning of Page 22 ---
-Line 1, 19:01:09: Deposition of | |
-Line 2, 19:01:09: Taken on June 26, 2006
-Line 3, 19:01:09: Page 22
-Line 4, 19:01:09: the front end. They had to take the grill -- it
-Line 5, 19:01:09: messed up part of the transmission or something, |
-Line 6, 19:01:09: coming down to the lefthand side of the truck,
-Line 7, 19:01:09: passenger side.
-Line 8, 19:01:09: (Discussion off the record.)
-Line 9, 19:01:09: (Exhibits 1 through 3 marked.) |
-Line 10, 19:01:09: BY MR. MILES:
-Line 11, 19:01:09: Q. I'm showing you what's been marked as
-Line 12, 19:01:09: Deposition Exhibits 1, 2 and 3. Can you identify -- ]
-Line 13, 19:01:09: A. Boy, it doesn't look like very much
-Line 14, 19:01:09: damage, does it?
-Line 15, 19:01:09: Q. Are those pictures of your car -- excuse
-Line 16, 19:01:09: me, your pickup truck taken after the accident?
-Line 17, 19:01:09: A. Yes, sir. q
-Line 18, 19:01:09: Q. And do they reflect the damage that was :
-Line 19, 19:01:09: done to your pickup truck in the accident?
-Line 20, 19:01:09: A. From what I can tell. The pictures are
-Line 21, 19:01:09: quite dark, but yeah.
-Line 22, 19:01:09: Q. Obviously, you had a puncture to your left
-Line 23, 19:01:09: tire?
-Line 24, 19:01:09: A. Correct.
-Line 25, 19:01:09: Corbin Hook, Reporting ef Videoconferencing
-Line 26, 19:01:09: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:25: Deposition of | |
+Line 2, 19:20:25: Taken on June 26, 2006
+Line 3, 19:20:25: Page 22
+Line 4, 19:20:25: the front end. They had to take the grill -- it
+Line 5, 19:20:25: messed up part of the transmission or something, |
+Line 6, 19:20:25: coming down to the lefthand side of the truck,
+Line 7, 19:20:25: passenger side.
+Line 8, 19:20:25: (Discussion off the record.)
+Line 9, 19:20:25: (Exhibits 1 through 3 marked.) |
+Line 10, 19:20:25: BY MR. MILES:
+Line 11, 19:20:25: Q. I'm showing you what's been marked as
+Line 12, 19:20:25: Deposition Exhibits 1, 2 and 3. Can you identify -- ]
+Line 13, 19:20:25: A. Boy, it doesn't look like very much
+Line 14, 19:20:25: damage, does it?
+Line 15, 19:20:25: Q. Are those pictures of your car -- excuse
+Line 16, 19:20:25: me, your pickup truck taken after the accident?
+Line 17, 19:20:25: A. Yes, sir. q
+Line 18, 19:20:25: Q. And do they reflect the damage that was :
+Line 19, 19:20:25: done to your pickup truck in the accident?
+Line 20, 19:20:25: A. From what I can tell. The pictures are
+Line 21, 19:20:25: quite dark, but yeah.
+Line 22, 19:20:25: Q. Obviously, you had a puncture to your left
+Line 23, 19:20:25: tire?
+Line 24, 19:20:25: A. Correct.
+Line 25, 19:20:25: Corbin Hook, Reporting ef Videoconferencing
+Line 26, 19:20:25: (410) 268-6006 1-866-337-6778
 --- End of Page 22 ---
 
 --- Beginning of Page 23 ---
-Line 1, 19:01:09: Deposition -f Sa
-Line 2, 19:01:09: Taken on June 26, 2006
-Line 3, 19:01:09: age 23 |
-Line 4, 19:01:09: Q. And it looks like you had some scraping on f
-Line 5, 19:01:09: your left front?
-Line 6, 19:01:09: A. Uh-huh, uh-huh.
-Line 7, 19:01:09: Q. Is there any other damage you can see in |
-Line 8, 19:01:09: the pictures that you could point out to me? :
-Line 9, 19:01:09: A. No, that's it. There was some damage done
-Line 10, 19:01:09: to the motor of the car, I think, because I had to
-Line 11, 19:01:09: take it back to Thompson Dodge because it was doing
-Line 12, 19:01:09: so much rattling, and they had to do something to
-Line 13, 19:01:09: the steering.
-Line 14, 19:01:09: Q. Okay. So the two of you were going
-Line 15, 19:01:09: alongside of each other on North Point for a period
-Line 16, 19:01:09: of time at about the same speed, and did you ever
-Line 17, 19:01:09: see a turn signal on the truck?
-Line 18, 19:01:09: A. No, sir, I did not.
-Line 19, 19:01:09: Q. Can you describe to me the angle of the
-Line 20, 19:01:09: tractor when it hit you? Do you know what I mean?
-Line 21, 19:01:09: Was it sort of side to side or the tractor turned
-Line 22, 19:01:09: 90 degrees?
-Line 23, 19:01:09: A. He didn't turn because I figured I
-Line 24, 19:01:09: probably would have seen if he would have went out
-Line 25, 19:01:09: Corbin Hook, Reporting s[ Videoconferencing
-Line 26, 19:01:09: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:25: Deposition -f Sa
+Line 2, 19:20:25: Taken on June 26, 2006
+Line 3, 19:20:25: age 23 |
+Line 4, 19:20:25: Q. And it looks like you had some scraping on f
+Line 5, 19:20:25: your left front?
+Line 6, 19:20:25: A. Uh-huh, uh-huh.
+Line 7, 19:20:25: Q. Is there any other damage you can see in |
+Line 8, 19:20:25: the pictures that you could point out to me? :
+Line 9, 19:20:25: A. No, that's it. There was some damage done
+Line 10, 19:20:25: to the motor of the car, I think, because I had to
+Line 11, 19:20:25: take it back to Thompson Dodge because it was doing
+Line 12, 19:20:25: so much rattling, and they had to do something to
+Line 13, 19:20:25: the steering.
+Line 14, 19:20:25: Q. Okay. So the two of you were going
+Line 15, 19:20:25: alongside of each other on North Point for a period
+Line 16, 19:20:25: of time at about the same speed, and did you ever
+Line 17, 19:20:25: see a turn signal on the truck?
+Line 18, 19:20:25: A. No, sir, I did not.
+Line 19, 19:20:25: Q. Can you describe to me the angle of the
+Line 20, 19:20:25: tractor when it hit you? Do you know what I mean?
+Line 21, 19:20:25: Was it sort of side to side or the tractor turned
+Line 22, 19:20:25: 90 degrees?
+Line 23, 19:20:25: A. He didn't turn because I figured I
+Line 24, 19:20:25: probably would have seen if he would have went out
+Line 25, 19:20:25: Corbin Hook, Reporting s[ Videoconferencing
+Line 26, 19:20:25: (410) 268-6006 1-866-337-6778
 --- End of Page 23 ---
 
 --- Beginning of Page 24 ---
-Line 1, 19:01:09: Deposition o
-Line 2, 19:01:09: Taken on June 26, 2006
-Line 3, 19:01:09: Page 24 |
-Line 4, 19:01:09: of the lines, because I mean, the road is very small }
-Line 5, 19:01:09: on that side. On the right side, the lane is a real
-Line 6, 19:01:09: small lane. I mean, that tractor trailer was big.
-Line 7, 19:01:09: If I would have seen him turn or even be in the
-Line 8, 19:01:09: middle of any of the lanes, I would have seen that
-Line 9, 19:01:09: compared to my truck, I would have seen him pull
-Line 10, 19:01:09: away from my truck. The front of the truck would
-Line 11, 19:01:09: have pulled away from my truck instead of being so
-Line 12, 19:01:09: close to my truck.
-Line 13, 19:01:09: (Exhibit 4 marked.)
-Line 14, 19:01:09: BY MR. MILES:
-Line 15, 19:01:09: Q. Let me show you the police report for the
-Line 16, 19:01:09: accident --
-Line 17, 19:01:09: A. sure.
-Line 18, 19:01:09: Q. -- which we've marked as Exhibit 4. The
-Line 19, 19:01:09: police officer wasn't there, so he didn't see the
-Line 20, 19:01:09: accident, but he drew a diagram.
-Line 21, 19:01:09: A. Uh-huh.
-Line 22, 19:01:09: Q. Does that diagram to your way of thinking
-Line 23, 19:01:09: accurately show the angle of the tractor in relation |
-Line 24, 19:01:09: to the angle of your pickup?
-Line 25, 19:01:09: Corbin & Hook, Reporting  Videoconferencing
-Line 26, 19:01:09: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:25: Deposition o
+Line 2, 19:20:25: Taken on June 26, 2006
+Line 3, 19:20:25: Page 24 |
+Line 4, 19:20:25: of the lines, because I mean, the road is very small }
+Line 5, 19:20:25: on that side. On the right side, the lane is a real
+Line 6, 19:20:25: small lane. I mean, that tractor trailer was big.
+Line 7, 19:20:25: If I would have seen him turn or even be in the
+Line 8, 19:20:25: middle of any of the lanes, I would have seen that
+Line 9, 19:20:25: compared to my truck, I would have seen him pull
+Line 10, 19:20:25: away from my truck. The front of the truck would
+Line 11, 19:20:25: have pulled away from my truck instead of being so
+Line 12, 19:20:25: close to my truck.
+Line 13, 19:20:25: (Exhibit 4 marked.)
+Line 14, 19:20:25: BY MR. MILES:
+Line 15, 19:20:25: Q. Let me show you the police report for the
+Line 16, 19:20:25: accident --
+Line 17, 19:20:25: A. sure.
+Line 18, 19:20:25: Q. -- which we've marked as Exhibit 4. The
+Line 19, 19:20:25: police officer wasn't there, so he didn't see the
+Line 20, 19:20:25: accident, but he drew a diagram.
+Line 21, 19:20:25: A. Uh-huh.
+Line 22, 19:20:25: Q. Does that diagram to your way of thinking
+Line 23, 19:20:25: accurately show the angle of the tractor in relation |
+Line 24, 19:20:25: to the angle of your pickup?
+Line 25, 19:20:25: Corbin & Hook, Reporting  Videoconferencing
+Line 26, 19:20:25: (410) 268-6006 1-866-337-6778
 --- End of Page 24 ---
 
 --- Beginning of Page 25 ---
-Line 1, 19:01:13: Deposition of |
-Line 2, 19:01:13: Taken on June 26, 2006
-Line 3, 19:01:13: Page 25 |
-Line 4, 19:01:13: A. Yes, it does, because his whole trailer
-Line 5, 19:01:13: was in his lane, and that lane, it was not over in
-Line 6, 19:01:13: any of the lanes.
-Line 7, 19:01:13: Q. Okay. And the front of the tractor had :
-Line 8, 19:01:13: turned close to 90 degrees towards your truck?
-Line 9, 19:01:13: A. Correct.
-Line 10, 19:01:13: Q. So in other words, trying to perceive what
-Line 11, 19:01:13: happened, it wasn't like the truck was sort of
-Line 12, 19:01:13: sliding over to the right?
-Line 13, 19:01:13: A. Right.
-Line 14, 19:01:13: Q. It was like a sharp right turn?
-Line 15, 19:01:13: A. Yeah.
-Line 16, 19:01:13: Q. Okay. Describe to me the impact as you
-Line 17, 19:01:13: experienced it.
-Line 18, 19:01:13: A. It was a hard impact, very hard. I mean,
-Line 19, 19:01:13: I, I hurt my hand. I mean, everything just -- my
-Line 20, 19:01:13: hand just completely just went (indicating).
-Line 21, 19:01:13: Severe, severe pain. There was a point where as
-Line 22, 19:01:13: soon as the impact, I was crying because of the
-Line 23, 19:01:13: severe pain. 4
-Line 24, 19:01:13: Q. Okay. And obviously, you broke your i
-Line 25, 19:01:13: Corbin L Hook, Reporting s[ Videoconferencing
-Line 26, 19:01:13: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:29: Deposition of |
+Line 2, 19:20:29: Taken on June 26, 2006
+Line 3, 19:20:29: Page 25 |
+Line 4, 19:20:29: A. Yes, it does, because his whole trailer
+Line 5, 19:20:29: was in his lane, and that lane, it was not over in
+Line 6, 19:20:29: any of the lanes.
+Line 7, 19:20:29: Q. Okay. And the front of the tractor had :
+Line 8, 19:20:29: turned close to 90 degrees towards your truck?
+Line 9, 19:20:29: A. Correct.
+Line 10, 19:20:29: Q. So in other words, trying to perceive what
+Line 11, 19:20:29: happened, it wasn't like the truck was sort of
+Line 12, 19:20:29: sliding over to the right?
+Line 13, 19:20:29: A. Right.
+Line 14, 19:20:29: Q. It was like a sharp right turn?
+Line 15, 19:20:29: A. Yeah.
+Line 16, 19:20:29: Q. Okay. Describe to me the impact as you
+Line 17, 19:20:29: experienced it.
+Line 18, 19:20:29: A. It was a hard impact, very hard. I mean,
+Line 19, 19:20:29: I, I hurt my hand. I mean, everything just -- my
+Line 20, 19:20:29: hand just completely just went (indicating).
+Line 21, 19:20:29: Severe, severe pain. There was a point where as
+Line 22, 19:20:29: soon as the impact, I was crying because of the
+Line 23, 19:20:29: severe pain. 4
+Line 24, 19:20:29: Q. Okay. And obviously, you broke your i
+Line 25, 19:20:29: Corbin L Hook, Reporting s[ Videoconferencing
+Line 26, 19:20:29: (410) 268-6006 1-866-337-6778
 --- End of Page 25 ---
 
 --- Beginning of Page 26 ---
-Line 1, 19:01:13: Deposition o
-Line 2, 19:01:13: Taken on June 26, 2006
-Line 3, 19:01:13: wrist, we understand?
-Line 4, 19:01:13: A. Yeah.
-Line 5, 19:01:13: Q. How did that happen; do you know?
-Line 6, 19:01:13: A. I don't know. I mean, I was holding onto
-Line 7, 19:01:13: the steering wheel, and I don't know what happened.
-Line 8, 19:01:13: I mean, it just, the impact, because I mean, he just
-Line 9, 19:01:13: came in over my, just came in front of me, and it
-Line 10, 19:01:13: was like boom. There was no stopping. There was
-Line 11, 19:01:13: nowhere I could just, just slam on the brakes or
-Line 12, 19:01:13: anything. There was no -- it was there. It just
-Line 13, 19:01:13: happened.
-Line 14, 19:01:13: Q. Okay. Did you hurt any part of your body
-Line 15, 19:01:13: other than your left wrist and hand?
-Line 16, 19:01:13: A. Just my back when I went backwards, other
-Line 17, 19:01:13: than my hand.
-Line 18, 19:01:13: Q. Do you have airbags on your pickup truck?
-Line 19, 19:01:13: A. Yes, I do, on both sides.
-Line 20, 19:01:13: Q. Okay. Did they activate?
-Line 21, 19:01:13: A. No, they did not.
-Line 22, 19:01:13: Q. Is there any significant -- I'm talking
-Line 23, 19:01:13: about engine -- damage to your truck that's not
-Line 24, 19:01:13: Corbin & Hook, Reporting Ll Videoconferencing
-Line 25, 19:01:13: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:29: Deposition o
+Line 2, 19:20:29: Taken on June 26, 2006
+Line 3, 19:20:29: wrist, we understand?
+Line 4, 19:20:29: A. Yeah.
+Line 5, 19:20:29: Q. How did that happen; do you know?
+Line 6, 19:20:29: A. I don't know. I mean, I was holding onto
+Line 7, 19:20:29: the steering wheel, and I don't know what happened.
+Line 8, 19:20:29: I mean, it just, the impact, because I mean, he just
+Line 9, 19:20:29: came in over my, just came in front of me, and it
+Line 10, 19:20:29: was like boom. There was no stopping. There was
+Line 11, 19:20:29: nowhere I could just, just slam on the brakes or
+Line 12, 19:20:29: anything. There was no -- it was there. It just
+Line 13, 19:20:29: happened.
+Line 14, 19:20:29: Q. Okay. Did you hurt any part of your body
+Line 15, 19:20:29: other than your left wrist and hand?
+Line 16, 19:20:29: A. Just my back when I went backwards, other
+Line 17, 19:20:29: than my hand.
+Line 18, 19:20:29: Q. Do you have airbags on your pickup truck?
+Line 19, 19:20:29: A. Yes, I do, on both sides.
+Line 20, 19:20:29: Q. Okay. Did they activate?
+Line 21, 19:20:29: A. No, they did not.
+Line 22, 19:20:29: Q. Is there any significant -- I'm talking
+Line 23, 19:20:29: about engine -- damage to your truck that's not
+Line 24, 19:20:29: Corbin & Hook, Reporting Ll Videoconferencing
+Line 25, 19:20:29: (410) 268-6006 1-866-337-6778
 --- End of Page 26 ---
 
 --- Beginning of Page 27 ---
-Line 1, 19:01:13: Deposition of
-Line 2, 19:01:13: Taken on June 26, 2006
-Line 3, 19:01:13: Page 27 |
-Line 4, 19:01:13: reflected in these pictures?
-Line 5, 19:01:13: A. Yes, there was some steering problems.
-Line 6, 19:01:13: Q. I was more, I was more talking about
-Line 7, 19:01:13: things I could see like damage to the frame.
-Line 8, 19:01:13: A. Oh, no.
-Line 9, 19:01:13: Q. Okay. What happened next?
-Line 10, 19:01:13: A. Then that was basically it. Mr.,
-Line 11, 19:01:13: Defendant --
-Line 12, 19:01:13: Q. Mr. Grady?
-Line 13, 19:01:13: A. Mr. Grady had gotten out of his truck and |
-Line 14, 19:01:13: went around, looked at his truck, and then walked ;
-Line 15, 19:01:13: over in front of his truck, got back in his truck,
-Line 16, 19:01:13: and then a young woman come up behind me and she H
-Line 17, 19:01:13: tapped on the door and wanted to know if I could get :
-Line 18, 19:01:13: out. I couldn't get out. I had my seat belt
-Line 19, 19:01:13: strapped, and I was in so much pain, I couldn't lift [|
-Line 20, 19:01:13: myself out of my truck, and she said she'd called f
-Line 21, 19:01:13: 911, and the police, and the police had came --
-Line 22, 19:01:13: Q. Let me interrupt you just a second. Would
-Line 23, 19:01:13: it have been possible for you to get out of the
-Line 24, 19:01:13: truck on the lefthand side if you had been able to ;
-Line 25, 19:01:13: Corbin & Hook Reporting ef Videoconferencing
-Line 26, 19:01:13: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:29: Deposition of
+Line 2, 19:20:29: Taken on June 26, 2006
+Line 3, 19:20:29: Page 27 |
+Line 4, 19:20:29: reflected in these pictures?
+Line 5, 19:20:29: A. Yes, there was some steering problems.
+Line 6, 19:20:29: Q. I was more, I was more talking about
+Line 7, 19:20:29: things I could see like damage to the frame.
+Line 8, 19:20:29: A. Oh, no.
+Line 9, 19:20:29: Q. Okay. What happened next?
+Line 10, 19:20:29: A. Then that was basically it. Mr.,
+Line 11, 19:20:29: Defendant --
+Line 12, 19:20:29: Q. Mr. Grady?
+Line 13, 19:20:29: A. Mr. Grady had gotten out of his truck and |
+Line 14, 19:20:29: went around, looked at his truck, and then walked ;
+Line 15, 19:20:29: over in front of his truck, got back in his truck,
+Line 16, 19:20:29: and then a young woman come up behind me and she H
+Line 17, 19:20:29: tapped on the door and wanted to know if I could get :
+Line 18, 19:20:29: out. I couldn't get out. I had my seat belt
+Line 19, 19:20:29: strapped, and I was in so much pain, I couldn't lift [|
+Line 20, 19:20:29: myself out of my truck, and she said she'd called f
+Line 21, 19:20:29: 911, and the police, and the police had came --
+Line 22, 19:20:29: Q. Let me interrupt you just a second. Would
+Line 23, 19:20:29: it have been possible for you to get out of the
+Line 24, 19:20:29: truck on the lefthand side if you had been able to ;
+Line 25, 19:20:29: Corbin & Hook Reporting ef Videoconferencing
+Line 26, 19:20:29: (410) 268-6006 1-866-337-6778
 --- End of Page 27 ---
 
 --- Beginning of Page 28 ---
-Line 1, 19:01:13: Deposition o
-Line 2, 19:01:13: Taken on June 26, 2006
-Line 3, 19:01:13: Page 28 |
-Line 4, 19:01:13: off your seat belt, or was there any damage to
-Line 5, 19:01:13: door that it wouldn't open, or was the truck
-Line 6, 19:01:13: to you?
-Line 7, 19:01:13: 4 A. No, they opened up the door. No, they
-Line 8, 19:01:13: So you would have been able to get out if
-Line 9, 19:01:13: Yeah, yeah.
-Line 10, 19:01:13: -- had been able to undo your seat belt?
-Line 11, 19:01:13: Correct.
-Line 12, 19:01:13: Okay. So what happened next?
-Line 13, 19:01:13: 12 A. After that, the police came, asked me if I
-Line 14, 19:01:13: was okay. Mr. Alton was over, was a little bit
-Line 15, 19:01:13: further down from where they were at, the police,
-Line 16, 19:01:13: talking with them, and the young woman come over and |
-Line 17, 19:01:13: said she called the EMT, and then the EMT came, and
-Line 18, 19:01:13: they had Mr. Alton move the truck, which he just
-Line 19, 19:01:13: backed up the truck and then pulled it forward, and
-Line 20, 19:01:13: then the ambulance took me.
-Line 21, 19:01:13: 20 Q. Did you ever talk to Mr. Grady about how
-Line 22, 19:01:13: the accident happened?
-Line 23, 19:01:13: Corbin sf Hook, Reporting  Videoconferencing
-Line 24, 19:01:13: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:29: Deposition o
+Line 2, 19:20:29: Taken on June 26, 2006
+Line 3, 19:20:29: Page 28 |
+Line 4, 19:20:29: off your seat belt, or was there any damage to
+Line 5, 19:20:29: door that it wouldn't open, or was the truck
+Line 6, 19:20:29: to you?
+Line 7, 19:20:29: 4 A. No, they opened up the door. No, they
+Line 8, 19:20:29: So you would have been able to get out if
+Line 9, 19:20:29: Yeah, yeah.
+Line 10, 19:20:29: -- had been able to undo your seat belt?
+Line 11, 19:20:29: Correct.
+Line 12, 19:20:29: Okay. So what happened next?
+Line 13, 19:20:29: 12 A. After that, the police came, asked me if I
+Line 14, 19:20:29: was okay. Mr. Alton was over, was a little bit
+Line 15, 19:20:29: further down from where they were at, the police,
+Line 16, 19:20:29: talking with them, and the young woman come over and |
+Line 17, 19:20:29: said she called the EMT, and then the EMT came, and
+Line 18, 19:20:29: they had Mr. Alton move the truck, which he just
+Line 19, 19:20:29: backed up the truck and then pulled it forward, and
+Line 20, 19:20:29: then the ambulance took me.
+Line 21, 19:20:29: 20 Q. Did you ever talk to Mr. Grady about how
+Line 22, 19:20:29: the accident happened?
+Line 23, 19:20:29: Corbin sf Hook, Reporting  Videoconferencing
+Line 24, 19:20:29: (410) 268-6006 1-866-337-6778
 --- End of Page 28 ---
 
 --- Beginning of Page 29 ---
-Line 1, 19:01:16: Deposition of |
-Line 2, 19:01:16: Taken on June 26, 2006
-Line 3, 19:01:16: Page 29
-Line 4, 19:01:16: 1 A. No, sir.
-Line 5, 19:01:16: 2 Q. Was there any conversation at all between
-Line 6, 19:01:16: you and Mr.
-Line 7, 19:01:16: Grady?
-Line 8, 19:01:16: 4 A. No, sir.
-Line 9, 19:01:16: Q. Okay. And the ambulance then took you to
-Line 10, 19:01:16: the hospital?
-Line 11, 19:01:16: A. That's correct.
-Line 12, 19:01:16: 8 Q. Are there any facts you can remember about
-Line 13, 19:01:16: how the accident happened that you haven't told me
-Line 14, 19:01:16: already?
-Line 15, 19:01:16: 11 A. No, not that I can recall.
-Line 16, 19:01:16: 12 Q. How fast do you think the truck was going
-Line 17, 19:01:16: 13 when it made that right turn?
-Line 18, 19:01:16: 14 A. I mean, 15. I mean, I'm not an expert on
-Line 19, 19:01:16: knowing what --
-Line 20, 19:01:16: I understand.
-Line 21, 19:01:16: I mean, I don't know.
-Line 22, 19:01:16: And how fast were you going at the time of
-Line 23, 19:01:16: About 15, 20 miles an hour at least,
-Line 24, 19:01:16: 21 because like I said, that is a, you know, 25 to 30
-Line 25, 19:01:16: Corbin Hook Reporting sf Videoconferencing
-Line 26, 19:01:16: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:32: Deposition of |
+Line 2, 19:20:32: Taken on June 26, 2006
+Line 3, 19:20:32: Page 29
+Line 4, 19:20:32: 1 A. No, sir.
+Line 5, 19:20:32: 2 Q. Was there any conversation at all between
+Line 6, 19:20:32: you and Mr.
+Line 7, 19:20:32: Grady?
+Line 8, 19:20:32: 4 A. No, sir.
+Line 9, 19:20:32: Q. Okay. And the ambulance then took you to
+Line 10, 19:20:32: the hospital?
+Line 11, 19:20:32: A. That's correct.
+Line 12, 19:20:32: 8 Q. Are there any facts you can remember about
+Line 13, 19:20:32: how the accident happened that you haven't told me
+Line 14, 19:20:32: already?
+Line 15, 19:20:32: 11 A. No, not that I can recall.
+Line 16, 19:20:32: 12 Q. How fast do you think the truck was going
+Line 17, 19:20:32: 13 when it made that right turn?
+Line 18, 19:20:32: 14 A. I mean, 15. I mean, I'm not an expert on
+Line 19, 19:20:32: knowing what --
+Line 20, 19:20:32: I understand.
+Line 21, 19:20:32: I mean, I don't know.
+Line 22, 19:20:32: And how fast were you going at the time of
+Line 23, 19:20:32: About 15, 20 miles an hour at least,
+Line 24, 19:20:32: 21 because like I said, that is a, you know, 25 to 30
+Line 25, 19:20:32: Corbin Hook Reporting sf Videoconferencing
+Line 26, 19:20:32: (410) 268-6006 1-866-337-6778
 --- End of Page 29 ---
 
 --- Beginning of Page 30 ---
-Line 1, 19:01:16: Deposition of CT
-Line 2, 19:01:16: Taken on June 26, 2006
-Line 3, 19:01:16: mile zone, and I did come over and I was getting
-Line 4, 19:01:16: ready to make my turn the next red light up.
-Line 5, 19:01:16: 3 Q. Fifteen seems like a slow speed for a car
-Line 6, 19:01:16: 4 in a 30 mile zone. I'm just wondering why you were
-Line 7, 19:01:16: going only 15.
-Line 8, 19:01:16: 6 A. Because we weren't going that fast beacuse
-Line 9, 19:01:16: that road's not that -- that lane is not that wide.
-Line 10, 19:01:16: It's not that wide at all, and tractor trailers, you
-Line 11, 19:01:16: 9 know, I see so many accidents in that intersection
-Line 12, 19:01:16: 10 all the time. I'm just, I'ma little cautious about
-Line 13, 19:01:16: that area.
-Line 14, 19:01:16: 12 Q. Okay. Okay. You then went by ambulance
-Line 15, 19:01:16: gre an
-Line 16, 19:01:16: 13 to the hospital?
-Line 17, 19:01:16: 14 A. Yes, sir.
-Line 18, 19:01:16: 15 Q. Johns Hopkins Bayview?
-Line 19, 19:01:16: a EB I
-Line 20, 19:01:16: A. Correct.
-Line 21, 19:01:16: 17 Q. And tell me about your visit to Johns
-Line 22, 19:01:16: —_—
-Line 23, 19:01:16: Hopkins Bayview.
-Line 24, 19:01:16: 19 A. They had taken me in there. One of the
-Line 25, 19:01:16: 20 doctors came around, and by that time, my hand was
-Line 26, 19:01:16: swollen and this finger was back, and they were
-Line 27, 19:01:16: Corbin Hook, Reporting «L Videoconferencing
-Line 28, 19:01:16: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:32: Deposition of CT
+Line 2, 19:20:32: Taken on June 26, 2006
+Line 3, 19:20:32: mile zone, and I did come over and I was getting
+Line 4, 19:20:32: ready to make my turn the next red light up.
+Line 5, 19:20:32: 3 Q. Fifteen seems like a slow speed for a car
+Line 6, 19:20:32: 4 in a 30 mile zone. I'm just wondering why you were
+Line 7, 19:20:32: going only 15.
+Line 8, 19:20:32: 6 A. Because we weren't going that fast beacuse
+Line 9, 19:20:32: that road's not that -- that lane is not that wide.
+Line 10, 19:20:32: It's not that wide at all, and tractor trailers, you
+Line 11, 19:20:32: 9 know, I see so many accidents in that intersection
+Line 12, 19:20:32: 10 all the time. I'm just, I'ma little cautious about
+Line 13, 19:20:32: that area.
+Line 14, 19:20:32: 12 Q. Okay. Okay. You then went by ambulance
+Line 15, 19:20:32: gre an
+Line 16, 19:20:32: 13 to the hospital?
+Line 17, 19:20:32: 14 A. Yes, sir.
+Line 18, 19:20:32: 15 Q. Johns Hopkins Bayview?
+Line 19, 19:20:32: a EB I
+Line 20, 19:20:32: A. Correct.
+Line 21, 19:20:32: 17 Q. And tell me about your visit to Johns
+Line 22, 19:20:32: —_—
+Line 23, 19:20:32: Hopkins Bayview.
+Line 24, 19:20:32: 19 A. They had taken me in there. One of the
+Line 25, 19:20:32: 20 doctors came around, and by that time, my hand was
+Line 26, 19:20:32: swollen and this finger was back, and they were
+Line 27, 19:20:32: Corbin Hook, Reporting «L Videoconferencing
+Line 28, 19:20:32: (410) 268-6006 1-866-337-6778
 --- End of Page 30 ---
 
 --- Beginning of Page 31 ---
-Line 1, 19:01:16: Deposition o;
-Line 2, 19:01:16: Taken on June 26, 2006
-Line 3, 19:01:16: Page 31
-Line 4, 19:01:16: trying to move my hand, which they couldn't. I was
-Line 5, 19:01:16: in a lot of pain, a lot of severe pain. The one
-Line 6, 19:01:16: doctor came up and said that, you know, we need to
-Line 7, 19:01:16: take x-rays. They came in. They got me for x-rays.
-Line 8, 19:01:16: I was crying. They were trying to calm me down. My
-Line 9, 19:01:16: blood pressure was high at the time, and they just
-Line 10, 19:01:16: kept telling me to calm down.
-Line 11, 19:01:16: 8 Q. What did they tell you was wrong?
-Line 12, 19:01:16: 9 A. They said that they know that there
-Line 13, 19:01:16: cut, and it looked like there might have been
-Line 14, 19:01:16: something broken, definitely. They wanted to take
-Line 15, 19:01:16: me to x-rays to find out. After they brought me out
-Line 16, 19:01:16: of x-rays, I seen like four or five doctors. They
-Line 17, 19:01:16: kept coming in and saying about having to go into
-Line 18, 19:01:16: 15 surgery, that they were trying to get me into
-Line 19, 19:01:16: surgery right away. They were trying to get
-Line 20, 19:01:16: somebody in to do the surgery because they said that
-Line 21, 19:01:16: there was no waiting for the surgery to get -- they
-Line 22, 19:01:16: It had to be done
-Line 23, 19:01:16: couldn't postpone the surgery.
-Line 24, 19:01:16: right away.
-Line 25, 19:01:16: 21 Q. So when did you have the surgery?
-Line 26, 19:01:16: Corbin & Hook, Reporting L Videoconferencing
-Line 27, 19:01:16: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:32: Deposition o;
+Line 2, 19:20:32: Taken on June 26, 2006
+Line 3, 19:20:32: Page 31
+Line 4, 19:20:32: trying to move my hand, which they couldn't. I was
+Line 5, 19:20:32: in a lot of pain, a lot of severe pain. The one
+Line 6, 19:20:32: doctor came up and said that, you know, we need to
+Line 7, 19:20:32: take x-rays. They came in. They got me for x-rays.
+Line 8, 19:20:32: I was crying. They were trying to calm me down. My
+Line 9, 19:20:32: blood pressure was high at the time, and they just
+Line 10, 19:20:32: kept telling me to calm down.
+Line 11, 19:20:32: 8 Q. What did they tell you was wrong?
+Line 12, 19:20:32: 9 A. They said that they know that there
+Line 13, 19:20:32: cut, and it looked like there might have been
+Line 14, 19:20:32: something broken, definitely. They wanted to take
+Line 15, 19:20:32: me to x-rays to find out. After they brought me out
+Line 16, 19:20:32: of x-rays, I seen like four or five doctors. They
+Line 17, 19:20:32: kept coming in and saying about having to go into
+Line 18, 19:20:32: 15 surgery, that they were trying to get me into
+Line 19, 19:20:32: surgery right away. They were trying to get
+Line 20, 19:20:32: somebody in to do the surgery because they said that
+Line 21, 19:20:32: there was no waiting for the surgery to get -- they
+Line 22, 19:20:32: It had to be done
+Line 23, 19:20:32: couldn't postpone the surgery.
+Line 24, 19:20:32: right away.
+Line 25, 19:20:32: 21 Q. So when did you have the surgery?
+Line 26, 19:20:32: Corbin & Hook, Reporting L Videoconferencing
+Line 27, 19:20:32: (410) 268-6006 1-866-337-6778
 --- End of Page 31 ---
 
 --- Beginning of Page 32 ---
-Line 1, 19:01:16: Deposition o
-Line 2, 19:01:16: Taken on June 26, 2006
-Line 3, 19:01:16: Page 32 |
-Line 4, 19:01:16: I had the surgery that day, within three
-Line 5, 19:01:16: Q. The day of the accident?
-Line 6, 19:01:16: A. I was, I was in surgery by one o'clock.
-Line 7, 19:01:16: Q. And I understand you're not a doctor, but
-Line 8, 19:01:16: what is your understanding of what was wrong with
-Line 9, 19:01:16: your -- is this your wrist? :
-Line 10, 19:01:16: A. As far as I know. T broke the bone here.
-Line 11, 19:01:16: I have no feeling whatsoever --
-Line 12, 19:01:16: Q. Here, you're indicating --
-Line 13, 19:01:16: A. On my pinky --
-Line 14, 19:01:16: Q. -- alongside your pinky? :
-Line 15, 19:01:16: A. -- my small finger, all along here. I
-Line 16, 19:01:16: broke here. I shattered it in here. I did |
-Line 17, 19:01:16: something -- 4
-Line 18, 19:01:16: Q. On the left side -- excuse . :
-Line 19, 19:01:16: A. Correct, the left --
-Line 20, 19:01:16: Q. The left side of your left hand?
-Line 21, 19:01:16: A. Correct, underneath of the pinky. I
-Line 22, 19:01:16: shattered this area here. This bone here, this,
-Line 23, 19:01:16: this back here was down in here.
-Line 24, 19:01:16: Corbin & Hook, Reporting ef Videoconferencing
-Line 25, 19:01:16: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:32: Deposition o
+Line 2, 19:20:32: Taken on June 26, 2006
+Line 3, 19:20:32: Page 32 |
+Line 4, 19:20:32: I had the surgery that day, within three
+Line 5, 19:20:32: Q. The day of the accident?
+Line 6, 19:20:32: A. I was, I was in surgery by one o'clock.
+Line 7, 19:20:32: Q. And I understand you're not a doctor, but
+Line 8, 19:20:32: what is your understanding of what was wrong with
+Line 9, 19:20:32: your -- is this your wrist? :
+Line 10, 19:20:32: A. As far as I know. T broke the bone here.
+Line 11, 19:20:32: I have no feeling whatsoever --
+Line 12, 19:20:32: Q. Here, you're indicating --
+Line 13, 19:20:32: A. On my pinky --
+Line 14, 19:20:32: Q. -- alongside your pinky? :
+Line 15, 19:20:32: A. -- my small finger, all along here. I
+Line 16, 19:20:32: broke here. I shattered it in here. I did |
+Line 17, 19:20:32: something -- 4
+Line 18, 19:20:32: Q. On the left side -- excuse . :
+Line 19, 19:20:32: A. Correct, the left --
+Line 20, 19:20:32: Q. The left side of your left hand?
+Line 21, 19:20:32: A. Correct, underneath of the pinky. I
+Line 22, 19:20:32: shattered this area here. This bone here, this,
+Line 23, 19:20:32: this back here was down in here.
+Line 24, 19:20:32: Corbin & Hook, Reporting ef Videoconferencing
+Line 25, 19:20:32: (410) 268-6006 1-866-337-6778
 --- End of Page 32 ---
 
 --- Beginning of Page 33 ---
-Line 1, 19:01:20: Deposition of
-Line 2, 19:01:20: Taken on June 26, 2006
-Line 3, 19:01:20: Page 33
-Line 4, 19:01:20: 1 MR. MILLER: ea the reason why he's
-Line 5, 19:01:20: trying to help you out is she's trying to write
-Line 6, 19:01:20: it down.
-Line 7, 19:01:20: 4 A. Oh, I'm sorry.
-Line 8, 19:01:20: Q. We can't use words like here.
-Line 9, 19:01:20: 6 MR. MILLER: So here is not working out.
-Line 10, 19:01:20: Describe it -- 4
-Line 11, 19:01:20: 8 Q. Describe it --
-Line 12, 19:01:20: 9 A. Okay. Under my ring finger --
-Line 13, 19:01:20: 10 MR. MILLER: There we go.
-Line 14, 19:01:20: A. -- I had broke from this all the way over,
-Line 15, 19:01:20: the bones that were in -- I'm sorry. Over to my
-Line 16, 19:01:20: thumb.
-Line 17, 19:01:20: 14 Q. Okay.
-Line 18, 19:01:20: MR. MILLER: Take out the word this.
-Line 19, 19:01:20: 16 A. Over to my thumb. I have no feeling at
-Line 20, 19:01:20: all in this finger at all.
-Line 21, 19:01:20: Q. Index?
-Line 22, 19:01:20: 19 A. In my index finger. I have no feeling at
-Line 23, 19:01:20: the bottom of my thumb. I have no feeling at the
-Line 24, 19:01:20: 21 bottom of my pinky down. I broke the bone that
-Line 25, 19:01:20: Corbin sf Hook Reporting & Videoconferencing
-Line 26, 19:01:20: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:36: Deposition of
+Line 2, 19:20:36: Taken on June 26, 2006
+Line 3, 19:20:36: Page 33
+Line 4, 19:20:36: 1 MR. MILLER: ea the reason why he's
+Line 5, 19:20:36: trying to help you out is she's trying to write
+Line 6, 19:20:36: it down.
+Line 7, 19:20:36: 4 A. Oh, I'm sorry.
+Line 8, 19:20:36: Q. We can't use words like here.
+Line 9, 19:20:36: 6 MR. MILLER: So here is not working out.
+Line 10, 19:20:36: Describe it -- 4
+Line 11, 19:20:36: 8 Q. Describe it --
+Line 12, 19:20:36: 9 A. Okay. Under my ring finger --
+Line 13, 19:20:36: 10 MR. MILLER: There we go.
+Line 14, 19:20:36: A. -- I had broke from this all the way over,
+Line 15, 19:20:36: the bones that were in -- I'm sorry. Over to my
+Line 16, 19:20:36: thumb.
+Line 17, 19:20:36: 14 Q. Okay.
+Line 18, 19:20:36: MR. MILLER: Take out the word this.
+Line 19, 19:20:36: 16 A. Over to my thumb. I have no feeling at
+Line 20, 19:20:36: all in this finger at all.
+Line 21, 19:20:36: Q. Index?
+Line 22, 19:20:36: 19 A. In my index finger. I have no feeling at
+Line 23, 19:20:36: the bottom of my thumb. I have no feeling at the
+Line 24, 19:20:36: 21 bottom of my pinky down. I broke the bone that
+Line 25, 19:20:36: Corbin sf Hook Reporting & Videoconferencing
+Line 26, 19:20:36: (410) 268-6006 1-866-337-6778
 --- End of Page 33 ---
 
 --- Beginning of Page 34 ---
-Line 1, 19:01:20: Deposition o
-Line 2, 19:01:20: Taken on June 26, 2006
-Line 3, 19:01:20: Page 34 |
-Line 4, 19:01:20: goes, that goes to, from my wrist. I fractured /
-Line 5, 19:01:20: that, and I have no range of motion in my hand at
-Line 6, 19:01:20: all. I mean, as far as I can bend it is probably
-Line 7, 19:01:20: about maybe two inches. That's it.
-Line 8, 19:01:20: Q. So you cannot close your hand completely?
-Line 9, 19:01:20: A. I cannot close my hand. :
-Line 10, 19:01:20: Q. Can you move your wrist this way?
-Line 11, 19:01:20: A. It's very, very limited right now, very
-Line 12, 19:01:20: limited. I can move it down about an inch and about |
-Line 13, 19:01:20: a half inch to an inch that way. I have no -- my
-Line 14, 19:01:20: range of motion is very, very short. They pinned |
-Line 15, 19:01:20: it -- 7
-Line 16, 19:01:20: How many bones were broken, or do you
-Line 17, 19:01:20: :
-Line 18, 19:01:20: A. I'm not exactly sure. I just know that it
-Line 19, 19:01:20: :
-Line 20, 19:01:20: was very many multiple fractures and, and metatarpal ;
-Line 21, 19:01:20: 2 through 5.
-Line 22, 19:01:20: And how long were you in the hospital?
-Line 23, 19:01:20: I was in the hospital for a day anda j
-Line 24, 19:01:20: Okay. And then who, who was your primary
-Line 25, 19:01:20: Corbin L Hook, Reporting L Videoconferencing
-Line 26, 19:01:20: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:36: Deposition o
+Line 2, 19:20:36: Taken on June 26, 2006
+Line 3, 19:20:36: Page 34 |
+Line 4, 19:20:36: goes, that goes to, from my wrist. I fractured /
+Line 5, 19:20:36: that, and I have no range of motion in my hand at
+Line 6, 19:20:36: all. I mean, as far as I can bend it is probably
+Line 7, 19:20:36: about maybe two inches. That's it.
+Line 8, 19:20:36: Q. So you cannot close your hand completely?
+Line 9, 19:20:36: A. I cannot close my hand. :
+Line 10, 19:20:36: Q. Can you move your wrist this way?
+Line 11, 19:20:36: A. It's very, very limited right now, very
+Line 12, 19:20:36: limited. I can move it down about an inch and about |
+Line 13, 19:20:36: a half inch to an inch that way. I have no -- my
+Line 14, 19:20:36: range of motion is very, very short. They pinned |
+Line 15, 19:20:36: it -- 7
+Line 16, 19:20:36: How many bones were broken, or do you
+Line 17, 19:20:36: :
+Line 18, 19:20:36: A. I'm not exactly sure. I just know that it
+Line 19, 19:20:36: :
+Line 20, 19:20:36: was very many multiple fractures and, and metatarpal ;
+Line 21, 19:20:36: 2 through 5.
+Line 22, 19:20:36: And how long were you in the hospital?
+Line 23, 19:20:36: I was in the hospital for a day anda j
+Line 24, 19:20:36: Okay. And then who, who was your primary
+Line 25, 19:20:36: Corbin L Hook, Reporting L Videoconferencing
+Line 26, 19:20:36: (410) 268-6006 1-866-337-6778
 --- End of Page 34 ---
 
 --- Beginning of Page 35 ---
-Line 1, 19:01:20: Deposition of a
-Line 2, 19:01:20: Taken on June 26, 2006
-Line 3, 19:01:20: treating physician?
-Line 4, 19:01:20: 2 . GE ..: Qaey
-Line 5, 19:01:20: 3 Q. And who did you see for follow-up care?
-Line 6, 19:01:20: 4 A, 22:
-Line 7, 19:01:20: 5 Q. Okay. And when did you see them? Take me
-Line 8, 19:01:20: through basically when you saw them and the
-Line 9, 19:01:20: chronology of your --
-Line 10, 19:01:20: 8 A. They wanted to start physical therapy
-Line 11, 19:01:20: right away. I went up -- I had surgery that Friday.
-Line 12, 19:01:20: I was up in their office on Tuesday making future
-Line 13, 19:01:20: plans because they said that with this type of
-Line 14, 19:01:20: injury, they said the injury was very severe, some,
-Line 15, 19:01:20: worse than what they had, some orthopedic doctors
-Line 16, 19:01:20: have seen with sports medicine.
-Line 17, 19:01:20: They said they
-Line 18, 19:01:20: wanted to start physical therapy right away, which
-Line 19, 19:01:20: did that week.
-Line 20, 19:01:20: 17 Q. Okay. - Did physical therapy help?
-Line 21, 19:01:20: A. No.
-Line 22, 19:01:20: 19 Q. Okay. After you got out of the hospital,
-Line 23, 19:01:20: when did you see your doctors next?
-Line 24, 19:01:20: 21 A. Tuesday.
-Line 25, 19:01:20: Corbin & Hook Reporting <L Videoconferencing
-Line 26, 19:01:20: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:36: Deposition of a
+Line 2, 19:20:36: Taken on June 26, 2006
+Line 3, 19:20:36: treating physician?
+Line 4, 19:20:36: 2 . GE ..: Qaey
+Line 5, 19:20:36: 3 Q. And who did you see for follow-up care?
+Line 6, 19:20:36: 4 A, 22:
+Line 7, 19:20:36: 5 Q. Okay. And when did you see them? Take me
+Line 8, 19:20:36: through basically when you saw them and the
+Line 9, 19:20:36: chronology of your --
+Line 10, 19:20:36: 8 A. They wanted to start physical therapy
+Line 11, 19:20:36: right away. I went up -- I had surgery that Friday.
+Line 12, 19:20:36: I was up in their office on Tuesday making future
+Line 13, 19:20:36: plans because they said that with this type of
+Line 14, 19:20:36: injury, they said the injury was very severe, some,
+Line 15, 19:20:36: worse than what they had, some orthopedic doctors
+Line 16, 19:20:36: have seen with sports medicine.
+Line 17, 19:20:36: They said they
+Line 18, 19:20:36: wanted to start physical therapy right away, which
+Line 19, 19:20:36: did that week.
+Line 20, 19:20:36: 17 Q. Okay. - Did physical therapy help?
+Line 21, 19:20:36: A. No.
+Line 22, 19:20:36: 19 Q. Okay. After you got out of the hospital,
+Line 23, 19:20:36: when did you see your doctors next?
+Line 24, 19:20:36: 21 A. Tuesday.
+Line 25, 19:20:36: Corbin & Hook Reporting <L Videoconferencing
+Line 26, 19:20:36: (410) 268-6006 1-866-337-6778
 --- End of Page 35 ---
 
 --- Beginning of Page 36 ---
-Line 1, 19:01:20: Deposition of
-Line 2, 19:01:20: Taken on June 26, 2006
-Line 3, 19:01:20: Tuesday after?
-Line 4, 19:01:20: A. Correct: «= elie”
-Line 5, 19:01:20: Q. And is that when they decided to start 1
-Line 6, 19:01:20: physical therapy? ie f fy
-Line 7, 19:01:20: A. Exactly, and I was in physical therapy
-Line 8, 19:01:20: that couple days after that. :
-Line 9, 19:01:20: Q. And when did you see the doctors next?
-Line 10, 19:01:20: A. I was seeing them like twice a week, like }
-Line 11, 19:01:20: once or twice.
-Line 12, 19:01:20: Q. When was the last time you saw your
-Line 13, 19:01:20: doctors? j
-Line 14, 19:01:20: A. February 6.
-Line 15, 19:01:20: Q. Of?
-Line 16, 19:01:20: A. And that's when I went to Qi |
-Line 17, 19:01:20: My doctor is no longer -- this ie and
-Line 18, 19:01:20: i» is no longer working under Johns Hopkins |
-Line 19, 19:01:20: anymore as of six week ago. :
-Line 20, 19:01:20: (Discussion off the record.)
-Line 21, 19:01:20: BY MR. MILES: :
-Line 22, 19:01:20: Q. QE was at Johns Hopkins Bayview? ;
-Line 23, 19:01:20: A. Correct.
-Line 24, 19:01:20: Corbin & Hook, Reporting L Videoconferencing
-Line 25, 19:01:20: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:36: Deposition of
+Line 2, 19:20:36: Taken on June 26, 2006
+Line 3, 19:20:36: Tuesday after?
+Line 4, 19:20:36: A. Correct: «= elie”
+Line 5, 19:20:36: Q. And is that when they decided to start 1
+Line 6, 19:20:36: physical therapy? ie f fy
+Line 7, 19:20:36: A. Exactly, and I was in physical therapy
+Line 8, 19:20:36: that couple days after that. :
+Line 9, 19:20:36: Q. And when did you see the doctors next?
+Line 10, 19:20:36: A. I was seeing them like twice a week, like }
+Line 11, 19:20:36: once or twice.
+Line 12, 19:20:36: Q. When was the last time you saw your
+Line 13, 19:20:36: doctors? j
+Line 14, 19:20:36: A. February 6.
+Line 15, 19:20:36: Q. Of?
+Line 16, 19:20:36: A. And that's when I went to Qi |
+Line 17, 19:20:36: My doctor is no longer -- this ie and
+Line 18, 19:20:36: i» is no longer working under Johns Hopkins |
+Line 19, 19:20:36: anymore as of six week ago. :
+Line 20, 19:20:36: (Discussion off the record.)
+Line 21, 19:20:36: BY MR. MILES: :
+Line 22, 19:20:36: Q. QE was at Johns Hopkins Bayview? ;
+Line 23, 19:20:36: A. Correct.
+Line 24, 19:20:36: Corbin & Hook, Reporting L Videoconferencing
+Line 25, 19:20:36: (410) 268-6006 1-866-337-6778
 --- End of Page 36 ---
 
 --- Beginning of Page 37 ---
-Line 1, 19:01:23: Deposition TD
-Line 2, 19:01:23: Taken on June 26, 2006
-Line 3, 19:01:23: Page 37
-Line 4, 19:01:23: And he followed your case until when?
-Line 5, 19:01:23: A. He followed it up until January.
-Line 6, 19:01:23: Q. Okay. So approximately when was the last [|
-Line 7, 19:01:23: time you saw him? |
-Line 8, 19:01:23: A. I'm not exactly sure. q
-Line 9, 19:01:23: Q. Okay. Sometime in January, did you see
-Line 10, 19:01:23: A. Probably, yes. :
-Line 11, 19:01:23: Q. Why did you --
-Line 12, 19:01:23: A. I'm just estimating, because I had went in
-Line 13, 19:01:23: for Qa, «GUERIN nad wanted me to see a
-Line 14, 19:01:23: all> who specializes in pain management so
-Line 15, 19:01:23: they could do some ganglion stellate blockages to :
-Line 16, 19:01:23: stop the nerve endings from the pain that they were |
-Line 17, 19:01:23: causing, and I had that done at Johns Hopkins on
-Line 18, 19:01:23: December 7th.
-Line 19, 19:01:23: Q. What did you have done at Johns Hopkins on
-Line 20, 19:01:23: December 7th? '
-Line 21, 19:01:23: A. It's called a stellate, S-T-E-L-L-A-G-E,
-Line 22, 19:01:23: ganglion, G-A-L-L-I-O-N, blockage. That's where
-Line 23, 19:01:23: they go in through the neck and they deaden the
-Line 24, 19:01:23: Corbin & Hook, Reporting L Videoconferencing
-Line 25, 19:01:23: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:40: Deposition TD
+Line 2, 19:20:40: Taken on June 26, 2006
+Line 3, 19:20:40: Page 37
+Line 4, 19:20:40: And he followed your case until when?
+Line 5, 19:20:40: A. He followed it up until January.
+Line 6, 19:20:40: Q. Okay. So approximately when was the last [|
+Line 7, 19:20:40: time you saw him? |
+Line 8, 19:20:40: A. I'm not exactly sure. q
+Line 9, 19:20:40: Q. Okay. Sometime in January, did you see
+Line 10, 19:20:40: A. Probably, yes. :
+Line 11, 19:20:40: Q. Why did you --
+Line 12, 19:20:40: A. I'm just estimating, because I had went in
+Line 13, 19:20:40: for Qa, «GUERIN nad wanted me to see a
+Line 14, 19:20:40: all> who specializes in pain management so
+Line 15, 19:20:40: they could do some ganglion stellate blockages to :
+Line 16, 19:20:40: stop the nerve endings from the pain that they were |
+Line 17, 19:20:40: causing, and I had that done at Johns Hopkins on
+Line 18, 19:20:40: December 7th.
+Line 19, 19:20:40: Q. What did you have done at Johns Hopkins on
+Line 20, 19:20:40: December 7th? '
+Line 21, 19:20:40: A. It's called a stellate, S-T-E-L-L-A-G-E,
+Line 22, 19:20:40: ganglion, G-A-L-L-I-O-N, blockage. That's where
+Line 23, 19:20:40: they go in through the neck and they deaden the
+Line 24, 19:20:40: Corbin & Hook, Reporting L Videoconferencing
+Line 25, 19:20:40: (410) 268-6006 1-866-337-6778
 --- End of Page 37 ---
 
 --- Beginning of Page 38 ---
-Line 1, 19:01:23: Deposition of re
-Line 2, 19:01:23: Taken on June 26, 2006
-Line 3, 19:01:23: Page 38
-Line 4, 19:01:23: nerves that go in through the arms underneath the
-Line 5, 19:01:23: chest.
-Line 6, 19:01:23: Q. And what's the purpose of that?
-Line 7, 19:01:23: A. It deadens the nerves, because what
-Line 8, 19:01:23: happens is when you have severe nerve damage, it's
-Line 9, 19:01:23: like electrical impulses going off. It's like
-Line 10, 19:01:23: taking a cord and fraying it and all the electrical ;
-Line 11, 19:01:23: impulses going all over the place. That's what
-Line 12, 19:01:23: causes the pain in the tissues, so what they do is :
-Line 13, 19:01:23: they block it off so it doesn't go down that far.
-Line 14, 19:01:23: It just leaves an even line. |
-Line 15, 19:01:23: Q. Do you have the records of that procedure? :
-Line 16, 19:01:23: MR. MILLER: I do not. :
-Line 17, 19:01:23: Q. Okay. So that was in December at Johns
-Line 18, 19:01:23: Hopkins?
-Line 19, 19:01:23: A. Correct. d
-Line 20, 19:01:23: Q. Last time you saw QE was in January?
-Line 21, 19:01:23: A. Yeah.
-Line 22, 19:01:23: Q. And just looking at your sheet here, Ron,
-Line 23, 19:01:23: it looks like the last you have would be October 3, |
-Line 24, 19:01:23: assuming the sheet's accurate?
-Line 25, 19:01:23: Corbin < Hook, Reporting  Videoconferencing
-Line 26, 19:01:23: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:40: Deposition of re
+Line 2, 19:20:40: Taken on June 26, 2006
+Line 3, 19:20:40: Page 38
+Line 4, 19:20:40: nerves that go in through the arms underneath the
+Line 5, 19:20:40: chest.
+Line 6, 19:20:40: Q. And what's the purpose of that?
+Line 7, 19:20:40: A. It deadens the nerves, because what
+Line 8, 19:20:40: happens is when you have severe nerve damage, it's
+Line 9, 19:20:40: like electrical impulses going off. It's like
+Line 10, 19:20:40: taking a cord and fraying it and all the electrical ;
+Line 11, 19:20:40: impulses going all over the place. That's what
+Line 12, 19:20:40: causes the pain in the tissues, so what they do is :
+Line 13, 19:20:40: they block it off so it doesn't go down that far.
+Line 14, 19:20:40: It just leaves an even line. |
+Line 15, 19:20:40: Q. Do you have the records of that procedure? :
+Line 16, 19:20:40: MR. MILLER: I do not. :
+Line 17, 19:20:40: Q. Okay. So that was in December at Johns
+Line 18, 19:20:40: Hopkins?
+Line 19, 19:20:40: A. Correct. d
+Line 20, 19:20:40: Q. Last time you saw QE was in January?
+Line 21, 19:20:40: A. Yeah.
+Line 22, 19:20:40: Q. And just looking at your sheet here, Ron,
+Line 23, 19:20:40: it looks like the last you have would be October 3, |
+Line 24, 19:20:40: assuming the sheet's accurate?
+Line 25, 19:20:40: Corbin < Hook, Reporting  Videoconferencing
+Line 26, 19:20:40: (410) 268-6006 1-866-337-6778
 --- End of Page 38 ---
 
 --- Beginning of Page 39 ---
-Line 1, 19:01:23: Deposition of
-Line 2, 19:01:23: Taken on June 26, 2006
-Line 3, 19:01:23: Page 39
-Line 4, 19:01:23: MR. MILLER: Right.
-Line 5, 19:01:23: Q. And then who did you -- why did you stop
-Line 6, 19:01:23: seeing as
-Line 7, 19:01:23: A. Because I didn't have any more money to --
-Line 8, 19:01:23: I kept paying for all the medical bills, and I'ma
-Line 9, 19:01:23: Single person. I can't afford to keep putting
-Line 10, 19:01:23: out -- it was costing me $30 to see him every time I
-Line 11, 19:01:23: seen him, and you know, my medical insurance will :
-Line 12, 19:01:23: only cover so much, and then after with physical
-Line 13, 19:01:23: therapy as well, my deductible, I had to pay my
-Line 14, 19:01:23: deductible in this, so every time I had to see him :
-Line 15, 19:01:23: thereafter, I couldn't afford it. They cut my hours
-Line 16, 19:01:23: back at work and everything because I was missing a f[
-Line 17, 19:01:23: lot of time. ]
-Line 18, 19:01:23: Q. So you stopped seeing En because
-Line 19, 19:01:23: you couldn't afford to see him?
-Line 20, 19:01:23: A. I couldn't afford to see him, correct.
-Line 21, 19:01:23: Q. Well, could you afford to see Qa
-Line 22, 19:01:23: A. No, I could not.
-Line 23, 19:01:23: Q. So I'm -- that doesn't seem to me to be
-Line 24, 19:01:23: why you switched from one doctor to another. You
-Line 25, 19:01:23: Corbin & Hook Reporting <£ Videoconferencing
-Line 26, 19:01:23: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:40: Deposition of
+Line 2, 19:20:40: Taken on June 26, 2006
+Line 3, 19:20:40: Page 39
+Line 4, 19:20:40: MR. MILLER: Right.
+Line 5, 19:20:40: Q. And then who did you -- why did you stop
+Line 6, 19:20:40: seeing as
+Line 7, 19:20:40: A. Because I didn't have any more money to --
+Line 8, 19:20:40: I kept paying for all the medical bills, and I'ma
+Line 9, 19:20:40: Single person. I can't afford to keep putting
+Line 10, 19:20:40: out -- it was costing me $30 to see him every time I
+Line 11, 19:20:40: seen him, and you know, my medical insurance will :
+Line 12, 19:20:40: only cover so much, and then after with physical
+Line 13, 19:20:40: therapy as well, my deductible, I had to pay my
+Line 14, 19:20:40: deductible in this, so every time I had to see him :
+Line 15, 19:20:40: thereafter, I couldn't afford it. They cut my hours
+Line 16, 19:20:40: back at work and everything because I was missing a f[
+Line 17, 19:20:40: lot of time. ]
+Line 18, 19:20:40: Q. So you stopped seeing En because
+Line 19, 19:20:40: you couldn't afford to see him?
+Line 20, 19:20:40: A. I couldn't afford to see him, correct.
+Line 21, 19:20:40: Q. Well, could you afford to see Qa
+Line 22, 19:20:40: A. No, I could not.
+Line 23, 19:20:40: Q. So I'm -- that doesn't seem to me to be
+Line 24, 19:20:40: why you switched from one doctor to another. You
+Line 25, 19:20:40: Corbin & Hook Reporting <£ Videoconferencing
+Line 26, 19:20:40: (410) 268-6006 1-866-337-6778
 --- End of Page 39 ---
 
 --- Beginning of Page 40 ---
-Line 1, 19:01:23: 10
-Line 2, 19:01:23: 11
-Line 3, 19:01:23: 12
-Line 4, 19:01:23: 13
-Line 5, 19:01:23: 14
-Line 6, 19:01:23: 15
-Line 7, 19:01:23: 16
-Line 8, 19:01:23: 17
-Line 9, 19:01:23: 18
-Line 10, 19:01:23: 19
-Line 11, 19:01:23: 20
-Line 12, 19:01:23: al
-Line 13, 19:01:23: Deposition of ID
-Line 14, 19:01:23: Taken on June 26, 2006
-Line 15, 19:01:23: needed to get treatment.
-Line 16, 19:01:23: A. That's when I had called Ron and told him
-Line 17, 19:01:23: I couldn't afford to see a doctor because of the
-Line 18, 19:01:23: fact of how much it was costing me, so he wanted me
-Line 19, 19:01:23: to sec QM sto see if we could work something
-Line 20, 19:01:23: out with them, and they work the same way. I would
-Line 21, 19:01:23: still have to pay the deductible.
-Line 22, 19:01:23: MR. MILLER: Right, which was sent there
-Line 23, 19:01:23: because she's not paying a co-pay there in the
-Line 24, 19:01:23: same way.
-Line 25, 19:01:23: A. Right.
-Line 26, 19:01:23: Q. So when did you start seeing ay
-Line 27, 19:01:23: A. February. That was it, and then I started
-Line 28, 19:01:23: a couple --
-Line 29, 19:01:23: Q. I'm sorry. Go ahead. Go ahead.
-Line 30, 19:01:23: A. Okay. And then a couple weeks ago, that's
-Line 31, 19:01:23: when I started with the pain in here, and that's
-Line 32, 19:01:23: when I called Johns Hopkins to talk to FP
-Line 33, 19:01:23: about making an appointment and they told me he was
-Line 34, 19:01:23: no longer there.
-Line 35, 19:01:23: Q. Okay. Have you seen QED since
-Line 36, 19:01:23: Corbin & Hook Reporting ef Videoconferencing
-Line 37, 19:01:23: (410) 268-6006 1-866-337-6778
-Line 38, 19:01:23: Page 40 |
+Line 1, 19:20:40: al
+Line 2, 19:20:40: Deposition of ID
+Line 3, 19:20:40: Taken on June 26, 2006
+Line 4, 19:20:40: needed to get treatment.
+Line 5, 19:20:40: A. That's when I had called Ron and told him
+Line 6, 19:20:40: I couldn't afford to see a doctor because of the
+Line 7, 19:20:40: fact of how much it was costing me, so he wanted me
+Line 8, 19:20:40: to sec QM sto see if we could work something
+Line 9, 19:20:40: out with them, and they work the same way. I would
+Line 10, 19:20:40: still have to pay the deductible.
+Line 11, 19:20:40: MR. MILLER: Right, which was sent there
+Line 12, 19:20:40: because she's not paying a co-pay there in the
+Line 13, 19:20:40: same way.
+Line 14, 19:20:40: A. Right.
+Line 15, 19:20:40: Q. So when did you start seeing ay
+Line 16, 19:20:40: A. February. That was it, and then I started
+Line 17, 19:20:40: a couple --
+Line 18, 19:20:40: Q. I'm sorry. Go ahead. Go ahead.
+Line 19, 19:20:40: A. Okay. And then a couple weeks ago, that's
+Line 20, 19:20:40: when I started with the pain in here, and that's
+Line 21, 19:20:40: when I called Johns Hopkins to talk to FP
+Line 22, 19:20:40: about making an appointment and they told me he was
+Line 23, 19:20:40: no longer there.
+Line 24, 19:20:40: Q. Okay. Have you seen QED since
+Line 25, 19:20:40: Corbin & Hook Reporting ef Videoconferencing
+Line 26, 19:20:40: (410) 268-6006 1-866-337-6778
+Line 27, 19:20:40: Page 40 |
 --- End of Page 40 ---
 
 --- Beginning of Page 41 ---
-Line 1, 19:01:27: Deposition of
-Line 2, 19:01:27: Taken on June 26, 2006
-Line 3, 19:01:27: February 6, 2006?
-Line 4, 19:01:27: A. No, sir.
-Line 5, 19:01:27: Q. Okay. Have you seen any doctor since
-Line 6, 19:01:27: February 6, 2006?
-Line 7, 19:01:27: A. No, sir.
-Line 8, 19:01:27: Q. Have you gotten any physical therapy since
-Line 9, 19:01:27: February 6, 2006? :
-Line 10, 19:01:27: A. No, sir.
-Line 11, 19:01:27: Do you plan on seeing another doctor?
-Line 12, 19:01:27: A. I would like to, yes. I had made an
-Line 13, 19:01:27: appointment. I did talk to the referring rep who
-Line 14, 19:01:27: did take over QBs office, which is a
-Line 15, 19:01:27: Qe, 20: 2 cis naxe
-Line 16, 19:01:27: references in there about seeing her, but then I'd
-Line 17, 19:01:27: have to start on all over, so they told me to wait
-Line 18, 19:01:27: until sometime the end of this month, and the
-Line 19, 19:01:27: receptionist there at Johns Hopkins will get me to
-Line 20, 19:01:27: find out where Ce has gone, because I really
-Line 21, 19:01:27: didn't want to have to start over with doctors
-Line 22, 19:01:27: again. 3
-Line 23, 19:01:27: (Discussion off the record.) :
-Line 24, 19:01:27: Corbin & Hook, Reporting L Videoconferencing
-Line 25, 19:01:27: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:44: Deposition of
+Line 2, 19:20:44: Taken on June 26, 2006
+Line 3, 19:20:44: February 6, 2006?
+Line 4, 19:20:44: A. No, sir.
+Line 5, 19:20:44: Q. Okay. Have you seen any doctor since
+Line 6, 19:20:44: February 6, 2006?
+Line 7, 19:20:44: A. No, sir.
+Line 8, 19:20:44: Q. Have you gotten any physical therapy since
+Line 9, 19:20:44: February 6, 2006? :
+Line 10, 19:20:44: A. No, sir.
+Line 11, 19:20:44: Do you plan on seeing another doctor?
+Line 12, 19:20:44: A. I would like to, yes. I had made an
+Line 13, 19:20:44: appointment. I did talk to the referring rep who
+Line 14, 19:20:44: did take over QBs office, which is a
+Line 15, 19:20:44: Qe, 20: 2 cis naxe
+Line 16, 19:20:44: references in there about seeing her, but then I'd
+Line 17, 19:20:44: have to start on all over, so they told me to wait
+Line 18, 19:20:44: until sometime the end of this month, and the
+Line 19, 19:20:44: receptionist there at Johns Hopkins will get me to
+Line 20, 19:20:44: find out where Ce has gone, because I really
+Line 21, 19:20:44: didn't want to have to start over with doctors
+Line 22, 19:20:44: again. 3
+Line 23, 19:20:44: (Discussion off the record.) :
+Line 24, 19:20:44: Corbin & Hook, Reporting L Videoconferencing
+Line 25, 19:20:44: (410) 268-6006 1-866-337-6778
 --- End of Page 41 ---
 
 --- Beginning of Page 42 ---
-Line 1, 19:01:27: Deposition of CINE
-Line 2, 19:01:27: Taken on June 26, 2006
-Line 3, 19:01:27: BY MR. MILES: ;
-Line 4, 19:01:27: Q. Why have you not seen a doctor since
-Line 5, 19:01:27: February 6, 2006?
-Line 6, 19:01:27: A. Because I haven't had the money. I'ma
-Line 7, 19:01:27: Single person. I live by myself. I have nobody to
-Line 8, 19:01:27: fall back on and nobody to pay the $30 every time I
-Line 9, 19:01:27: have to see the doctor and the pharmaceuticals. I :
-Line 10, 19:01:27: have one prescription for Neurontin that's over $140
-Line 11, 19:01:27: that I can't, I can't fill.
-Line 12, 19:01:27: Q. What do you take that for? ;
-Line 13, 19:01:27: A. That's supposed to be for the pain, to E
-Line 14, 19:01:27: relieve the pain.
-Line 15, 19:01:27: Q. How's your wrist doing now? i
-Line 16, 19:01:27: A. In a lot of pain.
-Line 17, 19:01:27: Q. Okay. Tell me about what problems you j
-Line 18, 19:01:27: have with your wrist now.
-Line 19, 19:01:27: A. What problems? Other than I can't grab
-Line 20, 19:01:27: anything. I can't lift anything. I need somebody
-Line 21, 19:01:27: to help me put my clothes on. I can't even get a
-Line 22, 19:01:27: pair of nylons on. It's been a total nightmare
-Line 23, 19:01:27: since this has happened.
-Line 24, 19:01:27: Corbin & Hook, Reporting L Videoconferencing
-Line 25, 19:01:27: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:44: Deposition of CINE
+Line 2, 19:20:44: Taken on June 26, 2006
+Line 3, 19:20:44: BY MR. MILES: ;
+Line 4, 19:20:44: Q. Why have you not seen a doctor since
+Line 5, 19:20:44: February 6, 2006?
+Line 6, 19:20:44: A. Because I haven't had the money. I'ma
+Line 7, 19:20:44: Single person. I live by myself. I have nobody to
+Line 8, 19:20:44: fall back on and nobody to pay the $30 every time I
+Line 9, 19:20:44: have to see the doctor and the pharmaceuticals. I :
+Line 10, 19:20:44: have one prescription for Neurontin that's over $140
+Line 11, 19:20:44: that I can't, I can't fill.
+Line 12, 19:20:44: Q. What do you take that for? ;
+Line 13, 19:20:44: A. That's supposed to be for the pain, to E
+Line 14, 19:20:44: relieve the pain.
+Line 15, 19:20:44: Q. How's your wrist doing now? i
+Line 16, 19:20:44: A. In a lot of pain.
+Line 17, 19:20:44: Q. Okay. Tell me about what problems you j
+Line 18, 19:20:44: have with your wrist now.
+Line 19, 19:20:44: A. What problems? Other than I can't grab
+Line 20, 19:20:44: anything. I can't lift anything. I need somebody
+Line 21, 19:20:44: to help me put my clothes on. I can't even get a
+Line 22, 19:20:44: pair of nylons on. It's been a total nightmare
+Line 23, 19:20:44: since this has happened.
+Line 24, 19:20:44: Corbin & Hook, Reporting L Videoconferencing
+Line 25, 19:20:44: (410) 268-6006 1-866-337-6778
 --- End of Page 42 ---
 
 --- Beginning of Page 43 ---
-Line 1, 19:01:27: Deposition of |
-Line 2, 19:01:27: Taken on June 26, 2006
-Line 3, 19:01:27: Page 43 |
-Line 4, 19:01:27: Q. How do you do that as a single person? :
-Line 5, 19:01:27: A. It's hard. It's hard. My father made me
-Line 6, 19:01:27: this little rack that's about this long that's gota
-Line 7, 19:01:27: board on it. It's got a little clip on the end of
-Line 8, 19:01:27: it so I can pull things up. I can't wear anything
-Line 9, 19:01:27: that's not zippered, buttoned. I can't wear
-Line 10, 19:01:27: anything that's got, you know, that's got ties to it
-Line 11, 19:01:27: because I can't tie anything.
-Line 12, 19:01:27: Q. Okay. Are you righthanded or lefthanded?
-Line 13, 19:01:27: A. I'm lefthanded.
-Line 14, 19:01:27: Lefthanded?
-Line 15, 19:01:27: Which has been pretty much real fun. Yes.
-Line 16, 19:01:27: Q. Have you been able to work?
-Line 17, 19:01:27: A. Yeah. I have no choice. I don't have
-Line 18, 19:01:27: short-term disability. I don't have long-term
-Line 19, 19:01:27: disability, you know, and I'm a single person, and I
-Line 20, 19:01:27: can't -- you know, between an apartment and rising
-Line 21, 19:01:27: cost of living, I can't afford it. Medical
-Line 22, 19:01:27: insurance? I can't afford, you know, and this is
-Line 23, 19:01:27: what I told, you know, Ron, who tried to help me
-Line 24, 19:01:27: with this. I can't afford to put out $40 fora
-Line 25, 19:01:27: Corbin Hook, Reporting s[ Videoconferencing
-Line 26, 19:01:27: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:44: Deposition of |
+Line 2, 19:20:44: Taken on June 26, 2006
+Line 3, 19:20:44: Page 43 |
+Line 4, 19:20:44: Q. How do you do that as a single person? :
+Line 5, 19:20:44: A. It's hard. It's hard. My father made me
+Line 6, 19:20:44: this little rack that's about this long that's gota
+Line 7, 19:20:44: board on it. It's got a little clip on the end of
+Line 8, 19:20:44: it so I can pull things up. I can't wear anything
+Line 9, 19:20:44: that's not zippered, buttoned. I can't wear
+Line 10, 19:20:44: anything that's got, you know, that's got ties to it
+Line 11, 19:20:44: because I can't tie anything.
+Line 12, 19:20:44: Q. Okay. Are you righthanded or lefthanded?
+Line 13, 19:20:44: A. I'm lefthanded.
+Line 14, 19:20:44: Lefthanded?
+Line 15, 19:20:44: Which has been pretty much real fun. Yes.
+Line 16, 19:20:44: Q. Have you been able to work?
+Line 17, 19:20:44: A. Yeah. I have no choice. I don't have
+Line 18, 19:20:44: short-term disability. I don't have long-term
+Line 19, 19:20:44: disability, you know, and I'm a single person, and I
+Line 20, 19:20:44: can't -- you know, between an apartment and rising
+Line 21, 19:20:44: cost of living, I can't afford it. Medical
+Line 22, 19:20:44: insurance? I can't afford, you know, and this is
+Line 23, 19:20:44: what I told, you know, Ron, who tried to help me
+Line 24, 19:20:44: with this. I can't afford to put out $40 fora
+Line 25, 19:20:44: Corbin Hook, Reporting s[ Videoconferencing
+Line 26, 19:20:44: (410) 268-6006 1-866-337-6778
 --- End of Page 43 ---
 
 --- Beginning of Page 44 ---
-Line 1, 19:01:27: Deposition of
-Line 2, 19:01:27: Taken on June 26, 2006
-Line 3, 19:01:27: Page 44
-Line 4, 19:01:27: physical therapy, you know, twice a week and $30 to
-Line 5, 19:01:27: and
-Line 6, 19:01:27: see a doctor every week. That starts to add up,
-Line 7, 19:01:27: 3 I can't afford it. I mean, this accident has put me
-Line 8, 19:01:27: in a hole big time. I almost got evicted because
-Line 9, 19:01:27: 5 because I had to put out for my own stuff, and I
-Line 10, 19:01:27: have nobody to fall back on.
-Line 11, 19:01:27: 7 Q. Okay. Tell me about your hand. How often
-Line 12, 19:01:27: does it cause you pain?
-Line 13, 19:01:27: 9 A. A lot. At nighttime, a full night's sleep
-Line 14, 19:01:27: is impossible. You know, I can't leave it down.
-Line 15, 19:01:27: It's got to constantly be up over my head when I'm
-Line 16, 19:01:27: laying flat. Constant pain. It's just, it, you
-Line 17, 19:01:27: know, I sit there at work. I can't take medication
-Line 18, 19:01:27: 14 for it. I can't take anything because it'll knock
-Line 19, 19:01:27: 15 me out. I can't take anything for pain because it
-Line 20, 19:01:27: knocks me out.
-Line 21, 19:01:27: 17 Q. Okay. Are there any other things that you
-Line 22, 19:01:27: can't do because of your injury to your left wrist
-Line 23, 19:01:27: other than what you've told me about so far?
-Line 24, 19:01:27: 20 A. Yeah, grocery shopping. Do you know how
-Line 25, 19:01:27: hard it is to go grocery shopping with one hand?
-Line 26, 19:01:27: Corbin ef Hook Reporting <[ Videoconferencing
-Line 27, 19:01:27: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:44: Deposition of
+Line 2, 19:20:44: Taken on June 26, 2006
+Line 3, 19:20:44: Page 44
+Line 4, 19:20:44: physical therapy, you know, twice a week and $30 to
+Line 5, 19:20:44: and
+Line 6, 19:20:44: see a doctor every week. That starts to add up,
+Line 7, 19:20:44: 3 I can't afford it. I mean, this accident has put me
+Line 8, 19:20:44: in a hole big time. I almost got evicted because
+Line 9, 19:20:44: 5 because I had to put out for my own stuff, and I
+Line 10, 19:20:44: have nobody to fall back on.
+Line 11, 19:20:44: 7 Q. Okay. Tell me about your hand. How often
+Line 12, 19:20:44: does it cause you pain?
+Line 13, 19:20:44: 9 A. A lot. At nighttime, a full night's sleep
+Line 14, 19:20:44: is impossible. You know, I can't leave it down.
+Line 15, 19:20:44: It's got to constantly be up over my head when I'm
+Line 16, 19:20:44: laying flat. Constant pain. It's just, it, you
+Line 17, 19:20:44: know, I sit there at work. I can't take medication
+Line 18, 19:20:44: 14 for it. I can't take anything because it'll knock
+Line 19, 19:20:44: 15 me out. I can't take anything for pain because it
+Line 20, 19:20:44: knocks me out.
+Line 21, 19:20:44: 17 Q. Okay. Are there any other things that you
+Line 22, 19:20:44: can't do because of your injury to your left wrist
+Line 23, 19:20:44: other than what you've told me about so far?
+Line 24, 19:20:44: 20 A. Yeah, grocery shopping. Do you know how
+Line 25, 19:20:44: hard it is to go grocery shopping with one hand?
+Line 26, 19:20:44: Corbin ef Hook Reporting <[ Videoconferencing
+Line 27, 19:20:44: (410) 268-6006 1-866-337-6778
 --- End of Page 44 ---
 
 --- Beginning of Page 45 ---
-Line 1, 19:01:31: Deposition of
-Line 2, 19:01:31: Taken on June 26, 2006
-Line 3, 19:01:31: Page 45 |
-Line 4, 19:01:31: You know, picking up my nephews. You know, I used
-Line 5, 19:01:31: to play paintball with them. I can't even do that.
-Line 6, 19:01:31: I have an RV. I have a ATV, a four wheeler I can't
-Line 7, 19:01:31: even ride because I have no, I have no control to
-Line 8, 19:01:31: hold anything. As simple as a bicycle. Same thing.
-Line 9, 19:01:31: I can't even ride a bicycle. I mean, this, this --
-Line 10, 19:01:31: I just wish this had never happened.
-Line 11, 19:01:31: Q. Are you able to pick up anything or hold
-Line 12, 19:01:31: i
-Line 13, 19:01:31: i
-Line 14, 19:01:31: FE?
-Line 15, 19:01:31: Hi
-Line 16, 19:01:31: i
-Line 17, 19:01:31: ii
-Line 18, 19:01:31: anything with your left hand? :
-Line 19, 19:01:31: A. Not at all. Not at all. IT can't even
-Line 20, 19:01:31: pick myself up. Simple as laying on a bed and
-Line 21, 19:01:31: rolling over.
-Line 22, 19:01:31: MR. MILLER: You all right, aa You're
-Line 23, 19:01:31: doing fine. You're doing fine. ]
-Line 24, 19:01:31: Q. What do you do at work?
-Line 25, 19:01:31: A. I'm on a type -- I'm on a keyboard all day
-Line 26, 19:01:31: long taking orders for customers. i
-Line 27, 19:01:31: Q. And how do you do that with --
-Line 28, 19:01:31: A. It's not easy. I don't do it. I have to |
-Line 29, 19:01:31: Saas
-Line 30, 19:01:31: do this, so everything has to revolve around this
-Line 31, 19:01:31: hand.
-Line 32, 19:01:31: Corbin & Hook, Reporting <[ Videoconferencing
-Line 33, 19:01:31: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:48: Deposition of
+Line 2, 19:20:48: Taken on June 26, 2006
+Line 3, 19:20:48: Page 45 |
+Line 4, 19:20:48: You know, picking up my nephews. You know, I used
+Line 5, 19:20:48: to play paintball with them. I can't even do that.
+Line 6, 19:20:48: I have an RV. I have a ATV, a four wheeler I can't
+Line 7, 19:20:48: even ride because I have no, I have no control to
+Line 8, 19:20:48: hold anything. As simple as a bicycle. Same thing.
+Line 9, 19:20:48: I can't even ride a bicycle. I mean, this, this --
+Line 10, 19:20:48: I just wish this had never happened.
+Line 11, 19:20:48: Q. Are you able to pick up anything or hold
+Line 12, 19:20:48: i
+Line 13, 19:20:48: i
+Line 14, 19:20:48: FE?
+Line 15, 19:20:48: Hi
+Line 16, 19:20:48: i
+Line 17, 19:20:48: ii
+Line 18, 19:20:48: anything with your left hand? :
+Line 19, 19:20:48: A. Not at all. Not at all. IT can't even
+Line 20, 19:20:48: pick myself up. Simple as laying on a bed and
+Line 21, 19:20:48: rolling over.
+Line 22, 19:20:48: MR. MILLER: You all right, aa You're
+Line 23, 19:20:48: doing fine. You're doing fine. ]
+Line 24, 19:20:48: Q. What do you do at work?
+Line 25, 19:20:48: A. I'm on a type -- I'm on a keyboard all day
+Line 26, 19:20:48: long taking orders for customers. i
+Line 27, 19:20:48: Q. And how do you do that with --
+Line 28, 19:20:48: A. It's not easy. I don't do it. I have to |
+Line 29, 19:20:48: Saas
+Line 30, 19:20:48: do this, so everything has to revolve around this
+Line 31, 19:20:48: hand.
+Line 32, 19:20:48: Corbin & Hook, Reporting <[ Videoconferencing
+Line 33, 19:20:48: (410) 268-6006 1-866-337-6778
 --- End of Page 45 ---
 
 --- Beginning of Page 46 ---
-Line 1, 19:01:31: Deposition o
-Line 2, 19:01:31: Taken on June 26, 2006
-Line 3, 19:01:31: Page 46 |
-Line 4, 19:01:31: Q. Okay. So if I understand right, it's
-Line 5, 19:01:31: hard, but you have been able to resume working your
-Line 6, 19:01:31: regular schedule?
-Line 7, 19:01:31: A. Yeah. I have to. I have no choice. FP
-Line 8, 19:01:31: Q. Okay. I understand. And it looks like
-Line 9, 19:01:31: you lost wages of from August 7th to October 23,
-Line 10, 19:01:31: 114.5 hours?
-Line 11, 19:01:31: A. Yeah. That was mostly through physical
-Line 12, 19:01:31: therapy and stuff, because I only took four days off
-Line 13, 19:01:31: from the accident. TI had to be back, I was back at |
-Line 14, 19:01:31: work the following week after the surgery because
-Line 15, 19:01:31: like I said, I have no long-term disability. I
-Line 16, 19:01:31: exhausted all my, my time. I've been there 11
-Line 17, 19:01:31: years, and I get three weeks vacation. I exhausted
-Line 18, 19:01:31: all my, my two weeks vacation and my five personal
-Line 19, 19:01:31: days. :
-Line 20, 19:01:31: Q. Okay. So if the accident happened on a
-Line 21, 19:01:31: Friday, when did you return to work?
-Line 22, 19:01:31: A. The following Monday. /
-Line 23, 19:01:31: Q. You mean you took off the week after -- :
-Line 24, 19:01:31: A. The week after, yes.
-Line 25, 19:01:31: Corbin & Hook, Reporting L Videoconferencing
-Line 26, 19:01:31: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:48: Deposition o
+Line 2, 19:20:48: Taken on June 26, 2006
+Line 3, 19:20:48: Page 46 |
+Line 4, 19:20:48: Q. Okay. So if I understand right, it's
+Line 5, 19:20:48: hard, but you have been able to resume working your
+Line 6, 19:20:48: regular schedule?
+Line 7, 19:20:48: A. Yeah. I have to. I have no choice. FP
+Line 8, 19:20:48: Q. Okay. I understand. And it looks like
+Line 9, 19:20:48: you lost wages of from August 7th to October 23,
+Line 10, 19:20:48: 114.5 hours?
+Line 11, 19:20:48: A. Yeah. That was mostly through physical
+Line 12, 19:20:48: therapy and stuff, because I only took four days off
+Line 13, 19:20:48: from the accident. TI had to be back, I was back at |
+Line 14, 19:20:48: work the following week after the surgery because
+Line 15, 19:20:48: like I said, I have no long-term disability. I
+Line 16, 19:20:48: exhausted all my, my time. I've been there 11
+Line 17, 19:20:48: years, and I get three weeks vacation. I exhausted
+Line 18, 19:20:48: all my, my two weeks vacation and my five personal
+Line 19, 19:20:48: days. :
+Line 20, 19:20:48: Q. Okay. So if the accident happened on a
+Line 21, 19:20:48: Friday, when did you return to work?
+Line 22, 19:20:48: A. The following Monday. /
+Line 23, 19:20:48: Q. You mean you took off the week after -- :
+Line 24, 19:20:48: A. The week after, yes.
+Line 25, 19:20:48: Corbin & Hook, Reporting L Videoconferencing
+Line 26, 19:20:48: (410) 268-6006 1-866-337-6778
 --- End of Page 46 ---
 
 --- Beginning of Page 47 ---
-Line 1, 19:01:31: Deposition of
-Line 2, 19:01:31: Taken on June 26, 2006
-Line 3, 19:01:31: Page 47 |
-Line 4, 19:01:31: Q. So like ten days after the accident would
-Line 5, 19:01:31: have been when you returned?
-Line 6, 19:01:31: A. Yep.
-Line 7, 19:01:31: Q. Okay. And then the other hours are
-Line 8, 19:01:31: Physical therapy.
-Line 9, 19:01:31: Mostly for physical therapy --
-Line 10, 19:01:31: Yep.
-Line 11, 19:01:31: Q. -- and doctor's appointments?
-Line 12, 19:01:31: A. Yes, because my doctor would only take me,
-Line 13, 19:01:31: last visit's one o'clock, so from one o'clock, he
-Line 14, 19:01:31: would -- I would be there like two or three hours.
-Line 15, 19:01:31: Our business closes at five, so I lose a half a day
-Line 16, 19:01:31: of work.
-Line 17, 19:01:31: Q. Okay. In this packet, do we have a
-Line 18, 19:01:31: statement from the employer or anything about what
-Line 19, 19:01:31: days she missed or anything like that?
-Line 20, 19:01:31: A. There should be, yes, because that's what
-Line 21, 19:01:31: you got from my -- there was copies on my payroll.
-Line 22, 19:01:31: (Discussion off the record.)
-Line 23, 19:01:31: MR. MILES: I think that's all the
-Line 24, 19:01:31: questions I have for today, and I don't know if
-Line 25, 19:01:31: Corbin & Hook, Reporting eL Videoconferencing
-Line 26, 19:01:31: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:48: Deposition of
+Line 2, 19:20:48: Taken on June 26, 2006
+Line 3, 19:20:48: Page 47 |
+Line 4, 19:20:48: Q. So like ten days after the accident would
+Line 5, 19:20:48: have been when you returned?
+Line 6, 19:20:48: A. Yep.
+Line 7, 19:20:48: Q. Okay. And then the other hours are
+Line 8, 19:20:48: Physical therapy.
+Line 9, 19:20:48: Mostly for physical therapy --
+Line 10, 19:20:48: Yep.
+Line 11, 19:20:48: Q. -- and doctor's appointments?
+Line 12, 19:20:48: A. Yes, because my doctor would only take me,
+Line 13, 19:20:48: last visit's one o'clock, so from one o'clock, he
+Line 14, 19:20:48: would -- I would be there like two or three hours.
+Line 15, 19:20:48: Our business closes at five, so I lose a half a day
+Line 16, 19:20:48: of work.
+Line 17, 19:20:48: Q. Okay. In this packet, do we have a
+Line 18, 19:20:48: statement from the employer or anything about what
+Line 19, 19:20:48: days she missed or anything like that?
+Line 20, 19:20:48: A. There should be, yes, because that's what
+Line 21, 19:20:48: you got from my -- there was copies on my payroll.
+Line 22, 19:20:48: (Discussion off the record.)
+Line 23, 19:20:48: MR. MILES: I think that's all the
+Line 24, 19:20:48: questions I have for today, and I don't know if
+Line 25, 19:20:48: Corbin & Hook, Reporting eL Videoconferencing
+Line 26, 19:20:48: (410) 268-6006 1-866-337-6778
 --- End of Page 47 ---
 
 --- Beginning of Page 48 ---
-Line 1, 19:01:31: Deposition of (ape
-Line 2, 19:01:31: Taken on June 26, 2006
-Line 3, 19:01:31: I anticipate having anymore or not. Once :
-Line 4, 19:01:31: get all the medicals, I think they'll be :
-Line 5, 19:01:31: relatively self-explanatory, but that'll be all
-Line 6, 19:01:31: the questions I have for you today.
-Line 7, 19:01:31: MR. MILLER: Okay. And just for the
-Line 8, 19:01:31: record, we produced today documents we Bates
-Line 9, 19:01:31: stamped 1 through 89, which seems to be up |
-Line 10, 19:01:31: through the “QT visit in February, but as i
-Line 11, 19:01:31: has been noted over the course of the
-Line 12, 19:01:31: deposition may have omitted some records that
-Line 13, 19:01:31: we don't have yet.
-Line 14, 19:01:31: MR. MILES: And you'll give me copy of the
-Line 15, 19:01:31: lost wage statement faxed to me or something
-Line 16, 19:01:31: sometime. |
-Line 17, 19:01:31: MR. MILLER: Yes. |
-Line 18, 19:01:31: THE WITNESS: It should be in there ;
-Line 19, 19:01:31: because she made -- :
-Line 20, 19:01:31: MR. MILLER: I think we can conclude, i
-Line 21, 19:01:31: Gary. We can go off the record, correct?
-Line 22, 19:01:31: MR. MILES: Sure.
-Line 23, 19:01:31: (The deposition concluded at 2:40 p.m.)
-Line 24, 19:01:31: Corbin Hook Reporting sf Videoconferencing
-Line 25, 19:01:31: (410) 268-6006 1-866-337-6778
+Line 1, 19:20:48: Deposition of (ape
+Line 2, 19:20:48: Taken on June 26, 2006
+Line 3, 19:20:48: I anticipate having anymore or not. Once :
+Line 4, 19:20:48: get all the medicals, I think they'll be :
+Line 5, 19:20:48: relatively self-explanatory, but that'll be all
+Line 6, 19:20:48: the questions I have for you today.
+Line 7, 19:20:48: MR. MILLER: Okay. And just for the
+Line 8, 19:20:48: record, we produced today documents we Bates
+Line 9, 19:20:48: stamped 1 through 89, which seems to be up |
+Line 10, 19:20:48: through the “QT visit in February, but as i
+Line 11, 19:20:48: has been noted over the course of the
+Line 12, 19:20:48: deposition may have omitted some records that
+Line 13, 19:20:48: we don't have yet.
+Line 14, 19:20:48: MR. MILES: And you'll give me copy of the
+Line 15, 19:20:48: lost wage statement faxed to me or something
+Line 16, 19:20:48: sometime. |
+Line 17, 19:20:48: MR. MILLER: Yes. |
+Line 18, 19:20:48: THE WITNESS: It should be in there ;
+Line 19, 19:20:48: because she made -- :
+Line 20, 19:20:48: MR. MILLER: I think we can conclude, i
+Line 21, 19:20:48: Gary. We can go off the record, correct?
+Line 22, 19:20:48: MR. MILES: Sure.
+Line 23, 19:20:48: (The deposition concluded at 2:40 p.m.)
+Line 24, 19:20:48: Corbin Hook Reporting sf Videoconferencing
+Line 25, 19:20:48: (410) 268-6006 1-866-337-6778
 --- End of Page 48 ---
 
