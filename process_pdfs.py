@@ -160,6 +160,6 @@ def process_pdf_files(input_folder):
 
 if __name__ == '__main__':
     
-    pdf_source_folder = "test_depositions"     
+    pdf_source_folder = "sample_source"     
 
     process_pdf_files(pdf_source_folder)
